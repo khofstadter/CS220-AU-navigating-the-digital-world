@@ -27,7 +27,9 @@ CS220 Navigating the Digital World
  - check your changes in your GitHub account (with an internet browser)
 
 ### Thoughts
-- you can edit your files in 
+You can edit your files in both, you GitHub account via a browser or in VSC on your computer. The  main advantages of using VSC are that
+ - you can use VSC's extensions e.g. *Spell Right* (although in your own browser you could install browser extensions/plugins for this as well) or *Foam* that helps you organse your thoughts in a more creative, systematic way and 
+ - VSC's editor itself provides further clarity.  
 
 ## Foam 
 https://foambubble.github.io/foam/
