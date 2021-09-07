@@ -11,7 +11,6 @@ CS220 Navigating the Digital World
 4. Create a public repository 
   - will be used for your public logbook (log) and public static website (GitHub Pages) 
   - when creating it add the `readme.md` file
-5. 
 
 ## Visual Studio Code (VSC)
 1. Install/launch the Visual Studio Code software on your computer
@@ -26,6 +25,9 @@ CS220 Navigating the Digital World
 3. Sync your GitHub account to VSC
 4. Make some changes to your `readme.md` file in VSC and commit to GitHub
  - check your changes in your GitHub account (with an internet browser)
+
+### Thoughts
+- you can edit your files in 
 
 ## Foam 
 https://foambubble.github.io/foam/
