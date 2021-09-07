@@ -1,7 +1,17 @@
 # CS220
 CS220 Navigating the Digital World
 
-## GitHub 
+## Module Outline
+### Goal
+- to introduce tools/methods for efficient project management including logging, writing, audio-visual production, web-desing and web-hosting
+- primarily practical with some theory
+
+### Outcome
+- 
+
+
+## Tools 
+### GitHub 
 1. Sign up to GitHub
  - you will need an email account (perhaps use your student email address)
 2. Find my CS220 repository (https://github.com/krisztian-hofstadter-tedor/CS220) and watch it (all activity)
@@ -12,7 +22,7 @@ CS220 Navigating the Digital World
   - will be used for your public logbook (log) and public static website (GitHub Pages) 
   - when creating it add the `readme.md` file
 
-## Visual Studio Code (VSC)
+### Visual Studio Code (VSC)
 1. Install/launch the Visual Studio Code software on your computer
 2. Make sure all of the following extensions are installed (some might need you to restart VSC or sometimes enabling when using a new folder/workstation e.g. when a GitHub repo is synced) :
   - Foam for VSCode (Wikilinks to Markdown)
@@ -31,5 +41,16 @@ You can edit your files in both, you GitHub account via a browser or in VSC on y
  - you can use VSC's extensions e.g. *Spell Right* (although in your own browser you could install browser extensions/plugins for this as well) or *Foam* that helps you organse your thoughts in a more creative, systematic way and 
  - VSC's editor itself provides further clarity.  
 
-## Foam 
+### Foam 
 https://foambubble.github.io/foam/
+
+
+## Sensemaking
+### Methods
+#### Rule Omega
+- how to have a dialogue towards coherence
+- (explicit language!) https://youtu.be/a-es9_IMXLY?t=1977 (~7 minutes between 32:58 - 42:20 - after jazz)
+- question of vulnarability/trust/mental wellbeing/safe place/open-source vs copyright
+#### Meditation
+#### Breathwork
+#### Circling 
