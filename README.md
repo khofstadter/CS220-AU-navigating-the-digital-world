@@ -1,5 +1,4 @@
-# CS220
-CS220 Navigating the Digital World
+# CS220 Navigating the Digital World
 
 ## Module Outline
 ### Goal
