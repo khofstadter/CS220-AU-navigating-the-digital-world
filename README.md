@@ -23,7 +23,9 @@ CS220 Navigating the Digital World
   - Markdown Notes
   - Markdown PDF
   - Spell Right
-3. Sync your GitHub account to VSC 
+3. Sync your GitHub account to VSC
+4. Make some changes to your `readme.md` file in VSC and commit to GitHub
+ - check your changes in your GitHub account (with an internet browser)
 
 ## Foam 
 https://foambubble.github.io/foam/
