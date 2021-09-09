@@ -14,8 +14,8 @@
 1. Install/launch the Visual Studio Code software on your computer
 2. Make sure all of the following extensions are installed (some might need you to restart VSC or sometimes enabling when using a new folder/workstation e.g. when a GitHub repo is synced) :
   - Foam for VSCode (Wikilinks to Markdown)
-  - Github Repositories
-  - Markdown All in One
+  - GitHub Repositories
+  - Markdown All in One (does not work with GitHub Repositories extension i.e. does not support virtual workstation)
   - Markdown Links
   - Markdown Notes
   - Markdown PDF
@@ -23,17 +23,22 @@
 3. Sync your GitHub account to VSC
 4. Make some changes to your `readme.md` file in VSC and commit to GitHub
  - check your changes in your GitHub account (with an internet browser)
-
+<!-- TODO: do we need another markdown extension instead of Markdown All in One when working in virtual workstation? probably not if the main function we use this for is shortcuts e.g. bold, italics-->
+  
 ## Thoughts
 You can edit your files in both, you GitHub account via a browser or in VSC on your computer. The main advantages of using VSC are that
- - you can use VSC's extensions e.g. Spell Right (although in your own browser you could install browser extensions/plugins for this as well) or Foam that helps you organse your thoughts in a more creative, systematic way and 
+ - you can use VSC's extensions e.g. Spell Right (although in your own browser you could install browser extensions/plugins for this as well) or Foam that helps you organise your thoughts in a more creative, systematic way and 
  - VSC's editor itself provides further clarity.
 
 ## GitHub Desktop
 1. Lunch GitHub Desktop
 2. Sign in to GitHub with the app
 3. Clone a repository to the M drive
+4. Open the cloned folder in VSC
+5. Edit a file and save in VSC
+6. Commit to master and push online
+7. Check online for changes
 
 ## Foam 
 https://foambubble.github.io/foam/
-known issue: it does not work well when using the Github Repositories extension, because the one the essential extensions used for Foam, Markdown All in One does not work with virtual workspaces. So, the current idea is to use Foam with GitHub Desktop. 
+known issue: it does not work well when using the GitHub Repositories extension, because the one the essential extensions used for Foam, Markdown All in One does not work with virtual workspaces. So, the current idea is to use Foam with GitHub Desktop. To monitor issue: https://github.com/yzhang-gh/vscode-markdown/issues/996
