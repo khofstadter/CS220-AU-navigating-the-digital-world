@@ -10,6 +10,9 @@
   - will be used for your public logbook (log) and public static website (GitHub Pages) 
   - when creating it add the `readme.md` file
 
+### Thoughts
+- we can monitor each others' progress on the public repository. Please update it at least once a week. <!-- TODO: make example repo for private and public. Perhaps show examples of sonic art students from ARU. -->
+
 ## Visual Studio Code (VSC)
 1. Install/launch the Visual Studio Code software on your computer
 2. Make sure all of the following extensions are installed (some might need you to restart VSC or sometimes enabling when using a new folder/workstation e.g. when a GitHub repo is synced) :
