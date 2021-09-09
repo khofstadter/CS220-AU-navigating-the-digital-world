@@ -31,7 +31,10 @@
 ## Thoughts
 You can edit your files in both, you GitHub account via a browser or in VSC on your computer. The main advantages of using VSC are that
  - you can use VSC's extensions e.g. Spell Right (although in your own browser you could install browser extensions/plugins for this as well) or Foam that helps you organise your thoughts in a more creative, systematic way and 
- - VSC's editor itself provides further clarity.
+ - VSC's editor itself provides further clarity e.g. with colour syntax
+ - Markdown All in One's Table of Content function
+ - option to export in PDF (customizable style in CSS)
+ - once you have more notes you can use Jekyll (a static website generator) to create a novel website from your thoughts, writings and assets (e.g. images)
 
 ## GitHub Desktop
 1. Lunch GitHub Desktop
