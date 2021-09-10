@@ -18,11 +18,14 @@ What does it mean to be a "digital citizen"? As increasing portions of our perso
 
 <!-- 
 - sum up: digital visitors and residents
+- [[online-identity.md]]
 -->
 
 The digital revolution is constantly reshaping our world in a myriad of ways: from surveillance laws to social mobilisation; from innovative business models to open access information; from warfare strategy to medical treatment. Not only this, the way we construct our individual identities, build communities, protect human rights, and promote the humanities is increasingly mediated through online platforms, and contingent on the uneven access that global communities have to technology.
 
 In order to be active parts of our fast-evolving world, it is useful to have control over our own digital identity. The module will help you manage your digital identity by introducing software tools for project management, web-design and development as well as audio-visual production. While the module is primarily focused on providing practical skills it will also open up dialogues to help develop critical thinking about our digital interactions.
+
+I will try to introduce primarily free and cross-platform software and highlight their advantages and disadvantages to paid software. 
 
 <!-- add sense making -->
 
@@ -43,16 +46,6 @@ After this primarily practical Authum term module, lecturers from different disc
 - help acquire technical skills required to create and maintain a personal website
 - primarily practical with some theory to induce discussions on the effective use of digital technologies 
 
-## module outcomes
-
-By the end of this module, you should have
-
-- a deeper understanding of digital literacies, as well as the confidence and ability to use a broad range of digital technologies
-- the ability to discuss the material covered on the module and to demonstrate this competence through coursework, seminar discussions and the creation of a website
-- a good understanding of topics and debates that are central to the digital world 
-- confidence in using a number of specialised terms and terminology on digital technologies
-- a deeper understanding of the impacts of digital technologies on society and human life
-
 ## module assignment
 One GitHub repository containing at least three files:
   - README.md file:
@@ -70,23 +63,84 @@ One GitHub repository containing at least three files:
 - check current module assessment criteria and adjust to own module syllabus
 -->
 
-## Syllabus
+## module outcomes
+By the end of this module, students should have
+
+- a deeper understanding of digital literacies, as well as the confidence and ability to use a broad range of digital technologies
+- the ability to discuss the material covered on the module and to demonstrate this competence through coursework, seminar discussions and the creation of a website
+- a good understanding of topics and debates that are central to the digital world 
+- confidence in using a number of specialised terms and terminology on digital technologies
+- a deeper understanding of the impacts of digital technologies on society and human life
+
+## syllabus
+This syllabus was desinged to provide you with a basis for your online identity (or one of your projects' online identity) which is a personal or a project website. (For the assignment you can work on a personal or a project website.) 
+
+### w1 welcome week
+- introduction to Autumn and Spring term by Paula
+
 ### w2 introduction
-TODO: 
+- introduce Authum module (this readme.md file)
 - select student submission examples to show from last year
-- explain difference between last year's submission guide and this year's
-### w3
-### w4
-### w5
-### w6
-### w7
-### w8
-### w9
-### w10
-### w11
+- us: 
+  - k.khofstadter.com
+  - you <!-- TODO: create a database -->
+    - which departments do you come from?
+    - will you use the lab PCs or your own computer?
+    - have you used other studios (Rebel/Media) before?
+    - what software/hardware do you have experience with e.g. microphones, video cameras?
+    - what do you think are your strengths and weaknesses (what needs improving?)
+    - which part of the syllabus will be easy/difficult for you?
+    - do you already have a website?
+    - do you have a previous or ongoing project that you would like to show your class?
+    - do you have a project you could connect to this module perhaps a blog/vlog/podcast idea? 
+
+### w3 GitHub Repositories and Loogbook
+- in class create two GitHub repositories (repos) 1 public and 1 private.
+- you don't need to use the private one (you could use any other journaling/note making tool)
+- the public repo will be used to: 
+  - archive your regularly updated log (minimal, public facing, succinct)
+  - create a simple static website with GitHub Pages (you can submit another website e.g. Wordpress website)
+  - store your report (in Markdown and PDF version for your submission)
+#### TODO
+- watch Digital Visitors and Residents: 
+  - https://youtu.be/sPOG3iThmRI
+  - https://youtu.be/kO569eknM6U
+  - https://youtu.be/1X0g2OvSdWc
+- familiarise yourself with the module description, assignments, assignment criteria, assessment rubric, note down questions in your repositiry, think about a project that you'd like to reflect on in this module
+
+## 3 Project Management with GitHub, VSC, Markdown and Foam
+[[project-management-with-github-vsc-foam.md]]
+[[writing]]
+
+#### TODO
+- watch [Social Dilemma](https://youtu.be/uaaC57tcci0) on Netflix if you can)
+- try Brave Browser to see what websites are trying to crawl from you
+
+## 4 Websites and Troubleshooting
+[[websites]]
+[[troubleshooting]]
+
+## 5 Audio-Visual and Other Productivity Tools 
+[[audio-visual-and-other-productivity-tools.md]]
+[[podcast]]
+
+## 6 Sense-making
+[[sense-making]]
+[[meditation]]
+[[auditory-entrainment]]
+- Antonio Damasio: The Strange Order of Things
+- The Backfire Effect
+
+## 7 Student Presentations
+## 8 Reading Week
+## 9 Workshop
+## 10 Workshop
+## 11 Workshop
+
+### self-assessment
+#### invoicing
+### thinking slowly
+https://mattgemmell.com/thinking-slowly/
+
 ### submission
 deadline: 
-
-TODO
-- move info from notes repo
-- organised files
