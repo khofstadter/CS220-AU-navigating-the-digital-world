@@ -1,6 +1,20 @@
 <!--
 TODO:
-- email Luke (how can students access the labs, book microphones or cameras (what tools do they have access too?)
+- email Luke (how can students access the labs, book microphones or cameras (what tools do they have access tool?)
+  
+refine module specs: 
+0. work on tools.md and minimise syllabus outline in README.md
+1. make screencasts
+2. think about theory
+  - watch Marty's videos, content.
+  - Center for Humane Technology email (take out info)
+  - Rebel Wisdom gist
+  - Daniel Schmachtenberger Gist  
+3. link practice to theory: 
+   - how does the module assigment (website) help critical thinking?
+   - finish good module outline on GitHub Repo
+4. change Moodle / send an overview to Paula
+  
 -->
 
 # CS220 Navigating the Digital World
@@ -76,10 +90,10 @@ By the end of this module, students should have
 This syllabus was desinged to provide you with a basis for your online identity (or one of your projects' online identity) which is a personal or a project website. (For the assignment you can work on a personal or a project website.) 
 
 ### w1 welcome week
-- introduction to Autumn and Spring term by Paula
 
 ### w2 introduction
-- introduce Authum module (this readme.md file)
+- introduction to Autumn and Spring term by Paula (Tuesday)
+- introduce Authum module (this readme.md file) Wed/Thu
 - select student submission examples to show from last year
 - us: 
   - k.khofstadter.com
@@ -94,27 +108,36 @@ This syllabus was desinged to provide you with a basis for your online identity 
     - do you have a previous or ongoing project that you would like to show your class?
     - do you have a project you could connect to this module perhaps a blog/vlog/podcast idea? 
 
-### w3 GitHub Repositories and Loogbook
+### w3 GitHub and Visual Code Studio
+### GitHub Repositories
 - in class create two GitHub repositories (repos) 1 public and 1 private.
 - you don't need to use the private one (you could use any other journaling/note making tool)
 - the public repo will be used to: 
   - archive your regularly updated log (minimal, public facing, succinct)
   - create a simple static website with GitHub Pages (you can submit another website e.g. Wordpress website)
   - store your report (in Markdown and PDF version for your submission)
+
+#### Markdown
+
+#### Visual Code Studio (VSC)
+[[project-management-with-github-vsc-foam.md]]
+[[writing]]
+
+#### VSC Extensions 
+
+#### GitHub Desktop
+
+#### Foam 
+
 #### TODO
+- watch [Social Dilemma](https://youtu.be/uaaC57tcci0) on Netflix if you can)
+- try Brave Browser to see what websites are trying to crawl from you
+- 
 - watch Digital Visitors and Residents: 
   - https://youtu.be/sPOG3iThmRI
   - https://youtu.be/kO569eknM6U
   - https://youtu.be/1X0g2OvSdWc
 - familiarise yourself with the module description, assignments, assignment criteria, assessment rubric, note down questions in your repositiry, think about a project that you'd like to reflect on in this module
-
-## 3 Project Management with GitHub, VSC, Markdown and Foam
-[[project-management-with-github-vsc-foam.md]]
-[[writing]]
-
-#### TODO
-- watch [Social Dilemma](https://youtu.be/uaaC57tcci0) on Netflix if you can)
-- try Brave Browser to see what websites are trying to crawl from you
 
 ## 4 Websites and Troubleshooting
 [[websites]]
