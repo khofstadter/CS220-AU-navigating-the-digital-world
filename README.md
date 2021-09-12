@@ -133,10 +133,7 @@ This syllabus was desinged to provide you with a basis for your online identity 
 - watch [Social Dilemma](https://youtu.be/uaaC57tcci0) on Netflix if you can)
 - try Brave Browser to see what websites are trying to crawl from you
 - 
-- watch Digital Visitors and Residents: 
-  - https://youtu.be/sPOG3iThmRI
-  - https://youtu.be/kO569eknM6U
-  - https://youtu.be/1X0g2OvSdWc
+- watch Digital Visitors and Residents
 - familiarise yourself with the module description, assignments, assignment criteria, assessment rubric, note down questions in your repositiry, think about a project that you'd like to reflect on in this module
 
 ## 4 Websites and Troubleshooting
