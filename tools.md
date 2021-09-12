@@ -52,4 +52,6 @@ known issue: it does not work well when using the GitHub Repositories extension,
 ## Alternatives
 - https://trello.com/
 - https://workflowy.com/
+- https://roamresearch.com/
+- https://obsidian.md/
 
