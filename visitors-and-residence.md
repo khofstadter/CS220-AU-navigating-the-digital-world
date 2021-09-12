@@ -17,5 +17,8 @@ As part of your digital portfolio, you need to create an about.me and LinkedI
 -->
 
 # resources
+- https://youtu.be/sPOG3iThmRI
+- https://youtu.be/kO569eknM6U
+- https://youtu.be/1X0g2OvSdWc
 - https://www.thesocialdilemma.com/
 
