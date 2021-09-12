@@ -10,5 +10,12 @@ You will also be encouraged to explore your own "digital journey" by thinking ab
 ## exploring your cyberselves
 This week, you will learn about managing your online identity and digital footprints.
 As part of your digital portfolio, you need to create an about.me and LinkedIn profile, or a well-crafted CV (if you would rather not use these two online services).
+
+## questions
+- data mining? 
+- what could be happy with tech giants using?
 -->
+
+# resources
+- https://www.thesocialdilemma.com/
 
