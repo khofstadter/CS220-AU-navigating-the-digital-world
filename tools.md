@@ -48,3 +48,8 @@ You can edit your files in both, you GitHub account via a browser or in VSC on y
 ## Foam 
 https://foambubble.github.io/foam/
 known issue: it does not work well when using the GitHub Repositories extension, because the one the essential extensions used for Foam, Markdown All in One does not work with virtual workspaces. So, the current idea is to use Foam with GitHub Desktop. To monitor issue: https://github.com/yzhang-gh/vscode-markdown/issues/996
+
+## Alternatives
+- https://trello.com/
+- https://workflowy.com/
+
