@@ -55,3 +55,11 @@ known issue: it does not work well when using the GitHub Repositories extension,
 - https://roamresearch.com/
 - https://obsidian.md/
 
+## Open Broadcaster Software
+https://obsproject.com/
+A free, cross-platform software for live streaming, recording screencasts and editing. 
+
+### Alternatives
+iMovie, Final Cut Studio, Adobe Premier, Blender, etc. 
+
+
