@@ -59,9 +59,7 @@ known issue: it does not work well when using the GitHub Repositories extension,
 https://obsproject.com/   
 A free, cross-platform software for live streaming and recording screencasts.
 
-Beginner tutorial (2021): https://youtu.be/Muk9LfEWHeU
-
-### Alternatives
+Quick tutorial: https://youtu.be/QKmrDUJFRkM
 
 
 
