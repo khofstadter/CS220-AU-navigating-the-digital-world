@@ -56,7 +56,7 @@ known issue: it does not work well when using the GitHub Repositories extension,
 - https://obsidian.md/
 
 ## Open Broadcaster Software
-https://obsproject.com/
+https://obsproject.com/   
 A free, cross-platform software for live streaming, recording screencasts and editing. 
 
 ### Alternatives
