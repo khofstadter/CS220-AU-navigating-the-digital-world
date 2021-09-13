@@ -57,9 +57,11 @@ known issue: it does not work well when using the GitHub Repositories extension,
 
 ## Open Broadcaster Software
 https://obsproject.com/   
-A free, cross-platform software for live streaming, recording screencasts and editing. 
+A free, cross-platform software for live streaming and recording screencasts.
+
+Beginner tutorial (2021): https://youtu.be/Muk9LfEWHeU
 
 ### Alternatives
-iMovie, Final Cut Studio, Adobe Premier, Blender, etc. 
+
 
 
