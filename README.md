@@ -24,6 +24,14 @@ University of Essex
 Department: Interdisciplinary Studies   
 School of Philosophy and Arts History  
 Wed 11-1pm Lab M  
+<!-- 
+lab M TODO:
+- the PC lecturn on the wall is not working (aslo it might be difficult to talk to students while working on this computer - the screen is on the wall, also it does not have a webcam for the webinar)
+- an alternative would be to use my own mac and log in to Window via Remote Desktop
+- another alternative (perhaps best) would be to get a long HDMI extension cable and plug it in one of the first 'student' computers (would be nice if I could raise this)
+- another problem: students who sit at the end won't see the projector screen
+- what is the big TV screen used - is that for the Zoom session only? 
+-->
 Thu 11-1pm Lab G  
 
 ## Students
