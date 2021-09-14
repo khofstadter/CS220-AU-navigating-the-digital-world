@@ -1,7 +1,9 @@
 <!--
 TODO:
-- email Luke (how can students access the labs, book microphones or cameras (what tools do they have access tool?)
-  
+- book room
+- payroll email
+- when will i get a student register?
+
 refine module specs: 
 0. work on tools.md and minimise syllabus outline in README.md
 1. make screencasts
