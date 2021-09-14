@@ -1,8 +1,11 @@
 <!--
 TODO:
-- book room
-- payroll email
-- when will i get a student register?
+- book room for making screencasts (lab M is quieter, but lab G migh have more air)
+- take microphone
+- setup Remote Desktop and VPN and email payroll form
+- when will I get a student register?
+- test HDMI cable in room with macbook and student computer
+- ask for little table to put macbook on
 
 refine module specs: 
 0. work on tools.md and minimise syllabus outline in README.md
