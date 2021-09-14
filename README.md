@@ -24,20 +24,18 @@ University of Essex
 Department: Interdisciplinary Studies   
 School of Philosophy and Arts History  
 Wed 11-1pm Lab M  
-<!-- 
-lab M TODO:
-- the PC lecturn on the wall is not working (aslo it might be difficult to talk to students while working on this computer - the screen is on the wall, also it does not have a webcam for the webinar)
-- an alternative would be to use my own mac and log in to Window via Remote Desktop
-- another alternative (perhaps best) would be to get a long HDMI extension cable and plug it in one of the first 'student' computers (would be nice if I could raise this)
-- another problem: students who sit at the end won't see the projector screen
-- what is the big TV screen used - is that for the Zoom session only? 
--->
 Thu 11-1pm Lab G  
 <!--
-- lectern does not come on and is in front of the webinar screen
-- mac could only be plugged in via VGA (needs adapter) + mini jack cable
-- perhaps webinar screen could be moved to the other side of the room (has mains and ethernet plugs)
-- perhaps long VGA and jack extension to connect to a student computer in the other corner?
+Option A: lectern PC running same windows as students use on their computers. 
+- both lecterns (lab G and M) are faulty, they need repairing;
+- both Zoom screens should be relocated to the other side of the room
+- lectern demonstartes software as well as connects to Zoom
+- the projection is not ideal as students in the back won't see what's projected (but perhaps the Zoom screen TV has a better screen)
+Option B: macbook running Windows via Remote Desktop. 
+- in lab M - try HDMI long cable
+- in lab G - try thunderbolt adapter and ask for minijack extension
+Option C in lab M: 
+- use a student computer in the first row with an HDMI cable
 -->
 
 ## Students
