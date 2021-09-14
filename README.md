@@ -6,7 +6,7 @@ TODO:
 
 refine module specs: 
 0. work on tools.md and minimise syllabus outline in README.md
-1. make screencasts
+1. make screencasts and edit them in a video editor + upload to YouTube
 2. think about theory
   - watch Marty's videos, content.
   - Center for Humane Technology email (take out info)
