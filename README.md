@@ -33,6 +33,12 @@ lab M TODO:
 - what is the big TV screen used - is that for the Zoom session only? 
 -->
 Thu 11-1pm Lab G  
+<!--
+- lectern does not come on and is in front of the webinar screen
+- mac could only be plugged in via VGA (needs adapter) + mini jack cable
+- perhaps webinar screen could be moved to the other side of the room (has mains and ethernet plugs)
+- perhaps long VGA and jack extension to connect to a student computer in the other corner?
+-->
 
 ## Students
 Studens enrolled in this module come from different disciplines/departments e.g journalism, psychology, philosophy, art history, political science, media studies, literature. Most who enroll are 1st year, some 2nd and 3rd years as well. Some stuents only do the practical part of the module (taught by me), some only the theoritical part (taught be Paula). Due to Covid, the classes will use a hybrid/dual mode teaching method i.e. some students will be in the classroom with me and some will attend via the online Zoom meeting.  
