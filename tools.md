@@ -61,5 +61,8 @@ A free, cross-platform software for live streaming and recording screencasts.
 
 Quick tutorial: https://youtu.be/QKmrDUJFRkM
 
+## CSS
+VSC extension to colourise: https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize
+
 
 
