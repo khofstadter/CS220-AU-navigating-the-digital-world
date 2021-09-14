@@ -6,6 +6,7 @@ TODO:
 - when will I get a student register?
 - test HDMI cable in room with macbook and student computer
 - ask for little table to put macbook on
+- what compusory induction do i have to do?
 
 refine module specs: 
 0. work on tools.md and minimise syllabus outline in README.md
