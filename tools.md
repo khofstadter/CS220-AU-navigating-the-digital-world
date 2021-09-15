@@ -86,7 +86,7 @@ VSC extension to colourise: https://marketplace.visualstudio.com/items?itemName=
 
 ## Online Search Enginges
 ### Google 
-<!-- TODO: extract info from Moodle -->
+<!-- TODO: extract info from Moodle https://moodle.essex.ac.uk/course/view.php?id=7522&section=27 -->
 ### Other
 - does Google keep my search history? Is this OK with me?
 
