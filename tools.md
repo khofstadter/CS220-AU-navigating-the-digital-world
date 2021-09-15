@@ -28,7 +28,7 @@
  - check your changes in your GitHub account (with an internet browser)
 <!-- TODO: do we need another markdown extension instead of Markdown All in One when working in virtual workstation? probably not if the main function we use this for is shortcuts e.g. bold, italics-->
   
-## Thoughts
+### Thoughts
 You can edit your files in both, you GitHub account via a browser or in VSC on your computer. The main advantages of using VSC are that
  - you can use VSC's extensions e.g. Spell Right (although in your own browser you could install browser extensions/plugins for this as well) or Foam that helps you organise your thoughts in a more creative, systematic way and 
  - VSC's editor itself provides further clarity e.g. with colour syntax
@@ -49,11 +49,21 @@ You can edit your files in both, you GitHub account via a browser or in VSC on y
 https://foambubble.github.io/foam/
 known issue: it does not work well when using the GitHub Repositories extension, because the one the essential extensions used for Foam, Markdown All in One does not work with virtual workspaces. So, the current idea is to use Foam with GitHub Desktop. To monitor issue: https://github.com/yzhang-gh/vscode-markdown/issues/996
 
-## Alternatives
+### Alternatives
 - https://trello.com/
 - https://workflowy.com/
 - https://roamresearch.com/
 - https://obsidian.md/
+
+## Audio-visual
+### Screencast makers
+- https://screencast-o-matic.com/ (https://www.youtube.com/watch?v=LAg4_eFITNc)
+- https://obsproject.com/ (https://youtu.be/QKmrDUJFRkM)
+
+### Video editing
+
+### Audio-music making/editing
+
 
 ## CSS
 VSC extension to colourise: https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize
