@@ -1,6 +1,6 @@
 <!--
 TODO:
-- find smaller microphone
+- find smaller microphone at home
 - setup Remote Desktop and VPN and email payroll form
 - test HDMI cable in room with macbook and student computer
 - any update about the little table?
@@ -159,6 +159,7 @@ This syllabus was desinged to provide you with a basis for your online identity 
 ## 5 Audio-Visual and Other Productivity Tools 
 [[audio-visual-and-other-productivity-tools.md]]
 [[podcast]]
+https://www.essex.ac.uk/staff/it-services/equipment-loans
 
 ## 6 Sense-making
 [[sense-making]]
