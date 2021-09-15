@@ -94,6 +94,7 @@ One GitHub repository containing at least three files:
 <!--TODO: 
 - provide a repository example that perhaps students could download/upload or clone?
 - check current module assessment criteria and adjust to own module syllabus
+- write checklist
 -->
 
 ## module outcomes
