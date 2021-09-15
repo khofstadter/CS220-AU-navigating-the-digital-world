@@ -81,9 +81,13 @@ https://obsproject.com/
 #### Isotope RX
 TODO: install on mac
 
-
 ## CSS
 VSC extension to colourise: https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize
 
+## Online Search Enginges
+### Google 
+<!-- TODO: extract info from Moodle -->
+### Other
+- does Google keep my search history? Is this OK with me?
 
 
