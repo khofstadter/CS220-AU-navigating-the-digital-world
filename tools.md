@@ -55,12 +55,6 @@ known issue: it does not work well when using the GitHub Repositories extension,
 - https://roamresearch.com/
 - https://obsidian.md/
 
-## Open Broadcaster Software
-https://obsproject.com/   
-A free, cross-platform software for live streaming and recording screencasts.
-
-Quick tutorial: https://youtu.be/QKmrDUJFRkM
-
 ## CSS
 VSC extension to colourise: https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize
 
