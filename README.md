@@ -51,6 +51,7 @@ What does it mean to be a "digital citizen"? As increasing portions of our perso
 <!-- 
 - sum up: digital visitors and residents
 - [[online-identity.md]]
+- is the ideas to become more of a resident - to create residency e.g. by creating/editing/currating content via digital platforms
 -->
 
 The digital revolution is constantly reshaping our world in a myriad of ways: from surveillance laws to social mobilisation; from innovative business models to open access information; from warfare strategy to medical treatment. Not only this, the way we construct our individual identities, build communities, protect human rights, and promote the humanities is increasingly mediated through online platforms, and contingent on the uneven access that global communities have to technology.
