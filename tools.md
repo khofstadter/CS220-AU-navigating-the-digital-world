@@ -6,7 +6,7 @@
 3. Create a private repository (repo)
   - will be used for your private notes
   - when creating it add the `readme.md` file
-4. Create a public repo 
+4. Create a public repo (or clone the example?)
   - will be used for your public logbook (log) and public static website (GitHub Pages) 
   - when creating it add the `readme.md` file
 
@@ -57,12 +57,29 @@ known issue: it does not work well when using the GitHub Repositories extension,
 
 ## Audio-visual
 ### Screencast makers
-- https://screencast-o-matic.com/ (https://www.youtube.com/watch?v=LAg4_eFITNc)
-- https://obsproject.com/ (https://youtu.be/QKmrDUJFRkM)
-
+#### Screencast-O-Matic
+https://screencast-o-matic.com/   
+- tutorial: https://www.youtube.com/watch?v=LAg4_eFITNc)
+- can't edit with the free version but offers screen+webcam even without making an account
+### Open Broadcaster Software
+https://obsproject.com/
+- tutorial: https://youtu.be/QKmrDUJFRkM
+- does not seem to be a good editing tool, but it's free and you can mix desktop + webcam and export in a variety of formats
 ### Video editing
+#### Da-Vinci
+#### Premier 
+- need to ask for key from Media Services
+#### iMovie and Final Cut Pro
+- mac only (iMovie is free and easi to use)
 
 ### Audio-music making/editing
+#### Reaper
+#### Audacity
+#### Faders
+#### Logic
+#### Max, SuperCollider
+#### Isotope RX
+TODO: install on mac
 
 
 ## CSS
