@@ -95,6 +95,7 @@ One GitHub repository containing at least three files:
 - provide a repository example that perhaps students could download/upload or clone?
 - check current module assessment criteria and adjust to own module syllabus
 - write checklist
+- examples: last year's CS220 and sonic art
 -->
 
 ## module outcomes
