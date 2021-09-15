@@ -50,7 +50,7 @@ What does it mean to be a "digital citizen"? As increasing portions of our perso
 
 <!-- 
 - sum up: digital visitors and residents
-- [[online-identity.md]] + merge with digital identy info https://moodle.essex.ac.uk/mod/page/view.php?id=376391
+- [[online-identity.md]] + merge with digital identy info https://moodle.essex.ac.uk/course/view.php?id=7522&section=26
 - is the ideas to become more of a resident - to create residency e.g. by creating/editing/currating content via digital platforms
 -->
 
