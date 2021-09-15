@@ -1,12 +1,10 @@
 <!--
 TODO:
-- book room for making screencasts (lab M is quieter, but lab G migh have more air)
-- take microphone
+- find smaller microphone
 - setup Remote Desktop and VPN and email payroll form
-- when will I get a student register?
 - test HDMI cable in room with macbook and student computer
-- ask for little table to put macbook on
-- what compusory induction do i have to do?
+- any update about the little table?
+- what compusory induction do I have to do?
 
 refine module specs: 
 0. work on tools.md and minimise syllabus outline in README.md
