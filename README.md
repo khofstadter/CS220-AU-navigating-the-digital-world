@@ -1,5 +1,6 @@
 <!--
 TODO:
+- carry on with planning w2: gen --> v&r (part 1, 2, 3 - do we watch all of them in class?)
 - find smaller microphone at home
 - setup Remote Desktop and VPN and email payroll form and to test with macbook in the room
 - test HDMI cable in room with macbook and student computer
@@ -49,6 +50,7 @@ Studens enrolled in this module come from different disciplines/departments e.g.
 What does it mean to be a "digital citizen"? As increasing portions of our personal and professional lives are played out online, acquiring the ability to effectively use digital interfaces and think critically about them is an ever more urgent task, as well as a topic of fierce debate. While some allege that we live in a "post-fact" era filled with "fake news" that limits our worldview, others see in digital technologies the key to unlocking social change and bringing people together in new ways and across geographical boundaries.
 
 <!-- 
+- generations?
 - sum up: digital visitors and residents
 - [[online-identity.md]] + merge with digital identy info https://moodle.essex.ac.uk/course/view.php?id=7522&section=26
 - is the ideas to become more of a resident - to create residency e.g. by creating/editing/currating content via digital platforms
@@ -130,8 +132,21 @@ TODO: email students these questions prior the first class in w2
 - short intro you and me (khofstadter.com)
 
 #### Digital Identity
-- generations: https://youtu.be/TtIojDWOsgg
-- watch visitors and residents together
+##### Generations
+<!-- embed a gantt chart -->
+- overview: https://youtu.be/TtIojDWOsgg
+- Millenials vs Gen Z: https://youtu.be/aqdm6aBUZII)
+  - does multitasking work for you?
+  - can you define your relationship with technology, especially the Web?
+- summery to read: https://www.bbc.co.uk/bitesize/articles/zf8j92p
+
+##### Visitors and Residents
+"Visitors and Residents is a simple way of describing the range of ways individuals can engage with the Web. It’s a continuum of ‘modes of engagement’ not two distinct categories." (http://daveowhite.com/vandr/)
+- “Visitor mode”: defined goal/task using appropriate web-based tool for job. Little social visibility or residual web presence. Task-driven and pragmatic.
+- “Resident mode”: online presence to connect with, or to be with, other people. High social presence. Leaves a trace…
+- visitor mode: the activities where we don't leave a social trace behind e.g. searching the web, paying our bills, 
+- resident mode: we are present with other people, it leaves a social trance e.g. by creating content or commenting on other people's content on online platforms (website, social media). These activities are linked to our (digital) identity. 
+
 - k's v&r-map-2006.jpg (2006) --> k's v&r-map-2016.jpg --> k's v&r-map-2021.jpg <!--TODO-->
 - aim: to create (not just consume) i.e. be residents (somewhere) 
  
@@ -140,6 +155,10 @@ TODO: email students these questions prior the first class in w2
 - Markdown language
 
 #### homework
+- read: Digital Native (1982-94) vs Digital Immigrant Model (Mark Prensky 2001)
+- read: https://www.pewresearch.org/internet/2014/03/11/digital-life-in-2025/
+- watch: https://youtu.be/Bg3a5f107Jc (Artfilm by Douglas Coupland, exploring how the use of technology changes culture in the early 1990s.)
+
 - make v&r-map-2021-10.jpg
 - familiarise yourself with the module description, assignments, assignment criteria, assessment rubric, note down questions in your repositiry, think about a project that you'd like to reflect on in this module
 
@@ -189,4 +208,5 @@ TODO:
 #### invoicing
 ### thinking slowly
 https://mattgemmell.com/thinking-slowly/
+### mailing list
 
