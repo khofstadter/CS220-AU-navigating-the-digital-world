@@ -43,7 +43,7 @@ Option C in lab M:
 -->
 
 ## Students
-Studens enrolled in this module come from different disciplines/departments e.g journalism, psychology, philosophy, art history, political science, media studies, literature. Most who enroll are 1st year, some 2nd and 3rd years as well. Some stuents only do the practical part of the module (taught by me), some only the theoritical part (taught be Paula). Due to Covid, the classes will use a hybrid/dual mode teaching method i.e. some students will be in the classroom with me and some will attend via the online Zoom meeting.  
+Studens enrolled in this module come from different disciplines/departments e.g journalism, psychology, philosophy, art history, political science, media studies, literature. Most who enroll are 1st year, some 2nd and 3rd years as well. Some students only do the practical part of the module (taught by me), some only the theoritical part (taught be Paula). Due to Covid, the classes will use a hybrid/dual mode teaching method i.e. some students will be in the classroom with me and some will attend via the online Zoom meeting.  
 
 ## Module description
 What does it mean to be a "digital citizen"? As increasing portions of our personal and professional lives are played out online, acquiring the ability to effectively use digital interfaces and think critically about them is an ever more urgent task, as well as a topic of fierce debate. While some allege that we live in a "post-fact" era filled with "fake news" that limits our worldview, others see in digital technologies the key to unlocking social change and bringing people together in new ways and across geographical boundaries.
@@ -80,15 +80,17 @@ After this primarily practical Authum term module, lecturers from different disc
 - primarily practical with some theory to induce discussions on the effective use of digital technologies 
 
 ## module assignment
-One GitHub repository containing at least three files:
-  - README.md file:
-    - short overview/abstract
-    - link to project website
-    - link to report.md
-    - lookbook
-  - report.md (500 - 750 word) 
-  - report.pdf (report.md exported into PDF format)
-    - report needs to contain: project goals, design, testing, development, deployment (include feedback from others)
+One GitHub repository containing the following files:
+- README.md file:
+  - short overview/abstract
+  - link to project website
+  - lookbook
+- report.md (500 - 750 word) 
+- report.pdf (optional, report.md exported into PDF format)
+Report needs to contain: project goals, design, testing, development, deployment (include feedback from others)
+- assets/v&r-map-2021-10.jpg (embdedded in report.md)
+- assets/v&r-map-2021-11.jpg (embdedded in report.md)
+- assets/v&r-map-2021-12.jpg (embdedded in report.md)
 
 ## assignment criteria
 <!--TODO: 
@@ -111,51 +113,44 @@ By the end of this module, students should have
 This syllabus was desinged to provide you with a basis for your online identity (or one of your projects' online identity) which is a personal or a project website. (For the assignment you can work on a personal or a project website.) 
 
 ### w1 welcome week
+TODO: email students these questions prior the first class in w2
+- which departments do you come from?
+- will you use the lab PCs or your own computer?
+- have you used other studios (Rebel/Media) before?
+- what software/hardware do you have experience with e.g. microphones, video cameras?
+- what do you think are your strengths and weaknesses (what needs improving?)
+- which part of the syllabus will be easy/difficult for you?
+- do you already have a website?
+- do you have a previous or ongoing project that you would like to show your class?
+- do you have a project you could connect to this module perhaps a blog/vlog/podcast idea?
 
 ### w2 introduction
 - introduction to Autumn and Spring term by Paula (Tuesday)
-- introduce Authum module (this readme.md file) Wed/Thu
-- select student submission examples to show from last year
-- us: 
-  - k.khofstadter.com
-  - you <!-- TODO: create a database -->
-    - which departments do you come from?
-    - will you use the lab PCs or your own computer?
-    - have you used other studios (Rebel/Media) before?
-    - what software/hardware do you have experience with e.g. microphones, video cameras?
-    - what do you think are your strengths and weaknesses (what needs improving?)
-    - which part of the syllabus will be easy/difficult for you?
-    - do you already have a website?
-    - do you have a previous or ongoing project that you would like to show your class?
-    - do you have a project you could connect to this module perhaps a blog/vlog/podcast idea? 
+- brief introduction to the Authum module (read this readme.md file) Wed/Thu weekely
+- short intro you and me (khofstadter.com)
 
-### w3 GitHub and Visual Code Studio
-### GitHub Repositories
-- in class create two GitHub repositories (repos) 1 public and 1 private.
-- you don't need to use the private one (you could use any other journaling/note making tool)
-- the public repo will be used to: 
-  - archive your regularly updated log (minimal, public facing, succinct)
-  - create a simple static website with GitHub Pages (you can submit another website e.g. Wordpress website)
-  - store your report (in Markdown and PDF version for your submission)
+#### Digital Identity
+- watch visitors and residents together
+- k's v&r-map-2006.jpg (2006) --> k's v&r-map-2016.jpg --> k's v&r-map-2021.jpg <!--TODO-->
+- aim: to create (not just consume) i.e. be residents (somewhere) 
+ 
+#### GitHub Repositories
+- one private, one public
+- Markdown language
 
-#### Markdown
+#### homework
+- make v&r-map-2021-10.jpg
+- familiarise yourself with the module description, assignments, assignment criteria, assessment rubric, note down questions in your repositiry, think about a project that you'd like to reflect on in this module
 
-#### Visual Code Studio (VSC)
+### w3 Visual Code Studio (VSC), VSC extensions and GitHub Desktop
+- your progress
 [[project-management-with-github-vsc-foam.md]]
 [[writing]]
-
-#### VSC Extensions 
-
-#### GitHub Desktop
-
-#### Foam 
+[[foam]]
 
 #### TODO
 - watch [Social Dilemma](https://youtu.be/uaaC57tcci0) on Netflix if you can)
 - try Brave Browser to see what websites are trying to crawl from you
-- 
-- watch Digital Visitors and Residents
-- familiarise yourself with the module description, assignments, assignment criteria, assessment rubric, note down questions in your repositiry, think about a project that you'd like to reflect on in this module
 
 ## 4 Websites and Troubleshooting
 [[websites]]
@@ -175,15 +170,22 @@ TODO:
 - The Backfire Effect
 
 ## 7 Student Presentations
+
+#### homework
+- make v&r-map-2021-11.jpg
+
 ## 8 Reading Week
+
 ## 9 Workshop
+
 ## 10 Workshop
+
 ## 11 Workshop
+#### homework
+- make v&r-map-2021-12.jpg
 
 ### self-assessment
 #### invoicing
 ### thinking slowly
 https://mattgemmell.com/thinking-slowly/
 
-### submission
-deadline: 
