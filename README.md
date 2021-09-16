@@ -43,7 +43,7 @@ Option C in lab M:
 -->
 
 ## Students
-Studens enrolled in this module come from different disciplines/departments e.g journalism, psychology, philosophy, art history, political science, media studies, literature. Most who enroll are 1st year, some 2nd and 3rd years as well. Some students only do the practical part of the module (taught by me), some only the theoritical part (taught be Paula). Due to Covid, the classes will use a hybrid/dual mode teaching method i.e. some students will be in the classroom with me and some will attend via the online Zoom meeting.  
+Studens enrolled in this module come from different disciplines/departments e.g. journalism, psychology, philosophy, art history, political science, media studies, literature. Most who enroll are 1st year, some 2nd and 3rd years as well. Some students only do the practical part of the module (taught by Krisztian), some only the theoritical part (taught be Paula). Due to Covid, the classes will use a hybrid/dual mode teaching method i.e. some students will be in the classroom with me and some will attend via the online Zoom meeting.  
 
 ## Module description
 What does it mean to be a "digital citizen"? As increasing portions of our personal and professional lives are played out online, acquiring the ability to effectively use digital interfaces and think critically about them is an ever more urgent task, as well as a topic of fierce debate. While some allege that we live in a "post-fact" era filled with "fake news" that limits our worldview, others see in digital technologies the key to unlocking social change and bringing people together in new ways and across geographical boundaries.
@@ -130,6 +130,7 @@ TODO: email students these questions prior the first class in w2
 - short intro you and me (khofstadter.com)
 
 #### Digital Identity
+- generations: https://youtu.be/TtIojDWOsgg
 - watch visitors and residents together
 - k's v&r-map-2006.jpg (2006) --> k's v&r-map-2016.jpg --> k's v&r-map-2021.jpg <!--TODO-->
 - aim: to create (not just consume) i.e. be residents (somewhere) 
