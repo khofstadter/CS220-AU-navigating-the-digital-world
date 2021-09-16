@@ -60,7 +60,7 @@ known issue: it does not work well when using the GitHub Repositories extension,
 #### Screencast-O-Matic
 https://screencast-o-matic.com/   
 - tutorial: https://www.youtube.com/watch?v=LAg4_eFITNc)
-- can't edit with the free version but offers screen+webcam even without making an account
+- can't edit with the free version nor record computer audio but offers screen+webcam even without making an account
 ### Open Broadcaster Software
 https://obsproject.com/
 - tutorial: https://youtu.be/QKmrDUJFRkM
