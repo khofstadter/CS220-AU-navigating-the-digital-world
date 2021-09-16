@@ -143,15 +143,18 @@ TODO: email students these questions prior the first class in w2
   - can you define your relationship with technology, especially the Web?
 - summery to read: https://www.bbc.co.uk/bitesize/articles/zf8j92p
 
-##### Visitors and Residents
-"Visitors and Residents is a simple way of describing the range of ways individuals can engage with the Web. It’s a continuum of ‘modes of engagement’ not two distinct categories." (http://daveowhite.com/vandr/)
-- “Visitor mode”: defined goal/task using appropriate web-based tool for job. Little social visibility or residual web presence. Task-driven and pragmatic.
-- “Resident mode”: online presence to connect with, or to be with, other people. High social presence. Leaves a trace…
-- visitor mode: the activities where we don't leave a social trace behind e.g. searching the web, paying our bills, 
-- resident mode: we are present with other people, it leaves a social trance e.g. by creating content or commenting on other people's content on online platforms (website, social media). These activities are linked to our (digital) identity. 
+##### Visitors and Residents (Dave White)
+"Visitors and Residents is a simple way of describing the range of ways individuals can engage with the Web." (http://daveowhite.com/vandr/) White created the V&R map to help all ages (not just old people) and people with different technical levels of technical skills to help use the Web efficiently. His V&R map is based on people's motivation to engage with the Web instead. The two modes: 
+- visitor mode: the activities where we don't leave a social trace behind e.g. searching the web, paying our bills. (Remember that your search history can be stored depending ont he search engine, it's just not available for everyone.) 
+- resident mode: we are present with other people, it leaves a social trance (stays online after we leave the internet) e.g. by creating content or commenting on other people's content on online platforms (websites, social media). These activities are linked to our (digital) identities. 
 
 - k's v&r-map-2006.jpg (2006) --> k's v&r-map-2016.jpg --> k's v&r-map-2021.jpg <!--TODO-->
+- this CS220 (AU) course introduces ideas and practical skills to help develop our residence modes
+- a better understanding of our residence modes can lead to 
+  - professional identies, how we consume and produce knowledge, how we assess the credibility of information
 - aim: to create (not just consume) i.e. be residents (somewhere) 
+
+
  
 #### GitHub Repositories
 - one private, one public
