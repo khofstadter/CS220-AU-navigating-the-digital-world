@@ -1,6 +1,9 @@
 <!--
 TODO:
-- carry on with planning w2: gen --> v&r (part 1, 2, 3 - do we watch all of them in class?)
+- carry on with planning w2: gen, v&r (part 1, 2, 3 - do we watch all of them in class?)
+- make first software related screencasts
+  - on library PC in pods?
+  - check Essex Business School
 - find smaller microphone at home
 - setup Remote Desktop and VPN and email payroll form and to test with macbook in the room
 - test HDMI cable in room with macbook and student computer
