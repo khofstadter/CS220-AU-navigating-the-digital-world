@@ -28,15 +28,17 @@ refine module specs:
   
 -->
 
-# CS220 Navigating the Digital World
+# CS220 AU Navigating the Digital World
 University of Essex    
 Department: Interdisciplinary Studies   
 School of Philosophy and Arts History  
 Wed 11-1pm Lab M  
 Thu 11-1pm Lab G  
-[https://moodle.essex.ac.uk/course/view.php?id=7522](Moodle pages) 
+
+This repository only contains information for the CS220 AU module, the Autumn term module. Information for Dr Di Franco's more theoretical module (CS220 SP) is on Moodle.
 
 <!--
+## delivery options: 
 Option A: lectern PC running same windows as students use on their computers. 
 - both lecterns (lab G and M) are faulty, they need repairing;
 - both Zoom screens should be relocated to the other side of the room
@@ -47,36 +49,48 @@ Option B: macbook running Windows via Remote Desktop.
 - in lab G - try thunderbolt adapter and ask for minijack extension
 Option C in lab M: 
 - use a student computer in the first row with an HDMI cable
--->
 
-## Module description (AU and SP)
-What does it mean to be a "digital citizen"? As increasing portions of our personal and professional lives are played out online, acquiring the ability to effectively use digital interfaces and think critically about them is an ever more urgent task, as well as a topic of fierce debate. While some allege that we live in a "post-fact" era filled with "fake news" that limits our worldview, others see in digital technologies the key to unlocking social change and bringing people together in new ways and across geographical boundaries.
+## address all themes:
+- digital identities
+- e-safety
+- blogging
+- social media
+- multimedia production
+- intelligent search strategies
 
-The digital revolution is constantly reshaping our world in a myriad of ways: from surveillance laws to social mobilisation; from innovative business models to open access information; from warfare strategy to medical treatment. Not only this, the way we construct our individual identities, build communities, protect human rights, and promote the humanities is increasingly mediated through online platforms, and contingent on the uneven access that global communities have to technology.
-
-## AU module specifics
-To actively take part in our fast-evolving world, we need to have control over our own digital identities. The Autumn module aims to help manage our digital identities by (1) introducing a the 'visitory & resident map' that can help inspect our involvement with the Web and then (2) introcudes tools for project management, web-design and development as well as audio-visual tools to help develop our personal and professional digital identities. While the Autumn module is primarily focused on providing practical skills it will also open up dialogues to help develop critical thinking about our digital interactions.
-
-The module introduces primarily free and cross-platform software and highlights their advantages and disadvantages to paid software. 
-
-## Students
-Studens enrolled in this module come from different disciplines/departments e.g. journalism, psychology, philosophy, art history, political science, media studies, literature. Most who enroll are 1st year, but there are some 2nd and 3rd years as well. Some students only do the practical part of the module (taught by Krisztian), some only the theoritical part (taught be Paula), some do both. Due to Covid, the classes will use a hybrid/dual mode teaching method i.e. some students will be in the classroom with me and some will attend via the online Zoom meeting. Students cannot swap around and do learning some weeks face-to-face and other weeks remotely. (CS220AU - Authumn enrollment, CS220SP - Spring enrollment, CS220FY - enrollement in both terms). 
-
-<!-- add sense making -->
-
-Some of the key questions we'll be addressing
-
-- how are we currently engaging with the Web and have this be more 'better'?
-- how can we build and use our online identities e.g. a website for 'better' engagement?
-- how can we use software tools to create assets e.g. audio-video content to help us disseminate information through our online identities?
-- how can we apply critical thinking regarding the information we consume and produce? 
-<!-- 
+## address these questions:
 - how are digital technologies transforming society?
 - to what extent do digital technologies curb or enhance our rights and freedom?
 - what digital skills are needed for the knowledge economy and a democratic society?
+- how can we build and use our online identities?
+- how might we use digital technologies as creative and engaging forms of communication?
 -->
 
-After this primarily practical Authum term module, lecturers from different disciplines across the University will lead a series of weekly lectures during the Spring term, which will combine theoretical questions with real-life scenarios to explore issues such as hacking, social media, ethics, digital crime, video games and interactive technologies. These sessions are devised to help students gain a broad awareness of, and to think critically about, the ways that digital technologies are reshaping contemporary societies.
+## Module description
+The complete module description can be found on Moodle. 
+
+## Further clarification
+<!-- To actively take part in our fast-evolving world, we need to have control over our own digital identities.--> The module aims to help manage our digital identities by (1) introducing the 'visitor & resident map' which can help understand our involvement with the Web and then, (2) introduce tools for project management, web-design as well as audio-visual production and editing to help develop our personal and professional resident identities. While this module primarily focuses on providing practical skills it also opens up dialogues to help develop critical thinking about our digital interactions.
+
+The module introduces primarily free and cross-platform software and where possible highlights their advantages and disadvantages to paid software. As the module in 2021 is run in labs equipt with Windows PCs, I will demonstrate these software in the workshops and screencasts using this (Windows 10) operating system. 
+
+After this primarily practical Authmn term module, lecturers from different disciplines across the University will lead a series of weekly lectures during the Spring term, which will combine theoretical questions with real-life scenarios to explore issues such as hacking, social media, ethics, digital crime, video games and interactive technologies. These sessions are devised to help students gain a broad awareness of, and to think critically about, the ways that digital technologies are reshaping contemporary societies.
+
+So how much theory will we cover in this Authm module? 
+- overview of generations
+- visitor and resident map (tool)
+- information processing (sense making) and dissemination
+
+The rest is practical i.e. we will experiment with software that can help us create and maintain a 'better' digital identity (or identities). As you have probably discovered already, you can have multiple personal identities on the Web however, (probably) only one professional identity. Our personal identities are more informal, subjective and our professional ones more formal and perhaps more objective as well. 
+
+The assigment is to submit a porfolio consisting of two main parts:
+- the online presence of a project e.g. a personal or professional website
+- a short report reflecting on your past, present and future digital identities using the 'visitor and resident' method
+
+Examples and templates will be provided in class. 
+
+## Students
+Studens enrolled in this module come from different disciplines/departments e.g. journalism, psychology, philosophy, art history, political science, media studies, literature. Most who enroll are 1st year, but there are some 2nd and 3rd years as well. Some students only do the practical part of the module (taught by me), some only the theoritical part (taught be Paula), some do both. Due to Covid, the classes will use a hybrid/dual mode teaching method i.e. some students will be in the classroom with me and some will attend via the online Zoom meeting. Students cannot swap around and do learning some weeks face-to-face and other weeks remotely.
 
 ## module aims/goals
 - to introduce tools/methods for efficient project management including logging, writing, audio-visual production, web-desing and web-hosting
@@ -103,6 +117,21 @@ Report needs to contain: project goals, design, testing, development, deployment
 - write checklist
 - examples: last year's CS220 and sonic art
 -->
+
+
+<!-- 
+Some of the key questions (from the module description) that we'll be addressing
+
+- how are we currently engaging with the Web and can we improve this?
+- how can we build and use our online identities e.g. a website for 'better' engagement?
+- how can we use software tools to create assets e.g. audio-video content to help us disseminate information through our online identities?
+- how can we apply critical thinking regarding the information we consume and produce? 
+
+- how are digital technologies transforming society?
+- to what extent do digital technologies curb or enhance our rights and freedom?
+- what digital skills are needed for the knowledge economy and a democratic society?
+-->
+
 
 ## module outcomes
 By the end of this module, students should have
