@@ -61,16 +61,18 @@ What does it mean to be a "digital citizen"? As increasing portions of our perso
 
 The digital revolution is constantly reshaping our world in a myriad of ways: from surveillance laws to social mobilisation; from innovative business models to open access information; from warfare strategy to medical treatment. Not only this, the way we construct our individual identities, build communities, protect human rights, and promote the humanities is increasingly mediated through online platforms, and contingent on the uneven access that global communities have to technology.
 
-In order to be active parts of our fast-evolving world, it is useful to have control over our own digital identity. The module will help you manage your digital identity by introducing software tools for project management, web-design and development as well as audio-visual production. While the module is primarily focused on providing practical skills it will also open up dialogues to help develop critical thinking about our digital interactions.
+To actively take part in our fast-evolving world, we need to have control over our own digital identities. The module aims to help manage our digital identities by (1) introducing a the 'visitory & resident map' that can help inspect our involvement with the Web and then (2) introcudes tools for project management, web-design and development as well as audio-visual tools to help develop our personal and professional digital identities on the Web. While the module is primarily focused on providing practical skills it will also open up dialogues to help develop critical thinking about our digital interactions.
 
-I will try to introduce primarily free and cross-platform software and highlight their advantages and disadvantages to paid software. 
+The module introduces primarily free and cross-platform software and highlights their advantages and disadvantages to paid software. 
 
 <!-- add sense making -->
 
 Some of the key questions we'll be addressing
 
-- how can we build and use our online identities?
-- how can we use digital technologies as creative and engaging forms of communication?
+- how are we currently engaging with the Web and have this be more 'better'?
+- how can we build and use our online identities e.g. a website for 'better' engagement?
+- how can we use software tools to create assets e.g. audio-video content to help us disseminate information through our online identities?
+- how can we apply critical thinking regarding the information we consume and produce? 
 <!-- 
 - how are digital technologies transforming society?
 - to what extent do digital technologies curb or enhance our rights and freedom?
