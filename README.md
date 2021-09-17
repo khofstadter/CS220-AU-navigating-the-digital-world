@@ -34,7 +34,7 @@ Department: Interdisciplinary Studies
 School of Philosophy and Arts History  
 Wed 11-1pm Lab M  
 Thu 11-1pm Lab G  
-![https://moodle.essex.ac.uk/course/view.php?id=7522](https://moodle.essex.ac.uk/course/view.php?id=7522) 
+[https://moodle.essex.ac.uk/course/view.php?id=7522](Moodle pages) 
 
 <!--
 Option A: lectern PC running same windows as students use on their computers. 
