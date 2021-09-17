@@ -1,10 +1,11 @@
 <!--
 TODO:
 - carry on with planning w2: gen, v&r (part 1, 2, 3)
-- Paula, do we need to amend module description? 
 - create module outline, hide things on Moodle
+- ask Paule to amend module description to reflect on changes I made to last years outline
+
+
 - make first software related screencasts in lab G
-- find smaller microphone at home
 - setup Remote Desktop and VPN and email payroll form and to test with macbook in the room
 - test HDMI cable in room with macbook and student computer
 - any update about the little table?
@@ -33,6 +34,8 @@ Department: Interdisciplinary Studies
 School of Philosophy and Arts History  
 Wed 11-1pm Lab M  
 Thu 11-1pm Lab G  
+![https://moodle.essex.ac.uk/course/view.php?id=7522](https://moodle.essex.ac.uk/course/view.php?id=7522) 
+
 <!--
 Option A: lectern PC running same windows as students use on their computers. 
 - both lecterns (lab G and M) are faulty, they need repairing;
@@ -46,24 +49,18 @@ Option C in lab M:
 - use a student computer in the first row with an HDMI cable
 -->
 
-## Students
-Studens enrolled in this module come from different disciplines/departments e.g. journalism, psychology, philosophy, art history, political science, media studies, literature. Most who enroll are 1st year, some 2nd and 3rd years as well. Some students only do the practical part of the module (taught by Krisztian), some only the theoritical part (taught be Paula). Due to Covid, the classes will use a hybrid/dual mode teaching method i.e. some students will be in the classroom with me and some will attend via the online Zoom meeting.  
-
-## Module description
+## Module description (AU and SP)
 What does it mean to be a "digital citizen"? As increasing portions of our personal and professional lives are played out online, acquiring the ability to effectively use digital interfaces and think critically about them is an ever more urgent task, as well as a topic of fierce debate. While some allege that we live in a "post-fact" era filled with "fake news" that limits our worldview, others see in digital technologies the key to unlocking social change and bringing people together in new ways and across geographical boundaries.
-
-<!-- 
-- generations?
-- sum up: digital visitors and residents
-- [[online-identity.md]] + merge with digital identy info https://moodle.essex.ac.uk/course/view.php?id=7522&section=26
-- is the ideas to become more of a resident - to create residency e.g. by creating/editing/currating content via digital platforms
--->
 
 The digital revolution is constantly reshaping our world in a myriad of ways: from surveillance laws to social mobilisation; from innovative business models to open access information; from warfare strategy to medical treatment. Not only this, the way we construct our individual identities, build communities, protect human rights, and promote the humanities is increasingly mediated through online platforms, and contingent on the uneven access that global communities have to technology.
 
-To actively take part in our fast-evolving world, we need to have control over our own digital identities. The module aims to help manage our digital identities by (1) introducing a the 'visitory & resident map' that can help inspect our involvement with the Web and then (2) introcudes tools for project management, web-design and development as well as audio-visual tools to help develop our personal and professional digital identities on the Web. While the module is primarily focused on providing practical skills it will also open up dialogues to help develop critical thinking about our digital interactions.
+## AU module specifics
+To actively take part in our fast-evolving world, we need to have control over our own digital identities. The Autumn module aims to help manage our digital identities by (1) introducing a the 'visitory & resident map' that can help inspect our involvement with the Web and then (2) introcudes tools for project management, web-design and development as well as audio-visual tools to help develop our personal and professional digital identities. While the Autumn module is primarily focused on providing practical skills it will also open up dialogues to help develop critical thinking about our digital interactions.
 
 The module introduces primarily free and cross-platform software and highlights their advantages and disadvantages to paid software. 
+
+## Students
+Studens enrolled in this module come from different disciplines/departments e.g. journalism, psychology, philosophy, art history, political science, media studies, literature. Most who enroll are 1st year, but there are some 2nd and 3rd years as well. Some students only do the practical part of the module (taught by Krisztian), some only the theoritical part (taught be Paula), some do both. Due to Covid, the classes will use a hybrid/dual mode teaching method i.e. some students will be in the classroom with me and some will attend via the online Zoom meeting. Students cannot swap around and do learning some weeks face-to-face and other weeks remotely. (CS220AU - Authumn enrollment, CS220SP - Spring enrollment, CS220FY - enrollement in both terms). 
 
 <!-- add sense making -->
 
