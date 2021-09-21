@@ -1,11 +1,17 @@
 <!--
 TODO:
+## write here - publish on Medium (later)
+- write each file (apart from readme.md) for Medium audience (and students)
+- needs to be accessible here as well as students might not have access to more than 5 articles, etc.
+- use 'you could read it on Medium' on the top of the file once published on Medium
+
 ## week 2 theory/assignment 
 - carry on with planning w2 (theory): gen, v&r (part 1, 2, 3) + explain assignment 
 - create assignment repo example
-- write assessment guide and rubric/checksheet
-  - the assignment should help create better residencies (personal or professional)
-  - how does the assignment help critical thinking
+  - have a look at examples
+  - create a public repo (that they could clone or download/upoad)
+  - populate with all files needed (perhaps own v&r maps)
+  - write assessment guide and rubric/checksheet
 
 ## syllabus w3 - w7
 - outline in github repo
