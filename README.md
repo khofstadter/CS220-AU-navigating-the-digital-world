@@ -253,4 +253,3 @@ TODO:
 ### thinking slowly
 https://mattgemmell.com/thinking-slowly/
 ### mailing list
-
