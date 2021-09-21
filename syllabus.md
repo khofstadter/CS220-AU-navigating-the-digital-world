@@ -12,9 +12,9 @@ Note: your CS220AU assignment can develop a personal or a professional project w
 6 [Sensemaking](#W6-Sensemaking)  
 7 [Student Presentations](#W7-Student-Presentations)  
 8 [Reading Week](#W8-Reading-Week)  
-9-10-11 [Workshops](#W9-10-11-Workshops)  
+9-10-11 [Workshops](#W9-10-11-Workshops)
 
-
+<br>
 
 ## W1 Welcome week
 TODO: email students these questions prior the first class in w2
@@ -28,7 +28,7 @@ TODO: email students these questions prior the first class in w2
 - do you have a previous or ongoing project that you would like to show your class?
 - do you have a project you could connect to this module perhaps a blog/vlog/podcast idea?
 
-
+<br>
 
 ## W2 Introduction
 - introduction to Autumn and Spring term by Paula (Tuesday)
@@ -72,7 +72,7 @@ questions to ask ourselves
 - make v&r-map-2021-10.jpg
 - familiarise yourself with the module description, assignments, assignment criteria, assessment rubric, note down questions in your repositiry, think about a project that you'd like to reflect on in this module
 
-
+<br>
 
 ## W3 Visual Code Studio and GitHub Desktop
 - your progress
@@ -84,13 +84,13 @@ questions to ask ourselves
 - watch [Social Dilemma](https://youtu.be/uaaC57tcci0) on Netflix if you can)
 - try Brave Browser to see what websites are trying to crawl from you
 
-
+<br>
 
 ## W4 Websites and Troubleshooting
 [[websites]]
 [[troubleshooting]]
 
-
+<br>
 
 ## W5 Audio-Visual and Other Productivity Tools 
 [[audio-visual-and-other-productivity-tools.md]]
@@ -98,7 +98,7 @@ questions to ask ourselves
 TODO: 
 - book mics for students to test with software (mini jack connection needed) https://www.essex.ac.uk/staff/it-services/equipment-loans
 
-
+<br>
 
 ## W6 Sensemaking
 [[sensemaking]]
@@ -107,19 +107,19 @@ TODO:
 - Antonio Damasio: The Strange Order of Things
 - The Backfire Effect
 
-
+<br>
 
 ## W7 Student Presentations
 
-
+<br>
 
 ## W8 Reading Week
 
-
+<br>
 
 ## W9-10-11 Workshops
 
-
+<br>
 
 ---
 <!--
