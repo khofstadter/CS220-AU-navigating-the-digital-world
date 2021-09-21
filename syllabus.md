@@ -2,7 +2,6 @@
 This syllabus was desinged to provide you with a basis for your online identity (or one of your projects' online identity) which is a personal or a project website. (For the assignment you can work on a personal or a project website.)
 
 ## Weeks
-(shortcuts)
 
 1 [Welcome week](#W1-Welcome-week)  
 2 [Introduction](#W2-Introduction)  
