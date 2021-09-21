@@ -1,5 +1,6 @@
 # digital identity
 <!--
+TODO: maybe rename this to digital-identities.md file (and change the link in syllabus.md)
 TODO: link or extract data from https://moodle.essex.ac.uk/mod/page/view.php?id=376391
 -->
 
