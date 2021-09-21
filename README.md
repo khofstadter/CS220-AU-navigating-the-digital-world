@@ -41,6 +41,8 @@ TODO:
 - what digital skills are needed for the knowledge economy and a democratic society?
 - how can we build and use our online identities?
 - how might we use digital technologies as creative and engaging forms of communication?
+
+## hex and performance
 -->
 
 # CS220 AU Navigating the Digital World
