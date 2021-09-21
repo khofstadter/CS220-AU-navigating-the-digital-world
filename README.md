@@ -1,56 +1,33 @@
 <!--
 TODO:
-- carry on with planning w2: gen, v&r (part 1, 2, 3)
-- create module outline, hide things on Moodle
-- ask Paule to amend module description to reflect on changes I made to last years outline
+## week 2 theory/assignment 
+- carry on with planning w2 (theory): gen, v&r (part 1, 2, 3) + explain assignment 
+- create assignment repo example
+- write assessment guide and rubric/checksheet
+  - the assignment should help create better residencies (personal or professional)
+  - how does the assignment help critical thinking
 
+## syllabus w3 - w7
+- outline in github repo
+- tools.md
+- other .md files
+- publish on Medium?
+### screencasts
+- find mic solution
+- book lab M or G
+- make screencasts in lab G
 
-- make first software related screencasts in lab G
-- setup Remote Desktop and VPN and email payroll form and to test with macbook in the room
-- test HDMI cable in room with macbook and student computer
+## labs
+- option A: student computer or lecturn
+- option B: mac with remote desktop
 - any update about the little table?
-- what compusory induction do I have to do?
 - revised hybrid class teaching (how can audio sources be mixed efficiently)
 - are breakout rooms in hybrid classes possible?
 
-refine module specs: 
-0. work on tools.md and minimise syllabus outline in README.md
-1. make screencasts and edit them in a video editor + upload to YouTube
-2. think about theory
-  - watch Marty's videos, content.
-  - Center for Humane Technology email (take out info)
-  - Rebel Wisdom gist
-  - Daniel Schmachtenberger Gist  
-3. link practice to theory: 
-   - how does the module assigment (website) help critical thinking?
-   - finish good module outline on GitHub Repo
-4. change Moodle / send an overview to Paula
-  
--->
+## compulsory induction
+- what compusory induction do I have to do?
 
-# CS220 AU Navigating the Digital World
-University of Essex    
-Department: Interdisciplinary Studies   
-School of Philosophy and Arts History  
-Wed 11-1pm Lab M  
-Thu 11-1pm Lab G  
-
-This repository only contains information for the CS220 AU module, the Autumn term module. Information for Dr Di Franco's more theoretical module (CS220 SP) is on Moodle.
-
-<!--
-## delivery options: 
-Option A: lectern PC running same windows as students use on their computers. 
-- both lecterns (lab G and M) are faulty, they need repairing;
-- both Zoom screens should be relocated to the other side of the room
-- lectern demonstartes software as well as connects to Zoom
-- the projection is not ideal as students in the back won't see what's projected (but perhaps the Zoom screen TV has a better screen)
-Option B: macbook running Windows via Remote Desktop. 
-- in lab M - try HDMI long cable
-- in lab G - try thunderbolt adapter and ask for minijack extension
-Option C in lab M: 
-- use a student computer in the first row with an HDMI cable
-
-## address all themes:
+## address all themes in syllabus
 - digital identities
 - e-safety
 - blogging
@@ -66,8 +43,17 @@ Option C in lab M:
 - how might we use digital technologies as creative and engaging forms of communication?
 -->
 
+# CS220 AU Navigating the Digital World
+University of Essex    
+Department: Interdisciplinary Studies   
+School of Philosophy and Arts History  
+Wed 11-1pm Lab M  
+Thu 11-1pm Lab G  
+
+This repository only contains information for the CS220 AU module, the Autumn term module. Information for Dr Di Franco's more theoretical module (CS220 SP) is on Moodle.
+
 ## Module description
-The complete module description can be found on Moodle. 
+The complete module description can be found on Moodle (or see in `assets/doc`folder).
 
 ## Further clarification
 <!-- To actively take part in our fast-evolving world, we need to have control over our own digital identities.--> The module aims to help manage our digital identities by (1) introducing the 'visitor & resident map' which can help understand our involvement with the Web and then, (2) introduce tools for project management, web-design as well as audio-visual production and editing to help develop our personal and professional resident identities. While this module primarily focuses on providing practical skills it also opens up dialogues to help develop critical thinking about our digital interactions.
