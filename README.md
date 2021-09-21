@@ -50,7 +50,7 @@ School of Philosophy and Arts History
 Wed 11-1pm Lab M  
 Thu 11-1pm Lab G  
 
-This repository only contains information for the CS220 AU module, the Autumn term module. Information for Dr Di Franco's more theoretical module (CS220 SP) is on Moodle. If your enrollment code is CS220 FY (Full Year) then the information below is relevant for you as well.
+This repository only contains information for the CS220 AU module, the Autumn term module. Information for Dr Di Franco's more theoretical module (CS220 SP) is on Moodle. If your enrollment code is CS220 FY (Full Year) then the information below is relevant for you as well as FY means that you enrolled in both, AU and SP. 
 
 ## Module description
 The complete module description can be found on Moodle (or see in `assets/doc`folder).
