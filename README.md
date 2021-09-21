@@ -61,29 +61,41 @@ The complete module description can be found on Moodle (or see in `assets/doc`fo
 The module aims to **help manage our digital identities**
 
 1. by introducing the 'visitor & resident map' which can help understand and develop our involvement with the Web and 
-2. by introducing tools for project management, web-design as well as audio-visual creation and editing to help develop personal and professional resident identities. 
+2. by introducing tools for project management, web-design as well as audio-visual production and post production to help develop personal and professional resident identities. 
 
 While this module primarily focuses on providing practical skills it also opens up dialogues to help develop critical thinking about our digital identities and interactions.
 
-The module introduces primarily free and cross-platform software and where possible highlights their advantages and disadvantages to paid software. As the module in 2021 is run in labs equipt with Windows PCs, I will demonstrate these software in the workshops and screencasts using this (Windows 10) operating system. 
+The module introduces primarily free and cross-platform software and where possible highlights their advantages and disadvantages to paid software. As the module in 2021 is run in labs equipt with Windows PCs, I will demonstrate these software in the workshops and screencasts using Windows 10 operating system. 
 
-After this primarily practical Authmn term module, lecturers from different disciplines across the University will lead a series of weekly lectures during the Spring term, which will combine theoretical questions with real-life scenarios to explore issues such as hacking, social media, ethics, digital crime, video games and interactive technologies. These sessions are devised to help students gain a broad awareness of, and to think critically about, the ways that digital technologies are reshaping contemporary societies.
+After this primarily practical Authmn term module, lecturers from different disciplines across the university will lead a series of weekly lectures during the Spring term, which will combine theoretical questions with real-life scenarios to explore issues such as hacking, social media, ethics, digital crime, video games and interactive technologies. These sessions are devised to help students gain a broad awareness of, and to think critically about, the ways that digital technologies are reshaping contemporary societies.
 
-So how much theory will we cover in this Authm module? 
-- overview of generations
-- visitor and resident map (tool)
-- information processing (sense making) and dissemination
+### So how much theory will we cover in this Authm module?
+**In week 2:**
+- a brief overview of generations
+- introduction to the visitor and resident map (white)
 
-The rest is practical i.e. we will experiment with software that can help us create and maintain a 'better' digital identity (or identities). As you have probably discovered already, you can have multiple personal identities on the Web however, (probably) only one professional identity. Our personal identities are more informal, subjective and our professional ones more formal and perhaps more objective as well. 
+In later weeks:
+- information processing (sense making), critical thinking and dissemination
+- intelligent search strategies using Google vs Duck Duck Go, Google Scholar and the library website
+- e-safety e.g. efficient passwords
 
-The assigment is to submit a porfolio consisting of two main parts:
+The rest of the information the module provides is practical i.e. we will experiment with software that can help us create and maintain 'better' digital identites. Everyone can have multiple identities on the Web however, (probably) only one professional identity. Our personal identities are more informal, subjective and our professional ones more formal and perhaps more objective as well. 
+
+## Assignment
+The assigment is to submit a portfolio consisting of two main parts:
 - the online presence of a project e.g. a personal or professional website
-- a short report reflecting on your past, present and future digital identities using the 'visitor and resident' method
+- a short report reflecting on your past, present and future digital identity (or identies) using the 'visitor and resident' map
 
-Examples and templates will be provided in class. 
+### Assignment template
+<!-- TODO: create an example repo -->
+The example will be explained in class. 
+
+### Assigment examples
+In class we will look at a few submission from last year to plant some ideas. 
+<!-- TODO: create an example repo -->
 
 ## Students
-Studens enrolled in this module come from different disciplines/departments e.g. journalism, psychology, philosophy, art history, political science, media studies, literature. Most who enroll are 1st year, but there are some 2nd and 3rd years as well. Some students only do the practical part of the module (taught by me), some only the theoritical part (taught be Paula), some do both. Due to Covid, the classes will use a hybrid/dual mode teaching method i.e. some students will be in the classroom with me and some will attend via the online Zoom meeting. Students cannot swap around and do learning some weeks face-to-face and other weeks remotely.
+Studens enrolled in this module come from different disciplines/departments e.g. journalism, psychology, philosophy, art history, political science, media studies, literature. Most who enroll are 1st year, but there are some 2nd and 3rd years as well. Some students only do the practical part of the module (taught by me), some only the theoritical part (taught be Paula), some do both. Due to Covid, the classes will use a hybrid/dual mode teaching method i.e. some students will be in the classroom with me and some will attend via the online Zoom meeting. Students cannot swap around and do learning some weeks face-to-face and other weeks remotely. (Make sure you know how much your mark for this module contributes to your final mark linke to your graduation certificate. 
 
 ## module aims/goals
 - to introduce tools/methods for efficient project management including logging, writing, audio-visual production, web-desing and web-hosting
