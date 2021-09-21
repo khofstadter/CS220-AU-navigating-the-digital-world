@@ -79,7 +79,7 @@ After this primarily practical Authmn term module, lecturers from different disc
 - a brief overview of generations
 - introduction to the visitor and resident map (white)
 
-In later weeks:
+**In later weeks:**
 - information processing (sense making), critical thinking and dissemination
 - intelligent search strategies using Google vs Duck Duck Go, Google Scholar and the library website
 - e-safety e.g. efficient passwords
