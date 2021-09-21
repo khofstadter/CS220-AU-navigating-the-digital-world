@@ -1,5 +1,5 @@
 # Syllabus
-This syllabus was designed to help develop our personal and professional digital indentities with which we can engage with information on the Web more efficiently in our residence modes. For more information about this mode see the [visitors and residents](visitors-and-residents.md) file. 
+This syllabus was designed to help develop our personal and professional digital indentities with which we can engage with information on the Web more efficiently in our residence modes. (For more information about this mode see the [visitors and residents](visitors-and-residents.md) file.)
 
 Note: your assignment can develop a personal or a professional project website.
 
