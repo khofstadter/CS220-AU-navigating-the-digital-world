@@ -61,20 +61,21 @@ The complete module description can be found on Moodle (or see in `assets/doc`fo
 The module aims to **help manage our digital identities**
 
 1. by introducing David White's [Visitors & Resident (V&R) Map](http://daveowhite.com/vandr/vr-mapping/) to help understand and develop our involvement with the Web and 
-2. by introducing tools for project management, web-design as well as audio-visual production and post production to help develop personal and professional resident identities. 
+2. by introducing tools for project management, web-design as well as audio-visual production and post production to help develop personal and professional resident identities on the Web i.e. your resident digital identities or by White often referred to as 'resident modes'.
 
 While this module primarily focuses on providing practical skills it also opens up dialogues to help develop critical thinking about our digital identities and interactions e.g. by asking the following questions:
 
 - how are we currently engaging with the Web and how can we improve this?
 - how can we build and use our online identities e.g. a website for 'better' engagement?
-- how can we use software tools to create assets e.g. audio-video content to help us disseminate information through our online identities more effectively?
-- how can we apply critical thinking regarding the information we consume and produce? 
+- how can we use software tools to create assets e.g. audio-video content to help us disseminate information via our online identities more effectively?
+- how can we apply critical thinking regarding the information we consume and produce?
+- why should we produce information and whom should we address with this information i.e. who is our target audience?
 
-The module introduces primarily free and cross-platform software and where possible highlights their advantages and disadvantages to paid software. As the module in 2021 is run in labs equipt with Windows PCs, I will demonstrate these software in the workshops and screencasts using Windows 10 operating system. 
+The module introduces primarily free and cross-platform software and where possible highlights their advantages and disadvantages to paid software. As the module in 2021 is run in labs equipt with Windows PCs, I will demonstrate these software in the workshops and screencasts using Windows 10 operating system (OS). (However, as the OS I primarily use is macOS, if desired, I can demonstrate on macOS as well.)
 
-After this primarily practical Authmn term module, lecturers from different disciplines across the university will lead a series of weekly lectures during the Spring term, which will combine theoretical questions with real-life scenarios to explore issues such as hacking, social media, ethics, digital crime, video games and interactive technologies. These sessions are devised to help students gain a broad awareness of, and to think critically about, the ways that digital technologies are reshaping contemporary societies.
+After this primarily practical Authmn term module, lecturers from different disciplines across the university will lead a series of weekly lectures during the Spring term, which will combine theoretical questions with real-life scenarios to explore issues such as hacking, social media, ethics, digital crime, video games and interactive technologies. These sessions are devised to help students gain a broad awareness of, and to think critically about, the ways that digital technologies are reshaping contemporary societies. For more information about these lectures please contact Dr Di Franco.
 
-### So how much theory will we cover in this Authm module?
+### How much theory will we cover in this Authm module?
 **In week 2:**
 - a brief overview of generations
 - introduction to the visitor and resident map (white)
