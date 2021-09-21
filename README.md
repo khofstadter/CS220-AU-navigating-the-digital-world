@@ -94,8 +94,10 @@ The example will be explained in class.
 In class we will look at a few submission from last year to plant some ideas. 
 <!-- TODO: create an example repo -->
 
+
 ## Students
 Studens enrolled in this module come from different disciplines/departments e.g. journalism, psychology, philosophy, art history, political science, media studies, literature. Most who enroll are 1st year, but there are some 2nd and 3rd years as well. Some students only do the practical part of the module (taught by me), some only the theoritical part (taught be Paula), some do both. Due to Covid, the classes will use a hybrid/dual mode teaching method i.e. some students will be in the classroom with me and some will attend via the online Zoom meeting. Students cannot swap around and do learning some weeks face-to-face and other weeks remotely. (Make sure you know how much your mark for this module contributes to your final mark linke to your graduation certificate. 
+
 
 ## module aims/goals
 - to introduce tools/methods for efficient project management including logging, writing, audio-visual production, web-desing and web-hosting
