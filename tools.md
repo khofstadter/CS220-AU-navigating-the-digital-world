@@ -10,7 +10,11 @@
   - will be used for your public logbook (log) and public static website (GitHub Pages) 
   - when creating it add the `readme.md` file
 
+### Markdown
+Familarise yourself with Markdown language here: https://guides.github.com/features/mastering-markdown/ (there is a shortcut for this link in the file editor in your repository). <!-- add a screenshot? -->
+
 ### Thoughts
+- there are slightly different Markdown versions, but in general they all work the same (stick to the above if using with GitHub)
 - we can monitor each others' progress on the public repository. Please update it at least once a week. <!-- TODO: make example repo for private and public. Perhaps show examples of sonic art students from ARU. -->
 
 ## Visual Studio Code (VSC)
