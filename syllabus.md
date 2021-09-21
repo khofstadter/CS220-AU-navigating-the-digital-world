@@ -1,7 +1,7 @@
 # Syllabus
 This syllabus was desinged to provide you with a basis for your online identity (or one of your projects' online identity) which is a personal or a project website. (For the assignment you can work on a personal or a project website.) 
 
-[create an anchor](## W1 Welcome week)
+[create an anchor](## W2 Introduction)
 
 
 ## W1 Welcome week
