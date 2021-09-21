@@ -63,7 +63,12 @@ The module aims to **help manage our digital identities**
 1. by introducing the 'visitor & resident map' which can help understand and develop our involvement with the Web and 
 2. by introducing tools for project management, web-design as well as audio-visual production and post production to help develop personal and professional resident identities. 
 
-While this module primarily focuses on providing practical skills it also opens up dialogues to help develop critical thinking about our digital identities and interactions.
+While this module primarily focuses on providing practical skills it also opens up dialogues to help develop critical thinking about our digital identities and interactions e.g. by asking the following questions:
+
+- how are we currently engaging with the Web and how can we improve this?
+- how can we build and use our online identities e.g. a website for 'better' engagement?
+- how can we use software tools to create assets e.g. audio-video content to help us disseminate information through our online identities more effectively?
+- how can we apply critical thinking regarding the information we consume and produce? 
 
 The module introduces primarily free and cross-platform software and where possible highlights their advantages and disadvantages to paid software. As the module in 2021 is run in labs equipt with Windows PCs, I will demonstrate these software in the workshops and screencasts using Windows 10 operating system. 
 
@@ -90,21 +95,7 @@ The assigment is to submit a portfolio consisting of two main parts:
 <!-- TODO: create an example repo -->
 The example will be explained in class. 
 
-### Assigment examples
-In class we will look at a few submission from last year to plant some ideas. 
-<!-- TODO: create an example repo -->
-
-
-## Students
-Studens enrolled in this module come from different disciplines/departments e.g. journalism, psychology, philosophy, art history, political science, media studies, literature. Most who enroll are 1st year, but there are some 2nd and 3rd years as well. Some students only do the practical part of the module (taught by me), some only the theoritical part (taught be Paula), some do both. Due to Covid, the classes will use a hybrid/dual mode teaching method i.e. some students will be in the classroom with me and some will attend via the online Zoom meeting. Students cannot swap around and do learning some weeks face-to-face and other weeks remotely. (Make sure you know how much your mark for this module contributes to your final mark linke to your graduation certificate. 
-
-
-## module aims/goals
-- to introduce tools/methods for efficient project management including logging, writing, audio-visual production, web-desing and web-hosting
-- help acquire technical skills required to create and maintain a personal website
-- primarily practical with some theory to induce discussions on the effective use of digital technologies 
-
-## module assignment
+## Module assignment <!-- maybe to go in the template repo-->
 One GitHub repository containing the following files:
 - README.md file:
   - short overview/abstract
@@ -117,37 +108,23 @@ Report needs to contain: project goals, design, testing, development, deployment
 - assets/v&r-map-2021-11.jpg (embdedded in report.md)
 - assets/v&r-map-2021-12.jpg (embdedded in report.md)
 
-## assignment criteria
-<!--TODO: 
-- provide a repository example that perhaps students could download/upload or clone?
-- check current module assessment criteria and adjust to own module syllabus
-- write checklist
-- examples: last year's CS220 and sonic art
--->
+### Assigment examples
+In class we will look at a few submission from last year (Essex and ARU) to plant some ideas. 
+<!-- TODO: create an example repo -->
 
+## Students
+Studens enrolled in this module come from different disciplines/departments e.g. journalism, psychology, philosophy, art history, political science, media studies, literature. Most who enroll are 1st year, but there are some 2nd and 3rd years as well. Some students only do the practical part of the module (taught by me), some only the theoritical part (taught be Paula), some do both. Due to Covid, the classes will use a hybrid/dual mode teaching method i.e. some students will be in the classroom with me and some will attend via the online Zoom meeting. Students cannot swap around and do learning some weeks face-to-face and other weeks remotely. (Make sure you know how much your mark for this module contributes to your final mark linke to your graduation certificate. 
 
-<!-- 
-Some of the key questions (from the module description) that we'll be addressing
+### FFR
+To be able to support your projects (assignments) as much as possible, I will need to understand the levels of technical and aesthetic (and perhaps theoritical) skills you enter the module with. FFR is for frequency following response, sometimes referred to as sycnronisation. In other words, to be able to provide efficient help, I need to first syncronise to your current position (understand it) e.g. how much experience you have with audio-video software and then provide suitable support. As you will see, I like to get to know people by asking them to express their aims and methods and even takes notes to make sure I can remember everyone's progress. 
 
-- how are we currently engaging with the Web and can we improve this?
-- how can we build and use our online identities e.g. a website for 'better' engagement?
-- how can we use software tools to create assets e.g. audio-video content to help us disseminate information through our online identities?
-- how can we apply critical thinking regarding the information we consume and produce? 
-
-- how are digital technologies transforming society?
-- to what extent do digital technologies curb or enhance our rights and freedom?
-- what digital skills are needed for the knowledge economy and a democratic society?
--->
-
-
-## module outcomes
-By the end of this module, students should have
-
-- a deeper understanding of digital literacies, as well as the confidence and ability to use a broad range of digital technologies
-- the ability to discuss the material covered on the module and to demonstrate this competence through coursework, seminar discussions and the creation of a website
-- a good understanding of topics and debates that are central to the digital world 
-- confidence in using a number of specialised terms and terminology on digital technologies
-- a deeper understanding of the impacts of digital technologies on society and human life
+## Module aims and methods
+- to help critically assess your current use of your digital identies (with the v&r map)
+- to help further develop your digital identies by introducing tools/methods for efficient project management including 
+  - logging
+  - writing
+  - audio-visual production
+  - web-desing and web-hosting
 
 ## syllabus
 This syllabus was desinged to provide you with a basis for your online identity (or one of your projects' online identity) which is a personal or a project website. (For the assignment you can work on a personal or a project website.) 
