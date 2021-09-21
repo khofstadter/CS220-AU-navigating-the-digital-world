@@ -1,6 +1,10 @@
 # Syllabus
 This syllabus was desinged to provide you with a basis for your online identity (or one of your projects' online identity) which is a personal or a project website. (For the assignment you can work on a personal or a project website.) 
 
+(#some-markdown-heading) so your link should look like so:
+
+
+
 ## W1 Welcome week
 TODO: email students these questions prior the first class in w2
 - which departments do you come from?
@@ -39,6 +43,8 @@ TODO: email students these questions prior the first class in w2
   - better professional identies, better understanding of how we shoul produce and consume knowledge e.g. regarding the credibility of information
 
 - check slides on http://daveowhite.com/vandr/vr-mapping/ for map examples
+
+[create an anchor](#some-markdown-heading)
 
 questions to ask ourselves
 - can our current map be improved? 
