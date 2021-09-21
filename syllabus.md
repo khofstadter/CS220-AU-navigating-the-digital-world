@@ -1,7 +1,7 @@
 # Syllabus
 This syllabus was designed to help develop our personal and/or professional digital indentities with which we can engage with information on the Web more efficiently in our residence modes. (For more information about this mode see the [visitors and residents](visitors-and-residents.md) file.)
 
-Note: your assignment can develop a personal or a professional project website.
+Note: your CS220AU assignment can develop a personal or a professional project website.
 
 ## Weeks
 1 [Welcome week](#W1-Welcome-week)  
@@ -14,6 +14,8 @@ Note: your assignment can develop a personal or a professional project website.
 8 [Reading Week](#W8-Reading-Week)  
 9-10-11 [Workshops](#W9-10-11-Workshops)  
 
+
+
 ## W1 Welcome week
 TODO: email students these questions prior the first class in w2
 - which departments do you come from?
@@ -25,6 +27,8 @@ TODO: email students these questions prior the first class in w2
 - do you already have a website?
 - do you have a previous or ongoing project that you would like to show your class?
 - do you have a project you could connect to this module perhaps a blog/vlog/podcast idea?
+
+
 
 ## W2 Introduction
 - introduction to Autumn and Spring term by Paula (Tuesday)
@@ -68,6 +72,8 @@ questions to ask ourselves
 - make v&r-map-2021-10.jpg
 - familiarise yourself with the module description, assignments, assignment criteria, assessment rubric, note down questions in your repositiry, think about a project that you'd like to reflect on in this module
 
+
+
 ## W3 Visual Code Studio and GitHub Desktop
 - your progress
 [[project-management-with-github-vsc-foam.md]]
@@ -78,15 +84,21 @@ questions to ask ourselves
 - watch [Social Dilemma](https://youtu.be/uaaC57tcci0) on Netflix if you can)
 - try Brave Browser to see what websites are trying to crawl from you
 
+
+
 ## W4 Websites and Troubleshooting
 [[websites]]
 [[troubleshooting]]
+
+
 
 ## W5 Audio-Visual and Other Productivity Tools 
 [[audio-visual-and-other-productivity-tools.md]]
 [[podcast]]
 TODO: 
 - book mics for students to test with software (mini jack connection needed) https://www.essex.ac.uk/staff/it-services/equipment-loans
+
+
 
 ## W6 Sensemaking
 [[sensemaking]]
@@ -95,17 +107,26 @@ TODO:
 - Antonio Damasio: The Strange Order of Things
 - The Backfire Effect
 
+
+
 ## W7 Student Presentations
+
+
 
 ## W8 Reading Week
 
+
+
 ## W9-10-11 Workshops
 
----
 
+
+---
+<!--
 ## Ideas to discuss
 ### Self-assessment
 #### Invoicing
 ### Thinking slowly
 https://mattgemmell.com/thinking-slowly/
 ### mailing list
+-->
