@@ -1,11 +1,12 @@
 # Syllabus
-This syllabus was desinged to provide you with a basis for your online identity (or one of your projects' online identity) which is a personal or a project website. (For the assignment you can work on a personal or a project website.)
+This syllabus was designed to help develop our personal and professional digital indentities with which we can engage with information on the Web more efficiently in our residence modes. For more information about this mode see the [visitors and residents](visitors-and-residents.md) file. 
+
+Note: your assignment can develop a personal or a professional project website.
 
 ## Weeks
-
 1 [Welcome week](#W1-Welcome-week)  
 2 [Introduction](#W2-Introduction)  
-3 [W3 Visual Code Studio and GitHub Desktop](#W3-Visual-Code-Studio-and-GitHub-Desktop)  
+3 [Visual Code Studio and GitHub Desktop](#W3-Visual-Code-Studio-and-GitHub-Desktop)  
 4 [Websites and Troubleshooting](#W4-Websites-and-Troubleshooting)  
 5 [Audio-Visual and Other Productivity Tools](#W5-Audio-Visual-and-Other-Productivity-Tools)  
 6 [Sensemaking](#W6-Sensemaking)  
