@@ -47,8 +47,8 @@ TODO:
 University of Essex    
 Department: Interdisciplinary Studies   
 School of Philosophy and Arts History  
-Wed 11-1pm Lab M  
-Thu 11-1pm Lab G  
+Wed 11-1 pm Lab M  
+Thu 11-1 pm Lab G  
 
 This repository only contains information for the CS220 AU module, the Autumn term module. Information for Dr Di Franco's more theoretical module (CS220 SP) is on Moodle. If your enrollment code is CS220 FY (Full Year) then the information below is relevant for you as well as FY means that you enrolled in both, AU and SP. 
 
@@ -60,8 +60,8 @@ The complete module description can be found on Moodle (or see in `assets/doc`fo
 
 The module aims to **help manage our digital identities**
 
-1. by introducing David White's [visitors & residents (v&r) modes](digital-identities.md/#visitors-and-residents) to help understand and develop our engagments with the Web and 
-2. by introducing tools for project management, web-design as well as audio-visual production and post production to help develop personal and professional resident identities  on the Web i.e. what White often referred to as 'resident modes engagement'. 
+1. by introducing David White's [visitors & residents (v&r) modes](digital-identities.md/#visitors-and-residents) to help understand and develop our engagements with the Web and 
+2. by introducing tools for project management, web-design as well as audio-visual production and post-production to help develop personal and professional resident identities on the Web i.e. what White often referred to as 'resident modes engagement'. 
 
 While this module primarily focuses on providing practical skills it also opens up dialogues to help develop critical thinking about our digital identities and interactions e.g. by asking the following questions:
 
@@ -71,9 +71,9 @@ While this module primarily focuses on providing practical skills it also opens 
 - how can we apply critical thinking regarding the information we consume and produce?
 - why should we produce information and whom should we address with this information i.e. who is our target audience?
 
-The module introduces primarily free and cross-platform software and where possible highlights their advantages and disadvantages to paid software. As the module in 2021 is run in labs equipt with Windows PCs, I will demonstrate these software in the workshops and screencasts using Windows 10 operating system (OS). (However, as the OS I primarily use is macOS, if desired, I can demonstrate on macOS as well.)
+The module introduces primarily free and cross-platform software and where possible highlights their advantages and disadvantages to paid software. As the module in 2021 is run in labs equipped with Windows PCs, I will demonstrate software in the workshops and screencasts using Windows 10 operating system (OS). (However, as the OS I primarily use is macOS, if desired, I can demonstrate on macOS as well.)
 
-After this primarily practical Authmn term module, lecturers from different disciplines across the university will lead a series of weekly lectures during the Spring term, which will combine theoretical questions with real-life scenarios to explore issues such as hacking, social media, ethics, digital crime, video games and interactive technologies. These sessions are devised to help students gain a broad awareness of, and to think critically about, the ways that digital technologies are reshaping contemporary societies. For more information about these lectures please contact Dr Di Franco.
+After this primarily practical Autumn term module, lecturers from different disciplines across the university will lead a series of weekly lectures during the Spring term, which will combine theoretical questions with real-life scenarios to explore issues such as hacking, social media, ethics, digital crime, video games and interactive technologies. These sessions are devised to help students gain a broad awareness of, and to think critically about, the ways that digital technologies are reshaping contemporary societies. For more information about these lectures please contact Dr Di Franco. (from the module description)
 
 ### How much theory will we cover in this Authm module?
 **In week 2:**
@@ -85,12 +85,12 @@ After this primarily practical Authmn term module, lecturers from different disc
 - intelligent search strategies using Google vs Duck Duck Go, Google Scholar and the library website
 - e-safety e.g. efficient passwords
 
-The rest of the information the module provides is practical i.e. we will experiment with software that can help us create and maintain 'better' digital identites. Everyone can have multiple identities on the Web however, (probably) only one professional identity. Our personal identities are more informal, subjective and our professional ones more formal and perhaps more objective as well. 
+The rest of the information the module provides is practical i.e. we will experiment with software that can help us create and maintain 'better' digital identities. Everyone can have multiple identities on the Web however, (probably) only one professional identity. Our personal identities are more informal, subjective and our professional ones more formal and perhaps more objective as well. 
 
 ## Assignment
-The assigment is to submit a portfolio consisting of two main parts:
+The assignment is to submit a portfolio consisting of two main parts:
 - the online presence of a project e.g. a personal or professional website
-- a short report reflecting on your past, present and future digital identity (or identies) using the v&r map
+- a short report reflecting on your past, present and future digital identity (or identities) using the v&r map
   - reflect on how you use digital technology in different contexts
   - explore your own "digital journey" by thinking about the different digital devices you have bought (or been given) over your lifetime
 
@@ -106,25 +106,25 @@ One GitHub repository containing the following files:
   - lookbook
 - report.md (500 - 750 word) 
 - report.pdf (optional, report.md exported into PDF format)
-Report needs to contain: project goals, design, testing, development, deployment (include feedback from others)
-- assets/v&r-map-2021-10.jpg (embdedded in report.md)
-- assets/v&r-map-2021-11.jpg (embdedded in report.md)
-- assets/v&r-map-2021-12.jpg (embdedded in report.md)
+The report needs to contain: project goals, design, testing, development, deployment (include feedback from others)
+- assets/v&r-map-2021-10.jpg (embedded in report.md)
+- assets/v&r-map-2021-11.jpg (embedded in report.md)
+- assets/v&r-map-2021-12.jpg (embedded in report.md)
 
 ### Assigment examples
-In class we will look at a few submission from last year (Essex and ARU) to plant some ideas. 
+In class, we will look at a few submissions from last year (Essex and ARU) to plant some ideas. 
 <!-- TODO: create an example repo -->
 
 ## Students
-Studens enrolled in this module come from different disciplines/departments e.g. journalism, psychology, philosophy, art history, political science, media studies, literature. Most who enroll are 1st year, but there are some 2nd and 3rd years as well. Some students only do the practical part of the module (taught by me), some only the theoritical part (taught be Paula), some do both. Due to Covid, the classes will use a hybrid/dual mode teaching method i.e. some students will be in the classroom with me and some will attend via the online Zoom meeting. Students cannot swap around and do learning some weeks face-to-face and other weeks remotely. (Make sure you know how much your mark for this module contributes to your final mark linke to your graduation certificate. 
+Students enrolled in this module come from different disciplines/departments e.g. journalism, psychology, philosophy, art history, political science, media studies, literature. Most who enrol are 1st year, but there are some 2nd and 3rd years as well. Some students only do the practical part of the module (taught by me), some only the theoretical part (taught be Dr Di Franco), some do both. Due to Covid, the classes will use a hybrid/dual-mode teaching method i.e. some students will be in the classroom with me and some will attend via the online Zoom meeting. Students cannot swap around and do learning some weeks face-to-face and other weeks remotely. (Make sure you know how much your mark for this module contributes to your final mark linked to your graduation certificate. 
 
 ### FFR
-To be able to support your projects (assignments) as much as possible, I will need to understand the levels of technical and aesthetic (and perhaps theoritical) skills you enter the module with. FFR is for frequency following response, sometimes referred to as sycnronisation. In other words, to be able to provide efficient help, I need to first syncronise to your current position (understand it) e.g. how much experience you have with audio-video software and then provide suitable support. As you will see, I like to get to know people by asking them to express their aims and methods and even takes notes to make sure I can remember everyone's progress. 
+To be able to support your projects (assignments) as much as possible, I will need to understand the levels of technical skills you enter the module with. FFR is for frequency following response, sometimes referred to as synchronisation. In other words, to be able to provide efficient help, I need to first synchronise to your current position (understand it) e.g. how much experience you have with audio-video software and then provide suitable support. As you will see, I like to get to know people by asking them to express their aims and methods and even takes notes to make sure I can remember everyone's progress. 
 
 ## Module aims and methods
-- to help critically assess your current use of your digital identies (with the v&r map)
-- to help further develop your digital identies by introducing tools/methods for efficient project management including 
+- to help critically assess your current use of your digital identities (with the v&r map)
+- to help further develop your digital identities by introducing tools/methods for efficient project management including 
   - logging
   - writing
   - audio-visual production
-  - web-desing and web-hosting
+  - web-design and web-hosting
