@@ -90,7 +90,7 @@ The rest of the information the module provides is practical i.e. we will experi
 ## Assignment
 The assigment is to submit a portfolio consisting of two main parts:
 - the online presence of a project e.g. a personal or professional website
-- a short report reflecting on your past, present and future digital identity (or identies) using the 'visitor and resident' map
+- a short report reflecting on your past, present and future digital identity (or identies) using the v&r map
 
 ### Assignment template
 <!-- TODO: create an example repo -->
