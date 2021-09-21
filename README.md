@@ -61,7 +61,7 @@ The complete module description can be found on Moodle (or see in `assets/doc`fo
 The module aims to **help manage our digital identities**
 
 1. by introducing David White's [visitors & residents (v&r) modes](digital-identities.md/#visitors-and-residents) to help understand and develop our involvement with the Web and 
-2. by introducing tools for project management, web-design as well as audio-visual production and post production to help develop personal and professional resident identities on the Web i.e. your resident digital identities or by White often referred to as 'resident modes'.
+2. by introducing tools for project management, web-design as well as audio-visual production and post production to help develop personal and professional resident identities on the Web i.e. your resident digital identities or by White often referred to as 'resident modes'. 
 
 While this module primarily focuses on providing practical skills it also opens up dialogues to help develop critical thinking about our digital identities and interactions e.g. by asking the following questions:
 
@@ -91,6 +91,8 @@ The rest of the information the module provides is practical i.e. we will experi
 The assigment is to submit a portfolio consisting of two main parts:
 - the online presence of a project e.g. a personal or professional website
 - a short report reflecting on your past, present and future digital identity (or identies) using the v&r map
+  - reflect on how you use digital technology in different contexts
+  - explore your own "digital journey" by thinking about the different digital devices you have bought (or been given) over your lifetime
 
 ### Assignment template
 <!-- TODO: create an example repo -->
