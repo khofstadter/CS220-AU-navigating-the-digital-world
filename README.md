@@ -1,6 +1,6 @@
 <!--
 TODO:
-- email Luke (how can students access the labs, book microphones or cameras (what tools do they have access tool?)
+- email Luke (how can students access the labs, book microphones or cameras (what tools do they have access to?)
   
 refine module specs: 
 0. work on tools.md and minimise syllabus outline in README.md
@@ -107,6 +107,10 @@ This syllabus was desinged to provide you with a basis for your online identity 
     - do you already have a website?
     - do you have a previous or ongoing project that you would like to show your class?
     - do you have a project you could connect to this module perhaps a blog/vlog/podcast idea? 
+
+- less is more
+- take things apart (https://youtu.be/RtIozaY_6Ps)
+
 
 ### w3 GitHub and Visual Code Studio
 ### GitHub Repositories
