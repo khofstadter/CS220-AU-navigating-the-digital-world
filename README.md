@@ -56,7 +56,14 @@ This repository only contains information for the CS220 AU module, the Autumn te
 The complete module description can be found on Moodle (or see in `assets/doc`folder).
 
 ## Further clarification
-<!-- To actively take part in our fast-evolving world, we need to have control over our own digital identities.--> The module aims to help manage our digital identities by (1) introducing the 'visitor & resident map' which can help understand our involvement with the Web and then, (2) introduce tools for project management, web-design as well as audio-visual production and editing to help develop our personal and professional resident identities. While this module primarily focuses on providing practical skills it also opens up dialogues to help develop critical thinking about our digital interactions.
+<!-- To actively take part in our fast-evolving world, we need to have control over our own digital identities.--> 
+
+The module aims to **help manage our digital identities** by 
+
+1. introducing the 'visitor & resident map' which can help understand and develop our involvement with the Web and 
+2. introducing tools for project management, web-design as well as audio-visual creation and editing to help develop personal and professional resident identities. 
+
+While this module primarily focuses on providing practical skills it also opens up dialogues to help develop critical thinking about our digital identities and interactions.
 
 The module introduces primarily free and cross-platform software and where possible highlights their advantages and disadvantages to paid software. As the module in 2021 is run in labs equipt with Windows PCs, I will demonstrate these software in the workshops and screencasts using this (Windows 10) operating system. 
 
