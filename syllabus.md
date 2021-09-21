@@ -1,15 +1,15 @@
 # Syllabus
 This syllabus was desinged to provide you with a basis for your online identity (or one of your projects' online identity) which is a personal or a project website. (For the assignment you can work on a personal or a project website.) 
 
-[Week 1 Welcome week](#W1-Welcome-week)
-[Week 2 Introduction](#W2-Introduction)
-[Week 3 Visual Code Studio (VSC), VSC extensions and GitHub Desktop](#W3-Visual-Code-Studio-(VSC),-VSC-extensions-and-GitHub-Desktop)
-[Week 4 Websites and Troubleshooting](#Week-4-Websites-and-Troubleshooting)
-[W5 Audio-Visual and Other Productivity Tools](#W5-Audio-Visual-and-Other-Productivity-Tools)
-[W6 Sensemaking](#W6-Sensemaking)
-[W7 Student Presentations](W7-Student-Presentations)
-[W8 Reading Week](#W8-Reading-Week)
-[W9-10-11 Workshops](#W9-10-11 Workshops)
+[Week 1 Welcome week](#W1-Welcome-week)   
+[Week 2 Introduction](#W2-Introduction)   
+[Week 3 Visual Code Studio (VSC), VSC extensions and GitHub Desktop](#W3-Visual-Code-Studio-(VSC),-VSC-extensions-and-GitHub-Desktop)   
+[Week 4 Websites and Troubleshooting](#Week-4-Websites-and-Troubleshooting)   
+[W5 Audio-Visual and Other Productivity Tools](#W5-Audio-Visual-and-Other-Productivity-Tools)   
+[W6 Sensemaking](#W6-Sensemaking)  
+[W7 Student Presentations](W7-Student-Presentations)  
+[W8 Reading Week](#W8-Reading-Week)  
+[W9-10-11 Workshops](#W9-10-11-Workshops)  
 
 ## W1 Welcome week
 TODO: email students these questions prior the first class in w2
