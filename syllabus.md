@@ -1,13 +1,13 @@
 # Syllabus
 This syllabus was desinged to provide you with a basis for your online identity (or one of your projects' online identity) which is a personal or a project website. (For the assignment you can work on a personal or a project website.) 
 
-[W1 Welcome week](#W1-Welcome-week)  
-[W2 Introduction](#W2-Introduction)  
-[W3 Visual Code Studio and GitHub Desktop](#W3-Visual-Code-Studio-and-GitHub-Desktop)  
+1 [Welcome week](#W1-Welcome-week)  
+2 [Introduction](#W2-Introduction)  
+3 [W3 Visual Code Studio and GitHub Desktop](#W3-Visual-Code-Studio-and-GitHub-Desktop)  
 [W4 Websites and Troubleshooting](#W4-Websites-and-Troubleshooting)  
 [W5 Audio-Visual and Other Productivity Tools](#W5-Audio-Visual-and-Other-Productivity-Tools)  
 [W6 Sensemaking](#W6-Sensemaking)  
-[W7 Student Presentations](W7-Student-Presentations)  
+[W7 Student Presentations](#W7-Student-Presentations)  
 [W8 Reading Week](#W8-Reading-Week)  
 [W9-10-11 Workshops](#W9-10-11-Workshops)  
 
