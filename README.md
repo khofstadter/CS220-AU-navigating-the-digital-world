@@ -58,12 +58,12 @@ This repository only contains information for the CS220 AU module, the Autumn te
 The complete module description can be found on Moodle (or see in `assets/doc`folder).
 
 ## Further clarification
-<!-- To actively take part in our fast-evolving world, we need to have control over our own digital identities.--> 
+<!-- To actively take part in our fast-evolving world, it's a good idea to have control over our digital identities.--> 
 
 The module aims to **help manage our digital identities**
 
 1. by introducing David White's [visitors & residents (v&r) modes](digital-identities.md/#visitors-and-residents) to help understand and develop our engagements with the Web and 
-2. by introducing tools for project management, web-design as well as audio-visual production and post-production to help develop personal and professional resident identities on the Web i.e. what White often referred to as 'resident modes engagement'. 
+2. by introducing tools for project management, web-design and hosting as well as audio-visual production and post-production all which could help develop personal and professional resident identities on the Web i.e. digital identities or resident modes of engaging on the Web. 
 
 While this module primarily focuses on providing practical skills it also opens up dialogues to help develop critical thinking about our digital identities and interactions e.g. by asking the following questions:
 
