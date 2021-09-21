@@ -6,7 +6,7 @@
 3. Create a private repository (repo)
   - will be used for your private notes
   - when creating it add the `readme.md` file
-4. Create a public repo 
+4. Create a public repo (or clone the example?)
   - will be used for your public logbook (log) and public static website (GitHub Pages) 
   - when creating it add the `readme.md` file
 
@@ -28,7 +28,7 @@
  - check your changes in your GitHub account (with an internet browser)
 <!-- TODO: do we need another markdown extension instead of Markdown All in One when working in virtual workstation? probably not if the main function we use this for is shortcuts e.g. bold, italics-->
   
-## Thoughts
+### Thoughts
 You can edit your files in both, you GitHub account via a browser or in VSC on your computer. The main advantages of using VSC are that
  - you can use VSC's extensions e.g. Spell Right (although in your own browser you could install browser extensions/plugins for this as well) or Foam that helps you organise your thoughts in a more creative, systematic way and 
  - VSC's editor itself provides further clarity e.g. with colour syntax
@@ -49,17 +49,53 @@ You can edit your files in both, you GitHub account via a browser or in VSC on y
 https://foambubble.github.io/foam/
 known issue: it does not work well when using the GitHub Repositories extension, because the one the essential extensions used for Foam, Markdown All in One does not work with virtual workspaces. So, the current idea is to use Foam with GitHub Desktop. To monitor issue: https://github.com/yzhang-gh/vscode-markdown/issues/996
 
-## Alternatives
+### Alternatives
 - https://trello.com/
 - https://workflowy.com/
 - https://roamresearch.com/
 - https://obsidian.md/
 
-## Open Broadcaster Software
-https://obsproject.com/   
-A free, cross-platform software for live streaming and recording screencasts.
+## Audio-visual
+### Screencast makers
+#### Screencast-O-Matic
+https://screencast-o-matic.com/   
+- tutorial: https://www.youtube.com/watch?v=LAg4_eFITNc)
+- can't edit with the free version nor record computer audio but offers screen+webcam even without making an account
+### Open Broadcaster Software
+https://obsproject.com/
+- tutorial: https://youtu.be/QKmrDUJFRkM
+- does not seem to be a good editing tool, but it's free and you can mix desktop + webcam and export in a variety of formats
+### Video editing
+#### Da-Vinci
+#### Premier 
+- need to ask for key from Media Services
+#### iMovie and Final Cut Pro
+- mac only (iMovie is free and easi to use)
 
-Quick tutorial: https://youtu.be/QKmrDUJFRkM
+### Audio-music making/editing
+#### Reaper
+#### Audacity
+#### Faders
+#### Logic
+#### Max, SuperCollider
+#### Isotope RX
+TODO: install on mac
+
+## CSS
+VSC extension to colourise: https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize
+
+## Online Search Enginges
+### Google 
+<!-- TODO: extract info from Moodle https://moodle.essex.ac.uk/course/view.php?id=7522&section=27 -->
+### Other
+- does Google keep my search history? Is this OK with me?
+
+## Online Learning
+
+## Statistics
+https://www.statista.com/
+https://duckduckgo.com/?q=UK+Social+Media+Demographics+2020&t=brave&ia=web
+
 
 
 
