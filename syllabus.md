@@ -1,7 +1,7 @@
-# syllabus
+# Syllabus
 This syllabus was desinged to provide you with a basis for your online identity (or one of your projects' online identity) which is a personal or a project website. (For the assignment you can work on a personal or a project website.) 
 
-## w1 welcome week
+## W1 Welcome week
 TODO: email students these questions prior the first class in w2
 - which departments do you come from?
 - will you use the lab PCs or your own computer?
@@ -13,7 +13,7 @@ TODO: email students these questions prior the first class in w2
 - do you have a previous or ongoing project that you would like to show your class?
 - do you have a project you could connect to this module perhaps a blog/vlog/podcast idea?
 
-## w2 introduction
+## W2 Introduction
 - introduction to Autumn and Spring term by Paula (Tuesday)
 - brief introduction to the Authum module (read this readme.md file) Wed/Thu weekely
 - short intro you and me (khofstadter.com)
@@ -47,7 +47,7 @@ questions to ask ourselves
 - one private, one public
 - Markdown language
 
-### homework
+### Homework
 - read: Digital Native (1982-94) vs Digital Immigrant Model (Mark Prensky 2001)
 - read: https://www.pewresearch.org/internet/2014/03/11/digital-life-in-2025/
 - watch: https://youtu.be/Bg3a5f107Jc (Artfilm by Douglas Coupland, exploring how the use of technology changes culture in the early 1990s.)
@@ -55,7 +55,7 @@ questions to ask ourselves
 - make v&r-map-2021-10.jpg
 - familiarise yourself with the module description, assignments, assignment criteria, assessment rubric, note down questions in your repositiry, think about a project that you'd like to reflect on in this module
 
-## w3 Visual Code Studio (VSC), VSC extensions and GitHub Desktop
+## W3 Visual Code Studio (VSC), VSC extensions and GitHub Desktop
 - your progress
 [[project-management-with-github-vsc-foam.md]]
 [[writing]]
@@ -65,35 +65,37 @@ questions to ask ourselves
 - watch [Social Dilemma](https://youtu.be/uaaC57tcci0) on Netflix if you can)
 - try Brave Browser to see what websites are trying to crawl from you
 
-# 4 Websites and Troubleshooting
+# W4 Websites and Troubleshooting
 [[websites]]
 [[troubleshooting]]
 
-# 5 Audio-Visual and Other Productivity Tools 
+# W5 Audio-Visual and Other Productivity Tools 
 [[audio-visual-and-other-productivity-tools.md]]
 [[podcast]]
 TODO: 
 - book mics for students to test with software (mini jack connection needed) https://www.essex.ac.uk/staff/it-services/equipment-loans
 
-# 6 Sense-making
+# W6 Sense-making
 [[sense-making]]
 [[meditation]]
 [[auditory-entrainment]]
 - Antonio Damasio: The Strange Order of Things
 - The Backfire Effect
 
-# 7 Student Presentations
+# W7 Student Presentations
 
 ### homework
 - make v&r-map-2021-11.jpg
 
-# 8 Reading Week
+# W8 Reading Week
 
-# 9, 10, 11 Workshops
+# W9-10-11 Workshops
 
-# ideas to discuss
-## self-assessment
-### invoicing
-## thinking slowly
+---
+
+# Ideas to discuss
+## Self-assessment
+### Invoicing
+## Thinking slowly
 https://mattgemmell.com/thinking-slowly/
 ## mailing list
