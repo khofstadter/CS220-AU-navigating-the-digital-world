@@ -1,11 +1,11 @@
 # Syllabus
 This syllabus was desinged to provide you with a basis for your online identity (or one of your projects' online identity) which is a personal or a project website. (For the assignment you can work on a personal or a project website.) 
 
-[W1 Welcome week](#W1-Welcome-week)   
-[W2 Introduction](#W2-Introduction)   
-[W3 Visual Code Studio, VSC extensions and GitHub Desktop](#W3-Visual-Code-Studio-,-VSC-extensions-and-GitHub-Desktop)   
-[W4 Websites and Troubleshooting](#W4-Websites-and-Troubleshooting)   
-[W5 Audio-Visual and Other Productivity Tools](#W5-Audio-Visual-and-Other-Productivity-Tools)   
+[W1 Welcome week](#W1-Welcome-week)  
+[W2 Introduction](#W2-Introduction)  
+[W3 Visual Code Studio and GitHub Desktop](#W3-Visual-Code-Studio-and-GitHub-Desktop)  
+[W4 Websites and Troubleshooting](#W4-Websites-and-Troubleshooting)  
+[W5 Audio-Visual and Other Productivity Tools](#W5-Audio-Visual-and-Other-Productivity-Tools)  
 [W6 Sensemaking](#W6-Sensemaking)  
 [W7 Student Presentations](W7-Student-Presentations)  
 [W8 Reading Week](#W8-Reading-Week)  
@@ -65,7 +65,7 @@ questions to ask ourselves
 - make v&r-map-2021-10.jpg
 - familiarise yourself with the module description, assignments, assignment criteria, assessment rubric, note down questions in your repositiry, think about a project that you'd like to reflect on in this module
 
-## W3 Visual Code Studio, VSC extensions and GitHub Desktop
+## W3 Visual Code Studio and GitHub Desktop
 - your progress
 [[project-management-with-github-vsc-foam.md]]
 [[writing]]
