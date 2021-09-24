@@ -60,6 +60,12 @@ known issue: it does not work well when using the GitHub Repositories extension,
 - https://obsidian.md/
 
 ## Audio-visual
+<!-- #todo 
+- meet Rae of Student Union discuss Creative Studios and how students could contribute to the SU website
+- fine tune what equipment students can borrow
+- fine tune how they could access the Media Centre's rooms and equipment
+--> 
+
 ### Screencast makers
 #### Screencast-O-Matic
 https://screencast-o-matic.com/   
