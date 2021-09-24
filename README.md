@@ -49,6 +49,7 @@ TODO:
 - how might we use digital technologies as creative and engaging forms of communication?
 
 ## hex and performance
+- who wants to perform?
 -->
 
 # CS220 AU Navigating the Digital World
@@ -64,8 +65,6 @@ This repository only contains information for the CS220 AU module, the Autumn te
 The complete module description can be found on Moodle (or see in `assets/doc`folder).
 
 ## Further clarification
-<!-- To actively take part in our fast-evolving world, it's a good idea to have control over our digital identities.--> 
-
 The module aims to **help manage our digital identities**
 
 1. by introducing David White's [visitors & residents (v&r) modes](digital-identities.md/#visitors-and-residents) to help understand and develop our engagements with the Web and 
@@ -81,7 +80,7 @@ While this module primarily focuses on providing practical skills it also opens 
 
 The module introduces primarily free and cross-platform software and where possible highlights their advantages and disadvantages to paid software. As the module in 2021 is run in labs equipped with Windows PCs, I will demonstrate software in the workshops and screencasts using Windows 10 operating system (OS). (However, as the OS I primarily use is macOS, if desired, I can demonstrate on macOS as well.)
 
-After this primarily practical Autumn term module, lecturers from different disciplines across the university will lead a series of weekly lectures during the Spring term, which will combine theoretical questions with real-life scenarios to explore issues such as hacking, social media, ethics, digital crime, video games and interactive technologies. These sessions are devised to help students gain a broad awareness of, and to think critically about, the ways that digital technologies are reshaping contemporary societies. For more information about these lectures please contact Dr Di Franco. (from the module description)
+After this more practical Autumn term module, lecturers from different disciplines across the university will lead a series of weekly lectures during the Spring term, which will combine theoretical questions with real-life scenarios to explore issues such as hacking, social media, ethics, digital crime, video games and interactive technologies. These sessions are devised to help students gain a broad awareness of, and to think critically about, the ways that digital technologies are reshaping contemporary societies. For more information about these lectures please contact Dr Di Franco.
 
 ### How much theory will we cover in this Authm module?
 **In week 2:**
