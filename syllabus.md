@@ -30,7 +30,7 @@ TODO: email students these questions prior the first class in w2
 
 ## W2 Introduction
 - Tue: introduction to Autumn and Spring term by Dr Di Franco
-- Wed/Thu: brief introduction to the Authum module (readme.md, syllabus)
+- Wed/Thu: brief introduction to the Authum module (readme.md, syllabus.m and portfolio template repo)
 - short intro you and me (khofstadter.com)
 - [digital identities](digital-identities.md)
 
