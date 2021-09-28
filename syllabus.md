@@ -31,14 +31,15 @@ TODO: email students these questions prior the first class in w2
 ## W2 Introduction
 - Tue: introduction to Autumn and Spring term by Dr Di Franco
 - Wed/Thu: 
-  - brief introduction to the Authum module (readme.md with template repo and this syllabus.md)
-  - short intro you and me (khofstadter.com)
+  - brief introduction to the Autumn module (readme.md with template repo and this syllabus.md)
+  - short intro by you and me (khofstadter.com)
 
 ### [Digital identities](digital-identities.md)
 
 ### GitHub repositories
 - one private, one public
 - Markdown language
+- more info in [tools](tools.md)
 
 ### Homework
 - read: Digital Native (1982-94) vs Digital Immigrant Model (Mark Prensky 2001)
