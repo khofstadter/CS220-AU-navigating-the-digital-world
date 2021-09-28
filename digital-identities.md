@@ -19,8 +19,8 @@ TODO: link or extract data from https://moodle.essex.ac.uk/mod/page/view.php?id=
 
 - k's v&r-map-2006.jpg (2006) --> k's v&r-map-2016.jpg --> k's v&r-map-2021.jpg <!--TODO-->
 
-- this CS220 (AU) course introduces ideas and practical skills to help develop our residence modes
-- Why? Because a better understanding of our residence modes can lead to 
+- this CS220 AU module introduces ideas and practical skills to help develop our residence modes
+- why? Because a better understanding of our residence modes can lead to 
   - better professional identies, better understanding of how we shoul produce and consume knowledge e.g. regarding the credibility of information
 
 - check slides on http://daveowhite.com/vandr/vr-mapping/ for map examples
@@ -28,7 +28,7 @@ TODO: link or extract data from https://moodle.essex.ac.uk/mod/page/view.php?id=
 questions to ask ourselves
 - can our current map be improved? 
 
-### Thoughts
+### thoughts
 - White developed his v&r modes of engagement on Marc Prensky's ideas of digital natives and digital immigrants to develop his v&r modes of engagement. [search](https://duckduckgo.com/?q=digital+natives+and+digital+immigrants&t=hx&va=g&ia=web)
 
 
@@ -38,7 +38,7 @@ As part of your digital portfolio, you need to create an about.me and LinkedI
 
 ## questions
 - data mining? 
-- what could be happy with tech giants using?
+- which of my data am I happy with Tech Giants using?
 
 # resources
 - https://youtu.be/sPOG3iThmRI
