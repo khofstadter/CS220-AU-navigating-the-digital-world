@@ -5,8 +5,8 @@
 # digital identities
 ## generations
 <!-- #todo embed a gantt chart -->
-- overview: https://youtu.be/TtIojDWOsgg
-- clarify millenials vs gen Z: https://youtu.be/aqdm6aBUZII
+- overview: [https://youtu.be/TtIojDWOsgg](https://youtu.be/TtIojDWOsgg)
+- clarify millenials vs gen Z: https://youtu.be/aqdm6aBUZII(https://youtu.be/aqdm6aBUZII)
 ### discuss 
 <!-- #todo add more questions -->
 - does multitasking work for you?
