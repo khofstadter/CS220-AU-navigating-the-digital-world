@@ -1,8 +1,6 @@
 # Syllabus
 This syllabus was designed to help develop our personal and/or professional digital indentities with which we can engage with information on the Web more efficiently in our residence modes. (For more information about this mode see the [digital identities](digital-identities.md) file.)
 
-Note: your CS220AU assignment can develop a personal or a professional project website.
-
 ## Weeks
 1 [Welcome week](#W1-Welcome-week)  
 2 [Introduction](#W2-Introduction)  
