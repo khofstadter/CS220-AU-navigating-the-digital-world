@@ -8,7 +8,8 @@
   - can you define your relationship with technology, especially the Web?
 - summery to read: https://www.bbc.co.uk/bitesize/articles/zf8j92p
 
-## Visitors and Residents (V&R) method (Dave White)
+## Visitors and Residents (V&R)
+### the V&R map
 https://youtu.be/sPOG3iThmRI
 
 - V&R provides a new and more accurate method to quantify our engagement with technology than [Marc Prensky](https://www.marcprensky.com/)'s Digital Natives and Digital Immigrants method
