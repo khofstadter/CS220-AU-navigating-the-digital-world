@@ -12,6 +12,7 @@ TODO:
   - create a public repo (that they could clone or download/upoad)
   - populate with all files needed (perhaps own v&r maps)
   - write assessment guide and rubric/checksheet
+  - extract data from https://moodle.essex.ac.uk/mod/page/view.php?id=376391
 
 ## syllabus w3 - w7
 - outline in github repo
