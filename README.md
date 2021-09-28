@@ -99,7 +99,7 @@ Note: this might change based on progress
 - introduction to the visitor and resident map (white)
 
 **later weeks**
-- information processing (sense making), critical thinking and dissemination
+- information processing (sensemaking), critical thinking and dissemination
 - intelligent search strategies using Google vs Duck Duck Go, Google Scholar and the library website
 - e-safety e.g. efficient passwords
 
