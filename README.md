@@ -89,11 +89,11 @@ The module introduces primarily free and cross-platform software and where possi
 After this more practical Autumn term module, lecturers from different disciplines across the university will lead a series of weekly lectures during the Spring term (CS220 SP), which will combine theoretical questions with real-life scenarios to explore issues such as hacking, social media, ethics, digital crime, video games and interactive technologies. These sessions are devised to help students gain a broad awareness of, and to think critically about, the ways that digital technologies are reshaping contemporary societies. For more information about these lectures please contact Dr Di Franco.
 
 ### How much theory will we cover in this Authm module?
-**In week 2:**
+**In week 2**
 - a brief overview of generations
 - introduction to the visitor and resident map (white)
 
-**In later weeks:**
+**In later weeks**
 - information processing (sense making), critical thinking and dissemination
 - intelligent search strategies using Google vs Duck Duck Go, Google Scholar and the library website
 - e-safety e.g. efficient passwords
@@ -106,7 +106,7 @@ The assignment is to submit a digital portfolio consisting of two main parts:
 - a short report reflecting on your past, present and future digital identity (or identities) using the v&r map
 
 ### Assignment template
-<!-- TODO: create an example repo -->
+<!-- TODO: create an example repo and link it-->
 The temlate and how you can use it will be explained in detail in class. 
 
 ### Assigment examples
@@ -128,4 +128,5 @@ To be able to support your projects (assignments) as much as possible, I will ne
   - web-design and web-hosting
 
 ## log
-21-09-21 added digital-identities.md and syllabus.md. Decided that each file should be written for a wider audience (e.g. Medium) to help raise the quality of writing. 
+2021-09-28 moved assessment info to assessment template repo
+2021-09-21 added digital-identities.md and syllabus.md. Decided that each file should be written for a wider audience (e.g. Medium) to help raise the quality of writing. 
