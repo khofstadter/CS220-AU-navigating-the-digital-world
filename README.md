@@ -89,6 +89,9 @@ The module introduces primarily free and cross-platform software and where possi
 After this more practical Autumn term module, lecturers from different disciplines across the university will lead a series of weekly lectures during the Spring term (CS220 SP), which will combine theoretical questions with real-life scenarios to explore issues such as hacking, social media, ethics, digital crime, video games and interactive technologies. These sessions are devised to help students gain a broad awareness of, and to think critically about, the ways that digital technologies are reshaping contemporary societies. For more information about these lectures please contact Dr Di Franco.
 
 ### syllabus
+The syllabus (the outline of the weekly held workshops) can be found here: [syllabus](syllabus.md)
+
+Note: this might change based on progress
 
 ### how much theory will we cover in this Authm module?
 **In week 2**
