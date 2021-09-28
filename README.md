@@ -53,7 +53,6 @@ TODO:
 - who wants to perform?
 -->
 
-# CS220 AU Navigating the Digital World
 University of Essex    
 Department: Interdisciplinary Studies   
 School of Philosophy and Arts History  
