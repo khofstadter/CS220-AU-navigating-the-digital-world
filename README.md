@@ -62,7 +62,7 @@ Thu 11-1 pm Lab G
 This repository only contains information for the CS220 AU, 'Navigating the Digital World' module, the Autumn term module. Information for Dr Di Franco's more theoretical module (CS220 SP) is on Moodle. If your enrollment code is CS220 AU (Autumn) or CS220 FY (Full Year) then the information below is relevant for you.
 
 ## module description
-The complete module description can be found on Moodle (or see in `assets/doc`folder).
+The complete module description can be found on Moodle (or see in [assets/doc](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world/assets/doc/) folder).
 
 ## further clarification
 The module aims to **help manage our digital identities**
