@@ -111,7 +111,7 @@ The assignment is to submit a digital portfolio using GitHub. The portfolio need
 - a link to your personal or professional website (can be about you or about one of your projects)
 - a short report reflecting on your past, present and future digital identity (or identities) using the v&r map
 
-More detailed information can be found in the [template](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio), which will be explained in detail.  
+More detailed information can be found in the [template](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio), which will be explained in detail in the workshops.
 
 ### assigment examples
 A few submissions from last year (Essex and ARU) to plant some ideas. 
