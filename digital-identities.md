@@ -3,7 +3,7 @@
 ## Generations
 <!-- embed a gantt chart -->
 - overview: https://youtu.be/TtIojDWOsgg
-- millenials vs gen Z: https://youtu.be/aqdm6aBUZII)
+- millenials vs gen Z: https://youtu.be/aqdm6aBUZII
   - does multitasking work for you?
   - can you define your relationship with technology, especially the Web?
 - summery to read: https://www.bbc.co.uk/bitesize/articles/zf8j92p
