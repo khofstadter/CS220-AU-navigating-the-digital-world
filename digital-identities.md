@@ -8,12 +8,21 @@
   - can you define your relationship with technology, especially the Web?
 - summery to read: https://www.bbc.co.uk/bitesize/articles/zf8j92p
 
-## Visitors and Residents (Dave White)
+## Visitors and Residents (V&R) method (Dave White)
 https://youtu.be/sPOG3iThmRI
 
-"Visitors and Residents is a simple way of describing the range of ways individuals can engage with the Web." (http://daveowhite.com/vandr/) White's V&R map helps all ages (not just old people) and people with low technical skills to use the Web efficiently. This map is based on people's motivation to engage with the Web and has two modes, visitor and resident modes, and is further refined by whether we engage in a personal or a professional/institutional manner.
-- visitor modes: activities where **we don't leave a social trace behind** e.g. searching the web, paying our bills. (Remember that your search history could be stored depending on the search engine you use, this search history is just not available for everyone. And also think about what information website crawl from you when you visit them.) 
+- V&R provides a new and more accurate method to quantify our engagement with technology than [Marc Prensky](https://www.marcprensky.com/)'s Digital Natives and Digital Immigrants method
+- the V&R method uses a 2D coordinate system to quantify our engagment with technology/Web
+
+<!-- #todo add image of clean map -->
+
+"V&R is a simple way of describing the range of ways individuals can engage with the Web." (http://daveowhite.com/vandr/) White's V&R map helps all ages (not just old people) and people with low technical skills to use the Web efficiently. This map is based on people's motivation to engage with the Web and has two modes, visitor and resident modes, and is further refined by whether we engage in an activity in a personal or an institutional (professional) manner.
+
+- visitor modes: activities where **we don't leave a social trace behind** e.g. searching/reading information on the web, watching videos, shopping, paying our bills. (Remember that your search history could be stored depending on the search engine you use, this search history is just not available for everyone. And also think about what information websites crawl from you when you visit them.) 
 - resident modes: activities where we are present with other people and **we leave a social trance behind** (stays online after we leave the internet) e.g. by creating content or commenting on other people's content on online platforms (websites, social media). These activities are linked to our (digital) identities, therefore we should be mindful when we use the Web in this mode. (We should be mindful when we use our visitor modes as well of course.)
+
+- examples or personal engagements are e.g. using social media or emails to communicate with friends and family about personal matters
+- examples of institutional activities are e.g. disseminating or discussing ideas as a worker (and perhaps as a student in highter eduction)  
 
 v&r map examples: http://daveowhite.com/vandr/vr-mapping/
 
