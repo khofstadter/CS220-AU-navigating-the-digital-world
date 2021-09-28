@@ -128,5 +128,5 @@ To be able to support your projects (assignments) as much as possible, I will ne
   - web-design and web-hosting
 
 ## log
-2021-09-28 moved assessment info to assessment template repo
+2021-09-28 moved assessment info to assessment template repo  
 2021-09-21 added digital-identities.md and syllabus.md. Decided that each file should be written for a wider audience (e.g. Medium) to help raise the quality of writing. 
