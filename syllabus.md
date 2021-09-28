@@ -36,10 +36,7 @@ TODO: email students these questions prior the first class in w2
 
 ### [Digital identities](digital-identities.md)
 
-### GitHub repositories
-- one private, one public
-- Markdown language
-- more info in [tools](tools.md)
+### [GitHub](tools.md)
 
 ### Homework
 - read: Digital Native (1982-94) vs Digital Immigrant Model (Mark Prensky 2001)
