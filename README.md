@@ -101,13 +101,12 @@ After this more practical Autumn term module, lecturers from different disciplin
 The rest of the information the module provides is practical i.e. we will experiment with software that can help us create and maintain 'better' digital identities. Everyone can have multiple identities on the Web however, (probably) only one professional identity. Our personal identities are more informal, subjective and our professional ones more formal and perhaps more objective as well.
 
 ## Assignment
-The assignment is to submit a digital portfolio consisting of two main parts:
-- the online presence of a project e.g. a personal or professional website
+The assignment is to submit a digital portfolio using GitHub. The portfolio needs to contain: 
+- a weekly updated logbook on your assignment progress
+- a link to your personal or professional website (can be about you or about one of your projects)
 - a short report reflecting on your past, present and future digital identity (or identities) using the v&r map
 
-### Assignment template
-<!-- TODO: create an example repo and link it-->
-The temlate and how you can use it will be explained in detail in class. 
+More detailed information can be found in the [template](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio), which will be explained in detail.  
 
 ### Assigment examples
 In class, we will look at a few submissions from last year (Essex and ARU) to plant some ideas. 
