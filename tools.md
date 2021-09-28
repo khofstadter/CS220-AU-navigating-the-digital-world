@@ -6,7 +6,7 @@
 3. Create a private repository (repo)
   - will be used for your private notes
   - when creating it add the `readme.md` file
-4. Create a public repo (or clone the example?)
+4. Create a public repo (or clone the template?)
   - will be used for your public logbook (log) and public static website (GitHub Pages) 
   - when creating it add the `readme.md` file
 
