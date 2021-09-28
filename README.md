@@ -109,11 +109,11 @@ The assignment is to submit a digital portfolio using GitHub. The portfolio need
 More detailed information can be found in the [template](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio), which will be explained in detail.  
 
 ### Assigment examples
-In class, we will look at a few submissions from last year (Essex and ARU) to plant some ideas. 
+A few submissions from last year (Essex and ARU) to plant some ideas. 
 <!-- TODO: create an example repo -->
 
 ## Students
-Students enrolled in this module come from different disciplines/departments e.g. journalism, psychology, philosophy, art history, political science, media studies, literature. Most who enrol are 1st year, but there are some 2nd and 3rd years as well. Some students only do the practical part of the module (taught by me), some only the theoretical part (taught be Dr Di Franco), some do both. Due to Covid, the classes will use a hybrid/dual-mode teaching method i.e. some students will be in the classroom with me and some will attend via the online Zoom meeting. Students cannot swap around and do learning some weeks face-to-face and other weeks remotely. (Make sure you know how much your mark for this module contributes to your final mark linked to your graduation certificate. 
+Students enrolled in this module come from different disciplines/departments e.g. journalism, psychology, philosophy, art history, political science, media studies, literature. Most who enrol are 1st year, but there are some 2nd and 3rd years as well. Some students only do the practical part of the module (taught by me), some only the theoretical part (taught be Dr Di Franco), some do both. Due to Covid, the workshops will use a hybrid/dual-mode teaching method i.e. some students will be in the classroom with me and some will attend via the online Zoom meeting. Students cannot swap around and do learning some weeks face-to-face and other weeks remotely. (Make sure you know how much your mark for this module contributes to your final mark linked to your graduation certificate. 
 
 ### FFR
 To be able to support your projects (assignments) as much as possible, I will need to understand the levels of technical skills you enter the module with. FFR is for frequency following response, sometimes referred to as synchronisation. In other words, to be able to provide efficient help, I need to first synchronise to your current position (understand it) e.g. how much experience you have with audio-video software and then provide suitable support. As you will see, I like to get to know people by asking them to express their aims and methods and even takes notes to make sure I can remember everyone's progress. 
