@@ -30,11 +30,13 @@ TODO: email students these questions prior the first class in w2
 
 ## W2 Introduction
 - Tue: introduction to Autumn and Spring term by Dr Di Franco
-- Wed/Thu: brief introduction to the Authum module (readme.md, syllabus.m and portfolio template repo)
-- short intro you and me (khofstadter.com)
-- [digital identities](digital-identities.md)
+- Wed/Thu: 
+  - brief introduction to the Authum module (readme.md with template repo and this syllabus.md)
+  - short intro you and me (khofstadter.com)
 
-### GitHub Repositories
+### [Digital identities](digital-identities.md)
+
+### GitHub repositories
 - one private, one public
 - Markdown language
 
@@ -43,8 +45,8 @@ TODO: email students these questions prior the first class in w2
 - read: https://www.pewresearch.org/internet/2014/03/11/digital-life-in-2025/
 - watch: https://youtu.be/Bg3a5f107Jc (Artfilm by Douglas Coupland, exploring how the use of technology changes culture in the early 1990s.)
 
-- make v&r-map-2021-10.jpg
-- familiarise yourself with the module description, assignments, assignment criteria, assessment rubric, note down questions in your repositiry, think about a project that you'd like to reflect on in this module
+- make first v&r map
+- familiarise yourself with the module description, assignments, assignment criteria, assessment rubric, note down questions in your repository, think about a project that you'd like to create a website for
 
 <br>
 
