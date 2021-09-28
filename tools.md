@@ -13,9 +13,13 @@
 ### Markdown
 Familarise yourself with Markdown language here: https://guides.github.com/features/mastering-markdown/ (there is a shortcut for this link in the file editor in your repository). <!-- add a screenshot? -->
 
-### Thoughts
+### thoughts
 - there are slightly different Markdown versions, but in general they all work the same (stick to the above if using with GitHub)
 - we can monitor each others' progress on the public repository. Please update it at least once a week. <!-- TODO: make example repo for private and public. Perhaps show examples of sonic art students from ARU. -->
+
+<!-- #todo
+- how to embed/create graphs in the markdown files in the repository e.g. in the `readme.md` file?
+-->
 
 ## Visual Studio Code (VSC)
 1. Install/launch the Visual Studio Code software on your computer
