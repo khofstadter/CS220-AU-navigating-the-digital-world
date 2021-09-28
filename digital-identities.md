@@ -1,8 +1,4 @@
 # Digital identities
-<!--
-TODO: maybe rename this to digital-identities.md file (and change the link in syllabus.md)
-TODO: link or extract data from https://moodle.essex.ac.uk/mod/page/view.php?id=376391
--->
 
 ## Generations
 <!-- embed a gantt chart -->
@@ -17,7 +13,11 @@ TODO: link or extract data from https://moodle.essex.ac.uk/mod/page/view.php?id=
 - visitor modes: activities where **we don't leave a social trace behind** e.g. searching the web, paying our bills. (Remember that your search history could be stored depending on the search engine you use, this search history is just not available for everyone. And also think about what information website crawl from you when you visit them.) 
 - resident modes: activities where we are present with other people and **we leave a social trance behind** (stays online after we leave the internet) e.g. by creating content or commenting on other people's content on online platforms (websites, social media). These activities are linked to our (digital) identities, therefore we should be mindful when we use the Web in this mode. (We should be mindful when we use our visitor modes as well of course.)
 
-- k's v&r-map-2006.jpg (2006) --> k's v&r-map-2016.jpg --> k's v&r-map-2021.jpg <!--TODO-->
+https://youtu.be/sPOG3iThmRI
+
+### creditibility 
+
+https://youtu.be/kO569eknM6U
 
 - this CS220 AU module introduces ideas and practical skills to help develop our residence modes
 - why? Because a better understanding of our residence modes can lead to 
@@ -41,7 +41,7 @@ As part of your digital portfolio, you need to create an about.me and LinkedI
 - which of my data am I happy with Tech Giants using?
 
 # resources
-- https://youtu.be/sPOG3iThmRI
-- https://youtu.be/kO569eknM6U
+- 
+- 
 - https://youtu.be/1X0g2OvSdWc
 - https://www.thesocialdilemma.com/
