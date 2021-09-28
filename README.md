@@ -68,7 +68,7 @@ The complete module description can be found on Moodle (or see in `assets/doc`fo
 The module aims to **help manage our digital identities**
 
 1. by introducing David White's [visitors & residents (v&r) modes](digital-identities.md/#visitors-and-residents) to help understand and develop our engagements on the Web and 
-2. by introducing tools for project management, web-design and hosting as well as audio-visual production and post-production all which could help develop personal and professional resident identities on the Web i.e. digital identities or resident modes of engaging on the Web.
+2. by introducing tools for project management, web-design and hosting as well as audio-visual production and post-production all which could help develop personal and professional/institutional resident identities on the Web i.e. digital identities or resident modes of engaging on the Web.
 
 <!-- maybe quick introduction to 
 visitor and 
