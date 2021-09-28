@@ -3,10 +3,9 @@
 ## Generations
 <!-- embed a gantt chart -->
 - overview: https://youtu.be/TtIojDWOsgg
-- millenials vs gen Z: https://youtu.be/aqdm6aBUZII
+- clarify millenials vs gen Z: https://youtu.be/aqdm6aBUZII
   - does multitasking work for you?
   - can you define your relationship with technology, especially the Web?
-- summery to read: https://www.bbc.co.uk/bitesize/articles/zf8j92p
 
 ## Visitors and Residents (V&R)
 ### the V&R map
@@ -70,5 +69,5 @@ https://youtu.be/1X0g2OvSdWc
 - which of my data am I happy with Tech Giants using?
 
 # resources
-
+- https://www.bbc.co.uk/bitesize/articles/zf8j92p
 - https://www.thesocialdilemma.com/
