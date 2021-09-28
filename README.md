@@ -2,7 +2,7 @@
 TODO:
 ## write here - publish on Medium (later)
 - write each file (apart from readme.md) for Medium audience (and students)
-- needs to be accessible here as well as students might not have access to more than 5 articles, etc.
+- needs to be accessible here (or on khofstadter.com) as well as students might not have access to more than 5 articles, etc.
 - use 'you could read it on Medium' on the top of the file once published on Medium
 
 ## week 2 theory/assignment 
@@ -59,7 +59,7 @@ School of Philosophy and Arts History
 Wed 11-1 pm Lab M  
 Thu 11-1 pm Lab G  
 
-This repository only contains information for the CS220 AU module, the Autumn term module. Information for Dr Di Franco's more theoretical module (CS220 SP) is on Moodle. If your enrollment code is CS220 FY (Full Year) then the information below is relevant for you as well as FY means that you enrolled in both, AU and SP. 
+This repository only contains information for the CS220 AU module, the Autumn term module. Information for Dr Di Franco's more theoretical module (CS220 SP) is on Moodle. If your enrollment code is CS220 AU (Autumn) or CS220 FY (Full Year) then the information below is relevant for you.
 
 ## Module description
 The complete module description can be found on Moodle (or see in `assets/doc`folder).
@@ -67,8 +67,13 @@ The complete module description can be found on Moodle (or see in `assets/doc`fo
 ## Further clarification
 The module aims to **help manage our digital identities**
 
-1. by introducing David White's [visitors & residents (v&r) modes](digital-identities.md/#visitors-and-residents) to help understand and develop our engagements with the Web and 
-2. by introducing tools for project management, web-design and hosting as well as audio-visual production and post-production all which could help develop personal and professional resident identities on the Web i.e. digital identities or resident modes of engaging on the Web. 
+1. by introducing David White's [visitors & residents (v&r) modes](digital-identities.md/#visitors-and-residents) to help understand and develop our engagements on the Web and 
+2. by introducing tools for project management, web-design and hosting as well as audio-visual production and post-production all which could help develop personal and professional resident identities on the Web i.e. digital identities or resident modes of engaging on the Web.
+
+<!-- maybe quick introduction to 
+visitor and 
+resident modes
+-->
 
 While this module primarily focuses on providing practical skills it also opens up dialogues to help develop critical thinking about our digital identities and interactions e.g. by asking the following questions:
 
@@ -77,10 +82,11 @@ While this module primarily focuses on providing practical skills it also opens 
 - how can we use software tools to create assets e.g. audio-video content to help disseminate information via our online identities more effectively?
 - how can we apply critical thinking regarding the information we consume and produce?
 - why should we produce information and whom should we address with this information i.e. who is our target audience?
+- what is the change we would like to see in the world and how can we use our resident identities on the Web to support this change?
 
 The module introduces primarily free and cross-platform software and where possible highlights their advantages and disadvantages to paid software. As the module in 2021 is run in labs equipped with Windows PCs, I will demonstrate software in the workshops and screencasts using Windows 10 operating system (OS). (However, as the OS I primarily use is macOS, if desired, I can demonstrate on macOS as well.)
 
-After this more practical Autumn term module, lecturers from different disciplines across the university will lead a series of weekly lectures during the Spring term, which will combine theoretical questions with real-life scenarios to explore issues such as hacking, social media, ethics, digital crime, video games and interactive technologies. These sessions are devised to help students gain a broad awareness of, and to think critically about, the ways that digital technologies are reshaping contemporary societies. For more information about these lectures please contact Dr Di Franco.
+After this more practical Autumn term module, lecturers from different disciplines across the university will lead a series of weekly lectures during the Spring term (CS220 SP), which will combine theoretical questions with real-life scenarios to explore issues such as hacking, social media, ethics, digital crime, video games and interactive technologies. These sessions are devised to help students gain a broad awareness of, and to think critically about, the ways that digital technologies are reshaping contemporary societies. For more information about these lectures please contact Dr Di Franco.
 
 ### How much theory will we cover in this Authm module?
 **In week 2:**
@@ -92,31 +98,16 @@ After this more practical Autumn term module, lecturers from different disciplin
 - intelligent search strategies using Google vs Duck Duck Go, Google Scholar and the library website
 - e-safety e.g. efficient passwords
 
-The rest of the information the module provides is practical i.e. we will experiment with software that can help us create and maintain 'better' digital identities. Everyone can have multiple identities on the Web however, (probably) only one professional identity. Our personal identities are more informal, subjective and our professional ones more formal and perhaps more objective as well. 
+The rest of the information the module provides is practical i.e. we will experiment with software that can help us create and maintain 'better' digital identities. Everyone can have multiple identities on the Web however, (probably) only one professional identity. Our personal identities are more informal, subjective and our professional ones more formal and perhaps more objective as well.
 
 ## Assignment
-The assignment is to submit a portfolio consisting of two main parts:
+The assignment is to submit a digital portfolio consisting of two main parts:
 - the online presence of a project e.g. a personal or professional website
 - a short report reflecting on your past, present and future digital identity (or identities) using the v&r map
-  - reflect on how you use digital technology in different contexts
-  - explore your own "digital journey" by thinking about the different digital devices you have bought (or been given) over your lifetime
 
 ### Assignment template
 <!-- TODO: create an example repo -->
-The example will be explained in class. 
-
-## Module assignment <!-- maybe to go in the template repo-->
-One GitHub repository containing the following files:
-- README.md file:
-  - short overview/abstract
-  - link to project website
-  - lookbook
-- report.md (500 - 750 word) 
-- report.pdf (optional, report.md exported into PDF format)
-The report needs to contain: project goals, design, testing, development, deployment (include feedback from others)
-- assets/v&r-map-2021-10.jpg (embedded in report.md)
-- assets/v&r-map-2021-11.jpg (embedded in report.md)
-- assets/v&r-map-2021-12.jpg (embedded in report.md)
+The temlate and how you can use it will be explained in detail in class. 
 
 ### Assigment examples
 In class, we will look at a few submissions from last year (Essex and ARU) to plant some ideas. 
