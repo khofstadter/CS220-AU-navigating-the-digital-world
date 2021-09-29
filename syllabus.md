@@ -16,15 +16,17 @@ w9-10-11 [Workshops](#W9-10-11-Workshops)
 
 ## w1 welcome week
 TODO: email students these questions prior the first class in w2
-- which departments do you come from?
-- will you use the lab PCs or your own computer?
-- have you used other studios (Rebel/Media) before?
-- what software/hardware do you have experience with e.g. microphones, video cameras?
-- what do you think are your strengths and weaknesses (what needs improving?)
-- which part of the syllabus will be easy/difficult for you?
-- do you already have a website?
-- do you have a previous or ongoing project that you would like to show your class?
-- do you have a project you could connect to this module perhaps a blog/vlog/podcast idea?
+- will you attend the Wednesday or the Thursday workshop?
+- do you plan to attend physically or online via Zoom webinars?
+- which department are you enrolled with?
+- what is the title of your course?
+- do you plan to use the PCs in the university labs or your own computer for working on your assignments?
+- (if you are not a first-year student,) have you used the Student Union or the Medie Centre's creative studios before on campus?
+- what software/hardware do you have experience with for creating or editing content with e.g., Photoshop, iMovie, microphones, video cameras, your phone with apps?
+- do you have a website for personal or professional (e.g., project related) use? If you have one, did you build it yourself?
+- what are your strengths and weaknesses regarding the use of technology? What skills related to technology would you like to improve the most?
+- do you use social media e.g., Facebook, Twitter, etc?
+- do you have an ongoing project or an idea for a project e.g., a blog/vlog or an e-commerce website that you would like to further develop in this module?
 
 <br>
 
