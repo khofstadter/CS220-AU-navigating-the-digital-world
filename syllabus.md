@@ -16,10 +16,7 @@ w9-10-11 [Workshops](#W9-10-11-Workshops)
 
 ## w1 welcome week
 TODO: email students these questions prior the first class in w2
-- will you attend the Wednesday or the Thursday workshop?
-- do you plan to attend physically or online via Zoom webinars?
-- which department are you enrolled with?
-- what is the title of your course?
+
 - do you plan to use the PCs in the university labs or your own computer for working on your assignments?
 - (if you are not a first-year student,) have you used the Student Union or the Medie Centre's creative studios before on campus?
 - what software/hardware do you have experience with for creating or editing content with e.g., Photoshop, iMovie, microphones, video cameras, your phone with apps?
