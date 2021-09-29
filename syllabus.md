@@ -1,7 +1,8 @@
 # syllabus
-This syllabus was designed to help develop our personal and/or professional digital indentities with which we can engage with information on the Web more efficiently in our residence modes. (For more information about this mode see the [digital identities](digital-identities.md) file.)
+This syllabus was designed to help develop our personal and/or professional/institutional digital indentities with which we can engage with information on the Web more efficiently in our residence modes. We will discuss this mode in detail in week 1 using the [digital identities](digital-identities.md) file.
 
 ## TOC
+
 w1 [Welcome week](#W1-Welcome-week)  
 w2 [Introduction](#W2-Introduction)  
 w3 [Visual Code Studio and GitHub Desktop](#W3-Visual-Code-Studio-and-GitHub-Desktop)  
