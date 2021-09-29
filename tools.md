@@ -16,6 +16,7 @@ Familarise yourself with Markdown language here: https://guides.github.com/featu
 ### thoughts
 - there are slightly different Markdown versions, but in general they all work the same (stick to the above if using with GitHub)
 - we can monitor each others' progress on the public repository. Please update it at least once a week. <!-- TODO: make example repo for private and public. Perhaps show examples of sonic art students from ARU. -->
+- is GitHub safe to use e.g regarding tracking and cookies? [https://youtu.be/vAfBW1_AZkU?t=597](https://youtu.be/vAfBW1_AZkU?t=597)
 
 <!-- #todo
 - how to embed/create graphs in the markdown files in the repository e.g. in the `readme.md` file?
