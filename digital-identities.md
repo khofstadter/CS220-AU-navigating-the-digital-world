@@ -6,24 +6,25 @@
 ## generations
 <!-- #todo embed a gantt chart -->
 - overview: [https://youtu.be/TtIojDWOsgg](https://youtu.be/TtIojDWOsgg)
-- clarify millenials vs gen Z: https://youtu.be/aqdm6aBUZII(https://youtu.be/aqdm6aBUZII)
+- clarify millenials vs gen Z: [https://youtu.be/aqdm6aBUZII(https://youtu.be/aqdm6aBUZII](https://youtu.be/aqdm6aBUZII(https://youtu.be/aqdm6aBUZII)
+
 ### discuss 
 <!-- #todo add more questions -->
 - does multitasking work for you?
-- can you define your relationship with technology, especially the web?
+- can you define your relationship with technology, especially the web i.e. are you confortable using it?
 
 ## visitors and residents (v&r)
 The visitors and residents modes of engagement with the technology was developed by White et al.
 
+> V&R is a simple way of describing the range of ways individuals can engage with the Web. (source: http://daveowhite.com/vandr/) 
+
 ### part 1 - introduction to the v&r map
 https://youtu.be/sPOG3iThmRI
 
-- White et al.'s v&r map can quantify our engagement with technology more accurately than [Marc Prensky](https://www.marcprensky.com/)'s Digital Natives and Digital Immigrants method
+- the v&r map can quantify our engagement with technology more accurately than [Marc Prensky](https://www.marcprensky.com/)'s Digital Natives and Digital Immigrants method
 - the v&r method uses a 2D coordinate system to quantify our engagment with technology/web
 
 <!-- #todo add image of clean map -->
-
-> V&R is a simple way of describing the range of ways individuals can engage with the Web. (http://daveowhite.com/vandr/) 
 
 - the v&r map helps all ages (not just old people) and people with low technical skills to use the web efficiently
 - it is based on people's motivation to engage with the web and has two modes, visitor and resident modes, and is further refined by whether we engage in an activity in a personal or an institutional (professional) manner
@@ -54,13 +55,32 @@ https://youtu.be/kO569eknM6U
 - what is the future of education? <!-- what do students get for paying their high fees? -->
 - shall students' learning rely entirely on the processes of formal education; lectures/workshops primarily using established forms of resources (e.g. academic journals) and assignments (e.g. essays or portfolios) or should their learning be more agile and incorporate the use of information on the Web (e.g. blog articles) and feedback on their works outside their workshops i.e. shall they seek feedback from people on discipline related forums?
 
-- students should not be expected to know how to use institutional identities in resident mode efficiently? But **they should be encouraged** to develop this practice and this is the reason why in the CS220 AU assignment you
-- should experiment with privat and public GiHub repositories
-- can submit your reflection included in your public GitHub repository (which everyone can see online) or on FASER instead (you choose)
-- can choose between developing a website for your professional identity tied to your 'real name' or a website linked to one of your projects which does not have to be tied to your 'real name' but to a brand name instead e.g. 'Saving Trees In Colchester' or 'I help you understand the word', etc. 
+- students should not be expected to know how to use institutional identities in resident mode efficiently? But **they should be encouraged** to develop this practice and **this is the reason why in the CS220 AU assignment you**
+  - should experiment with privat and public GiHub repositories
+  - can submit your reflection included in your public GitHub repository (which everyone can see online) or on FASER instead (you choose)
+  - can choose between developing a website for your professional identity tied to your 'real name' or a website linked to one of your projects which does not have to be tied to your 'real name' but to a brand name instead e.g. 'Saving Trees In Colchester' or 'I help you understand the word', etc. 
 
 ### part 2 - open practice
 https://youtu.be/1X0g2OvSdWc
+
+- students are comfortable sharing information about their personal lives online, but less comfortable sharing information about their developing professional practices "especially if this might open them up to criticism or reveal mistakes and failings"
+- the audience of traditional publishing is 
+  - targeted i.e. if you publish in a journal on biology you will have primarily biologist reading your work
+  - "usually is at a safe distance" i.e. if they criticise work they will do it in writing in a paper they publish (unless you present at a conference - some people can be harsh)
+- the audience when publishing on the Web
+  - (while being targeted) can be unlimited as well
+  - can give you quick feedback linked to their real or not real identities
+ - it might be better to consider work published online as unfinished, something that can start discussions
+ - a powerful feature of open practice using the Web is the access to feedback from individuals or networks who are beyond the classroom
+ - White believes 'that making the process of learning more visible and collaborative online challenges students to become relevant members of their discipline or academic community' (although does not suggest this for all subjects)
+ - students should have their own private groups where they can express themselves withouth being afraid of being monitored
+ - our main resident identities on the Web should probably not be a mix of personal and professional/institutional (hint: be personal in private groups and professional openly)
+
+### discuss
+- can someones professional identity be based on her private life?
+- shall students start sharing information about their practice/reserch while studying or after finishing their degrees?
+- could some of you set up a forum where you can openly discuss ideas/issues openly which are not monitored (by me or the university)?
+- how can you continue the sentence "As education moves towards incorporating the use of the Web, ... "
 
 ### CS220 AU assignment reminder
 1. reflection on your digital identity using two v&r maps (present and future)
