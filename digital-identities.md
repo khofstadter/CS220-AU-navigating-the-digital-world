@@ -5,7 +5,7 @@
 ## TOC
 1. [generations](#generations) 
 2. [visitors and residents](#visitors-and-residents)   
-  2.1 [introduction to the v&r map](introduction-to-the-v&r-map)  
+  2.1 [introduction](#introduction)  
   2.2 [creditibility](#creditibility)  
   2.3 [open practice](#open-practice)  
 3. [additional](#additional)
@@ -27,7 +27,7 @@
 > Visitors and Residents (V&R) is a simple way of describing the range of ways individuals can engage with the Web. 
 (White et al. http://daveowhite.com/vandr/) 
 
-### introduction to the v&r map
+### introduction
 https://youtu.be/sPOG3iThmRI
 
 #### my notes
