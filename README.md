@@ -67,7 +67,7 @@ This repository only contains information for the CS220 AU, 'Navigating the Digi
 You can view the .md files of this repository as a GitHub Pages website at [https://krisztian-hofstadter-tedor.github.io/CS220-AU-navigating-the-digital-world/](https://krisztian-hofstadter-tedor.github.io/CS220-AU-navigating-the-digital-world/) . (The URL of the repository is [https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) )
 
 ## module description
-The complete module description can be found on Moodle (or see in [assets/doc](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world/tree/main/assets/doc) folder).
+The university's module description can be found on Moodle (or see in [assets/doc](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world/tree/main/assets/doc) folder).
 
 ## further clarification
 The module aims to **help manage our digital identities**
