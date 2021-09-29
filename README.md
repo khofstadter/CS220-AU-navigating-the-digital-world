@@ -72,15 +72,12 @@ The university's module description can be found on Moodle (or see in [assets/do
 ## further clarification
 The module aims to **help manage our digital identities**
 
-1. by introducing David White's [visitors & residents (v&r) modes](digital-identities.md/#visitors-and-residents) to help understand and develop our engagements on the Web and 
-2. by introducing tools for project management, web-design and hosting as well as audio-visual production and post-production all which could help develop personal and professional/institutional resident identities on the Web i.e. digital identities or resident modes of engaging on the Web.
+1. by introducing David White and his colleague's [Visitors & Residents (V&R) modes](digital-identities.md/#visitors-and-residents) which can help understand and develop our activities on the Web and 
+2. by introducing tools for project management, web-design and hosting as well as audio-visual production and post-production - all which can help develop our personal and professional/institutional resident identities on the Web i.e. digital identities or resident modes of engaging on the Web.
 
-<!-- maybe quick introduction to 
-visitor and 
-resident modes
--->
+<!-- #todo embed plan V&R map -->
 
-While this module primarily focuses on providing practical skills it also opens up dialogues to help develop critical thinking about our digital identities and interactions e.g. by asking the following questions:
+While this module primarily focuses on providing practical skills, it also opens up dialogues to help develop critical thinking about our digital identities and interactions e.g. by asking the following questions:
 
 - how are we currently engaging with the Web and how can we improve this?
 - how can we build and use our online identities e.g. a website for 'better' engagement?
@@ -91,32 +88,30 @@ While this module primarily focuses on providing practical skills it also opens 
 
 The module introduces primarily free and cross-platform software and where possible highlights their advantages and disadvantages to paid software. As the module in 2021 is run in labs equipped with Windows PCs, I will demonstrate software in the workshops and screencasts using Windows 10 operating system (OS). (However, as the OS I primarily use is macOS, if desired, I can demonstrate on macOS as well.)
 
-After this more practical Autumn term module, lecturers from different disciplines across the university will lead a series of weekly lectures during the Spring term (CS220 SP), which will combine theoretical questions with real-life scenarios to explore issues such as hacking, social media, ethics, digital crime, video games and interactive technologies. These sessions are devised to help students gain a broad awareness of, and to think critically about, the ways that digital technologies are reshaping contemporary societies. For more information about these lectures please contact Dr Di Franco.
-
 ### syllabus
-The syllabus (the outline of the weekly held workshops) can be found here: [syllabus](syllabus.md)
+The outline of the weekly workshops can be found on [syllabus](syllabus.md). Note: the outline is subject to change <!-- #todo change ARU phrase -->.
 
-Note: this might change based on progress
+**How much theory will we cover in this Authm module?**
 
-### how much theory will we cover in this Authm module?
-**In week 2**
-- a brief overview of generations
-- introduction to the visitor and resident map (white)
+in week 2
+- an overview of generations and the visitors and residents map
 
-**later weeks**
+in later weeks
 - information processing (sensemaking), critical thinking and dissemination
 - intelligent search strategies using Google vs Duck Duck Go, Google Scholar and the library website
-- e-safety e.g. efficient passwords
+- e-safety e.g. efficient use of passwords
 
-The rest of the information the module provides is practical i.e. we will experiment with software that can help us create and maintain 'better' digital identities. Everyone can have multiple identities on the Web however, (probably) only one professional identity. Our personal identities are more informal, subjective and our professional ones more formal and perhaps more objective as well.
+The rest of the module is practical i.e. we will experiment with some software that can help us create and maintain 'better' digital identities and focus on giving each other feedback to streamline progress. 
 
 ## assignment
-The assignment is to submit a digital portfolio using GitHub containing
-- a weekly updated logbook on your assignment progress
+The assignment is to submit a digital portfolio using GitHub (and FASER) containing
+- a weekly updated logbook on your progress
 - a link to your personal or professional website (can be about you or about one of your projects)
-- a short report reflecting on your past, present and future digital identity (or identities) using the v&r map
+- a short report reflecting on your present and future digital identity (or identities) using the V&R map
 
-More detailed information can be found in the [template](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio), which will be explained in detail in the workshops.
+More detailed information can be found in the [template](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio), which will be explained in detail in the workshops. 
+
+Note: Everyone can have multiple identities on the Web (you migh already have a few anonymous avatars) however, (probably) only one professional identity. Our personal identities are more informal, subjective and our professional ones more formal and perhaps more objective as well. For the assingment, you can choose to develop (or further develop) a digital identity linked to your real name or a digital identity linked to a project which is not linked to your real name. 
 
 ### assigment examples
 A few submissions from last year (Essex and ARU) to plant some ideas. 
