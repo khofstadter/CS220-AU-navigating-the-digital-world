@@ -6,12 +6,14 @@
 ## generations
 <!-- #todo embed a gantt chart -->
 - overview: [https://youtu.be/TtIojDWOsgg](https://youtu.be/TtIojDWOsgg)
-- clarify millenials vs gen Z: [https://youtu.be/aqdm6aBUZII(https://youtu.be/aqdm6aBUZII](https://youtu.be/aqdm6aBUZII(https://youtu.be/aqdm6aBUZII)
+- clarify millenials vs gen Z: [https://youtu.be/aqdm6aBUZII(https://youtu.be/aqdm6aBUZII](https://youtu.be/aqdm6aBUZII)
 
 ### discuss 
 <!-- #todo add more questions -->
 - does multitasking work for you?
 - can you define your relationship with technology, especially the web i.e. are you confortable using it?
+
+<br>
 
 ## visitors and residents (V&R)
 
@@ -81,6 +83,8 @@ https://youtu.be/1X0g2OvSdWc
 - shall students start sharing information about their practice/reserch while studying or after finishing their degrees?
 - could some of you set up a forum where you can openly discuss ideas/issues openly which are not monitored (by me or the university)?
 - how can you continue the sentence "As education moves towards incorporating the use of the Web, ... "
+
+<br>
 
 ### CS220 AU assignment reminder
 1. reflection on your digital identity using two v&r maps (present and future)
