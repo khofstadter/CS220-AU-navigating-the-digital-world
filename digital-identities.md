@@ -115,7 +115,11 @@ https://youtu.be/1X0g2OvSdWc
 - what do you know about data mining?
 - do I know how Tech Giants e.g. Google and Facebook use my data?
 
-### more resources
+### resources
 - https://www.bbc.co.uk/bitesize/articles/zf8j92p
 - https://www.thesocialdilemma.com/
 - https://www.psychologytoday.com/us/blog/anger-in-the-age-entitlement/201404/whats-wrong-criticism
+- Digital Native (1982-94) vs Digital Immigrant Model (Mark Prensky 2001)
+- https://www.pewresearch.org/internet/2014/03/11/digital-life-in-2025/
+- https://youtu.be/Bg3a5f107Jc (Artfilm by Douglas Coupland, exploring how the use of technology changes culture in the early 1990s.)
+
