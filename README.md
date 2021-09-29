@@ -111,7 +111,7 @@ Note: this might change based on progress
 The rest of the information the module provides is practical i.e. we will experiment with software that can help us create and maintain 'better' digital identities. Everyone can have multiple identities on the Web however, (probably) only one professional identity. Our personal identities are more informal, subjective and our professional ones more formal and perhaps more objective as well.
 
 ## assignment
-The assignment is to submit a digital portfolio using GitHub. The portfolio needs to contain: 
+The assignment is to submit a digital portfolio using GitHub containing
 - a weekly updated logbook on your assignment progress
 - a link to your personal or professional website (can be about you or about one of your projects)
 - a short report reflecting on your past, present and future digital identity (or identities) using the v&r map
