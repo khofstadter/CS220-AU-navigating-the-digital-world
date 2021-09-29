@@ -1,21 +1,23 @@
 <!--
 TODO:
 ## write here - publish on Medium (later)
-- write each file (apart from readme.md) for Medium audience (and students)
+- write each file for Medium audience (and students) 
 - needs to be accessible here (or on khofstadter.com) as well as students might not have access to more than 5 articles, etc.
 - use 'you could read it on Medium' on the top of the file once published on Medium
 
-## week 2 theory/assignment 
-- carry on with planning w2 (theory): gen, v&r (part 1, 2, 3) + explain assignment 
-- create assignment repo example
-  - have a look at examples
-  - create a public repo (that they could clone or download/upoad)
+## slides for Paula
+
+## week 2 module outline/digital identity/assignment template
+- finish digital-identity.md
+  - V&R part 3
+- finish template repo
+  - have a look at examples from last year and ARU
+  - can they clone this repo or should the download/upload?
   - populate with all files needed (perhaps own v&r maps)
   - write assessment guide and rubric/checksheet
-  - extract data from https://moodle.essex.ac.uk/mod/page/view.php?id=376391
 
 ## syllabus w3 - w7
-- outline in github repo
+- GitHub repo
 - tools.md
 - other .md files
 - publish on Medium?
@@ -132,5 +134,6 @@ To be able to support your projects (assignments) as much as possible, I will ne
   - web-design and web-hosting
 
 ## log
+- 2021-09-29 updated digital-identity.md with V&R part 1,2,3
 - 2021-09-28 moved assessment info to assessment template repo  
 - 2021-09-21 added digital-identities.md and syllabus.md. Decided that each file should be written for a wider audience (e.g. Medium) to help raise the quality of writing. 
