@@ -28,27 +28,22 @@ TODO: email students these questions prior the first class in w2
 <br>
 
 ## w2 introduction
-- Tue: introduction to Autumn and Spring term by Dr Di Franco
-- Wed/Thu: 
-  - brief introduction to the Autumn module (readme.md with template repo and this syllabus.md)
-  - short intro by you and me (khofstadter.com)
-
-### [digital identities](digital-identities.md)
-
-### [GitHub](tools.md)
+### workshop
+- Tue: intro to Autumn (AU) and Spring (SP) term by Dr Di Franco
+- Wed/Thu: intro to AU module by me with info on this repository: 
+- [readme.md](readme.md)
+- [digital identities](digital-identities.md)
 
 ### homework
-- read: Digital Native (1982-94) vs Digital Immigrant Model (Mark Prensky 2001)
-- read: https://www.pewresearch.org/internet/2014/03/11/digital-life-in-2025/
-- watch: https://youtu.be/Bg3a5f107Jc (Artfilm by Douglas Coupland, exploring how the use of technology changes culture in the early 1990s.)
-
-- make first v&r map
-- familiarise yourself with the module description, assignments, assignment criteria, assessment rubric, note down questions in your repository, think about a project that you'd like to create a website for
+- start making your first V&R map
+- make sure you understand the module assessment (if not note your questions down)
+- explore links in [digital identities](digital-identities.md)
 
 <br>
 
-## w3 Visual Code Studio and GitHub Desktop
-- your progress
+## w3 GitHub and Visual Code Studio
+- your progress with V&R
+- ### [GitHub](tools.md)
 [[project-management-with-github-vsc-foam.md]]
 [[writing]]
 [[foam]]
