@@ -5,8 +5,10 @@
 ## TOC
 1. [generations](#generations) 
 2. [visitors and residents](#visitors-and-residents)   
-  2.1 [part 1 - introduction to the v&r map](part-1-introduction-to-the-v&r-map)
-  2.2 
+  2.1 [introduction to the v&r map](introduction-to-the-v&r-map)  
+  2.2 [creditibility](#creditibility)  
+  2.3 [open practice](#open-practice)  
+3. [additional](#additional)
 
 ## generations
 <!-- #todo embed a gantt chart -->
@@ -25,7 +27,7 @@
 > Visitors and Residents (V&R) is a simple way of describing the range of ways individuals can engage with the Web. 
 (White et al. http://daveowhite.com/vandr/) 
 
-### part 1 - introduction to the v&r map
+### introduction to the v&r map
 https://youtu.be/sPOG3iThmRI
 
 #### my notes
@@ -44,7 +46,7 @@ https://youtu.be/sPOG3iThmRI
 
 <br> 
 
-### part 2 - creditibility
+### creditibility
 https://youtu.be/kO569eknM6U
 
 #### my notes
@@ -73,7 +75,7 @@ https://youtu.be/kO569eknM6U
 
 <br> 
 
-### part 2 - open practice
+### open practice
 https://youtu.be/1X0g2OvSdWc
 
 - students are comfortable sharing information about their personal lives online, but less comfortable sharing information about their developing professional practices "especially if this might open them up to criticism or reveal mistakes and failings"
@@ -103,7 +105,7 @@ https://youtu.be/1X0g2OvSdWc
 
 <br>
 
-## additional/unsorted
+## additional
 ### discuss
 - what do you know about data mining?
 - do I know how Tech Giants e.g. Google and Facebook use my data?
