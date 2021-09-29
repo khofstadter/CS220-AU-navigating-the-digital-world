@@ -2,7 +2,7 @@
 - web or Web
 -->
 # digital identities
-## contents
+## table of contents
 - [generations](#generations) 
 - [visitors and residents](#visitors-and-residents)   
   - [introduction](#introduction)  
