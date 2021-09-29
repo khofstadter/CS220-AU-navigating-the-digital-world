@@ -5,13 +5,13 @@ This syllabus was designed to help develop our personal and/or professional/inst
 
 w1 [Welcome week](#w1-welcome-week)  
 w2 [Introduction](#w2-introduction)  
-w3 [GitHub and Visual Code Studio](#w3-github-and-visual-code-studio)  
-w4 [Websites and Troubleshooting](#W4-Websites-and-Troubleshooting)  
-w5 [Audio-Visual and Other Productivity Tools](#W5-Audio-Visual-and-Other-Productivity-Tools)  
-w6 [Sensemaking](#W6-Sensemaking)  
-w7 [Student Presentations](#W7-Student-Presentations)  
-w8 [Reading Week](#W8-Reading-Week)  
-w9-10-11 [Workshops](#W9-10-11-Workshops)
+w3 [GitHub and Visual Code Studio](#w3-GitHub-and-Visual-Code-Studio)  
+w4 [websites and troubleshooting](#w4-websites-and-troubleshooting)  
+w5 [audio-visual and other productivity tools](#w5-audio-visual-and-other-productivity-tools)  
+w6 [sensemaking](#w6-sensemaking)  
+w7 [presentations](#w7-presentations)  
+w8 [reading Week](#w8-reading-week)  
+w9-10-11 [workshops](#w9-10-11-workshops)
 
 <br>
 
