@@ -1,8 +1,13 @@
 <!-- #todo
 - web or Web
 -->
-
 # digital identities
+## TOC
+1. [generations](#generations) 
+2. [visitors and residents](#visitors-and-residents)   
+  2.1 [part 1 - introduction to the v&r map](part-1-introduction-to-the-v&r-map)
+  2.2 
+
 ## generations
 <!-- #todo embed a gantt chart -->
 - overview: [https://youtu.be/TtIojDWOsgg](https://youtu.be/TtIojDWOsgg)
@@ -15,14 +20,15 @@
 
 <br>
 
-## visitors and residents (V&R)
+## visitors and residents
 
-> V&R is a simple way of describing the range of ways individuals can engage with the Web. 
+> Visitors and Residents (V&R) is a simple way of describing the range of ways individuals can engage with the Web. 
 (White et al. http://daveowhite.com/vandr/) 
 
 ### part 1 - introduction to the v&r map
 https://youtu.be/sPOG3iThmRI
 
+#### my notes
 - the v&r map can quantify our engagement with technology more accurately than [Marc Prensky](https://www.marcprensky.com/)'s Digital Natives and Digital Immigrants method
 - the v&r method uses a 2D coordinate system to quantify our engagment with technology/web
 
@@ -36,9 +42,12 @@ https://youtu.be/sPOG3iThmRI
 - examples of institutional activities are e.g. disseminating or discussing ideas as a worker (and perhaps as a student in highter eduction)
 - v&r map examples: http://daveowhite.com/vandr/vr-mapping/
 
+<br> 
+
 ### part 2 - creditibility
 https://youtu.be/kO569eknM6U
 
+#### my notes
 - before the web, institutionally reviewed resources were made available on paper, which, as it was expensive, meant that only experts were allowed to publish
 - in contrast, the Web more recently provides an inexpensive method to share information to a potentially large audience without the institutional gatekeepers
 
@@ -61,6 +70,8 @@ https://youtu.be/kO569eknM6U
   - should experiment with privat and public GiHub repositories
   - can submit your reflection included in your public GitHub repository (which everyone can see online) or on FASER instead (you choose)
   - can choose between developing a website for your professional identity tied to your 'real name' or a website linked to one of your projects which does not have to be tied to your 'real name' but to a brand name instead e.g. 'Saving Trees In Colchester' or 'I help you understand the word', etc. 
+
+<br> 
 
 ### part 2 - open practice
 https://youtu.be/1X0g2OvSdWc
@@ -90,10 +101,13 @@ https://youtu.be/1X0g2OvSdWc
 1. reflection on your digital identity using two v&r maps (present and future)
 2. a website linked to your professional identity (this can linked to your real name or one of your project's which does not have to be linked to your real name)
 
-## discuss
+<br>
+
+## additional/unsorted
+### discuss
 - what do you know about data mining?
 - do I know how Tech Giants e.g. Google and Facebook use my data?
 
-# more resources
+### more resources
 - https://www.bbc.co.uk/bitesize/articles/zf8j92p
 - https://www.thesocialdilemma.com/
