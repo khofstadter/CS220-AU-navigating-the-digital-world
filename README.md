@@ -113,15 +113,15 @@ More detailed information can be found in the [template](https://github.com/kris
 
 Note: Everyone can have multiple identities on the Web (you migh already have a few anonymous avatars) however, (probably) only one professional identity. Our personal identities are more informal, subjective and our professional ones more formal and perhaps more objective as well. For the assingment, you can choose to develop (or further develop) a digital identity linked to your real name or a digital identity linked to a project which is not linked to your real name. 
 
-### assigment examples
+<!-- ### assigment examples #todo: 
 A few submissions from last year (Essex and ARU) to plant some ideas. 
-<!-- TODO: create an example repo -->
+-->
 
 ## students
-Students enrolled in this module come from different disciplines/departments e.g. journalism, psychology, philosophy, art history, political science, media studies, literature. Most who enrol are 1st year, but there are some 2nd and 3rd years as well. Some students only do the practical part of the module (taught by me), some only the theoretical part (taught be Dr Di Franco), some do both. Due to Covid, the workshops will use a hybrid/dual-mode teaching method i.e. some students will be in the classroom with me and some will attend via the online Zoom meeting. Students cannot swap around and do learning some weeks face-to-face and other weeks remotely. (Make sure you know how much your mark for this module contributes to your final mark linked to your graduation certificate. 
+Students enrolled in this module come from different disciplines/departments e.g. journalism, psychology, philosophy, art history, political science, media studies, literature. Most who enrol are 1st year, but there are some 2nd and 3rd years as well. Some students only do the practical part of the module (taught by me), some only the theoretical part (taught be Dr Di Franco), some do both. Due to Covid, the workshops will use a hybrid/dual-mode teaching method i.e. some students will be in the classroom with me and some will attend via the online Zoom meeting. Students cannot swap around and do learning some weeks face-to-face and other weeks remotely. 
 
 ### FFR
-To be able to support your projects (assignments) as much as possible, I will need to understand the levels of technical skills you enter the module with. FFR is for frequency following response, sometimes referred to as synchronisation. In other words, to be able to provide efficient help, I need to first synchronise to your current position (understand it) e.g. how much experience you have with audio-video software and then provide suitable support. As you will see, I like to get to know people by asking them to express their aims and methods and even takes notes to make sure I can remember everyone's progress. 
+To be able to support your projects (assignments) as much as possible, I will need to understand the levels of technical skills you enter the module with. (This is why I sent you an email with a few questions in week 1.) FFR is for frequency following response, sometimes referred to as synchronisation. In other words, to be able to provide efficient help, I need to first synchronise to your current position (understand it) e.g. how much experience you have with audio-video software and then provide suitable support. As you will see, I like to get to know people by asking them to express their aims and methods and even takes notes to make sure I can remember everyone's progress. 
 
 ## module aims and methods
 - to help critically assess your current use of your digital identities (with the v&r map)
@@ -132,6 +132,6 @@ To be able to support your projects (assignments) as much as possible, I will ne
   - web-design and web-hosting
 
 ## log
-- 2021-09-29 updated digital-identity.md with V&R part 1,2,3
+- 2021-09-29 updated digital-identity.md with V&R part 1,2,3; refined readme.md; minor edits to GitHub heading in tools.md
 - 2021-09-28 moved assessment info to assessment template repo  
 - 2021-09-21 added digital-identities.md and syllabus.md. Decided that each file should be written for a wider audience (e.g. Medium) to help raise the quality of writing. 
