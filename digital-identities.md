@@ -3,12 +3,13 @@
 -->
 # digital identities
 ## TOC
-1. [generations](#generations) 
-2. [visitors and residents](#visitors-and-residents)   
-  2.1 [introduction](#introduction)  
-  2.2 [creditibility](#creditibility)  
-  2.3 [open practice](#open-practice)  
-3. [additional](#additional)
+- [generations](#generations) 
+- [visitors and residents](#visitors-and-residents)   
+  - [introduction](#introduction)  
+  - [creditibility](#creditibility)  
+  - [open practice](#open-practice)  
+- [assignment reminder](#assignment-reminder)
+- [additional](#additional)
 
 ## generations
 <!-- #todo embed a gantt chart -->
@@ -99,7 +100,7 @@ https://youtu.be/1X0g2OvSdWc
 
 <br>
 
-### CS220 AU assignment reminder
+## assignment reminder
 1. reflection on your digital identity using two v&r maps (present and future)
 2. a website linked to your professional identity (this can linked to your real name or one of your project's which does not have to be linked to your real name)
 
