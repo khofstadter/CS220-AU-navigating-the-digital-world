@@ -76,6 +76,8 @@ https://youtu.be/kO569eknM6U
 
 > All criticism is a form of autobiography. (Oscar Wilde)
 
+> Insecurity is an ugly thing. It makes you hate people that you don’t even know. (Heather)
+
 <br> 
 
 ### open practice
@@ -116,3 +118,4 @@ https://youtu.be/1X0g2OvSdWc
 ### more resources
 - https://www.bbc.co.uk/bitesize/articles/zf8j92p
 - https://www.thesocialdilemma.com/
+- https://www.psychologytoday.com/us/blog/anger-in-the-age-entitlement/201404/whats-wrong-criticism
