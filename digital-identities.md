@@ -74,6 +74,8 @@ https://youtu.be/kO569eknM6U
   - can submit your reflection included in your public GitHub repository (which everyone can see online) or on FASER instead (you choose)
   - can choose between developing a website for your professional identity tied to your 'real name' or a website linked to one of your projects which does not have to be tied to your 'real name' but to a brand name instead e.g. 'Saving Trees In Colchester' or 'I help you understand the word', etc. 
 
+> All criticism is a form of autobiography. (Oscar Wilde)
+
 <br> 
 
 ### open practice
