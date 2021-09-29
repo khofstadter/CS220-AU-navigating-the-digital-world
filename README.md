@@ -56,7 +56,7 @@ TODO:
 -->
 
 <head>
-  <title>CS220 AU | Navigating the digital world</titled>
+<title>CS220 AU Navigating the Digital World</title>
 </head>
 
 University of Essex    
