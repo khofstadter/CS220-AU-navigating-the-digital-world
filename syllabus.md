@@ -3,20 +3,20 @@ This syllabus was designed to help develop our personal and/or professional/inst
 
 ## TOC
 
-w1 [Welcome week](#w1-welcome-week)  
-w2 [Introduction](#w2-introduction)  
-w3 [GitHub and Visual Code Studio](#w3-GitHub-and-Visual-Code-Studio)  
+w1 [welcome week](#w1-welcome-week)  
+w2 [module introduction](#w2-module-introduction)  
+w3 [GitHub and Visual Code Studio](#w3-github-and-visual-code-studio)  
 w4 [websites and troubleshooting](#w4-websites-and-troubleshooting)  
 w5 [audio-visual and other productivity tools](#w5-audio-visual-and-other-productivity-tools)  
 w6 [sensemaking](#w6-sensemaking)  
 w7 [presentations](#w7-presentations)  
-w8 [reading Week](#w8-reading-week)  
+w8 [reading week](#w8-reading-week)  
 w9-10-11 [workshops](#w9-10-11-workshops)
 
 <br>
 
 ## w1 welcome week
-TODO: email students these questions prior the first class in w2
+<!-- #todo email these questions to students -->
 
 - do you plan to use the PCs in the university labs or your own computer for working on your assignments?
 - (if you are not a first-year student,) have you used the Student Union or the Medie Centre's creative studios before on campus?
@@ -28,57 +28,91 @@ TODO: email students these questions prior the first class in w2
 
 <br>
 
-## w2 introduction
+## w2 module introduction
 ### workshop
 - Tue: intro to Autumn (AU) and Spring (SP) term by Dr Di Franco
 - Wed/Thu: intro to AU module by me with info on this repository: 
-- [readme.md](readme.md)
+- [module introduction and assignment template](README.md)
 - [digital identities](digital-identities.md)
 
-### homework
+### homework ideas
 - start making your first V&R map
 - make sure you understand the module assessment (if not note your questions down)
 - explore links in [digital identities](digital-identities.md)
 
+More to be added later.
+
 <br>
 
 ## w3 GitHub and Visual Code Studio
-- your progress with V&R
-- ### [GitHub](tools.md)
-[[project-management-with-github-vsc-foam.md]]
-[[writing]]
-[[foam]]
+### discuss progress
+- would you like to present your progress to your class?
+- do you have any questions regarding your assignment?
 
-### TODO
-- watch [Social Dilemma](https://youtu.be/uaaC57tcci0) on Netflix if you can)
-- try Brave Browser to see what websites are trying to crawl from you
+### tools
+The [tool.md](tool.md) file contains a list of software to use and consider. I will introduces them gradually. 
+
+This week I will introduce 
+- how we will use GitHub repositories in this module (essential for your assigment) and 
+- how you can use Visual Code Studio to streamline your project management using a GitHub repository
+
+### homework ideas
+- try [Brave Browser](https://brave.com/) to see what data websites are trying to crawl from you (data mining)
+- start using your GitHub repository and get familiar with Markdown language
+
+More to be added later.
 
 <br>
 
 ## w4 websites and troubleshooting
-[[websites]]
-[[troubleshooting]]
+### discuss progress
+- would you like to present your progress to your class?
+- do you have any questions regarding your assignment?
+
+This week I will introduce 
+- some differences between creating and maintaining websites with Wordpress and GitHub Pages 
+- ideas you should consider when troubleshooting 
+
+### homework ideas
+- consider whether your website could benefit from audio-visual content
+- experiment with turning your repository into a website using GitHub Pages
+- understand how Markdown is turned into HTML language
+- progress with your assignment
 
 <br>
 
 ## w5 audio-visual and other productivity tools 
-[[audio-visual-and-other-productivity-tools.md]]
-[[podcast]]
-TODO: 
-- book mics for students to test with software (mini jack connection needed) https://www.essex.ac.uk/staff/it-services/equipment-loans
+### discuss progress
+- would you like to present your progress to your class?
+- do you have any questions regarding your assignment?
+
+This week I will introduce 
+- some software for audio-visual content production including creating screencasts
+- questions to consider when developing a podcast idea
+- how you could book equipment in the university and where you could use more advances software/hardware for content production
+
+### homework
+- explore a variety of software for audio-video production
+- progress with your assignment
 
 <br>
 
 ## w6 sensemaking
-[[sensemaking]]
-[[meditation]]
-[[auditory-entrainment]]
-- Antonio Damasio: The Strange Order of Things
-- The Backfire Effect
+### discuss progress
+- would you like to present your progress to your class?
+- do you have any questions regarding your assignment?
+
+This week I will introduce 
+- ideas to consider regarding making sense of the world i.e. sensemaking including secular meditation techniques with focus on auditory entrainment
+
+### homework
+- explore whether how objective your sensemaking is
+- progress with your assignment
 
 <br>
 
-## w7 student presentations
+## w7 presentations
+
 
 <br>
 
