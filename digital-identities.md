@@ -13,10 +13,10 @@
 - does multitasking work for you?
 - can you define your relationship with technology, especially the web i.e. are you confortable using it?
 
-## visitors and residents (v&r)
-The visitors and residents modes of engagement with the technology was developed by White et al.
+## visitors and residents (V&R)
 
-> V&R is a simple way of describing the range of ways individuals can engage with the Web. (source: http://daveowhite.com/vandr/) 
+> V&R is a simple way of describing the range of ways individuals can engage with the Web. 
+(White et al. http://daveowhite.com/vandr/) 
 
 ### part 1 - introduction to the v&r map
 https://youtu.be/sPOG3iThmRI
