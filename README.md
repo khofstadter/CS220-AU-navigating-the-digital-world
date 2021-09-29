@@ -55,9 +55,7 @@ TODO:
 - who wants to perform?
 -->
 
-<head>
-<title>CS220 AU Navigating the Digital World</title>
-</head>
+<!-- # can I add a custom title in an HTML head here? -->
 
 University of Essex    
 Department: Interdisciplinary Studies   
