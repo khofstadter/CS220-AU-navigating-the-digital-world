@@ -136,4 +136,4 @@ To be able to support your projects (assignments) as much as possible, I will ne
 - 2021-09-28 moved assessment info to assessment template repo;  enabled GitHub pages which considers the readme.md as if it was an index.md (great)    
 - 2021-09-21 added digital-identities.md and syllabus.md. Decided that each file should be written for a wider audience (e.g. Medium) to help raise the quality of writing
 
-> Practice what you preach. (Plautus)
+<p><center>Practice what you preach. (Plautus)</center><br>
