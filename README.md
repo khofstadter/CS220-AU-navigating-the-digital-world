@@ -56,8 +56,8 @@ TODO:
 -->
 
 <head>
-  <title>CS220 AU | Navigating the digital world<\titled>
-  <\head>
+  <title>CS220 AU | Navigating the digital world</titled>
+</head>
 
 University of Essex    
 Department: Interdisciplinary Studies   
@@ -65,13 +65,21 @@ School of Philosophy and Arts History
 Wed 11-1 pm Lab M  
 Thu 11-1 pm Lab G  
 
+<br>
+    
 This repository only contains information for the CS220 AU, 'Navigating the Digital World' module, the Autumn term module. Information for Dr Di Franco's more theoretical module (CS220 SP) is on Moodle. If your enrollment code is CS220 AU (Autumn) or CS220 FY (Full Year) then the information below is relevant for you.
+
+<br>
 
 ## website version
 You can view the .md files of this repository as a GitHub Pages website at [https://krisztian-hofstadter-tedor.github.io/CS220-AU-navigating-the-digital-world/](https://krisztian-hofstadter-tedor.github.io/CS220-AU-navigating-the-digital-world/) . (The URL of the repository is [https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) )
 
+<br>
+
 ## module description
 The university's module description can be found on Moodle (or see in [assets/doc](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world/tree/main/assets/doc) folder).
+
+<br>
 
 ## further clarification
 The module aims to **help manage our digital identities**
@@ -92,8 +100,12 @@ While this module primarily focuses on providing practical skills, it also opens
 
 The module introduces primarily free and cross-platform software and where possible highlights their advantages and disadvantages to paid software. As the module in 2021 is run in labs equipped with Windows PCs, I will demonstrate software in the workshops and screencasts using Windows 10 operating system (OS). (However, as the OS I primarily use is macOS, if desired, I can demonstrate on macOS as well.)
 
+<br>
+
 ### syllabus
 The outline of the weekly workshops can be found on [syllabus](syllabus.md). Note: the outline is subject to change <!-- #todo change ARU phrase -->.
+
+<br>
 
 **How much theory will we cover in this Authm module?**
 
@@ -106,6 +118,8 @@ in later weeks
 - e-safety e.g. efficient use of passwords
 
 The rest of the module is practical i.e. we will experiment with some software that can help us create and maintain 'better' digital identities and focus on giving each other feedback to streamline progress. 
+
+<br>
 
 ## assignment
 The assignment is to submit a digital portfolio using GitHub (and FASER) containing
@@ -121,11 +135,17 @@ Note: Everyone can have multiple identities on the Web (you migh already have a 
 A few submissions from last year (Essex and ARU) to plant some ideas. 
 -->
 
+<br>
+
 ## students
 Students enrolled in this module come from different disciplines/departments e.g. journalism, psychology, philosophy, art history, political science, media studies, literature. Most who enrol are 1st year, but there are some 2nd and 3rd years as well. Some students only do the practical part of the module (taught by me), some only the theoretical part (taught be Dr Di Franco), some do both. Due to Covid, the workshops will use a hybrid/dual-mode teaching method i.e. some students will be in the classroom with me and some will attend via the online Zoom meeting. Students cannot swap around and do learning some weeks face-to-face and other weeks remotely. 
 
+<br>
+
 ### FFR
 To be able to support your projects (assignments) as much as possible, I will need to understand the levels of technical skills you enter the module with. (This is why I sent you an email with a few questions in week 1.) FFR is for frequency following response, sometimes referred to as synchronisation. In other words, to be able to provide efficient help, I need to first synchronise to your current position (understand it) e.g. how much experience you have with audio-video software and then provide suitable support. As you will see, I like to get to know people by asking them to express their aims and methods and even takes notes to make sure I can remember everyone's progress. 
+
+<br>
 
 ## module aims and methods
 - to help critically assess your current use of your digital identities (with the v&r map)
@@ -134,6 +154,8 @@ To be able to support your projects (assignments) as much as possible, I will ne
   - writing
   - audio-visual production
   - web-design and web-hosting
+
+<br>
 
 ## log
 - 2021-09-29 updated digital-identity.md with V&R part 1,2,3;  refined readme.md; minor edits to GitHub heading in tools.md
