@@ -70,7 +70,7 @@ This repository only contains information for the CS220 AU, 'Navigating the Digi
 <br>
 
 ## website version
-You can view the .md files of this repository as a GitHub Pages website at [https://krisztian-hofstadter-tedor.github.io/CS220-AU-navigating-the-digital-world/](https://krisztian-hofstadter-tedor.github.io/CS220-AU-navigating-the-digital-world/) . (The URL of the repository is [https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) )
+You can view the .md files of this repository as a GitHub Pages website at [https://krisztian-hofstadter-tedor.github.io/CS220-AU-navigating-the-digital-world/](https://krisztian-hofstadter-tedor.github.io/CS220-AU-navigating-the-digital-world/) . The URL of the repository is [https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) .
 
 <br>
 
