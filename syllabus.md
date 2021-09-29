@@ -3,8 +3,8 @@ This syllabus was designed to help develop our personal and/or professional/inst
 
 ## TOC
 
-w1 [Welcome week](#W1-Welcome-week)  
-w2 [Introduction](#W2-Introduction)  
+w1 [Welcome week](#W1-welcome-week)  
+w2 [Introduction](#W2-introduction)  
 w3 [Visual Code Studio and GitHub Desktop](#W3-Visual-Code-Studio-and-GitHub-Desktop)  
 w4 [Websites and Troubleshooting](#W4-Websites-and-Troubleshooting)  
 w5 [Audio-Visual and Other Productivity Tools](#W5-Audio-Visual-and-Other-Productivity-Tools)  
