@@ -1,5 +1,5 @@
 # syllabus
-This syllabus was designed to help develop our personal and/or professional/institutional digital indentities with which we can engage with information on the Web more efficiently in our residence modes. We will discuss this mode in detail in week 1 using the [digital identities](digital-identities.md) file.
+This syllabus was designed to help develop our personal and/or professional/institutional digital indentities with which we can engage with information on the Web more efficiently in our residence modes.
 
 ## TOC
 
