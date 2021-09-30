@@ -1,6 +1,5 @@
 <!--
 #todo
-## black arrowheads in svg images - change to grey
 ## slides for Paula
 ## finish template
 - explore last year's submissions
@@ -88,7 +87,7 @@ The module aims to **help manage our digital identities**
 
 <br>
 
-<br><br>![V&R map plain](assets/img/vr-map-plain.svg)<center><strong>V&R map (plain) </strong> You can downlod this image in  .svg format from the repository's `assets/img` folder.</center><br><br>
+<br><br>![V&R map plain](assets/img/vr-map-plain.svg)<center><strong>V&R map (plain) </strong> You can downlod this image in  .svg format from the repository's `assets/img` folder.</center><br><br><!-- #todo why are the arrowheads in black colour in the svg file? -->
 
 While this module primarily focuses on providing practical skills, it also opens up dialogues to help develop critical thinking about our digital identities and interactions e.g. by asking the following questions:
 
