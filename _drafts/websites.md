@@ -31,7 +31,7 @@ from https://www.verywellmind.com/color-psychology-2795824:
 3. Layout. The image that seems cozy and compact to some might be seen as dark and crowded to others. Light space is better, as it allows “room to breathe.”
 4. Contributory factors like image quality and font type and size.
 
-![hi](../../assets/img/color-psychology.jpg)
+![hi](../assets/img/color-psychology.jpg)
 
 ## resources
 - https://marksheet.io/introduction.html
@@ -48,6 +48,3 @@ from https://www.verywellmind.com/color-psychology-2795824:
 - make our own website to have control over our data
 - OpenGraphs/SEO
 - shall I direct trafic from my social media to my own website, why?
-
-
-
