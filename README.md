@@ -87,7 +87,7 @@ The module aims to **help manage our digital identities**
 
 <br>
 
-<br><br>![V&R map plain](assets/img/vr-map-plain.png)<center><strong>V&R map (plain) </strong> You can downlod this image in .png or .svg format from the repository's `assets/img` folder.</center><br><br>
+<br><br>![V&R map plain](assets/img/vr-map-plain.svg)<center><strong>V&R map (plain) </strong> You can downlod this image in .png or .svg format from the repository's `assets/img` folder.</center><br><br>
 
 While this module primarily focuses on providing practical skills, it also opens up dialogues to help develop critical thinking about our digital identities and interactions e.g. by asking the following questions:
 
