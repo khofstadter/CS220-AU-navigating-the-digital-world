@@ -1,8 +1,10 @@
 <!--
 #todo
 ## slides for Paula
-
-## find link to submissions (Hannah)
+## finish template
+- explore last year's submissions
+## finish digital-identities.md
+## make screencast for GitHub, VSC, GitHub Desktop
 
 ## write here - publish on Medium (later)
   - write each file for Medium audience (and students) 
