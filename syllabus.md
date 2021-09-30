@@ -28,6 +28,10 @@ The questions sent to you by email:
 
 Please familiarise yourself with the module description by week 2. 
 
+Work on a brief introduction for next week. Here is mine: 
+
+Hello! My name is Krisztián Hofstädter, aka tEdör. I am a creative technologist working as a researcher, lecturer, freelancer and artist. My main interests are brain-computer music interfacing linked to meditation, electronic dance music, the link between art and science and animal rights. Most of my work can be found on my personal website [https://khofstadter.com/](https://khofstadter.com/) - which I redesign frequently. 
+
 <br>
 
 ## w2 module introduction
@@ -74,7 +78,7 @@ More to be added later.
 - do you have any questions regarding your assignment?
 
 This week I will introduce 
-- some differences between creating and maintaining websites with Wordpress and GitHub Pages 
+- some differences between creating and maintaining websites with Wordpress and GitHub Pages
 - ideas you should consider when troubleshooting 
 
 ### homework ideas
