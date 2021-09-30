@@ -32,8 +32,8 @@ w9-10-11 [workshops](#w9-10-11-workshops)
 ### workshop
 - Tue: intro to Autumn (AU) and Spring (SP) term by Dr Di Franco
 - Wed/Thu: intro to AU module by me with info on this repository: 
-- [module introduction and assignment template](README.md)
-- [digital identities](digital-identities.md)
+  - [module introduction and assignment template](README.md)
+  - [digital identities](digital-identities.md)
 
 ### homework ideas
 - start making your first V&R map
