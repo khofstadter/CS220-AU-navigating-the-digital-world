@@ -26,6 +26,8 @@ The questions sent to you by email:
 - do you use social media e.g., Facebook, Twitter, etc?
 - do you have an ongoing project or an idea for a project e.g., a blog/vlog or an e-commerce website that you would like to further develop in this module?
 
+Please familiarise yourself with the module description by week 2. 
+
 <br>
 
 ## w2 module introduction
