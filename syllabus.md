@@ -29,11 +29,13 @@ The questions sent to you by email:
 <br>
 
 ## w2 module introduction
+
+Tue: intro to Autumn (AU) and Spring (SP) term by Dr Di Franco
+
 ### workshop
-- Tue: intro to Autumn (AU) and Spring (SP) term by Dr Di Franco
-- Wed/Thu: intro to AU module by me with info on this repository: 
-  - [module introduction and assignment template](README.md)
-  - [digital identities](digital-identities.md)
+intro to AU module by me with info on this repository: 
+- [module introduction and assignment template](README.md)
+- [digital identities](digital-identities.md)
 
 ### homework ideas
 - start making your first V&R map
