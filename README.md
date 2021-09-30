@@ -1,15 +1,14 @@
 <!--
-TODO:
-## write here - publish on Medium (later)
-- write each file for Medium audience (and students) 
-- needs to be accessible here (or on khofstadter.com) as well as students might not have access to more than 5 articles, etc.
-- use 'you could read it on Medium' on the top of the file once published on Medium
-
+#todo
 ## slides for Paula
+
+## write here - publish on Medium (later)
+  - write each file for Medium audience (and students) 
+  - needs to be accessible here (or on khofstadter.com) as well as students might not have access to more than 5 articles, etc.
+  - use 'you could read it on Medium' on the top of the file once published on Medium
 
 ## week 2 module outline/digital identity/assignment template
 - finish digital-identity.md
-  - V&R part 3
 - finish template repo
   - have a look at examples from last year and ARU
   - can they clone this repo or should the download/upload?
@@ -20,7 +19,6 @@ TODO:
 - GitHub repo
 - tools.md
 - other .md files
-- publish on Medium?
 ### screencasts
 - find mic solution
 - book lab M or G
@@ -43,8 +41,6 @@ TODO:
 - social media
 - multimedia production
 - intelligent search strategies
-
-## address these questions:
 - how are digital technologies transforming society?
 - to what extent do digital technologies curb or enhance our rights and freedom?
 - what digital skills are needed for the knowledge economy and a democratic society?
@@ -55,7 +51,7 @@ TODO:
 - who wants to perform?
 -->
 
-<!-- # can I add a custom title in an HTML head here? -->
+<!-- #todo can I add a custom title in an HTML head here? -->
 
 University of Essex    
 Department: Interdisciplinary Studies   
@@ -85,7 +81,7 @@ The module aims to **help manage our digital identities**
 1. by introducing David White and his colleague's [Visitors & Residents (V&R) modes](digital-identities.md/#visitors-and-residents) to help understand and develop our activities on the Web and 
 2. by introducing tools for project management, web-design and hosting as well as audio-visual production and post-production, all which can help develop our personal and professional/institutional resident identities on the Web i.e. resident modes of engaging on the Web.
 
-<!-- #todo embed plan V&R map -->
+![V&R map plain](assets/img/vr-map-plain.png)
 
 While this module primarily focuses on providing practical skills, it also opens up dialogues to help develop critical thinking about our digital identities and interactions e.g. by asking the following questions:
 
