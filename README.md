@@ -83,7 +83,11 @@ The module aims to **help manage our digital identities**
 1. by introducing David White and his colleague's [Visitors & Residents (V&R) modes](digital-identities.md/#visitors-and-residents) to help understand and develop our activities on the Web and 
 2. by introducing tools for project management, web-design and hosting as well as audio-visual production and post-production, all which can help develop our personal and professional/institutional resident identities on the Web i.e. resident modes of engaging on the Web.
 
-![V&R map plain](assets/img/vr-map-plain.png)
+<br>
+
+
+
+<br>![V&R map plain](assets/img/vr-map-plain.png)<center><strong>V&R map (plain) </strong> You can downlod this image in .png or .svg format from the repository's [assets/img](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world/tree/main/assets/img) folder.</center><br>
 
 While this module primarily focuses on providing practical skills, it also opens up dialogues to help develop critical thinking about our digital identities and interactions e.g. by asking the following questions:
 
