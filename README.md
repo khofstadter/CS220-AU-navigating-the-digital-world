@@ -1,5 +1,6 @@
 <!--
 #todo
+## black arrowheads in svg images - change to grey
 ## slides for Paula
 ## finish template
 - explore last year's submissions
