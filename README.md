@@ -102,7 +102,7 @@ The module introduces primarily free and cross-platform software and where possi
 <br>
 
 ### syllabus
-The outline of the weekly workshops can be found in the [syllabus](syllabus.md) file. Note: the outline is subject to change based on students' progress.
+The outline of the weekly workshops can be found in the [syllabus](syllabus.md) file. This outline is subject to change based on students' progress.)
 
 <br>
 
