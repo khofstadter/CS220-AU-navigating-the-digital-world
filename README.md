@@ -2,6 +2,8 @@
 #todo
 ## slides for Paula
 
+## find link to submissions (Hannah)
+
 ## write here - publish on Medium (later)
   - write each file for Medium audience (and students) 
   - needs to be accessible here (or on khofstadter.com) as well as students might not have access to more than 5 articles, etc.
@@ -98,7 +100,7 @@ The module introduces primarily free and cross-platform software and where possi
 <br>
 
 ### syllabus
-The outline of the weekly workshops can be found in the [syllabus](syllabus.md) file. Note: the outline is subject to change <!-- #todo change ARU phrase -->.
+The outline of the weekly workshops can be found in the [syllabus](syllabus.md) file. Note: the outline is subject to change based on students' progress.
 
 <br>
 
