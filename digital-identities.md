@@ -35,7 +35,7 @@ https://youtu.be/sPOG3iThmRI
 - the v&r map can quantify our engagement with technology more accurately than [Marc Prensky](https://www.marcprensky.com/)'s Digital Natives and Digital Immigrants method
 - the v&r method uses a 2D coordinate system to quantify our engagment with technology/web
 
-<!-- #todo add image of clean map -->
+<br><br>![V&R map plain](assets/img/vr-map-plain.png)<center><strong>V&R map (plain) </strong> You can downlod this image in .png or .svg format from the repository's `assets/img` folder.</center><br><br>
 
 - the v&r map helps all ages (not just old people) and people with low technical skills to use the web efficiently
 - it is based on people's motivation to engage with the web and has two modes, visitor and resident modes, and is further refined by whether we engage in an activity in a personal or an institutional (professional) manner
