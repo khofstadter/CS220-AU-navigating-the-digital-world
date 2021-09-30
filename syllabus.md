@@ -19,7 +19,7 @@ w9-10-11 [workshops](#w9-10-11-workshops)
 <!-- #todo email these questions to students -->
 The questions sent to you by email in week 1:
 - do you plan to use the PCs in the university labs or your own computer for working on your assignments?
-- (if you are not a first-year student,) have you used the Student Union or the Medie Centre's creative studios before on campus?
+- (if you are not a first-year student,) have you used the Student Union or the Media Centre's creative studios before on campus?
 - what software/hardware do you have experience with for creating or editing content with e.g., Photoshop, iMovie, microphones, video cameras, your phone with apps?
 - do you have a website for personal or professional (e.g., project related) use? If you have one, did you build it yourself?
 - what are your strengths and weaknesses regarding the use of technology? What skills related to technology would you like to improve the most?
