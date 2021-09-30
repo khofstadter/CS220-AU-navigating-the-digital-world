@@ -113,7 +113,10 @@ https://youtu.be/1X0g2OvSdWc
 ## additional
 ### discuss
 - what do you know about data mining?
+- use Brave Browser for a while to see what websites are trying to access from your (your computer)
 - do I know how Tech Giants e.g. Google and Facebook use my data?
+- what is our digital footprint?
+
 
 ### resources
 - https://www.bbc.co.uk/bitesize/articles/zf8j92p
@@ -122,4 +125,4 @@ https://youtu.be/1X0g2OvSdWc
 - Digital Native (1982-94) vs Digital Immigrant Model (Mark Prensky 2001)
 - https://www.pewresearch.org/internet/2014/03/11/digital-life-in-2025/
 - https://youtu.be/Bg3a5f107Jc (Artfilm by Douglas Coupland, exploring how the use of technology changes culture in the early 1990s.)
-
+- https://www.vpnmentor.com/research/whos-watching-you/#/?filter=thirdParty
