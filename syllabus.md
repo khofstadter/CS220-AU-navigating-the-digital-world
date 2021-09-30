@@ -17,7 +17,15 @@ w9-10-11 [workshops](#w9-10-11-workshops)
 
 ## w1 welcome week
 <!-- #todo email these questions to students -->
-The questions sent to you by email:
+_The email sent to you:_
+
+
+Dear CS220 AU student
+
+I am Krisztián, the module leader for CS220 AU Navigating the Digital World. To streamline our progress, please address point 1 and 2 below and reply this email by week 2. 
+
+1. questions
+
 - do you plan to use the PCs in the university labs or your own computer for working on your assignments?
 - (if you are not a first-year student,) have you used the Student Union or the Media Centre's creative studios before on campus?
 - what software/hardware do you have experience with for creating or editing content with e.g., Photoshop, iMovie, microphones, video cameras, your phone with apps?
@@ -26,13 +34,22 @@ The questions sent to you by email:
 - do you use social media e.g., Facebook, Twitter, etc?
 - do you have an ongoing project or an idea for a project e.g., a blog/vlog or an e-commerce website that you would like to further develop in this module?
 
-Please familiarise yourself with the module description by week 2. 
+
+2. brief introduction
 
 Write a brief introduction for next week. Here is mine to give you an example: 
 
 Hello! My name is Krisztián Hofstädter, aka tEdör. I am a creative technologist working as a researcher, lecturer, freelancer and artist. My primariry interests are brain-computer music interfacing linked to meditation, electronic dance music, the link between art and science and animal rights. You can find most of my work on my personal website [https://khofstadter.com/](https://khofstadter.com/).
 
 We will improve these throughout the module. 
+
+
+3. Please familiarise yourself with the module description (attached) by week 2.
+
+
+I look forward to seeing you next week!
+
+Bye for now, k
 
 <br>
 
