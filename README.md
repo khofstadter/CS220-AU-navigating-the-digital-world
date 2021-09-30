@@ -161,7 +161,7 @@ To be able to support your projects (assignments) as much as possible, I will ne
 <br>
 
 ## log
-- 2021-09-30 added drafts to give example 'work in progress' i.e. 'practice what you preach'.  made an plain v&r image in InkScape and uploaded .svg format to assets folder as well.  small edits in texts.
+- 2021-09-30 added drafts to give example for 'work in progress' i.e. 'practice what you preach'.  made a plain v&r image in InkScape and uploaded .svg format to assets folder as well.  small edits in texts.
 - 2021-09-29 updated digital-identity.md with V&R part 1,2,3.  refined readme.md; minor edits to GitHub heading in tools.md
 - 2021-09-28 moved assessment info to assessment template repo.  enabled GitHub pages which considers the readme.md as if it was an index.md (great)    
 - 2021-09-21 added digital-identities.md and syllabus.md. Decided that each file should be written for a wider audience (e.g. Medium) to help raise the quality of writing
