@@ -20,3 +20,8 @@ do:
 - members can clap 50 times on an article (this translate into money) non member's money does not translate into money
 -  Medium vs Substack: https://www.youtube.com/watch?v=BlG6MeVIQTA (if you don't have an audience already, then first Medium, then Substack)
 -  https://findingtom.com/top-medium-publications/
+
+## grammar
+- https://archiesoftech.com/apps-like-grammarly/
+### spelling-grammar in VSC
+- https://awesomeopensource.com/project/davidlday/vscode-languagetool-linter?fire...

@@ -115,8 +115,8 @@ https://duckduckgo.com/?q=UK+Social+Media+Demographics+2020&t=brave&ia=web
 ## Writing
 - Lorem Ipsum - random text generator  (https://www.lipsum.com/)
 
-
-
+## Open Source
+- https://awesomeopensource.com/
 
 
 

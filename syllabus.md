@@ -1,5 +1,5 @@
 # syllabus
-This syllabus was designed to help develop our personal and/or professional/institutional digital indentities with which we can engage with information on the Web more efficiently in our residence modes.
+This syllabus was designed to help develop our personal and/or professional/institutional digital identities with which we can engage with information on the Web more efficiently in our residence modes.
 
 ## TOC
 
@@ -28,9 +28,11 @@ The questions sent to you by email:
 
 Please familiarise yourself with the module description by week 2. 
 
-Work on a brief introduction for next week. Here is mine: 
+Write a brief introduction for next week. Here is mine to give you an example: 
 
-Hello! My name is Krisztián Hofstädter, aka tEdör. I am a creative technologist working as a researcher, lecturer, freelancer and artist. My main interests are brain-computer music interfacing linked to meditation, electronic dance music, the link between art and science and animal rights. Most of my work can be found on my personal website [https://khofstadter.com/](https://khofstadter.com/) - which I redesign frequently. 
+Hello! My name is Krisztián Hofstädter, aka tEdör. I am a creative technologist working as a researcher, lecturer, freelancer and artist. My primariry interests are brain-computer music interfacing linked to meditation, electronic dance music, the link between art and science and animal rights. You can find most of my work on my personal website [https://khofstadter.com/](https://khofstadter.com/).
+
+We will improve these throughout the module. 
 
 <br>
 
@@ -58,10 +60,10 @@ More to be added later.
 - do you have any questions regarding your assignment?
 
 ### tools
-The [tool.md](tool.md) file contains a list of software to use and consider. I will introduces them gradually. 
+The [tool.md](tool.md) file contains a list of software to use and consider. I will introduce them gradually. 
 
 This week I will introduce 
-- how we will use GitHub repositories in this module (essential for your assigment) and 
+- how we will use GitHub repositories in this module (essential for your assignment) and 
 - how you can use Visual Code Studio to streamline your project management using a GitHub repository
 
 ### homework ideas
@@ -75,16 +77,16 @@ More to be added later.
 ## w4 websites and troubleshooting
 ### discuss progress
 - would you like to present your progress to your class?
-- do you have any questions regarding your assignment?
+- do you have questions regarding your assignment?
 
 This week I will introduce 
-- some differences between creating and maintaining websites with Wordpress and GitHub Pages
+- some differences between Wordpress and GitHub Pages and other website generators
 - ideas you should consider when troubleshooting 
 
 ### homework ideas
 - consider whether your website could benefit from audio-visual content
 - experiment with turning your repository into a website using GitHub Pages
-- understand how Markdown is turned into HTML language
+- understand the link between Markdown and HTML language
 - progress with your assignment
 
 <br>
@@ -97,7 +99,7 @@ This week I will introduce
 This week I will introduce 
 - some software for audio-visual content production including creating screencasts
 - questions to consider when developing a podcast idea
-- how you could book equipment in the university and where you could use more advances software/hardware for content production
+- how you could book equipment in the university and where you could use advanced software/hardware for content production
 
 ### homework
 - explore a variety of software for audio-video production
@@ -114,7 +116,7 @@ This week I will introduce
 - ideas to consider regarding making sense of the world i.e. sensemaking including secular meditation techniques with focus on auditory entrainment
 
 ### homework
-- explore whether how objective your sensemaking is
+- explore how objective your sensemaking is
 - progress with your assignment
 
 <br>
