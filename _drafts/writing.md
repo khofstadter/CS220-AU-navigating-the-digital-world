@@ -30,4 +30,4 @@ do:
 - https://betterhumans.pub/how-i-built-a-book-brain-with-roamresearch-5d874cf3d0c8
 
 ## thinking and writing
-- Jordan Peterson - The Importance of Writing: https://youtu.be/ttghRztTMI0
+- Jordan Peterson - The Importance of Writing: https://youtu.be/cY_Kfw6wuVo
