@@ -19,7 +19,6 @@ w9-10-11 [workshops](#w9-10-11-workshops)
 <!-- #todo email these questions to students -->
 _The email sent to you:_
 
-
 Dear CS220 AU student
 
 I am Krisztián, the module leader for CS220 AU Navigating the Digital World. To streamline our progress, please address point 1 and 2 below and reply this email by week 2. 
@@ -41,7 +40,7 @@ Write a brief introduction for next week. Here is mine to give you an example:
 
 Hello! My name is Krisztián Hofstädter, aka tEdör. I am a creative technologist working as a researcher, lecturer, freelancer and artist. My primariry interests are brain-computer music interfacing linked to meditation, electronic dance music, the link between art and science and animal rights. You can find most of my work on my personal website [https://khofstadter.com/](https://khofstadter.com/).
 
-We will improve these throughout the module. 
+We will imporve these introductions throughout the module. 
 
 
 3. Please familiarise yourself with the module description (attached) by week 2.
