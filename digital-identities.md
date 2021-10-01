@@ -110,6 +110,13 @@ https://youtu.be/1X0g2OvSdWc
 
 <br>
 
+## summery
+- it's not just old people who need to learn how to use the Web. It's complicated and complex <!-- #todo link RW video --> and therefore all ages should educate themselves.
+- we need to be careful with the information we engage with online as it leaves a digital footprint e.g. your drunk videos might stay on Facebook forever
+- it's a good idea to start working on your professional(institutional) identity while studying but we should make sure that we are confortable with where and how much of our ideas/questions are share publically (learn to use both, private and public notetaking/publishing tools)
+
+<br>
+
 ## additional
 ### discuss
 - what do you know about data mining?
@@ -117,6 +124,7 @@ https://youtu.be/1X0g2OvSdWc
 - do I know how Tech Giants e.g. Google and Facebook use my data?
 - what is our digital footprint?
 
+<br>
 
 ### resources
 - https://www.bbc.co.uk/bitesize/articles/zf8j92p
