@@ -28,3 +28,6 @@ do:
 
 ## Roam
 - https://betterhumans.pub/how-i-built-a-book-brain-with-roamresearch-5d874cf3d0c8
+
+## thinking and writing
+- https://youtu.be/ttghRztTMI0
