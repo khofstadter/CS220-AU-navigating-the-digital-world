@@ -25,3 +25,6 @@ do:
 - https://archiesoftech.com/apps-like-grammarly/
 ### spelling-grammar in VSC
 - https://awesomeopensource.com/project/davidlday/vscode-languagetool-linter?fire...
+
+## Roam
+- https://betterhumans.pub/how-i-built-a-book-brain-with-roamresearch-5d874cf3d0c8
