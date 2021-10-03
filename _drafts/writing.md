@@ -32,3 +32,7 @@ do:
 
 ## thinking and writing
 - Jordan Peterson on the importance of writing: https://youtu.be/cY_Kfw6wuVo and more https://www.youtube.com/results?search_query=jordan+peterson+write
+
+## they have editors and proofreader
+- people have editors and proofreaders, don't be discouraged that your writing might not be as good (yet) 
+- it might be a question of money
