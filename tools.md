@@ -1,7 +1,7 @@
 # Tools 
 ## GitHub 
 1. Sign up to GitHub
- - you will need an email address
+ - you will need an email address (does not have to be your student email address)
  - your username needs to be your student number
 2. Find my CS220 repository (https://github.com/krisztian-hofstadter-tedor/CS220) and watch it (all activity)
 3. Create a private repository (repo)
