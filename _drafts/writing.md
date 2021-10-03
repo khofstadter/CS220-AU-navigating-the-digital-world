@@ -5,6 +5,7 @@ do:
 
 # tools
 - use Grammarly or alternatives
+- dictionary
 
 # how to write
 - remove 'that' (if possible)
