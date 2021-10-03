@@ -2,13 +2,15 @@
 ## GitHub 
 1. Sign up to GitHub
  - you will need an email address
+ - your username needs to be your student number
 2. Find my CS220 repository (https://github.com/krisztian-hofstadter-tedor/CS220) and watch it (all activity)
 3. Create a private repository (repo)
   - will be used for your private notes
   - when creating it add the `readme.md` file
-4. Create a public repo (or clone the template?)
+4. Create a public repo <!-- or clone the template? -->
   - will be used for your public logbook (log) and public static website (GitHub Pages) 
   - when creating it add the `readme.md` file
+  - this is a repo that you will have to submit
 
 ### Markdown
 Familarise yourself with Markdown language here: https://guides.github.com/features/mastering-markdown/ (there is a shortcut for this link in the file editor in your repository). <!-- add a screenshot? -->
