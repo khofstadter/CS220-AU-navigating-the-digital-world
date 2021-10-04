@@ -36,3 +36,6 @@ do:
 ## they have editors and proofreader
 - people have editors and proofreaders, don't be discouraged that your writing might not be as good (yet) 
 - it might be a question of money
+
+## improve readability
+- https://duckduckgo.com/?q=improve+readabilyt&t=brave&ia=web
