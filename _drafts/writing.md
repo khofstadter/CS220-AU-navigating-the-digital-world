@@ -39,3 +39,6 @@ do:
 
 ## improve readability
 - https://duckduckgo.com/?q=improve+readabilyt&t=brave&ia=web
+
+## Essex support
+- https://moodle.essex.ac.uk/course/view.php?id=15066
