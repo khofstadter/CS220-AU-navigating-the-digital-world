@@ -17,3 +17,6 @@ https://dariusforoux.medium.com/you-become-what-you-focus-on-d8e531cf53eb
 ## Check
 - Antonio Damasio: The Strange Order of Things
 - The Backfire Effect
+
+## social media
+- https://viktorsmari.github.io/2021/05/28/why-i-quit-facebook.html
