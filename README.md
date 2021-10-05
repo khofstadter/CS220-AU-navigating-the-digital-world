@@ -3,8 +3,8 @@
 ## slides for Paula
 ## finish template
 - explore last year's submissions
-## finish digital-identities.md
 ## make screencast for GitHub, VSC, GitHub Desktop
+## upload basic info and links to Moodle
 
 ## write here - publish on Medium (later)
   - write each file for Medium audience (and students) 
