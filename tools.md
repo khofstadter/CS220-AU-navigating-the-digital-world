@@ -99,6 +99,11 @@ https://obsproject.com/
 #### Isotope RX
 TODO: install on mac
 
+### Hardware
+- audio cable adapters
+- portable mics e.g. Zoom H1
+- headphones 
+
 ## CSS
 VSC extension to colourise: https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize
 
