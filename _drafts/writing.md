@@ -43,3 +43,8 @@ do:
 
 ## Essex support
 - https://moodle.essex.ac.uk/course/view.php?id=15066
+
+## convert files
+### Markdown to PDF
+- https://md2pdf.netlify.app/
+- https://duckduckgo.com/?q=markdown+to+pdf&t=brave&ia=web
