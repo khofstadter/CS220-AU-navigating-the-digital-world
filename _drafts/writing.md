@@ -24,6 +24,7 @@ do:
 
 ## grammar
 - https://archiesoftech.com/apps-like-grammarly/
+- https://prowritingaid.com/Free
 ### spelling-grammar in VSC
 - https://awesomeopensource.com/project/davidlday/vscode-languagetool-linter?fire...
 
