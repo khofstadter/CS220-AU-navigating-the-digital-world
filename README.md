@@ -162,6 +162,7 @@ To support your projects (assignments) as much as possible, I will need to under
 <br>
 
 ## log
+- 2021-10-05 tested Zoom with student computer and ZoomDave in lab G and created a list of things todo before the lessons starts, could be 10 minutes, so perhaps set a task for students? Also tested audio cable splitters that could be used with the student computers to records audio via a microphone and so far the Zoom H1 via mini jack is the best solution. Perhaps need to test with the small clip mic as well to have something close by. 
 - 2021-09-30 added drafts to give examples for 'work in progress' i.e. 'practice what you preach'. Made a plain V&R image in InkScape and uploaded .svg format to assets folder as well. Small edits in texts.
 - 2021-09-29 updated digital-identity.md with V&R part 1,2,3. Refined readme.md; minor edits to GitHub heading in tools.md.
 - 2021-09-28 moved assessment info to assessment template repo. Enabled GitHub pages which considers the readme.md file as if it was an index.md file (great).
