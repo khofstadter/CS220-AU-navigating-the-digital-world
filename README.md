@@ -62,6 +62,7 @@ Department: Interdisciplinary Studies
 School of Philosophy and Arts History  
 Wed 11-1 pm Lab M  
 Thu 11-1 pm Lab G  
+ASH: Wed 1-2 pm Lab M
 
 <br>
     
