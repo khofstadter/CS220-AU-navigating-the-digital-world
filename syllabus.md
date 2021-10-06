@@ -4,7 +4,7 @@ This syllabus was designed to develop our professional/institutional digital ide
 ## TOC
 
 w1 [welcome week](#w1-welcome-week)  
-w2 [module introduction](#w2-module-introduction)  
+w2 [module introduction and digital identities](#w2-module-introduction-and-digital-identities)  
 w3 [GitHub and Visual Code Studio](#w3-github-and-visual-code-studio)  
 w4 [websites and troubleshooting](#w4-websites-and-troubleshooting)  
 w5 [audio-visual and other productivity tools](#w5-audio-visual-and-other-productivity-tools)  
@@ -52,9 +52,10 @@ Bye for now, k
 
 <br>
 
-## w2 module introduction
+## w2 module introduction and digital identities
 
-Tue: intro to Autumn (AU) and Spring (SP) term by Dr Di Franco
+### introduction webinar
+Wed: 10 - 11 am (online) - Introduction to both modules by Dr Di Franco
 
 ### workshop
 intro to AU module by me with info on this repository: 
