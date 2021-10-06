@@ -1,10 +1,16 @@
 <!--
 #todo
-## slides for Paula
-## finish template
-- explore last year's submissions
-## make screencast for GitHub, VSC, GitHub Desktop
-## upload basic info and links to Moodle
+## overview diagram
+- send to paula
+- add to repo
+- by week 1
+
+## GitHub, VSC, GitHub Desktop
+- by week 3
+
+## website
+- by week 4
+- student examples for project ideas
 
 ## write here - publish on Medium (later)
   - write each file for Medium audience (and students) 
