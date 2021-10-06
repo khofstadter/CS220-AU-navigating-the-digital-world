@@ -5,6 +5,10 @@
 - add to repo
 - by week 1
 
+## add resources
+- by week 1
+- password making, etc
+
 ## GitHub, VSC, GitHub Desktop
 - by week 3
 
