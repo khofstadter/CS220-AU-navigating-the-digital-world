@@ -11,6 +11,7 @@
 ## GitHub Pages
 - turn repository into GitHub Pages
 
+
 + CV (and LinkedIn)
 - keep it simple (formatting as well)
   - will need to rewrite your CV for different jobs
@@ -18,6 +19,8 @@
 - make website future proof
 - succinct
 - use variables as much as possible (it will help change your design if needed)
+
+- correct use of headings
 
 ### events
 #### upcoming events
