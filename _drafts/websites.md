@@ -48,3 +48,4 @@ from https://www.verywellmind.com/color-psychology-2795824:
 - make our own website to have control over our data
 - OpenGraphs/SEO
 - shall I direct trafic from my social media to my own website, why?
+- archive.org to see old websites
