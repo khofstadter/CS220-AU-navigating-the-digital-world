@@ -79,6 +79,11 @@ The university's module description is on Moodle (or see in [assets/doc](https:/
 
 <br>
 
+### syllabus
+You can find a brief outline of the weekly workshops in the [syllabus](syllabus.md) file. This outline is subject to change based your progress.
+
+<br>
+
 ## further clarification
 The module aims to **help manage our digital identities**
 
@@ -100,11 +105,6 @@ While this module primarily focuses on providing practical skills, it also opens
 - what is the change we would like to see in the world and how can we use our resident identities on the Web to support this change?
 
 The module introduces primarily free and cross-platform software and, where possible, highlights their advantages and disadvantages to paid software. As the module in 2021 runs in labs equipped with Windows PCs, I demonstrate software in the workshops and screencasts using Windows 10 operating system (OS). However, as the OS I primarily use is macOS, if desired, I can demonstrate on macOS as well.
-
-<br>
-
-### syllabus
-You can find the outline of the weekly workshops in the [syllabus](syllabus.md) file. This outline is subject to change based on students' progress.)
 
 <br>
 
