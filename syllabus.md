@@ -1,5 +1,5 @@
 # syllabus
-This syllabus was designed to help develop our personal and/or professional/institutional digital identities with which we can engage with information on the Web more efficiently in our residence modes.
+This syllabus was designed to develop our professional/institutional digital identities which we can engage with information on the Web more efficiently.
 
 ## TOC
 
