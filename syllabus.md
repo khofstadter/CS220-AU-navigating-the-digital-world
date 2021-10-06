@@ -58,15 +58,14 @@ Tue: intro to Autumn (AU) and Spring (SP) term by Dr Di Franco
 
 ### workshop
 intro to AU module by me with info on this repository: 
+- links on Moodle to this repository (we won't use Moodle much)
 - [module introduction and assignment template](README.md)
 - [digital identities](digital-identities.md)
 
 ### homework ideas
 - start making your first V&R map
-- make sure you understand the module assessment (if not note your questions down)
+- make sure you understand the module assessment (if not, email me or note down your questions for next week)
 - explore links in [digital identities](digital-identities.md)
-
-More to be added later.
 
 <br>
 
