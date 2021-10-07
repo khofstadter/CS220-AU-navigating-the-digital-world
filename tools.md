@@ -90,6 +90,8 @@ https://obsproject.com/
 #### iMovie and Final Cut Pro
 - mac only (iMovie is free and easi to use)
 
+<!-- some examples of my screencasts on youtube might be good to demonstrate, some unlisted for clients as well -->
+
 ### Audio-music making/editing
 #### Reaper
 #### Audacity
@@ -124,7 +126,5 @@ https://duckduckgo.com/?q=UK+Social+Media+Demographics+2020&t=brave&ia=web
 
 ## Open Source
 - https://awesomeopensource.com/
-
-
 
 
