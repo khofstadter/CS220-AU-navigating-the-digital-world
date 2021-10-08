@@ -40,7 +40,7 @@ Write a brief introduction for next week. Here is mine to give you an example:
 
 Hello! My name is Krisztián Hofstädter, aka tEdör. I am a creative technologist working as a researcher, lecturer, freelancer and artist. My primariry interests are brain-computer music interfacing linked to meditation, electronic dance music, the link between art and science and animal rights. You can find most of my work on my personal website [https://khofstadter.com/](https://khofstadter.com/).
 
-We will imporve these introductions throughout the module. 
+We will improve these introductions throughout the module. 
 
 
 3. Please familiarise yourself with the module description (attached) by week 2.
