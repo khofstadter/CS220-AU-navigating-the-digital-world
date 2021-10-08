@@ -21,7 +21,7 @@ _The email sent to you:_
 
 Dear CS220 AU student
 
-I am Krisztián, the module leader for CS220 AU Navigating the Digital World. To streamline our progress, please address point 1 and 2 below and reply this email by week 2. 
+I am Krisztián, the module leader for CS220 AU Navigating the Digital World. To streamline our progress, please address point 1 and 2 below and reply this email by your first seminar in week 2. 
 
 1. questions
 
