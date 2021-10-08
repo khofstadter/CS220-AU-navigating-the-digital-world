@@ -52,15 +52,13 @@ Bye for now, k
 
 <br>
 
+- Wed: 10 - 11 am (online) - Introduction to both modules by Dr Di Franco
+
 ## w2 module introduction and digital identities
-
-### introduction webinar
-Wed: 10 - 11 am (online) - Introduction to both modules by Dr Di Franco
-
-### workshop
+- please log in to your computers and visit the CS220 GitHub page
 - while I setup the system, please remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
 
-intro to AU module by me with info on this repository: 
+## introduction and theory
 - links on Moodle to this repository (we won't use Moodle much)
 - [module introduction and assignment template](README.md)
 - [digital identities](digital-identities.md)
@@ -73,6 +71,9 @@ intro to AU module by me with info on this repository:
 <br>
 
 ## w3 GitHub and Visual Code Studio
+- please log in to your computers and visit the CS220 GitHub page
+- while I setup the system, please remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
+
 ### discuss progress
 - would you like to present your progress to your class?
 - do you have any questions regarding your assignment?
@@ -93,6 +94,13 @@ More to be added later.
 <br>
 
 ## w4 websites and troubleshooting
+- please log in to your computers and visit the CS220 GitHub page
+- while I setup the system, please remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
+
+#### start
+- please log in to your computers and visit the CS220 GitHub page
+- while I setup the system, please remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
+
 ### discuss progress
 - would you like to present your progress to your class?
 - do you have questions regarding your assignment?
@@ -109,7 +117,10 @@ This week I will introduce
 
 <br>
 
-## w5 audio-visual and other productivity tools 
+## w5 audio-visual and other productivity tools
+- please log in to your computers and visit the CS220 GitHub page
+- while I setup the system, please remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
+
 ### discuss progress
 - would you like to present your progress to your class?
 - do you have any questions regarding your assignment?
@@ -126,6 +137,9 @@ This week I will introduce
 <br>
 
 ## w6 sensemaking
+- please log in to your computers and visit the CS220 GitHub page
+- while I setup the system, please remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
+
 ### discuss progress
 - would you like to present your progress to your class?
 - do you have any questions regarding your assignment?
@@ -140,15 +154,21 @@ This week I will introduce
 <br>
 
 ## w7 presentations
+- please log in to your computers and visit the CS220 GitHub page
+- while I setup the system, please remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
 
 
 <br>
 
 ## w8 reading week
+- please log in to your computers and visit the CS220 GitHub page
+- while I setup the system, please remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
 
 <br>
 
 ## w9-10-11 workshops
+- please log in to your computers and visit the CS220 GitHub page
+- while I setup the system, please remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
 
 <br>
 
