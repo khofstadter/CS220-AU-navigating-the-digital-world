@@ -10,6 +10,8 @@ w7 [presentations](#w7-presentations)
 w8 [reading week](#w8-reading-week)  
 w9-10-11 [workshops](#w9-10-11-workshops)
 
+Note: This outline is subject to change based on our progress.
+
 <br>
 
 ## w1 welcome week
