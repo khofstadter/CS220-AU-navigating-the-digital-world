@@ -1,5 +1,5 @@
 # syllabus
-This syllabus was designed to develop our professional/institutional digital identities which we can engage with information on the Web more efficiently.
+This syllabus was designed to develop our institutional (professional) identities which we can engage with information on the Web more efficiently.
 
 ## TOC
 
@@ -16,57 +16,26 @@ w9-10-11 [workshops](#w9-10-11-workshops)
 <br>
 
 ## w1 welcome week
-<!-- #todo email these questions to students -->
-_The email sent to you:_
-
-Dear CS220 AU student
-
-I am Krisztián, the module leader for CS220 AU Navigating the Digital World. To streamline our progress, please address point 1 and 2 below and reply this email by your first seminar in week 2. 
-
-1. questions
-
-- do you plan to use the PCs in the university labs or your own computer for working on your assignments?
-- (if you are not a first-year student,) have you used the Student Union or the Media Centre's creative studios before on campus?
-- what software/hardware do you have experience with for creating or editing content with e.g., Photoshop, iMovie, microphones, video cameras, your phone with apps?
-- do you have a website for personal or professional (e.g., project related) use? If you have one, did you build it yourself?
-- what are your strengths and weaknesses regarding the use of technology? What skills related to technology would you like to improve the most?
-- do you use social media e.g., Facebook, Twitter, etc?
-- do you have an ongoing project or an idea for a project e.g., a blog/vlog or an e-commerce website that you would like to further develop in this module?
-
-
-2. brief introduction
-
-Write a brief introduction for next week. Here is mine to give you an example: 
-
-Hello! My name is Krisztián Hofstädter, aka tEdör. I am a creative technologist working as a researcher, lecturer, freelancer and artist. My primariry interests are brain-computer music interfacing linked to meditation, electronic dance music, the link between art and science and animal rights. You can find most of my work on my personal website [https://khofstadter.com/](https://khofstadter.com/).
-
-We will improve these introductions throughout the module. 
-
-
-3. Please familiarise yourself with the module description (attached) by week 2.
-
-
-I look forward to seeing you next week!
-
-Bye for now, k
-
-<br>
-
-- Wed: 10 - 11 am (online) - Introduction to both modules by Dr Di Franco
+- introduction email sent to you (with many typos, sorry!) 
 
 ## w2 module introduction and digital identities
-- please log in to your computers and visit the CS220 GitHub page
-- while I setup the system, please remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
+- you had your introduction with Paula, we will clarify the CS220 AU part today
+- while I setup the system, please log in to your computers and remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
+- find the module on Moodle and the link to this CS220 repository (we won't use Moodle much)
+- have you received my email last week? Who want's to introduce him/herself? I can go first:
 
-## introduction and theory
-- links on Moodle to this repository (we won't use Moodle much)
+> Hello! My name is Krisztián Hofstädter, aka tEdör. I am a creative technologist working as a researcher, lecturer, freelancer, and artist. My primary interests are brain-computer music interfacing linked to meditation, electronic dance music and animal rights. I was born in Hungary and have lived in the U.K. since 2005. You can find most of my work on my personal website https://khofstadter.com/
+
+### introduction and theory
 - [module introduction and assignment template](README.md)
-- [digital identities](digital-identities.md)
+- [digital identities](digital-identities.md) - the main theory in this module
 
 ### homework ideas
-- start making your first V&R map
+- start making your first V&R map on paper or in a software (you can use the .svg file in the assets folder)
 - make sure you understand the module assessment (if not, email me or note down your questions for next week)
 - explore links in [digital identities](digital-identities.md)
+- consider joining the [CS220 Facebook group](https://www.facebook.com/groups/400596074925260) - perhaps some of you check Facebook more often than emails :)
+- consider creating an online group for yourself where you can discuss module related questions without me/university monitoring it
 
 <br>
 
