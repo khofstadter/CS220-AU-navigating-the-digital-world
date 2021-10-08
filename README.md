@@ -80,15 +80,12 @@ This repository contains information for the CS220 AU, 'Navigating the Digital W
 
 The **module description** is on Moodle (or see in [assets/doc](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world/tree/main/assets/doc) folder).
 
-<br>
-
-## syllabus
-Outline of the weekly workshops is in the [syllabus](syllabus.md) file. This outline is subject to change based on our progress.
+The weekly outline of the workshops is in the [syllabus](syllabus.md) file. 
 
 <br>
 
 ## further clarification
-The module aims to **help manage our digital identities**
+The module aims to **help develop our digital identities**
 
 1. by introducing David White and his colleague's [Visitors & Residents (V&R) modes](digital-identities.md/#visitors-and-residents) to help understand and develop our activities on the Web and 
 2. by introducing tools for project management, web-design and hosting as well as audio-visual production and post-production, all which can help develop our personal and professional/institutional resident identities on the Web i.e. resident modes of engaging on the Web.
