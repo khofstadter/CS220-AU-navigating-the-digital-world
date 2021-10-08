@@ -3,10 +3,10 @@
 ## overview diagram
 - send to paula
 - add to repo
-- by week 1
+- by week 2
 
 ## add resources
-- by week 1
+- by week 2
 - password making, etc
 
 ## GitHub, VSC, GitHub Desktop
