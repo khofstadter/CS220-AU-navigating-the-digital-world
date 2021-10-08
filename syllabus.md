@@ -1,5 +1,4 @@
 # syllabus
-## TOC
 
 w1 [welcome week](#w1-welcome-week)  
 w2 [module introduction and digital identities](#w2-module-introduction-and-digital-identities)  
