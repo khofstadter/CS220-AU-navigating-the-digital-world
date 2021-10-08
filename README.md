@@ -91,7 +91,7 @@ The university's module description is on Moodle (or see in [assets/doc](https:/
 <br>
 
 ### syllabus
-You can find a brief outline of the weekly workshops in the [syllabus](syllabus.md) file. This outline is subject to change based your progress.
+You can find a brief outline of the weekly workshops in the [syllabus](syllabus.md) file. This outline is subject to change based on our progress.
 
 <br>
 
