@@ -156,11 +156,6 @@ Students enrolled in this module come from different disciplines/departments e.g
 
 <br>
 
-### FFR
-To support your projects (assignments) as much as possible, I will need to understand the levels of technical skills you enter the module with. (So I sent you an email with a few questions in week 1.) FFR is for frequency following response, sometimes referred to as synchronisation. I plan to first synchronise to your current position (understand it) e.g. how much experience you have with audio-video software and then provide suitable support. As you will see, I like to get to know people by asking them to express their aims and methods and even takes notes to make sure I can remember everyone's progress.
-
-<br>
-
 ## module aims and methods
 - to help critically assess the current use of your digital identities (with the V&R map)
 - to help further develop these digital identities by introducing tools/methods including
