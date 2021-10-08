@@ -76,11 +76,9 @@ ASH: Wed 1-2 pm Lab G
 
 <br>
     
-This repository contains information for the CS220 AU, 'Navigating the Digital World' module, the Autumn term module. Information for Dr Di Franco's more theoretical module (CS220 SP) is on Moodle. If your enrolment code is CS220 AU (Autumn), CS220 FY (full year) or CS220 ZH (exchange student), then the information below is relevant for you.
+The information in this repository expand on the CS220 AU module's [module description](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world/tree/main/assets/doc) form.
 
-The **module description** is on Moodle (or see in [assets/doc](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world/tree/main/assets/doc) folder).
-
-The **weekly outline** of the seminars/workshops is in the [syllabus](syllabus.md) file. 
+The **weekly outline** of the seminars/workshops is in the [syllabus](syllabus.md).
 
 <br>
 
@@ -93,7 +91,7 @@ The module aims to **help develop our digital identities** by introducing
 
 <br><br><br>
 
-![V&R map plain](assets/img/vr-map-plain.svg)<center><strong>Figure 1.</strong> Plain V&R map - you can download this image in .svg format from the repository's `assets/img` folder.
+![V&R map plain](assets/img/vr-map-plain.svg)<center><strong>Figure 1.</strong> Plain V&R map.
 
 <br><br><br>
 
@@ -107,7 +105,13 @@ While this module primarily focuses on providing practical skills, it also opens
 - why should we produce information and whom should we address with this information i.e. who is our target audience?
 - what is the change we would like to see in the world and how can we use our resident identities on the Web to support this change?
 
-The module introduces primarily free and cross-platform software and, where possible, highlights their advantages and disadvantages to paid software. As the module in 2021 runs in labs equipped with Windows PCs, I demonstrate software in the workshops and screencasts using Windows 10 operating system (OS). However, as the OS I primarily use is macOS, I might introduce some software on macOS as well.
+The module introduces primarily free and cross-platform software and, where possible, highlights their advantages and disadvantages to paid software. As the module in 2021 runs in labs equipped with Windows PCs, I demonstrate software in the workshops and screencasts using Windows 10 operating system (OS). However I primarily use macOS, so I might switch sometimes. You will be able use most of the software I introduce on the Lab PC, but if you want you can install them on your own computers as well e.g. if you'd like to work from home instead on these computers.
+  
+_How many of you plan to use the PC provided in these labs for course wor_
+
+_If you are not a first-year student, have you used the Student Union or the Medie Centre's creative studios before on campus?_
+
+What software/hardware do you have experience with for creating or editing content with e.g., Photoshop, iMovie, microphones, video cameras, your phone with apps?
 
 <br>
 
@@ -132,7 +136,28 @@ The rest is practical. We will
 <br>
 
 ## students
-Students enrolled in this module come from different disciplines/departments e.g. journalism, psychology, philosophy, art history, political science, media studies, literature. Most who enrol are 1st year, but there are some 2nd and 3rd years as well. Some students only do the practical part of the module (taught by me), some only the theoretical part (taught by Dr Di Franco), some do both. Because of Covid, the workshops will use a hybrid/dual-mode teaching method i.e. some students will be in the classroom with me and some will attend via the online Zoom meeting. Students cannot swap around and do learning some weeks face-to-face and other weeks remotely. 
+Students enrolled in this module come from different courses/departments e.g.
+  - history
+  - history and economics
+  - sociology
+  - philosophy
+  - philosophy, religion and ethics
+  - communications and digital culture 
+  - liberal arts
+  - psychology
+  - psychology and psychoanalytical studies
+  - psychology and cognitive neuroscience
+  - psychology and sociology
+  - global studies
+  - global studies with business management
+  - global studies and human rights
+  - essex abround exchange
+
+Most who enrolled are 1st year students, but there are some 2nd year (and maybe 3rd year) students as well. Some of you only do the practical part of the module (taught by me) and some both, the AU and the SP part taught by Dr Di Franco as well.
+  
+Because of Covid, the workshops will use a hybrid/dual-mode teaching method i.e. some students will be in the classroom with me and some will attend via the online Zoom meeting. Students cannot swap around and do learning some weeks face-to-face and other weeks remotely.
+  
+_What are the advantages of having such an wide range of disciplines mixed in one group?_
 
 <br>
 
