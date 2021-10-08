@@ -76,7 +76,7 @@ ASH: Wed 1-2 pm Lab G
 
 <br>
     
-This repository contains information for the CS220 AU, 'Navigating the Digital World' module, the Autumn term module. Information for Dr Di Franco's more theoretical module (CS220 SP) is on Moodle. If your enrolment code is CS220 AU (Autumn) or CS220 FY (Full Year) then the information below is relevant for you.
+This repository contains information for the CS220 AU, 'Navigating the Digital World' module, the Autumn term module. Information for Dr Di Franco's more theoretical module (CS220 SP) is on Moodle. If your enrolment code is CS220 AU (Autumn), CS220 FY (full year) or CS220 ZH (exchange student), then the information below is relevant for you.
 
 <br>
 
