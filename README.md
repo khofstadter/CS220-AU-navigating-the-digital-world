@@ -131,11 +131,6 @@ The rest is practical. We will
 
 <br>
 
-## assignment
-The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio) explains what you need to submit and how. 
-
-<br>
-
 ## students
 Students enrolled in this module come from different disciplines/departments e.g. journalism, psychology, philosophy, art history, political science, media studies, literature. Most who enrol are 1st year, but there are some 2nd and 3rd years as well. Some students only do the practical part of the module (taught by me), some only the theoretical part (taught by Dr Di Franco), some do both. Because of Covid, the workshops will use a hybrid/dual-mode teaching method i.e. some students will be in the classroom with me and some will attend via the online Zoom meeting. Students cannot swap around and do learning some weeks face-to-face and other weeks remotely. 
 
@@ -151,6 +146,11 @@ To help
   - web-design and web-hosting
   - audio-visual production
 
+<br>
+
+## assignment
+The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio) explains what you need to submit and how. 
+ 
 <br>
 
 ## log
