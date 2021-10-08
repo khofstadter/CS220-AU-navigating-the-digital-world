@@ -1,6 +1,4 @@
 # syllabus
-This syllabus was designed to develop our institutional (professional) identities which we can engage with information on the Web more efficiently.
-
 ## TOC
 
 w1 [welcome week](#w1-welcome-week)  
