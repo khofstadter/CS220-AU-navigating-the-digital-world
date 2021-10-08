@@ -80,19 +80,22 @@ This repository contains information for the CS220 AU, 'Navigating the Digital W
 
 The **module description** is on Moodle (or see in [assets/doc](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world/tree/main/assets/doc) folder).
 
-The weekly outline of the workshops is in the [syllabus](syllabus.md) file. 
+The **weekly outline** of the seminars/workshops is in the [syllabus](syllabus.md) file. 
 
 <br>
 
 ## further clarification
-The module aims to **help develop our digital identities**
+The module aims to **help develop our digital identities** by introducing
 
-1. by introducing David White and his colleague's [Visitors & Residents (V&R) modes](digital-identities.md/#visitors-and-residents) to help understand and develop our activities on the Web and 
-2. by introducing tools for project management, web-design and hosting as well as audio-visual production and post-production, all which can help develop our personal and professional/institutional resident identities on the Web i.e. resident modes of engaging on the Web.
+1. White et al.'s [Visitors & Residents (V&R) map](digital-identities.md/#visitors-and-residents) (see Figure 1. below)
+2. tools for project management, web-design and hosting as well as audio-visual production
+3. additional methods for sensemaking
 
-<br>
+<br><br><br>
 
-<br><br>![V&R map plain](assets/img/vr-map-plain.svg)<center><strong>V&R map (plain) </strong> You can download this image in .svg format from the repository's `assets/img` folder.</center><br><br><!-- #todo why are the arrowheads in black colour in the .svg file? -->
+![V&R map plain](assets/img/vr-map-plain.svg)<center><strong>Figure 1.</strong> Plain V&R map - you can download this image in .svg format from the repository's `assets/img` folder.
+
+<br><br><br>
 
 While this module primarily focuses on providing practical skills, it also opens up dialogues to help develop critical thinking about our digital identities and interactions e.g. by asking the following questions:
 
@@ -104,23 +107,27 @@ While this module primarily focuses on providing practical skills, it also opens
 - why should we produce information and whom should we address with this information i.e. who is our target audience?
 - what is the change we would like to see in the world and how can we use our resident identities on the Web to support this change?
 
-The module introduces primarily free and cross-platform software and, where possible, highlights their advantages and disadvantages to paid software. As the module in 2021 runs in labs equipped with Windows PCs, I demonstrate software in the workshops and screencasts using Windows 10 operating system (OS). However, as the OS I primarily use is macOS, if desired, I can demonstrate on macOS as well.
+The module introduces primarily free and cross-platform software and, where possible, highlights their advantages and disadvantages to paid software. As the module in 2021 runs in labs equipped with Windows PCs, I demonstrate software in the workshops and screencasts using Windows 10 operating system (OS). However, as the OS I primarily use is macOS, I might introduce some software on macOS as well.
 
 <br>
 
 **How much theory will we cover in this module?**
 
-in week 2
-- an overview of generations and the Visitors and Residents map
+In week 2
+- an overview of generations and the V&R method
 
-in later weeks
+In later weeks
 - information processing (sensemaking), critical thinking and dissemination
 - intelligent search strategies using Google vs Duck Duck Go, Google Scholar and the library website
 - e-safety e.g. efficient use of passwords
 
-The rest of the module is practical:
-1. we will experiment with software that can help us create and maintain 'better' digital identities and 
-2. we will discuss and provide feedback on each others' progress
+The rest is practical. We will 
+- experiment with software that can help us create and maintain 'better' digital identities and 
+- discuss and **provide feedback on each others' progress**
+
+<br>
+  
+> We will need to understand where we are and how to get to where we want to be. 
 
 <br>
 
@@ -134,9 +141,10 @@ Students enrolled in this module come from different disciplines/departments e.g
 
 <br>
 
-## module aims and methods
-- to help critically assess the current use of your digital identities (with the V&R map)
-- to help further develop your insitutional (professional) identy by introducing tools/methods including
+## module aims summery
+To help 
+- critically assess our current digital identities (with the V&R map and some additional theory)
+- further develop our insitutional (professional) digital identies by introducing tools/methods including
   - project management
   - logging
   - writing
@@ -146,6 +154,7 @@ Students enrolled in this module come from different disciplines/departments e.g
 <br>
 
 ## log
+- 2021-10-08 added Zoom, Covid info to syllabus. Minimised the README.md file as it had info duplicating what is now in the portfolio template.
 - 2021-10-05 tested Zoom with student computer and ZoomDave in lab G and created a list of things todo before the lessons starts, could be 10 minutes, so perhaps set a task for students? Also tested audio cable splitters that could be used with the student computers to records audio via a microphone and so far the Zoom H1 via mini jack is the best solution. Perhaps need to test with the small clip mic as well to have something close by. 
 - 2021-09-30 added drafts to give examples for 'work in progress' i.e. 'practice what you preach'. Made a plain V&R image in InkScape and uploaded .svg format to assets folder as well. Small edits in texts.
 - 2021-09-29 updated digital-identity.md with V&R part 1,2,3. Refined readme.md; minor edits to GitHub heading in tools.md.
