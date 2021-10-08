@@ -78,15 +78,12 @@ ASH: Wed 1-2 pm Lab G
     
 This repository contains information for the CS220 AU, 'Navigating the Digital World' module, the Autumn term module. Information for Dr Di Franco's more theoretical module (CS220 SP) is on Moodle. If your enrolment code is CS220 AU (Autumn), CS220 FY (full year) or CS220 ZH (exchange student), then the information below is relevant for you.
 
-<br>
-
-## module description
-The university's module description is on Moodle (or see in [assets/doc](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world/tree/main/assets/doc) folder).
+The **module description** is on Moodle (or see in [assets/doc](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world/tree/main/assets/doc) folder).
 
 <br>
 
 ## syllabus
-You can find a brief outline of the weekly workshops in the [syllabus](syllabus.md) file. This outline is subject to change based on our progress.
+Outline of the weekly workshops is in the [syllabus](syllabus.md) file. This outline is subject to change based on our progress.
 
 <br>
 
@@ -131,18 +128,7 @@ The rest of the module is practical:
 <br>
 
 ## assignment
-The assignment is to submit a digital portfolio using GitHub (and FASER) containing
-- a weekly updated logbook on your progress
-- a link to your personal or professional website that you develop for this module (can be about you or about one of your projects)
-- a brief report reflecting on your present and future digital identity (or identities) using the V&R map
-
-We can find more detailed information in the [template portfolio](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio), which is explained in the workshops. 
-
-Note: Everyone can have multiple identities on the Web (you might already have a few anonymous avatars) however (probably) only one professional identity. Our personal identities are more informal, subjective and our professional ones more formal and perhaps more objective as well. For the assignment, you can choose to develop (or further develop) a digital identity linked to your real name or a digital identity linked to a project which is not linked to your real name. 
-
-<!-- ### assignment examples #todo: 
-A few submissions from last year (Essex and ARU) to plant some ideas. 
--->
+The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio) explains what you need to submit and how. 
 
 <br>
 
@@ -153,12 +139,12 @@ Students enrolled in this module come from different disciplines/departments e.g
 
 ## module aims and methods
 - to help critically assess the current use of your digital identities (with the V&R map)
-- to help further develop these digital identities by introducing tools/methods including
+- to help further develop your insitutional (professional) identy by introducing tools/methods including
   - project management
   - logging
   - writing
-  - audio-visual production
   - web-design and web-hosting
+  - audio-visual production
 
 <br>
 
