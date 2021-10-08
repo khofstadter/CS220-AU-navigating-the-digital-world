@@ -18,8 +18,9 @@ This outline is subject to change based on our progress.
 - introduction email sent to you (with many typos, sorry!) 
 
 ## w2 module introduction and digital identities
-- you had your introduction with Paula, we will clarify the CS220 AU part today
+- introduction with Paula, now will clarify the CS220 AU part
 - while I setup the system, please log in to your computers and remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
+- Wed: hello to HORNG-YAW on Zoom
 - find the module on Moodle and the link to this CS220 repository (we won't use Moodle much)
 - have you received my email last week? Who want's to introduce him/herself? I can go first:
 
@@ -39,8 +40,8 @@ This outline is subject to change based on our progress.
 <br>
 
 ## w3 GitHub and Visual Code Studio
-- please log in to your computers and visit the CS220 GitHub page
-- while I setup the system, please remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
+- while I setup the system, please log in to your computers and remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
+- Wed: hello to HORNG-YAW on Zoom
 
 ### discuss progress
 - would you like to present your progress to your class?
@@ -62,8 +63,8 @@ More to be added later.
 <br>
 
 ## w4 websites and troubleshooting
-- please log in to your computers and visit the CS220 GitHub page
-- while I setup the system, please remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
+- while I setup the system, please log in to your computers and remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
+- Wed: hello to HORNG-YAW on Zoom
 
 #### start
 - please log in to your computers and visit the CS220 GitHub page
@@ -86,8 +87,8 @@ This week I will introduce
 <br>
 
 ## w5 audio-visual and other productivity tools
-- please log in to your computers and visit the CS220 GitHub page
-- while I setup the system, please remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
+- while I setup the system, please log in to your computers and remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
+- Wed: hello to HORNG-YAW on Zoom
 
 ### discuss progress
 - would you like to present your progress to your class?
@@ -105,8 +106,8 @@ This week I will introduce
 <br>
 
 ## w6 sensemaking
-- please log in to your computers and visit the CS220 GitHub page
-- while I setup the system, please remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
+- while I setup the system, please log in to your computers and remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
+- Wed: hello to HORNG-YAW on Zoom
 
 ### discuss progress
 - would you like to present your progress to your class?
@@ -122,21 +123,20 @@ This week I will introduce
 <br>
 
 ## w7 presentations
-- please log in to your computers and visit the CS220 GitHub page
-- while I setup the system, please remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
+- while I setup the system, please log in to your computers and remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
+- Wed: hello to HORNG-YAW on Zoom
 
 
 <br>
 
 ## w8 reading week
-- please log in to your computers and visit the CS220 GitHub page
-- while I setup the system, please remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
+
 
 <br>
 
 ## w9-10-11 workshops
-- please log in to your computers and visit the CS220 GitHub page
-- while I setup the system, please remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
+- while I setup the system, please log in to your computers and remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
+- Wed: hello to HORNG-YAW on Zoom
 
 <br>
 
