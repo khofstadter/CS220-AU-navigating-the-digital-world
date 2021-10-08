@@ -58,6 +58,8 @@ Bye for now, k
 Wed: 10 - 11 am (online) - Introduction to both modules by Dr Di Franco
 
 ### workshop
+- while I setup the system, please remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
+
 intro to AU module by me with info on this repository: 
 - links on Moodle to this repository (we won't use Moodle much)
 - [module introduction and assignment template](README.md)
