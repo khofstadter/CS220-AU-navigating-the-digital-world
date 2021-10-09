@@ -19,7 +19,7 @@ This outline is subject to change based on our progress.
 
 ## w2 module introduction and digital identities
 - introduction with Paula, now will clarify the CS220 AU part
-- while I setup the system, please log in to your computers and remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
+- while I setup the system, please log in to your computers
 - Wed: hello to HORNG-YAW on Zoom
 - find the module on Moodle and the link to this CS220 repository (we won't use Moodle much)
 - have you received my email last week? Who want's to introduce him/herself? I can go first:
