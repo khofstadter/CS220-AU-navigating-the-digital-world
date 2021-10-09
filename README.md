@@ -98,7 +98,7 @@ The module aims to **help develop our digital identities** by introducing
 While this module primarily focuses on providing practical skills, it also opens up dialogues to help develop critical thinking about our digital identities and interactions e.g. by asking the following questions:
 
 - how are we currently engaging with the Web, and how can we improve this?
-- how can we build and use our online identities e.g. a website for 'better' engagement?
+- how can we develop and use our online identities e.g. with a website for 'better' engagement?
 - what does 'better' engagement mean and how can we relate it to problem-solving?
 - how can we use software tools to create assets e.g. audio-video content, to help disseminate information via our online identities more effectively?
 - how can we apply critical thinking regarding the information we consume and produce?
