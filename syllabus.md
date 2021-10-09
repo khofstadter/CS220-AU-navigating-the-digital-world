@@ -47,7 +47,7 @@ This outline is subject to change based on our progress.
 - do you have any questions regarding your assignment?
 
 ### tools
-The [tool.md](tool.md) file contains a list of software to use and consider. I will introduce them gradually. 
+The tools file contains a list of software to use and consider. I will introduce them gradually. 
 
 This week I will introduce 
 - how we will use GitHub repositories in this module (essential for your assignment) and 
@@ -63,11 +63,6 @@ More to be added later.
 
 ## w4 websites and troubleshooting
 - while I setup the system, please log in to your computers and remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
-- Wed: hello to HORNG-YAW on Zoom
-
-#### start
-- please log in to your computers and visit the CS220 GitHub page
-- while I setup the system, please remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
 
 ### discuss progress
 - would you like to present your progress to your class?
@@ -87,7 +82,6 @@ This week I will introduce
 
 ## w5 audio-visual and other productivity tools
 - while I setup the system, please log in to your computers and remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
-- Wed: hello to HORNG-YAW on Zoom
 
 ### discuss progress
 - would you like to present your progress to your class?
@@ -106,7 +100,6 @@ This week I will introduce
 
 ## w6 sensemaking
 - while I setup the system, please log in to your computers and remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
-- Wed: hello to HORNG-YAW on Zoom
 
 ### discuss progress
 - would you like to present your progress to your class?
@@ -123,7 +116,6 @@ This week I will introduce
 
 ## w7 presentations
 - while I setup the system, please log in to your computers and remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
-- Wed: hello to HORNG-YAW on Zoom
 
 
 <br>
@@ -135,7 +127,6 @@ This week I will introduce
 
 ## w9-10-11 workshops
 - while I setup the system, please log in to your computers and remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
-- Wed: hello to HORNG-YAW on Zoom
 
 <br>
 
