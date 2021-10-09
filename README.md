@@ -66,9 +66,9 @@ Students enrolled in this module come from different courses/departments e.g.
   - global studies and human rights
   - essex abround exchange
 
-Most who enrolled are 1st year students, but there are some 2nd year (and maybe 3rd year) students as well. Some of you only do the practical part of the module (taught by me) and some both, the AU and the SP part taught by Dr Di Franco.
-  
-Because of Covid, the workshops will use a hybrid/dual-mode teaching method i.e. some students will be in the classroom with me and some will attend via the online Zoom meeting. Students cannot swap around and do learning some weeks face-to-face and other weeks remotely.
+- some are 1st and some 2nd year students
+- some only do AU, some only SP, some both
+- most of you will be here in the class, Kevin on Zoom
   
 _What are the advantages of having such an wide range of disciplines mixed in one group?_
 
@@ -77,7 +77,7 @@ _What are the advantages of having such an wide range of disciplines mixed in on
 ## summery of module aims
 To help 
 - critically assess our current digital identities (with the V&R map and some additional theory)
-- further develop our insitutional (professional) digital identies by introducing tools/methods for
+- further develop our institutional (professional) digital identies by introducing tools/methods for
   - project management
   - logging
   - writing
