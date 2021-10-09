@@ -31,21 +31,22 @@ The module aims to **help develop our digital identities** by introducing
 While this module primarily focuses on providing practical skills, it also opens up dialogues to help develop critical thinking about our digital identities and interactions e.g. by asking the following questions:
 
 - how are we currently engaging with the Web, and how can we improve this?
-- how can we develop and use our online identities e.g. with a website for 'better' engagement?
+- how can we develop and use our online identities e.g. with our own website for 'better' engagement?
 - what does 'better' engagement actually mean and how can we relate it to problem-solving?
 - how can we use software tools to create assets e.g. audio-video content, to help disseminate information via our online identities more effectively?
 - how can we apply critical thinking regarding the information we consume and produce?
 - why should we produce information and whom should we address with this information i.e. who is our target audience?
 - what is the change we would like to see in the world and how can we use our resident identities on the Web to support this change?
 
-The module introduces primarily free and cross-platform software and, where possible, highlights their advantages and disadvantages to paid software. As the module in 2021 runs in labs equipped with Windows PCs, I demonstrate software in the workshops (and screencasts) using Windows 10 operating system (OS). However I primarily use macOS, so I might switch sometimes. You will be able use most of the software I introduce on the Lab PC, but if you want you can install them on your own computers as well e.g. if you'd like to work from home instead on these computers.
+The module introduces primarily free and cross-platform software and, where possible, highlights their advantages and disadvantages to paid software. As the module in 2021 runs in labs equipped with Windows PCs, I demonstrate software in the workshops (and screencasts) using Windows 10 operating system (OS). However I primarily use macOS, so I might switch sometimes. 
+    
+You will be able to use most of the software I introduce on the Lab PC, but if you want you can install them on your own computers as well e.g. if you'd like to work from home instead on these computers. 
   
-_How many of you plan to use the PCs in these labs for course work?_
-
 _If you are not a first-year student, have you used the Student Union or the Media Centre creative studios on campus?_
 
 _What software/hardware do you have experience with for creating or editing content with e.g. Photoshop, iMovie, microphones, video cameras, your phone with apps?_
 
+_How many of you plan to use the PCs in these labs for course work?_
 <br>
 
 ## students
@@ -66,10 +67,14 @@ Students enrolled in this module come from different courses/departments e.g.
   - global studies and human rights
   - essex abround exchange
 
+    <br>
+    
 - some are 1st and some 2nd year students
 - some only do AU, some only SP, some both
 - most of you will be here in the class, Kevin on Zoom
   
+<br>
+    
 _What are the advantages of having such an wide range of disciplines mixed in one group?_
 
 <br>
