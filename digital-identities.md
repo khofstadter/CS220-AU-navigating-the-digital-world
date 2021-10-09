@@ -16,11 +16,6 @@
 - overview: https://youtu.be/TtIojDWOsgg
 - clarify millennials vs gen Z: https://youtu.be/aqdm6aBUZII
 
-### discuss 
-<!-- #todo add more questions -->
-- does multitasking work for you?
-- can you define your relationship with technology, especially the web i.e. are you comfortable using it?
-
 <br>
 
 ## visitors and residents
