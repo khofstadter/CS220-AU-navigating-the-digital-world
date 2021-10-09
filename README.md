@@ -9,7 +9,7 @@ ASH: Wed 1-2 pm Lab G
 
 <br>
     
-The information in this repository expand on the CS220 AU module's [module description](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world/blob/main/assets/doc/CS220-4-and-CS220-5-AU%20-%20Krisztian%20Hofstadter-Mod%20Des%20FINAL%20(1).pdf) form.
+The information in this repository expands on the [module description](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world/blob/main/assets/doc/CS220-4-and-CS220-5-AU%20-%20Krisztian%20Hofstadter-Mod%20Des%20FINAL%20(1).pdf).
 
 The **weekly outline** of the seminars/workshops is in the [syllabus](syllabus.md).
 
@@ -18,7 +18,7 @@ The **weekly outline** of the seminars/workshops is in the [syllabus](syllabus.m
 ## further clarification
 The module aims to **help develop our digital identities** by introducing
 
-1. White et al.'s [Visitors & Residents (V&R) map](digital-identities.md/#visitors-and-residents) (see Figure 1. below)
+1. White et al.'s [Visitor & Resident (V&R) map](digital-identities.md/#visitors-and-residents) (see Figure 1. below)
 2. tools for project management, web-design and hosting as well as audio-visual production
 3. additional methods for sensemaking
 
@@ -38,33 +38,13 @@ While this module primarily focuses on providing practical skills, it also opens
 - why should we produce information and whom should we address with this information i.e. who is our target audience?
 - what is the change we would like to see in the world and how can we use our resident identities on the Web to support this change?
 
-The module introduces primarily free and cross-platform software and, where possible, highlights their advantages and disadvantages to paid software. As the module in 2021 runs in labs equipped with Windows PCs, I demonstrate software in the workshops and screencasts using Windows 10 operating system (OS). However I primarily use macOS, so I might switch sometimes. You will be able use most of the software I introduce on the Lab PC, but if you want you can install them on your own computers as well e.g. if you'd like to work from home instead on these computers.
+The module introduces primarily free and cross-platform software and, where possible, highlights their advantages and disadvantages to paid software. As the module in 2021 runs in labs equipped with Windows PCs, I demonstrate software in the workshops (and screencasts) using Windows 10 operating system (OS). However I primarily use macOS, so I might switch sometimes. You will be able use most of the software I introduce on the Lab PC, but if you want you can install them on your own computers as well e.g. if you'd like to work from home instead on these computers.
   
 _How many of you plan to use the PCs in these labs for course work?_
 
 _If you are not a first-year student, have you used the Student Union or the Media Centre creative studios on campus?_
 
 _What software/hardware do you have experience with for creating or editing content with e.g. Photoshop, iMovie, microphones, video cameras, your phone with apps?_
-
-<br>
-
-**How much theory will we cover in this module?**
-
-In week 2
-- an overview of generations and the V&R method
-
-In later weeks
-- information processing (sensemaking) and dissemination as well as some critical thinking
-- intelligent search strategies using Google, Google Scholar and the library's website
-- e-safety e.g. efficient use of passwords
-
-The rest is practical. We will 
-- experiment with software that can help us create and maintain 'better' digital identities
-- discuss and **provide feedback on each others' progress**
-
-<br>
-  
-> We will need to understand where we are and how to get to where we want to be. 
 
 <br>
 
