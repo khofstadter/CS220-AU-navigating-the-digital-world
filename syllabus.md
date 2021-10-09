@@ -15,7 +15,7 @@ This outline is subject to change based on our progress.
 <br>
 
 ## w2 module introduction and digital identities
-- introduction with Paula, now will clarify the CS220 AU part
+- introduction with Paula, now clarification on the CS220 AU part
 - while I setup the system, please log in to your computers
 - Wed: hello to Kevin on Zoom
 - please log into Moodle and find the link to this GitHub repository
