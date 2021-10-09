@@ -109,7 +109,7 @@ The module introduces primarily free and cross-platform software and, where poss
   
 _How many of you plan to use the PCs in these labs for course work?_
 
-_If you are not a first-year student, have you used the Student Union or the Media Centre's or the SU creative studios on campus?_
+_If you are not a first-year student, have you used the Student Union or the Media Centre creative studios on campus?_
 
 What software/hardware do you have experience with for creating or editing content with e.g., Photoshop, iMovie, microphones, video cameras, your phone with apps?
 
