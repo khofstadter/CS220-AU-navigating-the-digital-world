@@ -14,9 +14,6 @@ This outline is subject to change based on our progress.
 
 <br>
 
-## w1 welcome week
-- introduction email sent to you (with many typos, sorry!) 
-
 ## w2 module introduction and digital identities
 - introduction with Paula, now will clarify the CS220 AU part
 - while I setup the system, please log in to your computers
