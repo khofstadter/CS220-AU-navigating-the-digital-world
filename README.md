@@ -111,7 +111,7 @@ _How many of you plan to use the PCs in these labs for course work?_
 
 _If you are not a first-year student, have you used the Student Union or the Media Centre creative studios on campus?_
 
-What software/hardware do you have experience with for creating or editing content with e.g., Photoshop, iMovie, microphones, video cameras, your phone with apps?
+_What software/hardware do you have experience with for creating or editing content with e.g. Photoshop, iMovie, microphones, video cameras, your phone with apps?_
 
 <br>
 
@@ -121,12 +121,12 @@ In week 2
 - an overview of generations and the V&R method
 
 In later weeks
-- information processing (sensemaking), critical thinking and dissemination
-- intelligent search strategies using Google vs Duck Duck Go, Google Scholar and the library website
+- information processing (sensemaking) and dissemination as well as some critical thinking
+- intelligent search strategies using Google, Google Scholar and the library's website
 - e-safety e.g. efficient use of passwords
 
 The rest is practical. We will 
-- experiment with software that can help us create and maintain 'better' digital identities and 
+- experiment with software that can help us create and maintain 'better' digital identities
 - discuss and **provide feedback on each others' progress**
 
 <br>
@@ -153,7 +153,7 @@ Students enrolled in this module come from different courses/departments e.g.
   - global studies and human rights
   - essex abround exchange
 
-Most who enrolled are 1st year students, but there are some 2nd year (and maybe 3rd year) students as well. Some of you only do the practical part of the module (taught by me) and some both, the AU and the SP part taught by Dr Di Franco as well.
+Most who enrolled are 1st year students, but there are some 2nd year (and maybe 3rd year) students as well. Some of you only do the practical part of the module (taught by me) and some both, the AU and the SP part taught by Dr Di Franco.
   
 Because of Covid, the workshops will use a hybrid/dual-mode teaching method i.e. some students will be in the classroom with me and some will attend via the online Zoom meeting. Students cannot swap around and do learning some weeks face-to-face and other weeks remotely.
   
@@ -161,10 +161,10 @@ _What are the advantages of having such an wide range of disciplines mixed in on
 
 <br>
 
-## module aims summery
+## summery of module aims
 To help 
 - critically assess our current digital identities (with the V&R map and some additional theory)
-- further develop our insitutional (professional) digital identies by introducing tools/methods including
+- further develop our insitutional (professional) digital identies by introducing tools/methods for
   - project management
   - logging
   - writing
