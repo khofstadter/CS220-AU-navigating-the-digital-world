@@ -107,7 +107,7 @@ While this module primarily focuses on providing practical skills, it also opens
 
 The module introduces primarily free and cross-platform software and, where possible, highlights their advantages and disadvantages to paid software. As the module in 2021 runs in labs equipped with Windows PCs, I demonstrate software in the workshops and screencasts using Windows 10 operating system (OS). However I primarily use macOS, so I might switch sometimes. You will be able use most of the software I introduce on the Lab PC, but if you want you can install them on your own computers as well e.g. if you'd like to work from home instead on these computers.
   
-_How many of you plan to use the PC provided in these labs for course wor_
+_How many of you plan to use the universiy PC in these labs for course work?_
 
 _If you are not a first-year student, have you used the Student Union or the Medie Centre's creative studios before on campus?_
 
