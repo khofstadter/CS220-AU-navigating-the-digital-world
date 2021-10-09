@@ -15,25 +15,23 @@ This outline is subject to change based on our progress.
 <br>
 
 ## w2 module introduction and digital identities
-- introduction with Paula, now clarification on the CS220 AU part
-- while I setup the system, please log in to your computers
-- Wed: hello to Kevin on Zoom
-- please log into Moodle and find the link to this GitHub repository
-- I will share the my screen on the DAVE and you should also have the page we are looking at open on your computer (you might sit in the back)
+- overall introduction by Paula, now CSS220 AU clarification
+- everyone logged in to Moodle? did you find the link to this GitHub repository?
+- I will share my screen on the DAVE and you should also have the page we are looking at open on your computer (you might sit in the back)
 - have you received my email last week? Who want's to introduce him/herself? I can go first:
 
 > Hello! My name is Krisztián Hofstädter, aka tEdör. I am a creative technologist working as a researcher, lecturer, freelancer, and artist. My primary interests are brain-computer music interfacing linked to meditation, electronic dance music and animal rights. I was born in Hungary and have been living in the U.K. since 2005. You can find most of my work on my personal website https://khofstadter.com/
 
 ### introduction and theory
-- quick intro to syllabus
-- [module introduction and assignment template](README.md)
-- [digital identities](digital-identities.md) - the main theory in this module
+- quick intro to syllabus (see above)
+- [module introduction and assignment template](README.md) 40 min
+- [digital identities](digital-identities.md) 40 min
 
 ### homework ideas
-- start making your first V&R map on paper or in a software (you can use the .svg file in the assets folder)
+- start making your first V&R map on paper or in a software (you can use the .svg file in the assets folder) - check the examples on White's [website](http://daveowhite.com/vandr/vr-mapping/)
 - make sure you understand the module assessment (if not, email me or note down your questions for next week)
 - explore links in [digital identities](digital-identities.md)
-- consider joining the [CS220 Facebook group](https://www.facebook.com/groups/400596074925260) - perhaps some of you check Facebook more often than emails :)
+- consider joining the [CS220 Facebook group](https://www.facebook.com/groups/400596074925260) 
 - consider creating an online group for yourself where you can discuss module related questions without me/university monitoring it
 
 <br>
