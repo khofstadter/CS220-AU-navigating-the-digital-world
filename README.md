@@ -92,7 +92,8 @@ To help
 <br>
 
 ## assignment
-The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio) explains what you need to submit and how. 
+
+The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio) explains what you need to submit and how in more detail. 
  
 <br>
 
@@ -110,6 +111,8 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
  This is Krisztian's todo list:
  
  ### by week 2
+- add assignment summery (with image) to README.md (as we will not look at the template in detail in week 1) 
+- try to add the .svg file so it's centred
 - add additional resources e.g. password making video, etc. 
 
 ### by week 3
