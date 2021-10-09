@@ -17,7 +17,7 @@ This outline is subject to change based on our progress.
 ## w2 module introduction and digital identities
 - introduction with Paula, now will clarify the CS220 AU part
 - while I setup the system, please log in to your computers
-- Wed: hello to HORNG-YAW on Zoom
+- Wed: hello to Kevin on Zoom
 - log into Moodle and fine the link to this CS220 repository on GitHub (we won't use Moodle much - maybe for announcments)
 - I will share the my screen on the DAVE and you should also have the page we are looking at open on your computer (you might sit in the back)
 - have you received my email last week? Who want's to introduce him/herself? I can go first:
