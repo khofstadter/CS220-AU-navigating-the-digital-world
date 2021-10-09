@@ -1,70 +1,3 @@
-<!--
-#todo
-## overview diagram
-- send to paula
-- add to repo
-- by week 2
-
-## add resources
-- by week 2
-- password making, etc
-
-## GitHub, VSC, GitHub Desktop
-- by week 3
-
-## website
-- by week 4
-- student examples for project ideas
-
-## write here - publish on Medium (later)
-  - write each file for Medium audience (and students) 
-  - needs to be accessible here (or on khofstadter.com) as well as students might not have access to more than 5 articles, etc.
-  - use 'you could read it on Medium' on the top of the file once published on Medium
-
-## week 2 module outline/digital identity/assignment template
-- finish digital-identity.md
-- finish template repo
-  - have a look at examples from last year and ARU
-  - can they clone this repo or should the download/upload?
-  - populate with all files needed (perhaps own v&r maps)
-  - write assessment guide and rubric/checksheet
-
-## syllabus w3 - w7
-- GitHub repo
-- tools.md
-- other .md files
-### screencasts
-- find mic solution
-- book lab M or G
-- make screencasts in lab G
-
-## labs
-- option A: student computer or lectern
-- option B: mac with remote desktop
-- any update about the little table?
-- revised hybrid class teaching (how can audio sources be mixed efficiently)
-- are breakout rooms in hybrid classes possible?
-
-## compulsory induction
-- what compulsory induction do I have to do?
-
-## address all themes in syllabus
-- digital identities
-- e-safety
-- blogging
-- social media
-- multimedia production
-- intelligent search strategies
-- how are digital technologies transforming society?
-- to what extent do digital technologies curb or enhance our rights and freedom?
-- what digital skills are needed for the knowledge economy and a democratic society?
-- how can we build and use our online identities?
-- how might we use digital technologies as creative and engaging forms of communication?
-
-## hex and performance
-- who wants to perform?
--->
-
 <!-- #todo can I add a custom title in an HTML head here? -->
 
 University of Essex    
@@ -187,7 +120,41 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 - 2021-09-21 added digital-identities.md and syllabus.md. Decided that each file should be written for a wider audience (e.g. Medium) to help raise the quality of writing.
 - 2021-09-07 - 2021-09-21 textual and structural refinements
 - 2021-09-07 repository created with basic info
+  
+ ## TODO
+ This is Krisztian's todo list:
+ 
+ ### by week 2
+- add additional resources e.g. password making video, etc. 
 
+### by week 3
+- screencasts for GitHub, VSC, GitHub Desktop
+- shall students clone or download/upload the repo?
+- student examples from last year (websites/projects)
+- brainstorm about other projects (performance in Hex?)
+
+### by week 4
+- screencast for GitHub vs Wordpress
+- student examples for project ideaa
+
+### by week 5
+
+### by week 6
+
+### by week 7
+did I address all of these:
+  - digital identities
+  - e-safety
+  - blogging
+  - social media
+  - multimedia production
+  - intelligent search strategies
+  - how are digital technologies transforming society?
+  - to what extent do digital technologies curb or enhance our rights and freedom?
+  - what digital skills are needed for the knowledge economy and a democratic society?
+  - how can we build and use our online identities?
+  - how might we use digital technologies as creative and engaging forms of communication?
+  - add more info to syllabus in syllabus file (fine tue)
 <br><br>
 
 > Practice what you preach. (Plautus)
