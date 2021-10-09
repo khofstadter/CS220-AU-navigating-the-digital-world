@@ -127,4 +127,10 @@ https://duckduckgo.com/?q=UK+Social+Media+Demographics+2020&t=brave&ia=web
 ## Open Source
 - https://awesomeopensource.com/
 
+## Email
+- different email clients
+- email formats e.g. HTML vs text
+- attach file or link file (same for forums) e.g. link with WeTransfer/Dropbox/Google Drive or images with https://imgur.com/
+- spam filters and how to not get caught in them (https://www.mail-tester.com/) and common practice e.g. ask people to whitelist your email address, etc. 
+
 
