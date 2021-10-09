@@ -22,6 +22,12 @@
 
 - correct use of headings
 
+## learn news skills vs asking someone else to do it
+- the actual website's frame
+- images/logos 
+- music/sound
+- learn, pay or perhaps use free assets
+
 ### events
 #### upcoming events
 - write content that is easy to change 
