@@ -21,12 +21,14 @@ This outline is subject to change based on our progress.
 - introduction with Paula, now will clarify the CS220 AU part
 - while I setup the system, please log in to your computers
 - Wed: hello to HORNG-YAW on Zoom
-- find the module on Moodle and the link to this CS220 repository (we won't use Moodle much)
+- log into Moodle and fine the link to this CS220 repository on GitHub (we won't use Moodle much - maybe for announcments)
+- I will share the my screen on the DAVE and you should also have the page we are looking at open on your computer (you might sit in the back)
 - have you received my email last week? Who want's to introduce him/herself? I can go first:
 
 > Hello! My name is Krisztián Hofstädter, aka tEdör. I am a creative technologist working as a researcher, lecturer, freelancer, and artist. My primary interests are brain-computer music interfacing linked to meditation, electronic dance music and animal rights. I was born in Hungary and have lived in the U.K. since 2005. You can find most of my work on my personal website https://khofstadter.com/
 
 ### introduction and theory
+- quick intro to syllabus
 - [module introduction and assignment template](README.md)
 - [digital identities](digital-identities.md) - the main theory in this module
 
