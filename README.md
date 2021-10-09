@@ -76,7 +76,7 @@ ASH: Wed 1-2 pm Lab G
 
 <br>
     
-The information in this repository expand on the CS220 AU module's [module description](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world/tree/main/assets/doc) form.
+The information in this repository expand on the CS220 AU module's [module description](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world/blob/main/assets/doc/CS220-4-and-CS220-5-AU%20-%20Krisztian%20Hofstadter-Mod%20Des%20FINAL%20(1).pdf) form.
 
 The **weekly outline** of the seminars/workshops is in the [syllabus](syllabus.md).
 
