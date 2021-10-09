@@ -99,7 +99,7 @@ While this module primarily focuses on providing practical skills, it also opens
 
 - how are we currently engaging with the Web, and how can we improve this?
 - how can we develop and use our online identities e.g. with a website for 'better' engagement?
-- what does 'better' engagement mean and how can we relate it to problem-solving?
+- what does 'better' engagement actually mean and how can we relate it to problem-solving?
 - how can we use software tools to create assets e.g. audio-video content, to help disseminate information via our online identities more effectively?
 - how can we apply critical thinking regarding the information we consume and produce?
 - why should we produce information and whom should we address with this information i.e. who is our target audience?
