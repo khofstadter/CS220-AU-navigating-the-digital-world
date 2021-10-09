@@ -18,7 +18,8 @@ This outline is subject to change based on our progress.
 - overall introduction by Paula, now CSS220 AU clarification
 - everyone logged in to Moodle? did you find the link to this GitHub repository?
 - I will share my screen on the DAVE and you should also have the page we are looking at open on your computer (you might sit in the back)
-- are are free to leave the room anytime you feel you need some fresh air/the toilet, etc. - we will try to have a 10 min break in the middle
+- you are free to leave the room anytime you feel you need some fresh air/the toilet, etc. 
+- we will try to have a 10 min break in the middle
 - have you received my email last week? Who want's to introduce him/herself? I can go first:
 
 > Hello! My name is Krisztián Hofstädter, aka tEdör. I am a creative technologist working as a researcher, lecturer, freelancer, and artist. My primary interests are brain-computer music interfacing linked to meditation, electronic dance music and animal rights. I was born in Hungary and have been living in the U.K. since 2005. You can find most of my work on my personal website https://khofstadter.com/
@@ -26,6 +27,7 @@ This outline is subject to change based on our progress.
 ### introduction and theory
 - quick intro to syllabus (see above)
 - [module introduction and assignment template](README.md) - first half
+- break
 - [digital identities](digital-identities.md) - first half
 
 ### homework ideas
