@@ -14,7 +14,19 @@
 ## generations
 <!-- #todo embed a gantt chart -->
 - overview: https://youtu.be/TtIojDWOsgg
-- clarify millennials vs gen Z: https://youtu.be/aqdm6aBUZII
+- the silent generation (traditionalists)  b.1945
+  - value hard work, don't like to be wasteful, respect authority/elders  
+- baby boomers b.1946-64
+  - counterculture, started out to be liberal, now more conservative
+- gen X b.1965-79
+  - both parents working, more peer orientated, music helps define their identity
+- gen Y (millenials) b.1980-95
+  - more technology, more group oriented (some say more selfish, entititled, lazy, etc.)
+- gen z (centenials) b.1996-present
+  - relationshipt to technology depends whether parents are gen x or gen y
+  - strong relationship to technology
+  - most similarities to millenials
+- group shares collective experiences
 
 <br>
 
@@ -122,6 +134,7 @@ https://youtu.be/1X0g2OvSdWc
 <br>
 
 ### resources
+- clarify millennials vs gen Z: https://youtu.be/aqdm6aBUZII
 - https://www.bbc.co.uk/bitesize/articles/zf8j92p
 - https://www.thesocialdilemma.com/
 - https://www.psychologytoday.com/us/blog/anger-in-the-age-entitlement/201404/whats-wrong-criticism
