@@ -67,6 +67,8 @@ known issue: it does not work well when using the GitHub Repositories extension,
 - https://workflowy.com/
 - https://roamresearch.com/
 - https://obsidian.md/
+- Evernote
+- Notion
 - physical notebook + 4 colour BIC pen
 
 ### Thoughts
