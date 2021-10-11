@@ -134,4 +134,5 @@ https://duckduckgo.com/?q=UK+Social+Media+Demographics+2020&t=brave&ia=web
 - attach file or link file (same for forums) e.g. link with WeTransfer/Dropbox/Google Drive or images with https://imgur.com/
 - spam filters and how to not get caught in them (https://www.mail-tester.com/) and common practice e.g. ask people to whitelist your email address, etc. 
 
-
+## online courses
+- https://medium.com/age-of-awareness/most-online-courses-are-a-waste-of-your-time-heres-how-you-know-6af5626e66d9
