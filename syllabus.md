@@ -15,8 +15,8 @@ This outline is subject to change based on our progress.
 <br>
 
 ## w2 module introduction and digital identities
-- overall introduction by Paula, now CSS220 AU clarification
-- I will share my screen on the DAVE and you should also have the page we are looking at open on your computer
+- intro by Paula / AU clarification
+- see DAVE and your PC
 
 _Everyone logged in to Moodle? Did you find the link to this GitHub repository?_
 
