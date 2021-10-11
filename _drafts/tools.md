@@ -136,3 +136,6 @@ https://duckduckgo.com/?q=UK+Social+Media+Demographics+2020&t=brave&ia=web
 
 ## online courses
 - https://medium.com/age-of-awareness/most-online-courses-are-a-waste-of-your-time-heres-how-you-know-6af5626e66d9
+
+## drawing in Markdown
+- https://github.com/philip-gai/github-drawio
