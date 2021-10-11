@@ -128,10 +128,8 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
  This is Krisztian's todo list:
  
  ### by week 2
-- book room for screencast making for every Saturday and a few hours when I am on campus
-- add assignment summery (with image) to README.md (as we will not look at the template in detail in week 1) 
-- try to add the .svg file so it's centred
 - add additional resources e.g. password making video, etc. 
+- (if possible) try to add the .svg file so it's centered
 
 ### by week 3
 - screencasts for GitHub, VSC, GitHub Desktop
@@ -144,8 +142,10 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 - student examples for project ideaa
 
 ### by week 5
+- screencast for audio-video and other production tools
 
 ### by week 6
+- write article about sensemaking
 
 ### by week 7
 did I address all of these:
@@ -160,7 +160,6 @@ did I address all of these:
   - what digital skills are needed for the knowledge economy and a democratic society?
   - how can we build and use our online identities?
   - how might we use digital technologies as creative and engaging forms of communication?
-  - add more info to syllabus in syllabus file (fine tue)
 <br><br>
 
 > Practice what you preach. (Plautus)
