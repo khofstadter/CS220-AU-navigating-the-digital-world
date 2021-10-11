@@ -67,6 +67,10 @@ known issue: it does not work well when using the GitHub Repositories extension,
 - https://workflowy.com/
 - https://roamresearch.com/
 - https://obsidian.md/
+- physical notebook + 4 colour BIC pen
+
+### Thoughts
+- if you have to many ways to keep your notes, it might be an extra few steps to keep them organised
 
 ## Audio-visual
 <!-- #todo 
