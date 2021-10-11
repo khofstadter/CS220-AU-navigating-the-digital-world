@@ -9,3 +9,6 @@
   3. ask a question (be friendly and concise)
      1. state the issue 
      2. state what you have tried
+
+# body-mind
+- https://medium.com/illumination/how-i-tricked-my-brain-to-like-doing-hard-things-313cdd919323
