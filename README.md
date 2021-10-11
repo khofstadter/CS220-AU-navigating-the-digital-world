@@ -65,7 +65,7 @@ Students enrolled in this module come from different courses/departments e.g.
   - global studies
   - global studies with business management
   - global studies and human rights
-  - essex abround exchange
+  - essex abround exchange (TODO: specify)
 
     <br>
     
