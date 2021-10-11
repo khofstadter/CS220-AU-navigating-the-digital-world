@@ -1,6 +1,10 @@
 # websites
 (draft)
 
+## benefits of having a website
+- full control
+- helps us make decisions (helps progress, but can be amended later if needed)
+
 - cms vs static
 ## WordPress
 ### On Wordpress.com
@@ -58,3 +62,10 @@ from https://www.verywellmind.com/color-psychology-2795824:
 - OpenGraphs/SEO
 - shall I direct trafic from my social media to my own website, why?
 - archive.org to see old websites
+
+## todo
+- find website where you can see that it was edited e.g. the author even says this was changed because or version 2, etc. 
+- use of diqus? 
+- use of analytics?
+
+
