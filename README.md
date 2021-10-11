@@ -75,7 +75,7 @@ Students enrolled in this module come from different courses/departments e.g.
   
 <br>
     
-_What are the advantages of having such an wide range of disciplines mixed in one group?_
+_What are the advantages of having such a wide range of disciplines mixed in one group?_
 
 <br>
 
@@ -92,6 +92,19 @@ To help
 <br>
 
 ## assignment
+In essence, the digital portfolio to submit has 4 parts: 
+    
+1. di-reflection (weighed as 40% of your overall mark)
+    - reflection on how you can develop your digital identities
+    - a short essay (words: between 500 - 1000 words)
+2. website (40%)
+    - a basic website for your profressional identity or project
+3. self-and peer-assessement (10%)
+    - assessing your and someone else's progress with the marking rubric
+4. portfolio overview (10%)
+    - a submission with with a clear/logical structure 
+
+![](https://raw.githubusercontent.com/krisztian-hofstadter-tedor/CS220-AU-portfolio/main/assets/img/portfolio-graph.png)
 
 The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio) explains what you need to submit and how in more detail. 
  
