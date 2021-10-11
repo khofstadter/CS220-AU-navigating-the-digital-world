@@ -104,8 +104,12 @@ In essence, the digital portfolio to submit has 4 parts:
 4. portfolio overview (10%)
     - a submission with with a clear/logical structure 
 
+<br>
+    
 ![](https://raw.githubusercontent.com/krisztian-hofstadter-tedor/CS220-AU-portfolio/main/assets/img/portfolio-graph.png)
 
+<br>
+    
 The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio) explains what you need to submit and how in more detail. 
  
 <br>
@@ -124,7 +128,6 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
  This is Krisztian's todo list:
  
  ### by week 2
-- send Can a Zoom link
 - book room for screencast making for every Saturday and a few hours when I am on campus
 - add assignment summery (with image) to README.md (as we will not look at the template in detail in week 1) 
 - try to add the .svg file so it's centred
