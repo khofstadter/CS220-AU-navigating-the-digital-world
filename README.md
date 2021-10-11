@@ -125,6 +125,7 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
  
  ### by week 2
 - send Can a Zoom link
+- book room for screencast making for every Saturday and a few hours when I am on campus
 - add assignment summery (with image) to README.md (as we will not look at the template in detail in week 1) 
 - try to add the .svg file so it's centred
 - add additional resources e.g. password making video, etc. 
