@@ -16,7 +16,7 @@
 ## GitHub Pages
 - turn repository into GitHub Pages
 - nice examples https://github.com/collections/github-pages-examples
-- 
+- https://docs.github.com/en/pages
 
 
 + CV (and LinkedIn)
