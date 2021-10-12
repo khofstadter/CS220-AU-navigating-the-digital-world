@@ -39,18 +39,16 @@ I can go first:
 
 ### homework ideas
 - start making your first V&R map on paper or in software (you can use the .svg file in the assets folder) - check the examples on White's [website](http://daveowhite.com/vandr/vr-mapping/)
-- make sure you understand the module assessment (if not, email me or note down your questions for next week)
 - explore links in [digital identities](digital-identities.md)
+- explore the template and ideas in the portfolio template's [di-identities.md](https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/di-reflection.html) file (we will check this together next week, but you can start looking into it this week if you want)
 - consider joining the [CS220 Facebook group](https://www.facebook.com/groups/400596074925260) 
 - consider creating an online group for yourself where you can discuss module related questions without me/university monitoring it
 
 <br>
 
 ## w3 GitHub and Visual Code Studio
-
 ### discuss progress
 - would you like to present your progress to your class?
-- do you have any questions regarding your assignment?
 
 ### tools
 The tools file contains a list of software to use and consider. I will introduce them gradually. 
