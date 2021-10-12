@@ -46,8 +46,8 @@ https://youtu.be/sPOG3iThmRI
 - it is based on people's motivation to engage with the Web and has two modes, visitor and resident modes, and is further refined by whether we engage in an activity in a personal or an institutional (professional) manner
 - visitor modes: activities where **we don't leave a social trace behind** e.g. searching/reading information on the Web, watching videos, shopping, paying our bills. (But, remember that search engines could store your search history and website cookies can crawl data from you even in your visiting modes.)
 - resident modes: activities where we are present with other people and **we leave a social trace behind** (stays online after we leave the internet) e.g. by creating content or commenting on other people's content on online platforms (websites, social media). As these activities are public, they can be linked to our (digital) identities and therefore we should be careful when we use the Web in this mode. (We should be careful when we use our visitor modes as well of course.)
-- examples or personal engagements are e.g. using social media or emails to communicate with friends and family about personal matters
-- examples of institutional activities are e.g. disseminating or discussing ideas as a worker (and perhaps as a student in higher education)
+- an example of personal engagement is using social media or emails to communicate with friends and family about personal matters
+- an example of institutional activities is disseminating or discussing ideas as a worker or a student in HR online (or print)
 - V&R map examples: http://daveowhite.com/vandr/vr-mapping/
 
 <br> 
@@ -61,12 +61,12 @@ https://youtu.be/kO569eknM6U
 > In the only environment where curation is by algorithm and not by librarian, convenience and relevance often outstrip traditional notions of credibility and authority. The Web brings into question what it means for a source of information to be legitimate, and it highlights the trust we place in the form and provenance of those sources.
 
 - traditional information (e.g. books) and information on the Web (e.g. a blog post) use different methods to gain attention and credibility: 
-  - traditional (established): validated by established institutions e.g. universities, publishing houses and know experts (promoted by institutions)
-  - Web (new/emerging): search engines, likes, followers, views, comments (promoted mainly by individuals)
+  - traditional (established): validated by established institutions e.g. universities, publishing houses and know experts (promoted by institutions - 'the gatekeepers')
+  - Web (new/emerging): brought to our attention ('validated') by search engines, likes, followers, views, comments (promoted mainly by individuals)
 
 - using the Web to source information is convenient ,however, it might not provide the most accurate information about a specific subject
 
-- earlier, students published their first work after their PhDs. Today the Web allows us to start developing our professional identity before finishing our doctoral research e.g. by expressing our opinions about others' work openly and publishing our own work on our websites or relevant platforms e.g. videos on Vimeo, articles on Medium, music on SoundCloud, photos on Flickr, graphic design on Behance, software on GitHub, etc.
+- earlier, students published their first work after their PhDs. Today the Web allows us to start developing our professional identity before finishing our doctoral research e.g. by expressing our opinions about other people's work openly and publishing our own work on our websites or relevant platforms e.g. videos on [Vimeo](https://vimeo.com/), articles on [Medium](https://medium.com/), music on [SoundCloud](https://soundcloud.com/), photos on [Flickr](https://flickr.com/), graphic design on [Behance](https://www.behance.net/), software on GitHub, etc.
 
 ### discuss
 - should educators in higher education be active online e.g. share their teaching resources on the Web and engage with learners who did not formally enrol in a module?
@@ -78,7 +78,7 @@ https://youtu.be/kO569eknM6U
 When working on your portfolio, you 
   - should experiment with private and public GitHub repositories
   - can submit your reflection as part of your public website as well (but make sure you submit it on FASER too)
-  - can choose between developing a website for your professional identity tied to your 'real name' or a website linked to one of your projects which does not have to be tied to your 'real name' but to a brand name instead e.g. 'Saving Trees In Colchester' or 'I help you understand electronic cars', etc. 
+  - can choose between developing a website for your professional identity tied to your 'real name' or a website linked to one of your projects which does not have to be tied to your 'real name' but to a brand name instead e.g. 'Saving Trees In Colchester' or 'I help you understand electronic cars', etc. ... something related to your course?
 
 <br> 
 
