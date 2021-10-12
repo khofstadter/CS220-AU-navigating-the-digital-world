@@ -149,16 +149,9 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 
 ### by week 7
 did I address all of these:
-  - digital identities
-  - e-safety
-  - blogging
-  - social media
-  - multimedia production
-  - intelligent search strategies
   - how are digital technologies transforming society?
   - to what extent do digital technologies curb or enhance our rights and freedom?
   - what digital skills are needed for the knowledge economy and a democratic society?
-  - how can we build and use our online identities?
   - how might we use digital technologies as creative and engaging forms of communication?
 <br><br>
 
