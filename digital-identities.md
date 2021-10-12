@@ -129,6 +129,10 @@ https://youtu.be/1X0g2OvSdWc
 - use Brave Browser for a while to see what websites are trying to access from your (your computer)
 - do I know how Tech Giants e.g. Google and Facebook use my data?
 - what is our digital footprint?
+#### eduroam
+- if you use torrents, the film studios will get in touch with uni and you will be dropped from the network
+- read: https://www.essex.ac.uk/student/professional-services/its-section
+- more info on VPN asap
 
 <br>
 
@@ -144,6 +148,3 @@ https://youtu.be/1X0g2OvSdWc
 - https://youtu.be/fifVuhgvQQ8
 - https://monitor.firefox.com/
 
-## eduroam
-- torrent (film studios get in touch with uni when you upload -- you will be dropped)
-- https://www.essex.ac.uk/student/professional-services/its-section
