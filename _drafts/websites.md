@@ -71,4 +71,8 @@ from https://www.verywellmind.com/color-psychology-2795824:
 - use of disqus? 
 - use of analytics?
 
+## blogging and social media
+- make once, share link, image and abstract (or subtititle) everywhere else
+- traffic to point back to your website 
+
 
