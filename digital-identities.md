@@ -133,7 +133,7 @@ https://youtu.be/1X0g2OvSdWc
 - if you use torrents to download films, the film studios e.g Warner Brothers will get in touch with the university and you will be dropped from the network (but there might be other consequences, be mindful)
 - read: https://www.essex.ac.uk/student/professional-services/its-section
 - more info on VPN asap
-### resources
+#### further resources
 - https://youtu.be/aqdm6aBUZII clarifies millennials vs gen Z: 
 - https://www.bbc.co.uk/bitesize/articles/zf8j92p
 - https://www.thesocialdilemma.com/ (on Netflix and currently (Oct 2021) on YouTube as well)
