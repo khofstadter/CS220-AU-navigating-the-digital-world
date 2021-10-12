@@ -1,5 +1,6 @@
 # websites
-(draft)
+## why have a website?
+- online portfolio to send to potential employers (or they might even find you)
 
 ## benefits of having a website
 - full control
@@ -14,6 +15,8 @@
 - download/install (more control)
 ## GitHub Pages
 - turn repository into GitHub Pages
+- nice examples https://github.com/collections/github-pages-examples
+- 
 
 
 + CV (and LinkedIn)
