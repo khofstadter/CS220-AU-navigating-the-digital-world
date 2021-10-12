@@ -128,11 +128,11 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
  This is Krisztian's todo list:
  
  ### by week 2
-- add additional resources e.g. password making video, etc. 
 - (if possible) try to add the .svg file so it's centered
 
 ### by week 3
 - screencasts for GitHub, VSC, GitHub Desktop
+- password making
 - shall students clone or download/upload the repo?
 - student examples from last year (websites/projects)
 - brainstorm about other projects (performance in Hex?)
