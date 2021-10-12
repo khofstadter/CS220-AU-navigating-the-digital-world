@@ -32,20 +32,20 @@
 ## visitors and residents
 
 > Visitors and Residents (V&R) is a simple way of describing the range of ways individuals can engage with the Web. 
-(White et al. http://daveowhite.com/vandr/) 
+~ White
 
 ### introduction
 https://youtu.be/sPOG3iThmRI
 
-- the V&R map can quantify our engagement with technology more accurately than [Marc Prensky](https://www.marcprensky.com/)'s Digital Natives and Digital Immigrants method
-- the V&R method uses a 2D coordinate system to quantify our engagement with technology/web
+- the V&R map can help understand our engagement with technology more accurately than [Marc Prensky](https://www.marcprensky.com/)'s Digital Natives and Digital Immigrants method
+- the V&R method uses a 2D coordinate system to quantify our engagement with technology/Web
 
-<br><br>![V&R map plain](assets/img/vr-map-plain.svg)<center><strong>V&R map (plain) </strong> You can download this image in .svg format from the repository's `assets/img` folder.</center><br><br>
+<br><br>![](assets/img/vr-map-plain.svg)<center><strong>Figure 1. </strong> V&R map. (You can download this image in .svg format from the repository's `assets/img` folder.)</center><br><br>
 
-- the V&R map helps all ages (not just old people) and people with low technical skills to use the web efficiently
-- it is based on people's motivation to engage with the web and has two modes, visitor and resident modes, and is further refined by whether we engage in an activity in a personal or an institutional (professional) manner
-- visitor modes: activities where **we don't leave a social trace behind** e.g. searching/reading information on the Web, watching videos, shopping, paying our bills. (Remember that search engines could store your search history. This search history is just not available publicly). And also think about what information websites crawl from you when you visit them.)
-- resident modes: activities where we are present with other people and **we leave a social trace behind** (stays online after we leave the internet) e.g. by creating content or commenting on other people's content on online platforms (websites, social media). As these activities are public, they can be linked to our (digital) identities and therefore we should be careful when we use the web in this mode. (We should be careful when we use our visitor modes as well of course.)
+- the V&R map helps all ages (not just old people) and people with low technical skills to use the Web efficiently
+- it is based on people's motivation to engage with the Web and has two modes, visitor and resident modes, and is further refined by whether we engage in an activity in a personal or an institutional (professional) manner
+- visitor modes: activities where **we don't leave a social trace behind** e.g. searching/reading information on the Web, watching videos, shopping, paying our bills. (But, remember that search engines could store your search history and website cookies can crawl data from you even in your visiting modes.)
+- resident modes: activities where we are present with other people and **we leave a social trace behind** (stays online after we leave the internet) e.g. by creating content or commenting on other people's content on online platforms (websites, social media). As these activities are public, they can be linked to our (digital) identities and therefore we should be careful when we use the Web in this mode. (We should be careful when we use our visitor modes as well of course.)
 - examples or personal engagements are e.g. using social media or emails to communicate with friends and family about personal matters
 - examples of institutional activities are e.g. disseminating or discussing ideas as a worker (and perhaps as a student in higher education)
 - V&R map examples: http://daveowhite.com/vandr/vr-mapping/
@@ -143,3 +143,7 @@ https://youtu.be/1X0g2OvSdWc
 - https://www.vpnmentor.com/research/whos-watching-you/#/?filter=thirdParty
 - https://youtu.be/fifVuhgvQQ8
 - https://monitor.firefox.com/
+
+## eduroam
+- torrent (film studios get in touch with uni when you upload -- you will be dropped)
+- https://www.essex.ac.uk/student/professional-services/its-section
