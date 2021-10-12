@@ -23,7 +23,7 @@ _Everyone logged in to Moodle? Did you find the link to this GitHub repository?_
 - you are free to leave the room anytime you feel you need some fresh air/the toilet, etc. 
 - we will try to have a 10 min break in the middle
 
-_Have you received my email last week? Who want's to introduce him/herself?_
+_Have you received my email last week? Who wants to introduce him/herself?_
 
 I can go first:
 
@@ -38,7 +38,7 @@ I can go first:
 - [digital identities](digital-identities.md) - first half
 
 ### homework ideas
-- start making your first V&R map on paper or in a software (you can use the .svg file in the assets folder) - check the examples on White's [website](http://daveowhite.com/vandr/vr-mapping/)
+- start making your first V&R map on paper or in software (you can use the .svg file in the assets folder) - check the examples on White's [website](http://daveowhite.com/vandr/vr-mapping/)
 - make sure you understand the module assessment (if not, email me or note down your questions for next week)
 - explore links in [digital identities](digital-identities.md)
 - consider joining the [CS220 Facebook group](https://www.facebook.com/groups/400596074925260) 
@@ -47,8 +47,6 @@ I can go first:
 <br>
 
 ## w3 GitHub and Visual Code Studio
-- while I setup the system, please log in to your computers and remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
-- Wed: hello to HORNG-YAW on Zoom
 
 ### discuss progress
 - would you like to present your progress to your class?
@@ -70,14 +68,13 @@ More to be added later.
 <br>
 
 ## w4 websites and troubleshooting
-- while I setup the system, please log in to your computers and remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
 
 ### discuss progress
 - would you like to present your progress to your class?
 - do you have questions regarding your assignment?
 
 This week I will introduce 
-- some differences between Wordpress and GitHub Pages and other website generators
+- some differences between WordPress and GitHub Pages and other website generators
 - ideas you should consider when troubleshooting 
 
 ### homework ideas
@@ -89,7 +86,6 @@ This week I will introduce
 <br>
 
 ## w5 audio-visual and other productivity tools
-- while I setup the system, please log in to your computers and remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
 
 ### discuss progress
 - would you like to present your progress to your class?
@@ -107,14 +103,13 @@ This week I will introduce
 <br>
 
 ## w6 sensemaking
-- while I setup the system, please log in to your computers and remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
 
 ### discuss progress
 - would you like to present your progress to your class?
 - do you have any questions regarding your assignment?
 
 This week I will introduce 
-- ideas to consider regarding making sense of the world i.e. sensemaking including secular meditation techniques with focus on auditory entrainment
+- ideas to consider regarding making sense of the world i.e. sensemaking including secular meditation techniques with a focus on auditory entrainment
 
 ### homework
 - explore how objective your sensemaking is
@@ -123,7 +118,6 @@ This week I will introduce
 <br>
 
 ## w7 presentations
-- while I setup the system, please log in to your computers and remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
 
 
 <br>
@@ -134,7 +128,6 @@ This week I will introduce
 <br>
 
 ## w9-10-11 workshops
-- while I setup the system, please log in to your computers and remind yourself of your [Covid19 related responsibilities](assets/doc/covid-reminder.md)
 
 <br>
 

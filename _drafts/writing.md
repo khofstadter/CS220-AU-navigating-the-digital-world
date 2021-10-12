@@ -4,8 +4,9 @@ do:
 - https://hackernoon.com/customizing-visual-studio-code-for-writing-2e6e621e069e
 
 # tools
-- use Grammarly or alternatives
+- use Gramarly or alternatives
 - dictionary
+- https://www.youtube.com/watch?v=Q5rB9jDbTPU
 
 # how to write
 - remove 'that' (if possible)
@@ -13,6 +14,12 @@ do:
 - remove '-ing' if possible
 - can the sentence be shorter?
 - short first sentence
+
+## editors/proofreaders
+- remember that the books/articles you read were
+    - written by someone
+    - proofread and edited by someone else
+- it's not usually one persons job
 
 # Medium
 - write (send via email and put on the website as well)
@@ -48,3 +55,14 @@ do:
 ### Markdown to PDF
 - https://md2pdf.netlify.app/
 - https://duckduckgo.com/?q=markdown+to+pdf&t=brave&ia=web
+
+## my flow
+1. write in VSC
+2. check with SpellRight extension
+3. copy/paste to Grammarly
+4. copy/paste to ProWriting
+5. copy/paste to Hemingway (maybe)
+6. copy/paste to Word (maybe)
+7. can someone give me feedback (a native speaker or someone whose English is really good?)
+8. submit/publish
+

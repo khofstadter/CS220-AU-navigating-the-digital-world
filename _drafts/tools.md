@@ -13,14 +13,14 @@
   - this is a repo that you will have to submit
 
 ### Markdown
-Familarise yourself with Markdown language here: https://guides.github.com/features/mastering-markdown/ (there is a shortcut for this link in the file editor in your repository). <!-- add a screenshot? -->
+Familiarise yourself with Markdown language here: https://guides.github.com/features/mastering-markdown/ (there is a shortcut for this link in the file editor in your repository). <!-- add a screenshot? -->
 
 ### thoughts
 - there are slightly different Markdown versions, but in general they all work the same (stick to the above if using with GitHub)
 - we can monitor each others' progress on the public repository. Please update it at least once a week. <!-- TODO: make example repo for private and public. Perhaps show examples of sonic art students from ARU. -->
 - is GitHub safe to use e.g regarding tracking and cookies? [https://youtu.be/vAfBW1_AZkU?t=597](https://youtu.be/vAfBW1_AZkU?t=597)
 - we can give feedback on each work in GitHub in different ways e.g. by raising an 'Issue' or collaborating and suggesting changes <!-- #todo make screencast -->
-- GitHub vs Dropbox, etc. advantages/dissadvantages 
+- GitHub vs Dropbox, etc. advantages/disadvantages 
 
 <!-- #todo
 - how to embed/create graphs in the markdown files in the repository e.g. in the `readme.md` file?
@@ -46,7 +46,7 @@ You can edit your files in both, you GitHub account via a browser or in VSC on y
  - you can use VSC's extensions e.g. Spell Right (although in your own browser you could install browser extensions/plugins for this as well) or Foam that helps you organise your thoughts in a more creative, systematic way and 
  - VSC's editor itself provides further clarity e.g. with colour syntax an other tools e.g. search and replace for repetitive amendments
  - Markdown All in One's Table of Content function
- - option to export in PDF (customizable style in CSS)
+ - option to export in PDF (customisable style in CSS)
  - once you have more notes you can use Jekyll (a static website generator) to create a novel website from your thoughts, writings and assets (e.g. images)
 
 ## GitHub Desktop
@@ -95,7 +95,7 @@ https://obsproject.com/
 #### Premier 
 - need to ask for key from Media Services
 #### iMovie and Final Cut Pro
-- mac only (iMovie is free and easi to use)
+- mac only (iMovie is free and easy to use)
 
 <!-- some examples of my screencasts on youtube might be good to demonstrate, some unlisted for clients as well -->
 
@@ -116,7 +116,7 @@ TODO: install on mac
 ## CSS
 VSC extension to colourise: https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize
 
-## Online Search Enginges
+## Online Search Engines
 ### Google 
 <!-- TODO: extract info from Moodle https://moodle.essex.ac.uk/course/view.php?id=7522&section=27 -->
 ### Other

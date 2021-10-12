@@ -5,7 +5,7 @@
 - full control
 - helps us make decisions (helps progress, but can be amended later if needed)
 
-- cms vs static
+- CMS vs static
 ## WordPress
 ### On Wordpress.com
 - use with '.wordpress.com' extension (free)
@@ -39,7 +39,7 @@
 ## design
 from https://www.verywellmind.com/color-psychology-2795824:
 
-1. Other people, first and foremost. We have a natural ability to detect fakeness (as well as a limited tolerance for it : https://tvtropes.org/pmwiki/pmwiki.php/Main/UncannyValley), and are naturally drawn to other real human faces feeling real emotions (as opposed to staged stock photos). It’s how we’ve evolved.
+1. Other people, first and foremost. We have a natural ability to detect fakes (as well as a limited tolerance for it : https://tvtropes.org/pmwiki/pmwiki.php/Main/UncannyValley), and are naturally drawn to other real human faces feeling real emotions (as opposed to staged stock photos). It’s how we’ve evolved.
 2. Color. Yes, there is a science behind it (https://www.verywellmind.com/color-psychology-2795824)
 3. Layout. The image that seems cozy and compact to some might be seen as dark and crowded to others. Light space is better, as it allows “room to breathe.”
 4. Contributory factors like image quality and font type and size.
@@ -60,12 +60,12 @@ from https://www.verywellmind.com/color-psychology-2795824:
 ## other
 - make our own website to have control over our data
 - OpenGraphs/SEO
-- shall I direct trafic from my social media to my own website, why?
+- shall I direct traffic from my social media to my own website, why?
 - archive.org to see old websites
 
 ## todo
 - find website where you can see that it was edited e.g. the author even says this was changed because or version 2, etc. 
-- use of diqus? 
+- use of disqus? 
 - use of analytics?
 
 
