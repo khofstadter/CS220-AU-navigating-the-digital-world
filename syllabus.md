@@ -33,7 +33,7 @@ I can go first:
 
 ### introduction and theory
 - quick intro to syllabus (see above)
-- [module introduction and assessment template](README.md) (brief template intro, next week more)
+- [module introduction](README.md)
 - 10 min break?
 - [digital identities](digital-identities.md)
 
