@@ -20,3 +20,6 @@ https://dariusforoux.medium.com/you-become-what-you-focus-on-d8e531cf53eb
 
 ## social media
 - https://viktorsmari.github.io/2021/05/28/why-i-quit-facebook.html
+
+## thinking slowly
+https://mattgemmell.com/thinking-slowly/
