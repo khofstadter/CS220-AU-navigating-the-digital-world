@@ -145,3 +145,10 @@ https://duckduckgo.com/?q=UK+Social+Media+Demographics+2020&t=brave&ia=web
 
 ## drawing in Markdown
 - https://github.com/philip-gai/github-drawio
+
+## freelancing
+### clients
+### invoicing
+
+## mailing list
+- what info can I keep about others?
