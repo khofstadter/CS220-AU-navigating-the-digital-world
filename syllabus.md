@@ -40,33 +40,36 @@ I can go first:
 ### homework ideas
 - start making your first V&R map on paper or in software (you can use the .svg file in the assets folder) - check the examples on White's [website](http://daveowhite.com/vandr/vr-mapping/)
 - explore links in [digital identities](digital-identities.md)
-- explore the template and ideas in the portfolio template's [di-identities.md](https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/di-reflection.html) file (we will check this together next week, but you can start looking into it this week if you want)
+- explore the [di-identities](https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/di-reflection.html) file in the CS220 portfolio tempate repository. It could give you ideas for your writing. (We will check this together next week, but you can start looking into it earlier if you want.)
 - consider joining the [CS220 Facebook group](https://www.facebook.com/groups/400596074925260) 
 - consider creating an online group for yourself where you can discuss module related questions without me/university monitoring it
 
 <br>
 
 ## w3 GitHub and Visual Code Studio
+(ready by week 3)
 ### discuss progress
 - would you like to present your progress to your class?
+- has anyone joined the Facebook group?
+- what's your preferred way of communication?
 
 ### tools
 The tools file contains a list of software to use and consider. I will introduce them gradually. 
 
 This week I will introduce 
 - how we will use GitHub repositories in this module (essential for your assignment) and 
-- how you can use Visual Code Studio to streamline your project management using a GitHub repository
+- how you can use Visual Code Studio on the PC to streamline your project management with GitHub
 
 ### homework ideas
-- try [Brave Browser](https://brave.com/) to see what data websites are trying to crawl from you (data mining)
 - start using your GitHub repository and get familiar with Markdown language
-
-More to be added later.
+- make sure you use a private repository for your private notes (you can refine your writing in private and than move it to a public repository when ready)
+- try [Brave Browser](https://brave.com/) to see what data websites are trying to crawl from you (data mining)
+- please send me the URL to your GitHub accounts
 
 <br>
 
 ## w4 websites and troubleshooting
-
+(ready by week 4)
 ### discuss progress
 - would you like to present your progress to your class?
 - do you have questions regarding your assignment?
@@ -84,7 +87,7 @@ This week I will introduce
 <br>
 
 ## w5 audio-visual and other productivity tools
-
+(ready by week 5)
 ### discuss progress
 - would you like to present your progress to your class?
 - do you have any questions regarding your assignment?
@@ -92,7 +95,7 @@ This week I will introduce
 This week I will introduce 
 - some software for audio-visual content production including creating screencasts
 - questions to consider when developing a podcast idea
-- how you could book equipment in the university and where you could use advanced software/hardware for content production
+- how you could book equipment in the university and where you could use advanced software/hardware for content production (TBC)
 
 ### homework
 - explore a variety of software for audio-video production
@@ -101,7 +104,7 @@ This week I will introduce
 <br>
 
 ## w6 sensemaking
-
+(ready by week 6)
 ### discuss progress
 - would you like to present your progress to your class?
 - do you have any questions regarding your assignment?
@@ -129,12 +132,3 @@ This week I will introduce
 
 <br>
 
----
-<!--
-## Ideas to discuss
-### Self-assessment
-#### Invoicing
-### Thinking slowly
-https://mattgemmell.com/thinking-slowly/
-### mailing list
--->
