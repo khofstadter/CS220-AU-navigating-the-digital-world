@@ -29,13 +29,13 @@ I can go first:
 
 > Hello! My name is Krisztián Hofstädter, aka tEdör. I am a creative technologist working as a researcher, lecturer, freelancer, and artist. My primary interests are brain-computer music interfacing linked to meditation, electronic dance music and animal rights. I was born in Hungary and have been living in the U.K. since 2005. You can find most of my work on my personal website https://khofstadter.com/
 
-- please send me these short intro's via email today
+- please send me these short intros via email today
 
 ### introduction and theory
 - quick intro to syllabus (see above)
 - [module introduction and assessment template](README.md) (brief template intro, next week more)
-- break
-- [digital identities](digital-identities.md) - first half
+- 10 min break?
+- [digital identities](digital-identities.md)
 
 ### homework ideas
 - start making your first V&R map on paper or in software (you can use the .svg file in the assets folder) - check the examples on White's [website](http://daveowhite.com/vandr/vr-mapping/)
