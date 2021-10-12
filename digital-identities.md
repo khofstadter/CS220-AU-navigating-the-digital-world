@@ -116,10 +116,10 @@ https://youtu.be/1X0g2OvSdWc
 
 <br>
 
-## summery
+## summary
 - it's not just old people who need to learn how to use the Web. It's complicated and complex <!-- #todo link RW video --> and therefore all ages should educate themselves.
 - we need to be careful with the information we engage with online as it leaves a digital footprint e.g. your drunk videos might stay on Facebook forever
-- it's a good idea to start working on your professional(institutional) identity while studying but we should make sure that we are comfortable with where and how much of our ideas/questions are shared publicly (learn to use both, private and public note-taking/publishing tools)
+- it's a good idea to start working on your professional (institutional) identity while studying but we should make sure that we are comfortable with where and how much of our ideas/questions are shared publicly (learn to use both, private and public note-taking/publishing tools)
 
 <br>
 
