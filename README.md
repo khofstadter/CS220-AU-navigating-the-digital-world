@@ -40,7 +40,7 @@ While this module primarily focuses on providing practical skills, it also opens
 
 The module introduces primarily free and cross-platform software and, where possible, highlights their advantages and disadvantages to paid software. As the module in 2021 runs in labs equipped with Windows PCs, I demonstrate software in the workshops (and screencasts) using Windows 10 operating system (OS). However, I primarily use macOS, so I might switch sometimes. 
     
-You will be able to use most of the software I introduce on the Lab PC, but if you want you can install them on your own computers as well e.g. if you'd like to work from home instead of on these computers. 
+You will be able to use most of the software I introduce on the Lab PCs, but if you want you can install them on your own computers as well e.g. if you'd like to work from home instead of on these computers. 
   
 _If you are not a first-year student, have you used the Student Union or the Media Centre creative studios on campus?_
 
@@ -134,7 +134,6 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 - screencasts for GitHub, VSC, GitHub Desktop
 - password making
 - shall students clone or download/upload the repo?
-- student examples from last year (websites/projects)
 - brainstorm about other projects (performance in Hex?)
 
 ### by week 4
