@@ -17,16 +17,15 @@
 - the silent generation (traditionalists)  b.1945
   - value hard work, don't like to be wasteful, respect authority/elders  
 - baby boomers b.1946-64
-  - counterculture, started out to be liberal, now more conservative
+  - link to counterculture e.g. hippies, started out to be liberal, became more conservative later
 - gen X b.1965-79
   - both parents working, more peer-orientated, music helps define their identity
 - gen Y (millennials) b.1980-95
-  - more technology, more group-oriented (some say more selfish, entitled, lazy, etc.)
+  - more links to technology, more group-oriented (some say more selfish, entitled, lazy, etc.)
 - gen Z (centennials) b.1996-present
   - relationship to technology depends on whether parents are gen X or gen Y
-  - strong relationship to technology
+  - strong relationship to technology especially regarding communication with peers
   - most similarities to millennials
-- group shares collective experiences
 
 <br>
 
