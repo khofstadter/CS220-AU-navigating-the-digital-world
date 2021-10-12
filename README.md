@@ -18,7 +18,7 @@ The **weekly outline** of the seminars/workshops is in the [syllabus](syllabus.m
 ## further clarification
 The module aims to **help develop our digital identities** by introducing
 
-1. White et al.'s [Visitor & Resident (V&R) map](digital-identities.md/#visitors-and-residents) (see Figure 1. below)
+1. White et al.'s [Visitor & Resident (V&R) method](digital-identities.md/#visitors-and-residents) (see Figure 1. below)
 2. tools for project management, web design and hosting as well as audio-visual production
 3. additional methods for sensemaking
 
