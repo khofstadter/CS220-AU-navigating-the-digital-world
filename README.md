@@ -134,6 +134,7 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 ### by week 3
 - screencasts for GitHub, VSC, GitHub Desktop
 - password making
+- make own V&R map
 - shall students clone or download/upload the repo?
 - brainstorm about other projects (performance in Hex?)
 
