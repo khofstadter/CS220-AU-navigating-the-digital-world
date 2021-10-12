@@ -130,7 +130,7 @@ https://youtu.be/1X0g2OvSdWc
 - do I know how Tech Giants e.g. Google and Facebook use my data?
 - what is our digital footprint?
 #### eduroam
-- if you use torrents, the film studios will get in touch with uni and you will be dropped from the network
+- if you use torrents to download films, the film studios e.g Warner Brothers will get in touch with the university and you will be dropped from the network (but there might be other consequences, be mindful)
 - read: https://www.essex.ac.uk/student/professional-services/its-section
 - more info on VPN asap
 
