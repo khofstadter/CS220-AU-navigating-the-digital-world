@@ -139,7 +139,7 @@ https://youtu.be/1X0g2OvSdWc
 ### resources
 - https://youtu.be/aqdm6aBUZII clarifies millennials vs gen Z: 
 - https://www.bbc.co.uk/bitesize/articles/zf8j92p
-- https://www.thesocialdilemma.com/
+- https://www.thesocialdilemma.com/ (on Netflix and currently (Oct 2021) on YouTube as well)
 - https://www.psychologytoday.com/us/blog/anger-in-the-age-entitlement/201404/whats-wrong-criticism
 - Digital Native (1982-94) vs Digital Immigrant Model (Mark Prensky 2001)
 - https://www.pewresearch.org/internet/2014/03/11/digital-life-in-2025/
