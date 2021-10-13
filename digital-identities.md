@@ -13,7 +13,7 @@
 
 ## generations
 <!-- #todo embed a Gantt chart -->
-- overview: https://youtu.be/TtIojDWOsgg
+- overview (Western World): https://youtu.be/TtIojDWOsgg
 - the silent generation (traditionalists)  b.1945
   - value hard work, don't like to be wasteful, respect authority/elders  
 - baby boomers b.1946-64
