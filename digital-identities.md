@@ -144,4 +144,6 @@ https://youtu.be/1X0g2OvSdWc
 - https://www.vpnmentor.com/research/whos-watching-you/#/?filter=thirdParty
 - https://youtu.be/fifVuhgvQQ8
 - https://monitor.firefox.com/
+- https://www.pewresearch.org/internet/2014/03/11/digital-life-in-2025/
+- https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/what-makes-asia-pacifics-generation-z-different
 
