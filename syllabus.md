@@ -34,7 +34,7 @@ I can go first:
 ### introduction and theory
 - quick intro to syllabus (see above)
 - [module introduction](README.md)
-- 10 min break?
+- 10 min break? (who has a class after this?)
 - [digital identities](digital-identities.md)
 
 ### is this module for you?
