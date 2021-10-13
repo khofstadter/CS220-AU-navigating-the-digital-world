@@ -37,10 +37,15 @@ I can go first:
 - 10 min break?
 - [digital identities](digital-identities.md)
 
+### is this module for you?
+- develop your engagement with the Web and your professional identity
+- understand basic web design and make a free (fast) website
+- feedback from me and your class on the above
+
 ### homework ideas
 - start making your first V&R map on paper or in software (you can use the .svg file in the assets folder) - check the examples on White's [website](http://daveowhite.com/vandr/vr-mapping/)
 - explore links in [digital identities](digital-identities.md)
-- explore the [di-identities](https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/di-reflection.html) file in the CS220 portfolio tempate repository. It could give you ideas for your writing. (We will check this together next week, but you can start looking into it earlier if you want.)
+- explore the [di-identities](https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/di-reflection.html) file in the CS220 portfolio template repository. It could give you ideas for your writing. (We will check this repository together next week, but you can start looking into it earlier if you want.)
 - consider joining the [CS220 Facebook group](https://www.facebook.com/groups/400596074925260) 
 - consider creating an online group for yourself where you can discuss module related questions without me/university monitoring it
 
