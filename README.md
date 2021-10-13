@@ -96,7 +96,7 @@ In essence, the digital portfolio to submit has 4 parts:
     
 1. di-reflection (weighed as 40% of your overall mark)
     - reflection on how you can develop your digital identities
-    - a short essay (words: between 500 - 1000 words)
+    - a short essay (words: between 750 - 1000 words)
 2. website (40%)
     - a basic website for your professional identity or project
 3. self-and peer-assessment (10%)
