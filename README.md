@@ -143,6 +143,8 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
     - sorry for the sound quality in the webinar on Thu - I will try to stay close to the Dave
     - here the summery of what we did
     - rememeber to come to the classes (unless you requested remote learning)
+    - send out Zoom videos
+    - find out who Tolu and Joe was on Thu webinar
 
 ### by week 4
 - screencast for GitHub vs Wordpress
