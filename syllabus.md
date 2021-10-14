@@ -68,11 +68,7 @@ This week I will introduce
 ### clarification
 - the word count for your di-identity reflection shoudl be between 750-1000 words (not 500 as indicated in Paula's slides last week)
 - there is no official reading list, but there are many links and references in the files on this repository that I would encourage you to check (especially the V&R map website)
-- webinars for people who
-  - Students who cannot travel to the UK due to official travel restrictions
-  - Students who are clinically vulnerable to COVID-19 (we require medical evidence to support these applications)
-  - Students who are registered carers for a dependant who is clinically vulnerable to COVID-19 (again, we require evidence of this in the form of a GP letter, or evidence of receipt of Carer’s Allowance/benefits)
-  - Students who are isolating (you need to get in touch with admin if you are isolating)
+- webinars for people who have requested remote study. If you need to self-isolate fill in the form [here](https://www.essex.ac.uk/student/covid-19/remote-study)
 
 ### homework ideas
 - start using your GitHub repository and get familiar with Markdown language
