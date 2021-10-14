@@ -136,9 +136,10 @@ https://youtu.be/1X0g2OvSdWc
 - read: https://www.essex.ac.uk/student/professional-services/its-section
 - more info on VPN asap
 #### further resources
-- https://youtu.be/aqdm6aBUZII clarifies millennials vs gen Z: 
+- https://youtu.be/aqdm6aBUZII clarifies millennials vs gen Z
 - https://www.bbc.co.uk/bitesize/articles/zf8j92p
 - https://www.thesocialdilemma.com/ (on Netflix and currently (Oct 2021) on YouTube as well)
+- https://medium.com/@mrkrndvs/mapping-the-divide-visitors-and-residents-on-the-web-5b0c87d3b0b1
 - https://www.psychologytoday.com/us/blog/anger-in-the-age-entitlement/201404/whats-wrong-criticism
 - Digital Native (1982-94) vs Digital Immigrant Model (Mark Prensky 2001)
 - https://www.pewresearch.org/internet/2014/03/11/digital-life-in-2025/
