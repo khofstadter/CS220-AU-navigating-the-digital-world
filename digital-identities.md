@@ -47,7 +47,7 @@ https://youtu.be/sPOG3iThmRI
 - visitor modes: activities where **we don't leave a social trace behind** e.g. searching/reading information on the Web, watching videos, shopping, paying our bills. (But, remember that search engines could store your search history and website cookies can crawl data from you even in your visiting modes.)
 - resident modes: activities where we are present with other people and **we leave a social trace behind** (stays online after we leave the internet) e.g. by creating content or commenting on other people's content on online platforms (websites, social media). As these activities are public, they can be linked to our (digital) identities and therefore we should be careful when we use the Web in this mode. (We should be careful when we use our visitor modes as well of course.)
 - an example of personal engagement is using social media or emails to communicate with friends and family about personal matters
-- an example of institutional activities is disseminating or discussing ideas as a worker or a student in HR online (or print)
+- an example of institutional activities is disseminating or discussing ideas as a worker or a student in HE online (or print)
 - V&R map examples: http://daveowhite.com/vandr/vr-mapping/
 
 <br> 
