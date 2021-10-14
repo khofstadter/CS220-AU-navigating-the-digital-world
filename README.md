@@ -130,6 +130,7 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
  
  ### by week 2
 - (if possible) try to add the .svg file so it's centred
+- send email to Tom (SU media) when can you come to intro your work?
 
 ### by week 3
 - screencasts for GitHub, VSC, GitHub Desktop
