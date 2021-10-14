@@ -58,7 +58,10 @@ from https://www.verywellmind.com/color-psychology-2795824:
 
 ## things
 - hidden files need uploading as well
-- sometimes browser doesn’t refresh (try another or clean);
+- sometimes browser doesn’t refresh (try another or clean)
+
+## the importance of taxonomy
+- how to organise data
 
 ## other
 - make our own website to have control over our data
