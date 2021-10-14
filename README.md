@@ -137,8 +137,6 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 - make own V&R map
 - shall students clone or download/upload the repo?
 - brainstorm about other projects (performance in Hex?)
-- move Nadia to Thu seminar
-- add alpha group
 - recap video:
     - sorry for the sound quality in the webinar on Thu - I will try to stay close to the Dave
     - here the summery of what we did
