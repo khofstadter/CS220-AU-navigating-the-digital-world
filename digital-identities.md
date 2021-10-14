@@ -26,6 +26,8 @@
   - relationship to technology depends on whether parents are gen X or gen Y
   - strong relationship to technology especially regarding communication with peers
   - most similarities to millennials
+- gen Alpha (not covered in the video)
+  - https://duckduckgo.com/?q=gen+alpha&t=brave&ia=web
 
 <br>
 
