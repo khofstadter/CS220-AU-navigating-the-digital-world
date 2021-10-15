@@ -115,6 +115,7 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 <br>
 
 ## log
+- 2021-10-15 seminars done. Absent students emailed, some other admin regarding students changes. 
 - 2021-10-12 simplified README.md and digital-identities.md. 
 - 2021-10-08 added Zoom, Covid info to syllabus. Minimised the README.md file as it had info duplicating what is now in the portfolio template.
 - 2021-10-05 tested Zoom with student computer and ZoomDave in lab G and created a list of things todo before the lessons starts, could be 10 minutes, so perhaps set a task for students? Also tested audio cable splitters that could be used with the student computers to records audio via a microphone and so far the Zoom H1 via mini jack is the best solution. Perhaps need to test with the small clip mic as well to have something close by. 
