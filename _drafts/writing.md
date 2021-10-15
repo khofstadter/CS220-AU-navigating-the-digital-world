@@ -66,3 +66,5 @@ do:
 7. can someone give me feedback (a native speaker or someone whose English is really good?)
 8. submit/publish
 
+# more
+- https://dariusforoux.medium.com/how-to-use-writing-to-improve-your-thinking-22e09fa01e04?_branch_match_id=972221535992815692
