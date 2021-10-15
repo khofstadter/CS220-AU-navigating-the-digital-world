@@ -131,6 +131,13 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
  ### by week 2
 - (if possible) try to add the .svg file so it's centred
 - send email to Tom (SU media) when can you come to intro your work?
+### by end of week 2 - recap video
+  - email all absent students seperately
+  - sorry for the sound quality in the webinar on Thu - I will try to stay close to the Dave
+  - here the summery of what we did
+  - rememeber to come to the classes (unless you requested remote learning)
+  - send out Zoom videos (and Listen Again) - is this the Zoom video as well?
+  - find out who Tolu and Joe was on Thu webinar
 
 ### by week 3
 - screencasts for GitHub, VSC, GitHub Desktop
@@ -138,12 +145,7 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 - make own V&R map
 - shall students clone or download/upload the repo?
 - brainstorm about other projects (performance in Hex?)
-- recap video:
-    - sorry for the sound quality in the webinar on Thu - I will try to stay close to the Dave
-    - here the summery of what we did
-    - rememeber to come to the classes (unless you requested remote learning)
-    - send out Zoom videos
-    - find out who Tolu and Joe was on Thu webinar
+
 
 ### by week 4
 - screencast for GitHub vs Wordpress
