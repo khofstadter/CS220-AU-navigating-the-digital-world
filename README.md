@@ -141,7 +141,7 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 - shall students clone or download/upload the repo?
 - brainstorm about other projects (performance in Hex?)
 - send email to Tom (SU media) when can you come to intro your work?
-
+- incorporate: https://www.essex.ac.uk/staff/working-with-information-and-data
 
 ### by week 4
 - screencast for GitHub vs Wordpress
