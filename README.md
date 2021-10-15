@@ -135,6 +135,8 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 ### by week 3
 - screencasts for GitHub, VSC, GitHub Desktop
 - password making
+- can we connect Yanxi's freecycle project to the module for someone's website?
+- are there other projects that perhaps need a website?
 - make own V&R map
 - shall students clone or download/upload the repo?
 - brainstorm about other projects (performance in Hex?)
