@@ -6,9 +6,9 @@
  - use a good password
 2. Create a private repository
   - will be used for your private notes
-  - name it as `notes`
+  - name it 'notes'
   - when creating it add the `readme.md` file
-3. Fork my `CS220-AU-portfolio` repository
+3. Fork my 'CS220-AU-portfolio' repository
   - will be used for your digital portfolio (to submit)
   - you can turn some files in this repository into your website (or submit a website made with another CMS e.g. Wordpress)
 
