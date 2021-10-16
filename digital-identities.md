@@ -11,6 +11,8 @@
 - [assignment reminder](#assignment-reminder)
 - [additional](#additional)
 
+> The unexamined life is not worth living. ~ Socrates
+
 ## generations
 <!-- #todo embed a Gantt chart -->
 - overview (Western World): https://youtu.be/TtIojDWOsgg
