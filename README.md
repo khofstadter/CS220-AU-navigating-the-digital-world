@@ -137,9 +137,10 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 - focus on GitHub sing up, repos and Markdown
     - include password making
     - compare to other note taking methods
-- don't do VSC and GitHub Desktop in class (only make screecasts of it)
+- don't do VSC and GitHub Desktop in class (only make screencasts of it)
 - screencasts for GitHub, VSC, GitHub Desktop
 - can we connect Yanxi's freecycle project to the module for someone's website?
+- what projects could you pull in from your other modules?
 - are there other projects that perhaps need a website?
 - make own V&R map
 - brainstorm about other projects (performance in Hex?)
@@ -154,7 +155,9 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 - screencast for audio-video and other production tools
 
 ### by week 6
-- write an article about sensemaking
+- write an article about sensemaking, use
+  - notes in this repo
+  - notes in bcmi/sensemaking draft (find RW pdf to fine tune notes in external HDD)
 
 ### by week 7
 did I address all of these:
