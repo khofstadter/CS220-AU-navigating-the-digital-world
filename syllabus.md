@@ -62,7 +62,9 @@ In essence the module can help you
 The tools file contains a list of software to use and consider. I will introduce them gradually. 
 
 This week I will introduce 
-- how we will use GitHub repositories in this module (essential for your assignment) and 
+- how we will use GitHub repositories in this module (essential for your assignment) including 
+    - private and public repositories 
+    - Markdown language
 - how you can use Visual Code Studio on the PC to streamline your project management with GitHub
 
 ### clarification

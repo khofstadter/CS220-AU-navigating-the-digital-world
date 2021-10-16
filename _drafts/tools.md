@@ -152,3 +152,21 @@ https://duckduckgo.com/?q=UK+Social+Media+Demographics+2020&t=brave&ia=web
 
 ## mailing list
 - what info can I keep about others?
+
+## Goal setting, planning & productivity
+- how can a GitHub repo be used as a logbook?
+- what is VSC?
+- what is Foam?
+- agile vs traditional project management
+- less is more (keep it simple, edit your thoughts)
+- consistency with file/folder naming
+- additional tools e.g. physical notebook with BIC pen and/or simple note app on mobile phone
+- alternative project management tools (which might be better for collaborations): Trello
+- feedback from others
+  
+### Github Desktop
+- backups
+    - can edit online or local (demonstrate conflict)
+
+## taxonomy
+- in line with BIC pen?
