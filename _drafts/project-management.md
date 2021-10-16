@@ -1,0 +1,4 @@
+- no need to know everything before you start/ship
+- follow APM
+- learn to fail, don't make it too personal i.e. distance your emotions from it perhaps by not being too attached to expected outcomes
+- if you don't know what you want, start with what you don't want e.g. by making a list
