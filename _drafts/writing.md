@@ -66,5 +66,29 @@ do:
 7. can someone give me feedback (a native speaker or someone whose English is really good?)
 8. submit/publish
 
-# more
+## more
 - https://dariusforoux.medium.com/how-to-use-writing-to-improve-your-thinking-22e09fa01e04?_branch_match_id=972221535992815692
+
+## writing tips
+- it's hard to get into - build up the momentum, be patient (sometimes coffee is not the best answer)
+- write with flow first - edit later <!--#todo find writing styles -->
+- set enough time aside
+- create a routine/system
+- don't work more than you should (it's not productive) - have breaks/work in intervals (perhaps link to a soundscape)
+- have/maks deadlines 
+- add physical exercise into the breaks
+- turn of notifications
+- find your personal drive (motivate yourself with your achievements or with other people's achievements and methods)
+- write often and regularily
+- have structure (headings/subheadings/lists)
+- check grammar and typos with software
+- match/create style e.g. by amending colours, padding, font, etc. 
+- add images if they help illustrate something (make good graphs)
+- hyperlinks, notes, references and bibliography
+- add call to action hyperlinks if you want the reader to do something
+### target audience related
+- 15 seconds attention capture
+- who who you write for and why
+    - what will you provide i.e. how are your helping e.g. new information, summary of different information (relat info to other info), give a feeling (motivation)
+    - every sentence and paragraphs needs to help the flow
+    - write withouth fear, this is the best you can do now, and later of course this will change, as your knowledge will grow
