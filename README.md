@@ -115,6 +115,7 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 <br>
 
 ## log
+- 2021-10-16 GitHub sign up tested. 
 - 2021-10-15 seminars done. Absent students emailed, some other admin regarding students changes. 
 - 2021-10-12 simplified README.md and digital-identities.md. 
 - 2021-10-08 added Zoom, Covid info to syllabus. Minimised the README.md file as it had info duplicating what is now in the portfolio template.
@@ -133,12 +134,14 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 - (if possible) try to add the .svg file so it's centred
 
 ### by week 3
+- focus on GitHub sing up, repos and Markdown
+    - include password making
+    - compare to other note taking methods
+- don't do VSC and GitHub Desktop in class (only make screecasts of it)
 - screencasts for GitHub, VSC, GitHub Desktop
-- password making
 - can we connect Yanxi's freecycle project to the module for someone's website?
 - are there other projects that perhaps need a website?
 - make own V&R map
-- shall students clone or download/upload the repo?
 - brainstorm about other projects (performance in Hex?)
 - send email to Tom (SU media) when can you come to intro your work?
 - incorporate: https://www.essex.ac.uk/staff/working-with-information-and-data
