@@ -8,11 +8,9 @@
   - will be used for your private notes
   - name it as `notes`
   - when creating it add the `readme.md` file
-3. Create a public repository
+3. Fork my `CS220-AU-portfolio` repository
   - will be used for your digital portfolio (to submit)
   - you can turn some files in this repository into your website (or submit a website made with another CMS e.g. Wordpress)
-  - name your repository `CS220-AU-portfolio`
-  - find my `CS220-AU-portfolio` repository, download its files to your computer and upload it to your `CS220-AU-portfolio` repository (drag and drop)
 
 ### Markdown
 Familiarise yourself with Markdown language here: https://guides.github.com/features/mastering-markdown/ (there is a shortcut for this link in the file editor in your repository). <!-- add a screenshot? -->
