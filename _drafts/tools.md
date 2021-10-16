@@ -1,31 +1,4 @@
-# Tools 
-## GitHub 
-1. Sign up to GitHub
- - you will need an email address (does not have to be your student email address)
- - your username needs to be your student number
-2. Find my CS220 repository (https://github.com/krisztian-hofstadter-tedor/CS220) and watch it (all activity)
-3. Create a private repository (repo)
-  - will be used for your private notes
-  - when creating it add the `readme.md` file
-4. Create a public repo <!-- or clone the template? -->
-  - will be used for your public logbook (log) and public static website (GitHub Pages) 
-  - when creating it add the `readme.md` file
-  - this is a repo that you will have to submit
-
-### Markdown
-Familiarise yourself with Markdown language here: https://guides.github.com/features/mastering-markdown/ (there is a shortcut for this link in the file editor in your repository). <!-- add a screenshot? -->
-
-### thoughts
-- there are slightly different Markdown versions, but in general they all work the same (stick to the above if using with GitHub)
-- we can monitor each others' progress on the public repository. Please update it at least once a week. <!-- TODO: make example repo for private and public. Perhaps show examples of sonic art students from ARU. -->
-- is GitHub safe to use e.g regarding tracking and cookies? [https://youtu.be/vAfBW1_AZkU?t=597](https://youtu.be/vAfBW1_AZkU?t=597)
-- we can give feedback on each work in GitHub in different ways e.g. by raising an 'Issue' or collaborating and suggesting changes <!-- #todo make screencast -->
-- GitHub vs Dropbox, etc. advantages/disadvantages 
-
-<!-- #todo
-- how to embed/create graphs in the markdown files in the repository e.g. in the `readme.md` file?
--->
-
+# Tools
 ## Visual Studio Code (VSC)
 1. Install/launch the Visual Studio Code software on your computer
 2. Make sure all of the following extensions are installed (some might need you to restart VSC or sometimes enabling when using a new folder/workstation e.g. when a GitHub repo is synced) :
