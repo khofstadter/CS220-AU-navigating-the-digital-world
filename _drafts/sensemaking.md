@@ -23,3 +23,6 @@ https://dariusforoux.medium.com/you-become-what-you-focus-on-d8e531cf53eb
 
 ## thinking slowly
 https://mattgemmell.com/thinking-slowly/
+
+## 3 ideas
+https://youtu.be/dGW5J3EbOUY
