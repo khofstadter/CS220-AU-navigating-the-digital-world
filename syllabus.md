@@ -53,27 +53,27 @@ In essence the module can help you
 
 ## w3 GitHub and Visual Code Studio
 (ready by week 3)
-### discuss progress
+### discuss progress / clarifications
 - would you like to present your progress to your class?
 - has anyone joined the Facebook group?
 - what's your preferred way of communication? Email, Moodle?
+- is there any clarification needed on the `di-identity` writting assignment? 
+- the Zoom webinars should only be accessed when remote study was requested e.g [here](https://www.essex.ac.uk/student/covid-19/remote-study)
+- there is no official reading list, but there are many links and references in the files on this repository that I would encourage you to check
 
-### tools
-The tools file contains a list of software to use and consider. I will introduce them gradually. 
+### GitHub
+We will
+- sign up to GitHub and create two repositories (a private and a public one)
+- experiment with basic Markdown syntax in the GitHub editor e.g. headings, lists, bold, italics, hyperlinks
+- start adding entries/ideas to the 'log' and the 'todo' headings in your portfolios
 
-This week I will introduce 
-- how we will use GitHub repositories in this module (essential for your assignment) including 
-    - private and public repositories 
-    - Markdown language
-- how you can use Visual Code Studio on the PC to streamline your project management with GitHub
+Please go to [tools/github](tools.md/#GitHub) - I will walk you through the setup. 
 
-### clarification
-- the word count for your di-identity reflection shoudl be between 750-1000 words (not 500 as indicated in Paula's slides last week)
-- there is no official reading list, but there are many links and references in the files on this repository that I would encourage you to check (especially the V&R map website)
-- webinars for people who have requested remote study. If you need to self-isolate fill in the form [here](https://www.essex.ac.uk/student/covid-19/remote-study)
+### Visual Code Studio
+- I will create screencasts later (as this might not be a tool for everyone)
 
 ### homework ideas
-- start using your GitHub repository and get familiar with Markdown language
+- start using your private and public repositories and get familiar with Markdown language
 - make sure you use a private repository for your private notes (you can refine your writing in private and than move it to a public repository when ready)
 - try [Brave Browser](https://brave.com/) to see what data websites are trying to crawl from you (data mining)
 - please send me the URL to your GitHub accounts
