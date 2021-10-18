@@ -64,13 +64,14 @@ In essence the module can help you
 ### GitHub
 We will
 - sign up to GitHub and create two repositories (a private and a public one)
+- examine your new public repository, your own copy of the [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio)
 - experiment with basic Markdown syntax in the GitHub editor e.g. headings, lists, bold, italics, hyperlinks
 - start adding entries/ideas to the 'log' and the 'todo' headings in your portfolios
 
 Please go to [tools/github](tools.md/#GitHub) - I will walk you through the setup. 
 
 ### Visual Code Studio
-- I will create screencasts later (as this might not be a tool for everyone)
+I will create screencasts for this software and how it can be used on the Lab PC soon. I will not introduce this software in the seminar as it might not be for everyone. 
 
 ### homework ideas
 - start using your private and public repositories and get familiar with Markdown language
