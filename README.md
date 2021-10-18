@@ -130,8 +130,7 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
  ## TODO
  This is Krisztian's todo list:
  
- ### by week 2
-- (if possible) try to add the .svg file so it's centred
+ ### by week 
 
 ### by week 3
 - focus on GitHub sing up, repos and Markdown
@@ -146,6 +145,8 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 - brainstorm about other projects (performance in Hex?)
 - send email to Tom (SU media) when can you come to intro your work?
 - incorporate: https://www.essex.ac.uk/staff/working-with-information-and-data
+- (if possible) try to add the .svg file so it's centred
+- find Prensky and V&R articles and hyperlink
 
 ### by week 4
 - screencast for GitHub vs Wordpress
