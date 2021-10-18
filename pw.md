@@ -1,5 +1,5 @@
 # Password managment
-Based on some [suggestions](https://duckduckgo.com/?q=password+best+practices+2021&t=brave&ia=web), here are mine:
+Some [suggestions](https://duckduckgo.com/?q=password+best+practices+2021&t=brave&ia=web), from the Net:
 
 **don't** use 
 - words that can be found in dictionaries e.g. 'Lemon' or 'love'
@@ -11,21 +11,39 @@ Based on some [suggestions](https://duckduckgo.com/?q=password+best+practices+20
 
 use
 - at least eight characters (but ideally more)
-- longer instead of more complex passwords [REF](https://securityboulevard.com/2021/03/nist-password-guidelines-2021-challenging-traditional-password-management/)
+- longer instead of more complex passwords e.g. `correcthorsebatterystaple` is better than `Tr0ub4dor&3` ([REF](https://securityboulevard.com/2021/03/nist-password-guidelines-2021-challenging-traditional-password-management/))
 - a good password manager app with a good password
 - a mix of characters: 
-  - capital letters e.g. 'C'
-  - lower case letters e.g. 'l'
+  - capital letters e.g. 'C' (put not as the first letter in your password as it is too common)
+  - lower case letters e.g. 'w'
   - numbers e.g. '75'
-  - symbols e.g. '<+>'
-
+  - symbols e.g. '<', '+', '>'
 
 ### thoughts
+- 2021 recommendation: https://youtu.be/k_9suKBtIOQ
 - complex and long passwords which don't use dictionary words are easy to forget
 - a long password is still the best practice
 
-### some ideas
+### idea 1 (phrase+)
+- a long and similar password for different websites, let's think:
+1. goingtouniisgreatfunin2021
+2. goingtoUniisgreatfunNtwenty21
+3. going2UniIZgreatfunNtwenty21
+4. gooingUniIZgreatfunNtwenty21
+5. gooing2Uni IZgreatfunNtwenty21[+]
 
-### Test Your Password
-- https://howsecureismypassword.net/ ([check](https://duckduckgo.com/?q=howsecureismypassword+spam&t=brave&ia=web) how secure is this page
-- 
+- Facebook: gooing2Uni IZgreatfunNtwenty21[+]kf
+- Essex: gooing2Uni IZgreatfunNtwenty21[+]xe
+
+### idea 2 (four random dictionary names)
+
+correcthorsebatterystaple
+
+- Facebook: correcthorsebatterystaple[+]kf
+- Essex: correcthorsebatterystaple[+]xe
+
+
+
+
+### Test Passwords
+- https://howsecureismypassword.net/ - review this site [here](https://duckduckgo.com/?q=howsecureismypassword+spam&t=brave&ia=web)
