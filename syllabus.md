@@ -12,7 +12,7 @@ w9-10-11 [workshops](#w9-10-11-workshops)
 
 This outline is subject to change based on our progress.
 
-<br><br>
+<br><br><br>
 
 ## w2 module introduction and digital identities
 - intro by Paula / AU clarification
@@ -49,7 +49,7 @@ In essence the module can help you
 - consider joining the [CS220 Facebook group](https://www.facebook.com/groups/400596074925260) 
 - consider creating an online group for yourself where you can discuss module related questions without me/university monitoring it
 
-<br><br>
+<br><br><br>
 
 ## w3 GitHub and Visual Code Studio
 (ready by week 3)
@@ -57,8 +57,8 @@ In essence the module can help you
 - would you like to present your progress to your class?
 - has anyone joined the Facebook group?
 - what's your preferred way of communication? Email, Moodle?
-- is there any clarification needed on the `di-identity` writting assignment? 
-- the Zoom webinars should only be accessed when remote study was requested e.g [here](https://www.essex.ac.uk/student/covid-19/remote-study)
+- do you need clarification on the `di-identity` assignment? 
+- you should only use the Zoom webinars if your [request to study remotely](https://www.essex.ac.uk/student/covid-19/remote-study) was granted
 - there is no official reading list, but there are many links and references in the files on this repository that I would encourage you to check
 
 ### GitHub
@@ -78,7 +78,7 @@ Please go to [tools/github](tools.md/#GitHub) - I will walk you through the setu
 - try [Brave Browser](https://brave.com/) to see what data websites are trying to crawl from you (data mining)
 - please send me the URL to your GitHub accounts
 
-<br><br>
+<br><br><br>
 
 ## w4 websites and troubleshooting
 (ready by week 4)
@@ -96,7 +96,7 @@ This week I will introduce
 - understand the link between Markdown and HTML language
 - progress with your assignment
 
-<br><br>
+<br><br><br>
 
 ## w5 audio-visual and other productivity tools
 (ready by week 5)
@@ -113,7 +113,7 @@ This week I will introduce
 - explore a variety of software for audio-video production
 - progress with your assignment
 
-<br><br>
+<br><br><br>
 
 ## w6 sensemaking
 (ready by week 6)
@@ -128,7 +128,7 @@ This week I will introduce
 - explore how objective your sensemaking is
 - progress with your assignment
 
-<br><br>
+<br><br><br>
 
 ## w7 presentations
 
