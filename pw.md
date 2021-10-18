@@ -14,7 +14,7 @@ use
 - longer instead of more complex passwords e.g. `correcthorsebatterystaple` is better than `Tr0ub4dor&3` ([REF](https://securityboulevard.com/2021/03/nist-password-guidelines-2021-challenging-traditional-password-management/))
 - a good password manager app with a good password
 - a mix of characters: 
-  - capital letters e.g. 'C' (put not as the first letter in your password as it is too common)
+  - capital letters e.g. 'C' (not as the first letter in your password as it is too common)
   - lower case letters e.g. 'w'
   - numbers e.g. '75'
   - symbols e.g. '<', '+', '>'
