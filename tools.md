@@ -12,7 +12,7 @@
   - you can turn some files in this repository into your website (or submit a website made with another CMS e.g. Wordpress)
 
 ### Markdown
-Familiarise yourself with Markdown language here: https://guides.github.com/features/mastering-markdown/ (there is a shortcut for this link in the file editor in your repository). <!-- add a screenshot? -->
+Familiarise yourself with [Markdown language](https://guides.github.com/features/mastering-markdown/) - there is a shortcut for this link in the file editor in your repository. <!-- #todo screenshot -->
 
 ### thoughts
 - choose 'soft wrap' instead of 'no wrap' in the editor
@@ -25,3 +25,4 @@ Familiarise yourself with Markdown language here: https://guides.github.com/feat
 <!-- #todo
 - how to embed/create graphs in the markdown files in the repository e.g. in the `readme.md` file?
 -->
+
