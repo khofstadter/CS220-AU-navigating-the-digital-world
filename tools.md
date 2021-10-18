@@ -21,8 +21,23 @@ Familiarise yourself with [Markdown language](https://guides.github.com/features
 - is GitHub safe to use e.g regarding tracking and cookies? [https://youtu.be/vAfBW1_AZkU?t=597](https://youtu.be/vAfBW1_AZkU?t=597)
 
 ### GitHub/Markdown combo for project management A/D
-advantages:
-- 
+
+GitHub advantages:
+- free
+- provides version backup
+- accessible on any mobil computing device that can use a browser
+- repositories can be synced to your computer (crossplatform)
+- you can drag and drop images to the editor (but I think it's better to upload it them to your `assets` folder to stay organised)
+
+Markdown advantages:
+- its simplicity helps focus on content
+
+GitHub/Markdown disadvantages:
+- for people not familiar with code, it might feel too technical (it's not!)
+- if you work online as well as on the computer, you shouldn't forget to sync to avoid 
+
+opportunities: 
+- [project boards](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards) - like [Trello](https://trello.com/)
 
 <!-- #todo
 - how to embed/create graphs in the markdown files in the repository e.g. in the `readme.md` file?
