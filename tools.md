@@ -1,4 +1,3 @@
-# Tools 
 ## GitHub 
 1. Sign up to GitHub
  - you will need an email address
