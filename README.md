@@ -147,6 +147,7 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 - incorporate: https://www.essex.ac.uk/staff/working-with-information-and-data
 - (if possible) try to add the .svg file so it's centred
 - find Prensky and V&R articles and hyperlink
+- add 4th V&R map video: https://youtu.be/5EyH-JZWtoI
 
 ### by week 4
 - screencast for GitHub vs Wordpress
