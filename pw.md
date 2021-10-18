@@ -11,7 +11,7 @@ Some [suggestions](https://duckduckgo.com/?q=password+best+practices+2021&t=brav
 
 use
 - at least eight characters (but ideally more)
-- longer instead of more complex passwords e.g. `correcthorsebatterystaple` is better than `Tr0ub4dor&3` ([REF](https://securityboulevard.com/2021/03/nist-password-guidelines-2021-challenging-traditional-password-management/))
+- longer instead of more complex passwords e.g. `correcthorsebatterystaple` is better than `Tr0ub4dor&3` (REF [1](https://securityboulevard.com/2021/03/nist-password-guidelines-2021-challenging-traditional-password-management/), [2](https://xkcd.com/936/))
 - a good password manager app with a good password
 - a mix of characters: 
   - capital letters e.g. 'C' (not as the first letter in your password as it is too common)
