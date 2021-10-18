@@ -133,18 +133,9 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
  ### by week 
 
 ### by week 3
-- focus on GitHub sing up, repos and Markdown
-    - include password making
-    - compare to other note taking methods
-- don't do VSC and GitHub Desktop in class (only make screencasts of it)
-- screencasts for GitHub, VSC, GitHub Desktop
-- can we connect Yanxi's freecycle project to the module for someone's website?
-- what projects could you pull in from your other modules?
-- are there other projects that perhaps need a website?
+- compare GitHub to other note taking methods
 - make own V&R map
-- brainstorm about other projects (performance in Hex?)
-- send email to Tom (SU media) when can you come to intro your work?
-- incorporate: https://www.essex.ac.uk/staff/working-with-information-and-data
+- review: https://www.essex.ac.uk/staff/working-with-information-and-data
 - (if possible) try to add the .svg file so it's centred
 - find Prensky and V&R articles and hyperlink
 - add 4th V&R map video: https://youtu.be/5EyH-JZWtoI
@@ -152,6 +143,10 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 ### by week 4
 - screencast for GitHub vs Wordpress
 - student examples for project idea
+    - can we connect Yanxi's freecycle project to the module for someone's website?
+    - what projects could you pull in from your other modules?
+    - brainstorm about other projects (performance in Hex?)
+    - send email to Tom (SU media) when can you come to intro your work? perhaps week 7 presentations
 
 ### by week 5
 - screencast for audio-video and other production tools
