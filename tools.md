@@ -15,14 +15,17 @@
 Familiarise yourself with [Markdown language](https://guides.github.com/features/mastering-markdown/) - there is a shortcut for this link in the file editor in your repository. <!-- #todo screenshot -->
 
 ### thoughts
-- choose 'soft wrap' instead of 'no wrap' in the editor
+- choose 'soft wrap' instead of 'no wrap' in the GitHub editor
 - there are slightly different Markdown versions, but in general they all work the same (stick to the above if using with GitHub)
-- we can monitor each others' progress on the public repository. Please update it at least once a week. <!-- TODO: make example repo for private and public. Perhaps show examples of sonic art students from ARU. -->
+- we can monitor each others' progress in the public repositories. Please update it at least once a week. <!-- TODO: make example repo for private and public. Perhaps show examples of sonic art students from ARU. -->
 - is GitHub safe to use e.g regarding tracking and cookies? [https://youtu.be/vAfBW1_AZkU?t=597](https://youtu.be/vAfBW1_AZkU?t=597)
-- we can give feedback on each work in GitHub in different ways e.g. by raising an 'Issue' or collaborating and suggesting changes <!-- #todo make screencast -->
-- GitHub vs Dropbox, etc. advantages/disadvantages 
+
+### GitHub/Markdown combo for project management A/D
+advantages:
+- 
 
 <!-- #todo
 - how to embed/create graphs in the markdown files in the repository e.g. in the `readme.md` file?
+- we can give feedback on each work in GitHub in different ways e.g. by raising an 'Issue' or collaborating and suggesting changes <!-- #todo make screencast -->
 -->
 
