@@ -151,4 +151,5 @@ https://youtu.be/1X0g2OvSdWc
 - https://monitor.firefox.com/
 - https://www.pewresearch.org/internet/2014/03/11/digital-life-in-2025/
 - https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/what-makes-asia-pacifics-generation-z-different
+- https://mashable.com/article/what-you-do-online-impacts-your-real-life?europe=true
 
