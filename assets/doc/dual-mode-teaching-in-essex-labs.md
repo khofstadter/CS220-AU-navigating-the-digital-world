@@ -1,15 +1,15 @@
 LECTERN or STUDENT PC
 
-1. Login to PC
+1. Login to student PC (first row)
 - plug in headphones to headphone jack (or turn down volume for audio out i.e. monitor speakers)
 - ask students to log in to PCs (or own computers) and go to the moodle page for CS220
 
-2. With a browser go to https://software.essex.ac.uk/ and launch app for validation
+2. With a browser go to https://software.essex.ac.uk/ and launch app on mobile phone for validation 
 
 3. Login to Webmail
-- use Microsoft authenticator app
+- use Microsoft authenticator app (some rooms don't have signal for TEXT validation, so there you need the mobile app)
 
-4. find Zoom link for workshop in Webmail/Calendar (click on it?)
+4. find Zoom link for workshop in Webmail/Calendar (click on it)
 or sign in (instead of join) to Zoom with app on https://software.essex.ac.uk/ with essex staff credentials or with SSO (SSO not tested)
 
 5. write down the Zoom meeting ID on a piece of paper (or take a picture)
@@ -21,11 +21,6 @@ or sign in (instead of join) to Zoom with app on https://software.essex.ac.uk/ w
 7. PC/ZOOM app:
 - share screen
 - share computer sound (under more button)
-
-8. Log in https://moodle.essex.ac.uk/ (first week)
-
-9. Log in to GitHub and find CS220 repo
-- go to syllabus and the relevant week
 
 ! REMEMBER TODO: 
 - mute mic on PC ZOOM app for the DAVE when playing audio e.g YouTube video (to avoid feedback)
