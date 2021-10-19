@@ -60,6 +60,7 @@ In essence the module can help you
 - do you need clarification on the `di-identity` assignment? 
 - you should only use the Zoom webinars if your [request to study remotely](https://www.essex.ac.uk/student/covid-19/remote-study) was granted
 - there is no official reading list, but there are many links and references in the files on this repository that I would encourage you to check
+- if you need help with your English please visit [this page](https://www.essex.ac.uk/departments/language-and-linguistics/english-classes-for-dependants)
 
 ### GitHub
 We will
