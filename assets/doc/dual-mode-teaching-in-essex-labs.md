@@ -1,6 +1,6 @@
 LECTERN or STUDENT PC
 
-1. Login to student PC (first row)
+1. Login to PC
 - plug in headphones to headphone jack (or turn down volume for audio out i.e. monitor speakers)
 - ask students to log in to PCs (or own computers) and go to the moodle page for CS220
 
