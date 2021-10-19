@@ -72,7 +72,7 @@ Students enrolled in this module come from different courses/departments e.g.
   - global studies and human rights
   - Essex Abroad Exchange (#todo: specify)
 
-    <br>
+<br>
     
 - some are 1st and some 2nd-year students
 - some only do AU, some only SP, some both
@@ -120,6 +120,7 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 <br>
 
 ## log
+- 2021-10-19 week 3 syllabus simplified e.g. no VSC in class. Minor changes. 
 - 2021-10-16 GitHub sign up tested. 
 - 2021-10-15 seminars done. Absent students emailed, some other admin regarding students changes. 
 - 2021-10-12 simplified README.md and digital-identities.md. 
@@ -131,21 +132,17 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 - 2021-09-21 added digital-identities.md and syllabus.md. Decided that each file should be written for a wider audience (e.g. Medium) to help raise the quality of writing.
 - 2021-09-07 - 2021-09-21 textual and structural refinements
 - 2021-09-07 repository created with basic info
-  
- ## TODO
- This is Krisztian's todo list:
- 
- ### by week 
+
+<br>
+
+## TODO
+This is Krisztian's todo list:
 
 ### by week 3
-- finalise portfolio template
 - add 4th V&R map video: https://youtu.be/5EyH-JZWtoI    
 - compare GitHub to other note taking methods
-- make own V&R map
 - review: https://www.essex.ac.uk/staff/working-with-information-and-data
-- (if possible) try to add the .svg file so it's centred
 - find Prensky and V&R articles and hyperlink
-- add 4th V&R map video: https://youtu.be/5EyH-JZWtoI
 
 ### by week 4
 - screencast for GitHub vs Wordpress
@@ -164,11 +161,19 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
   - notes in bcmi/sensemaking draft (find RW pdf to fine tune notes in external HDD)
 
 ### by week 7
-did I address all of these:
+- make own V&R map
+#### presentations
+- by Tom
+- by Yanxi?
+    
+#### did I address all of these:
   - how are digital technologies transforming society?
   - to what extent do digital technologies curb or enhance our rights and freedom?
   - what digital skills are needed for the knowledge economy and a democratic society?
   - how might we use digital technologies as creative and engaging forms of communication?
 <br><br>
+    
+### anytime
+- (if possible) try to add the .svg file so it's centred
 
 > Practice what you preach. (Plautus)
