@@ -133,23 +133,24 @@ https://youtu.be/1X0g2OvSdWc
 - use Brave Browser for a while to see what websites are trying to access from your (your computer)
 - do I know how Tech Giants e.g. Google and Facebook use my data?
 - what is our digital footprint?
+
 #### eduroam
 - if you use torrents to download films, the film studios e.g Warner Brothers will get in touch with the university and you will be dropped from the network (but there might be other consequences, be mindful)
 - read: https://www.essex.ac.uk/student/professional-services/its-section
-- more info on VPN asap
+<!-- add more info on VPN -->
+
 #### further resources
-- https://youtu.be/aqdm6aBUZII clarifies millennials vs gen Z
-- https://www.bbc.co.uk/bitesize/articles/zf8j92p
-- https://www.thesocialdilemma.com/ (on Netflix and currently (Oct 2021) on YouTube as well)
-- https://medium.com/@mrkrndvs/mapping-the-divide-visitors-and-residents-on-the-web-5b0c87d3b0b1
-- https://www.psychologytoday.com/us/blog/anger-in-the-age-entitlement/201404/whats-wrong-criticism
-- Digital Native (1982-94) vs Digital Immigrant Model (Mark Prensky 2001)
-- https://www.pewresearch.org/internet/2014/03/11/digital-life-in-2025/
-- https://youtu.be/Bg3a5f107Jc (Art-film by Douglas Coupland, exploring how the use of technology changes culture in the early 1990s.)
+- BBC Learn and Revise, n.d. **Millennials, baby boomers or Gen Z** Which one are you and what does it mean? Available at [BBC](https://www.bbc.co.uk/bitesize/articles/zf8j92p)
+- Anderson, J. and Rainie, L. 2014. **Digital Life in 2025.** Experts predict the Internet will become ‘like electricity’ — less visible, yet more deeply embedded in people’s lives for good and ill. Available online at [Pew Research Centre](https://www.pewresearch.org/internet/2014/03/11/digital-life-in-2025/)
+- Coupland, D., Cowan, J. and Law, G. (n.d.) **Close Personal Friend** An Art-film exploring how the use of technology changes culture in the early 1990s. Available on [YouTube](https://www.youtube.com/watch?v=Bg3a5f107Jc)
+- The Infographic Show, 2018. **Millennials vs Generation Z** How Do They Compare & What's the Difference? Available on [YouTube](https://youtu.be/aqdm6aBUZII)
+- Morse, J. 2019. **It’s a mistake to think that our online and IRL lives are separate.** There is no longer a distinction between our online and offline selves. But that can change. Available online at [Mashable](https://mashable.com/article/what-you-do-online-impacts-your-real-life?europe=true)
+- Orlowski, J. et al. 2020. **The Social Dilemma.** The documentary provides a deep dive into how social media's design nurtures an addiction, manipulates people's views, emotions and behaviour, and spreads conspiracy theories and disinformation, to maximize profit. Available on Netflix on currently (2021 Oct) on YouTube. More info on the project [website](https://www.thesocialdilemma.com/)
+- Prensky, M. 2001. **Digital Natives, Digital Immigrants.** Available at [marcprensky.com](https://www.marcprensky.com/writing/Prensky%20-%20Digital%20Natives,%20Digital%20Immigrants%20-%20Part1.pdf)
+- Prensky, M. 2001. **Digital Natives, Digital Immigrants Part II.** Do They Really Think Differently? Available at [marcprensky.com](https://www.marcprensky.com/writing/Prensky%20-%20Digital%20Natives,%20Digital%20Immigrants%20-%20Part2.pdf)
+- Stosney, S. 2014. **What's Wrong with Criticism.** How to ruin a perfectly good relationship. Available online at [Psychology Today](https://www.psychologytoday.com/us/blog/anger-in-the-age-entitlement/201404/whats-wrong-criticism)
+- White, D.S. and Corun, A. L. 2011. **Visitors and Residents: A new typology for online engagement** This article proposes a continuum of ‘Visitors’ and ‘Residents’ as a replacement for Prensky’s muchdcriticised Digital Natives and Digital Immigrants. Available online at [First Monday](https://firstmonday.org/article/view/3171/3049)
 - https://www.vpnmentor.com/research/whos-watching-you/#/?filter=thirdParty
 - https://youtu.be/fifVuhgvQQ8
 - https://monitor.firefox.com/
-- https://www.pewresearch.org/internet/2014/03/11/digital-life-in-2025/
 - https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/what-makes-asia-pacifics-generation-z-different
-- https://mashable.com/article/what-you-do-online-impacts-your-real-life?europe=true
-
