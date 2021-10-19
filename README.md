@@ -133,6 +133,8 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
  ### by week 
 
 ### by week 3
+- finalise portfolio template
+- add 4th V&R map video: https://youtu.be/5EyH-JZWtoI    
 - compare GitHub to other note taking methods
 - make own V&R map
 - review: https://www.essex.ac.uk/staff/working-with-information-and-data
