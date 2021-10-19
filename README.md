@@ -142,7 +142,6 @@ This is Krisztian's todo list:
 - add 4th V&R map video: https://youtu.be/5EyH-JZWtoI    
 - compare GitHub to other note taking methods
 - review: https://www.essex.ac.uk/staff/working-with-information-and-data
-- find Prensky and V&R articles and hyperlink
 
 ### by week 4
 - screencast for GitHub vs Wordpress
