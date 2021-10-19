@@ -8,10 +8,15 @@ Thu 11-1 pm Lab M
 ASH: Wed 1-2 pm Lab G
 
 <br>
+
     
 The information in this repository expands on the [module description](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world/blob/main/assets/doc/CS220-4-and-CS220-5-AU%20-%20Krisztian%20Hofstadter-Mod%20Des%20FINAL%20(1).pdf).
 
+## quick links
+
 The **weekly outline** of the seminars/workshops is in the [syllabus](syllabus.md).
+
+The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio) explains what you need to submit and how in detail. 
 
 <br>
 
