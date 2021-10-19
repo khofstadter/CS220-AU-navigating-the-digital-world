@@ -30,3 +30,6 @@ https://youtu.be/dGW5J3EbOUY
 ## I like the way you think
 - i.e. I think you seek positive change and your methdology (logic) is stable as well
 - my might disagree, but let's have a dialogue
+
+## sensemaking with different terminology
+https://www.youtube.com/watch?v=JiVbrj3byJY
