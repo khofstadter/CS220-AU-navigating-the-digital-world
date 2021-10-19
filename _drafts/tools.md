@@ -143,3 +143,10 @@ https://duckduckgo.com/?q=UK+Social+Media+Demographics+2020&t=brave&ia=web
 
 ## taxonomy
 - in line with BIC pen?
+
+### software choice
+- free/paid/subsription
+- does it have good tutorials
+- does it have a good community for support e.g an estabished forum
+- are there examples that I can take apart
+- are there examples of work similar to what I want to do?
