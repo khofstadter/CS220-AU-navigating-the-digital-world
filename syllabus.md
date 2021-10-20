@@ -56,7 +56,6 @@ In essence the module can help you
 ### discuss progress / clarifications
 - would you like to present your progress to your class?
 - has anyone joined the Facebook group?
-- what's your preferred way of communication? Email, Moodle?
 - do you need clarification on the `di-identity` assignment? 
 - you should only use the Zoom webinars if your [request to study remotely](https://www.essex.ac.uk/student/covid-19/remote-study) was granted
 - there is no official reading list, but there are many links and references in the files on this repository that I would encourage you to check
@@ -76,9 +75,9 @@ I will create screencasts for this software and how it can be used on the Lab PC
 
 ### homework ideas
 - start using your private and public repositories and get familiar with Markdown language
-- make sure you use a private repository for your private notes (you can refine your writing in private and than move it to a public repository when ready)
+- make sure you use a private repository for your private notes (you can refine your writing in private and than move it to a public repository when/if ready)
 - try [Brave Browser](https://brave.com/) to see what data websites are trying to crawl from you (data mining)
-- please send me the URL to your GitHub accounts
+- carry on working on your di-identity reflection (the essay)
 
 <br><br><br>
 
