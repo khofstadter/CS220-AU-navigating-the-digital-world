@@ -21,7 +21,6 @@ Familiarise yourself with [Markdown language](https://guides.github.com/features
 - is GitHub safe to use e.g regarding tracking and cookies? [https://youtu.be/vAfBW1_AZkU?t=597](https://youtu.be/vAfBW1_AZkU?t=597)
 
 ### GitHub/Markdown combo for project management A/D
-
 GitHub advantages:
 - free
 - provides version backup
