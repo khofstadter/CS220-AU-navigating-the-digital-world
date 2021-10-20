@@ -46,7 +46,7 @@ opportunities:
 - we can give feedback on each work in GitHub in different ways e.g. by raising an 'Issue' or collaborating and suggesting changes <!-- #todo make screencast -->
 -->
 
-### shortcuts
-- if you have many files, hit the letter 't' and search for the file you want to edit
+### some shortcuts in the editor
 - CTRL+b makes the hightlighted words **bold**
 - CTRL+i makes the highlighted words _italic_
+- if you have many files, hit the letter 't' and search for the file you want to edit
