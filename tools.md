@@ -2,11 +2,11 @@
 1. Sign up to GitHub
  - you will need an email address
  - your username needs to be your student number
- - use a good password
+ - use a good password (check the [pw.md](pw.md) file for ideas)
 2. Create a private repository
   - will be used for your private notes
   - name it 'notes'
-  - when creating it add the `readme.md` file
+  - when creating it initialise it with  `README.md` file
 3. Fork my 'CS220-AU-portfolio' repository
   - will be used for your digital portfolio (to submit)
   - you can turn some files in this repository into your website (or submit a website made with another CMS e.g. Wordpress)
@@ -25,7 +25,7 @@ Familiarise yourself with [Markdown language](https://guides.github.com/features
 GitHub advantages:
 - free
 - provides version backup
-- accessible on any mobil computing device that can use a browser on
+- accessible on any mobile computing device that can use a browser on
 - repositories can be synced to your computer (crossplatform)
 - you can drag and drop images to the editor (but I think it's better to upload it them to your `assets` folder to stay organised)
 - you can turn your files into a very fast website for free (can be static or more complex e.g. with Jekyll)
