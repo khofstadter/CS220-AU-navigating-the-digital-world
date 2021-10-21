@@ -139,6 +139,9 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 This is Krisztian's todo list:
 
 ### by week 4
+- week 4 recap
+- find student repost
+- sort out Facebook group issue
 - screencast on VSC
 - screencast for GitHub vs Wordpress
 - student examples for project idea
