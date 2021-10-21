@@ -141,6 +141,7 @@ This is Krisztian's todo list:
 ### by week 4
 - week 4 recap
 - find student repost
+- delete temp Git accountt
 - sort out Facebook group issue
 - screencast on VSC
 - screencast for GitHub vs Wordpress
