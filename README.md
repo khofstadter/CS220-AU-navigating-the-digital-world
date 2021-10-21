@@ -120,7 +120,7 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 <br>
 
 ## log
-- 2021-10-19 week 3 syllabus simplified e.g. no VSC in class. Minor changes. 
+- 2021-10-19 week 3 syllabus simplified e.g. no VSC in class. Minor changes e.g. references in di-identity.md beautified. 
 - 2021-10-16 GitHub sign up tested. 
 - 2021-10-15 seminars done. Absent students emailed, some other admin regarding students changes. 
 - 2021-10-12 simplified README.md and digital-identities.md. 
@@ -138,18 +138,16 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 ## TODO
 This is Krisztian's todo list:
 
-### by week 3
-- add 4th V&R map video: https://youtu.be/5EyH-JZWtoI    
-- compare GitHub to other note taking methods
-- review: https://www.essex.ac.uk/staff/working-with-information-and-data
-
 ### by week 4
+- screencast on VSC
 - screencast for GitHub vs Wordpress
 - student examples for project idea
     - can we connect Yanxi's freecycle project to the module for someone's website?
     - what projects could you pull in from your other modules?
     - brainstorm about other projects (performance in Hex?)
     - send email to Tom (SU media) when can you come to intro your work? perhaps week 7 presentations
+- add 4th V&R map video: https://youtu.be/5EyH-JZWtoI    
+- review: https://www.essex.ac.uk/staff/working-with-information-and-data
 
 ### by week 5
 - screencast for audio-video and other production tools
