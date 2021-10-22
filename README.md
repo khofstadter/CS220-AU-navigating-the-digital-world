@@ -120,6 +120,7 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 <br>
 
 ## log
+- 2021-10-22 week 3 recap video sent to students. New (expiring) Facebook Group link sent via email to students (not compulsary). 
 - 2021-10-19 week 3 syllabus simplified e.g. no VSC in class. Minor changes e.g. references in di-identity.md beautified. 
 - 2021-10-16 GitHub sign up tested. 
 - 2021-10-15 seminars done. Absent students emailed, some other admin regarding students changes. 
@@ -139,10 +140,7 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 This is Krisztian's todo list:
 
 ### by week 4
-- week 4 recap
-- find student repost
-- delete temp Git accountt
-- sort out Facebook group issue
+- delete temp Git account
 - screencast on VSC
 - screencast for GitHub vs Wordpress
 - student examples for project idea
