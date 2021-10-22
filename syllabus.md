@@ -86,10 +86,23 @@ I will create screencasts for this software and how it can be used on the Lab PC
 ### discuss progress
 - would you like to present your progress to your class?
 - do you have questions regarding your assignment?
+- if your GitHub account name is not your student number, could you please try amending it?
+- you don't need to fork the 'CS220-AU-navigating-the-digital-world' repo (it might confuse things)
+- put your notes repo in private
 
-This week I will introduce 
+### GitHub Pages vs Wordpress
 - some differences between WordPress and GitHub Pages and other website generators
+- demo of Wordpress (different versions, CMS, database, folder structures, templates, etc. )
+- turn index.md to GitHub Pages
+- amend index.md with markdown and added HTML/CSS
+
+### troubleshooting
 - ideas you should consider when troubleshooting 
+
+### website ideas
+- outline your prof. identity (khofstadter.com, find others)
+- outline a project (Sonic Art examples)
+- what can you link to your website e.g. full CV, social media accounts, LinkedIn (recommendations), organisations, etc. 
 
 ### homework ideas
 - consider whether your website could benefit from audio-visual content
