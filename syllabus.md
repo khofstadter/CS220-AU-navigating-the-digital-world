@@ -110,7 +110,7 @@ You can find a short screen cast where I introduce this software [here](https://
 <br>
 
 ### websites
-The [websites.md] outlines
+The [websites.md](websites.md) outlines
 - the reasons to have a website
 - two types of website builders: 
     1. static site generators (SSGs)
