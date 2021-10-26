@@ -30,12 +30,16 @@ I can go first:
 
 > Hello! My name is Krisztián Hofstädter, aka tEdör. I am a creative technologist working as a researcher, lecturer, freelancer, and artist. My primary interests are brain-computer music interfacing linked to meditation, electronic dance music and animal rights. I was born in Hungary and have been living in the U.K. since 2005. You can find most of my work on my personal website https://khofstadter.com/
 
+<br>
+
 ### introduction and theory
 
 - quick intro to the syllabus
 - [module introduction](README.md)
 - 10 min break? (who has a class after this?)
 - [digital identities](digital-identities.md)
+
+<br>
 
 ### is this module for you?
 
@@ -44,6 +48,8 @@ In essence, the module can help you
 - develop your engagement with the Web and your professional identity
 - understand basic web design and make a free (fast) website
 - with feedback from me and your class on your progress
+
+<br>
 
 ### homework
 
@@ -66,6 +72,8 @@ In essence, the module can help you
 - there is no official reading list, but there are many links and references in the files on this repository that I would encourage you to check
 - if you need help with your English language, please visit [this page](https://www.essex.ac.uk/departments/language-and-linguistics/english-classes-for-dependants)
 
+<br>
+
 ### GitHub
 We will
 - sign up to GitHub and create two repositories (a private and a public one)
@@ -74,8 +82,12 @@ We will
 - start adding entries/ideas to the ‘log’ and the ‘TODO’ headings in your portfolios
 Please go to [tools/github](tools.md/#GitHub) - I will walk you through the setup.
 
+<br>
+
 ### Visual Studio Code
 You can find a short screen cast where I introduce this software [here](https://youtu.be/taFSpPeHs0o). If you need any help with setup, please let me know. 
+
+<br>
 
 ### homework ideas
 - start using your private and public repositories and get familiar with Markdown language
@@ -86,6 +98,7 @@ You can find a short screen cast where I introduce this software [here](https://
 <br><br><br>
 
 ## w4 websites and troubleshooting
+
 ### discuss progress / clarifications
 - would you like to present your progress with your portfolio overview e.g. link + TODO lists?
 - do you have questions regarding your assignment?
@@ -140,8 +153,13 @@ Some examples of changes you could make:
 - why is it good to keep my information in raw text format i.e. as simple as possible?
 - what are the advantages of LinkedIn over other social platforms? Do you have a LinkedIn account yet?
 
-### troubleshooting (screencast by end of this week)
+<br>
+
+### troubleshooting
+(note screencast by end of week 4)
 - ideas you should consider when troubleshooting
+
+<br>
 
 ### homework ideas
 - consider how your website could benefit from audio-visual content
