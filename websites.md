@@ -5,6 +5,8 @@
 - it can give people a good overview of your work as well as outline your plan for the future e.g. to help seek collaborators
 - you can tailor its design to fit your content (you can redesign it when ever needed)
 - you can add website skills to your CV e.g. web design, web hosting and programming
+- you can built website for others
+- helps make decisions
 
 <br>
 
@@ -79,50 +81,44 @@ WordPress frontend WCMS:
 
 ### GitHub Pages
 - [intro](https://youtu.be/2MsN8gpT6jY)
+- [documentation](https://docs.github.com/en/pages)
 
+### Your GitHub Pages website
+- turn your 'CS220-AU-portfolio' repository into a GitHub Pages website
+- add the website's URL to the repository's side bar
+- make some changes to the `index.md` file and wait for these changes to happen (sometimes takes a bit longer - which is one disadvantages of working on a GitHub Pages website in the GitHub editor using an internet browser). Some examples of changes you could make: 
+  - replace my introduction with your introduction
+  - drop a small image file (JPG or PNG) to your repository's `assets/img` folder and embed it in your `index.md` file
+  - change some hyperlinks 
+  - embed another YouTube video
+
+<br> 
+
+
+### discuss
+- why is it good to have a website? 
+- how can it support your professional/institutional identity?
+- what can you add to your website? Some ideas: 
+    - full CV
+    - project outlines
+    - blog e.g. using audio-video or/and textual content
+    - links to social media profiles e.g LinkedIn
+        - what are the advantages of LinkedIn over other social platforms? 
+    - the organisations/institutions/clubs you are affiliated with
+    - can you think of anything else?
+- how does a website help us make decisions regarding our professional identities? 
+- what are efficient ways to use a website with social media accounts?
+- how do I decide whether a SSG or a WCMS is best for a website?
+- do I need news skills or do I have the money to pay someone to do the job for me? What are the advantages/disadvantages of these options? 
+- why is it good to keep my information in raw text format i.e. as simple as possible? 
 
 
 ## more resources
 - [free website builders](https://youtu.be/myM1H_jAyzI)
+- a [collection of nice GitHub Pages](https://github.com/collections/github-pages-examples)
+- design ideas
 
 
-
-## benefits of having a website
-- full control
-- helps us make decisions (helps progress, but can be amended later if needed)
-
-- CMS vs static
-## WordPress
-### On Wordpress.com
-- use with '.wordpress.com' extension (free)
-- use with custom domain (without '.wordpess.com' extension) (paid)
-### On your selected hosting
-- download/install (more control)
-## GitHub Pages
-- turn repository into GitHub Pages
-- nice examples https://github.com/collections/github-pages-examples
-- https://docs.github.com/en/pages
-
-
-+ CV (and LinkedIn)
-- keep it simple (formatting as well)
-  - will need to rewrite your CV for different jobs
-
-- make website future proof
-- succinct
-- use variables as much as possible (it will help change your design if needed)
-
-- correct use of headings
-
-## learn news skills vs asking someone else to do it
-- the actual website's frame
-- images/logos 
-- music/sound
-- learn, pay or perhaps use free assets
-
-### events
-#### upcoming events
-- write content that is easy to change 
 
 ## design
 from https://www.verywellmind.com/color-psychology-2795824:
