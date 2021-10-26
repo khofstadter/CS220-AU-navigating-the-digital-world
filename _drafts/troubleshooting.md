@@ -12,3 +12,7 @@
 
 # body-mind
 - https://medium.com/illumination/how-i-tricked-my-brain-to-like-doing-hard-things-313cdd919323
+
+## miscellaneous 
+- upload/download hidden files as well
+- when a browser doesn’t refresh a page, try another browser or clean cache

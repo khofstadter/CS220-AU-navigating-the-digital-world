@@ -4,3 +4,7 @@
 - if you don't know what you want, start with what you don't want e.g. by making a list
 - write content that is easy to change e.g. use raw text
 - organise data chronologically, with EU data format and by using taxonomy e.g. categories i.e. groups/themes/types and tags - you could consider them as keywords as well 
+
+## blogging and social media
+- make once, share link, image and abstract (or subtitle) everywhere else
+- traffic to point back to your website 

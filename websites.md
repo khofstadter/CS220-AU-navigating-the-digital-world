@@ -1,25 +1,42 @@
 # websites
+
 ## why build a website?
-- you own the content
-- if you use social media, mailing lists, etc. you can create and style your content on your own website and then disseminate the URL of this content everywhere e.g. social media, forums, emails, etc. 
-- it can give people a good overview of your work as well as outline your plan for the future e.g. to help seek collaborators
-- you can tailor its design to fit your content (you can redesign it when ever needed)
-- you can add website skills to your CV e.g. web design, web hosting and programming
-- you can built website for others
-- helps make decisions
+
+You
+
+- own the content
+
+- can have full control over designing it 
+
+- can disseminate a URL to a specific page in different corners of the Web e.g. on social media platforms, forums, emails, etc.
+
+- can give people an overview of your past and current work and provide an outlook e.g. to help seek collaborators
+
+- can redesign it whenever you feel it needs a new feel (you can create a different feel for each page if you want)
+
+- can add website skills to your CV e.g. web design, web hosting and programming
+
+- ,with these new skills, can build websites for others
 
 <br>
 
 ## website builders
-two main types: **SSG** and **WCMS**
-1. [static site generators](https://staticsitegenerators.net/) (SSG) e.g. [Jekyll](https://jekyllrb.com/) also used with GitHub Pages when turning your Markdown files into a website
-2. [web content management systems](https://en.wikipedia.org/wiki/Web_content_management_system) (WCMS) making dynamic sites e.g. [Wordpress](https://wordpress.org/), Wix, Squarespace and [other website builders](https://websitebuilder.org.uk/)
+
+There are two main types:
+
+1. [static site generators](https://staticsitegenerators.net/) (SSG) e.g. [Jekyll](https://jekyllrb.com/) which is used with GitHub Pages when turning Markdown files into a website
+
+2. [web content management systems](https://en.wikipedia.org/wiki/Web_content_management_system) (WCMS) e.g. [Wordpress](https://wordpress.org/), Wix, Squarespace and [other website builders](https://websitebuilder.org.uk/) with which it is easier to create more dynamic websites
 
 - SSGs are usually free while WCMSs often have a monthly subscription fee
+
 - both types have free and paid themes e.g. [here](https://jekyllthemes.io/) and [here](https://duckduckgo.com/?q=wordpress+themes&t=brave&ia=web)
-- both types can use plugins to do a specific function. [SSG plugins e.g. [Jekyll plugins](http://www.jekyll-plugins.com/) are usually free, while plugins for WCMSs can vary e.g. many of the are free, but some free versions are light versions of a full/advanced version which you will have to pay for. 
+
+- both types can use plugins to do a specific function. [SSG plugins e.g. [Jekyll plugins](http://www.jekyll-plugins.com/) are usually free, while plugins for WCMSs can vary e.g. while many of them are free, some can be expensive
+
 - there are many more plugins for WCMSs than for SSGs (because more people use WCMSs than SSGs)
-- SSGs in general need more textual programming skills while DSBs in general are more visual and therefore need less textual programming skills
+
+- SSGs, in general, need more textual programming skills while DSBs, in general, are more visual and therefore need less textual programming skills
 
 <br>
 
@@ -39,148 +56,114 @@ WordPress backend (WCMS):
 
 ![](assets/img/textual-vs-visual-programming-wordpress-backend.png)
 
-WordPress frontend WCMS:
+WordPress frontend (WCMS):
 
 ![](assets/img/textual-vs-visual-programming-wordpress-frontend.png)
 
 <br>
 
 ### some free WCMSs
+
 - https://youtu.be/myM1H_jAyzI
 
 <br>
 
 ### Wordpress.com vs WordPress.org
+
 - WordPress is an open-source WCMS available at WordPress.org
-- the website WordPress.com is owned by a hosting company called Automattic where you can setup the WordPress WCMS (not too technical)
-- you can setup this WCMS with different hosting providers as well e.g. [TSOHOST](https://www.tsohost.com/) (which can be more technical, but maybe cheaper e.g. if you own many websites)
+
+- the website WordPress.com is owned by a hosting company called Automattic, where you can set up the WordPress WCMS (not too technical)
+
+- you can set up this WCMS with different hosting providers as well e.g. [TSOHOST](https://www.tsohost.com/) (which can be more technical, but maybe more economic e.g. if you own many websites)
+
 - more info [here](https://wordpress.org/support/article/wordpress-vs-wordpress-com/)
 
 <br>
 
 ### custom domain
-- with free websites you often get a long domain name containing the name of the company you set your website up with e.g. 
+
+- with free websites, you often get a long domain name containing the name of the company you set your website up with e.g.
+
   - https://krisztian-hofstadter-tedor.github.io/CS220-AU-navigating-the-digital-world/
+
   - https://mywebsite.wordpress.com
-- if you want to have your own 'custom domain', you have to register it with a domain registrar (which costs around £10/year)
+
+- if you want to have your own ‘custom domain’, register it with a domain registrar (which costs around £10/year)
+
   - https://github.com/krisztian-hofstadter-tedor/khofstadter.com is linked to the custom domain [https://khofstadter.com/](https://khofstadter.com) which I registered with [NameCheap](https://www.namecheap.com/) - this is a GitHub Pages website using Markdown, HTML, Jekyll and some other programming languages (costs around £10/year to run)
-  - the website [https://storylabresearch.com/](https://storylabresearch.com/) is built with WordPress, is hosted by TSOHost, where its custom domain is registered as well (costs around £400/year to run - this package includes VPN server and some extra security packages)
-  - websites built with other WCMSs would also [cost above £100/year](https://www.websitebuilderexpert.com/website-builders/comparisons/) to run
+
+- I built the website [https://storylabresearch.com/](https://storylabresearch.com/) using WordPress, and are  hosing it with TSOHost, where its custom domain is registered as well (costs around £400/year to run; this cost includes a faster VPN server and an additinal extra security packages)
+
+- websites built with other WCMSs would also [cost above £100/year](https://www.websitebuilderexpert.com/website-builders/comparisons/) to run
 
 <br>
 
-### tedor.info to khofstadter.com
+### my tedor.info to khofstadter.com
+
 - [2013](https://web.archive.org/web/20130624224549/http://tedor.info/) with [Indexhibit](https://indexhibit.org/)
+
 - [2018](https://web.archive.org/web/20181130174711/http://www.tedor.info/) with WordPress
+
 - [2021](https://khofstadter.com/) with Jekyll and GithHub Pages
 
 <br>
 
 ### Brief WordPress demo
-- https://storylabresearch.com/admin
+
+- https://storylabresearch.com/admin (I need to log in)
+
+<br>
 
 ### GitHub Pages
-- [intro](https://youtu.be/2MsN8gpT6jY)
+
+- [intro video](https://youtu.be/2MsN8gpT6jY)
+
 - [documentation](https://docs.github.com/en/pages)
 
-### Your GitHub Pages website
-- turn your 'CS220-AU-portfolio' repository into a GitHub Pages website
-- add the website's URL to the repository's side bar
-- make some changes to the `index.md` file and wait for these changes to happen (sometimes takes a bit longer - which is one disadvantages of working on a GitHub Pages website in the GitHub editor using an internet browser). Some examples of changes you could make: 
-  - replace my introduction with your introduction
-  - drop a small image file (JPG or PNG) to your repository's `assets/img` folder and embed it in your `index.md` file
-  - change some hyperlinks 
-  - embed another YouTube video
+<br>
 
-<br> 
+## SSG vs WCMS
 
+- a static site generator pre-creates the webpages e.g. the Markdown files are converted into HTML files (instead of creating the page when someone visits a WordPress site)
 
-### discuss
-- why is it good to have a website? 
-- how can it support your professional/institutional identity?
-- what can you add to your website? Some ideas: 
-    - full CV
-    - project outlines
-    - blog e.g. using audio-video or/and textual content
-    - links to social media profiles e.g LinkedIn
-        - what are the advantages of LinkedIn over other social platforms? 
-    - the organisations/institutions/clubs you are affiliated with
-    - can you think of anything else?
-- how does a website help us make decisions regarding our professional identities? 
-- what are efficient ways to use a website with social media accounts?
-- how do I decide whether a SSG or a WCMS is best for a website?
-- do I need news skills or do I have the money to pay someone to do the job for me? What are the advantages/disadvantages of these options? 
-- why is it good to keep my information in raw text format i.e. as simple as possible? 
+- the data with the static site is stored in the website files with the WCMS the user data e.g. blog article, images, etc. are stored in a separate database file
 
+- a static site loads much faster as the files are pre-created (and no database is used)
+
+- the pre-creation of the webpages makes the site more secure as malicious code while loading the pages cannot be injected (or is more difficult to do)
+
+- a good comparison: https://youtu.be/_NZJW7IoGR4
+
+- main advantages of static site generator: fast, more secure
+
+- main disadvantages: you need some coding experience
+
+- you can add CMS to some static sites e.g. with [https://jamstack.org/](https://jamstack.org/) as demonstrated in [https://youtu.be/4wD00RT6d-g](https://youtu.be/4wD00RT6d-g)
+
+<br>
 
 ## more resources
+
 - [free website builders](https://youtu.be/myM1H_jAyzI)
-- a [collection of nice GitHub Pages](https://github.com/collections/github-pages-examples)
-- design ideas
 
+- a [collection](https://github.com/collections/github-pages-examples) of nice GitHub Pages
 
+- [colour psychology](https://www.verywellmind.com/color-psychology-2795824)
 
-## design
-from https://www.verywellmind.com/color-psychology-2795824:
-
-1. Other people, first and foremost. We have a natural ability to detect fakes (as well as a limited tolerance for it : https://tvtropes.org/pmwiki/pmwiki.php/Main/UncannyValley), and are naturally drawn to other real human faces feeling real emotions (as opposed to staged stock photos). It’s how we’ve evolved.
-2. Color. Yes, there is a science behind it (https://www.verywellmind.com/color-psychology-2795824)
-3. Layout. The image that seems cozy and compact to some might be seen as dark and crowded to others. Light space is better, as it allows “room to breathe.”
-4. Contributory factors like image quality and font type and size.
-
-![hi](../assets/img/color-psychology.jpg)
-
-## resources
 - https://marksheet.io/introduction.html
+
 - https://www.flatfilecmslist.com/
+
 - https://developers.google.com/web/fundamentals/
-- http://sivel.net/ (Wordpress maintenance)
+
 - https://devhints.io/jekyll
 
-## things
-- hidden files need uploading as well
-- sometimes browser doesn’t refresh (try another or clean)
+- https://ogp.me/
 
-## the importance of taxonomy
-- how to organise data
+- https://moz.com/learn/seo/what-is-seo
 
-## other
-- make our own website to have control over our data
-- OpenGraphs/SEO
-- shall I direct traffic from my social media to my own website, why?
-- archive.org to see old websites
+- https://www.leadfeeder.com/blog/google-analytics-alternatives/
 
-## todo
-- find website where you can see that it was edited e.g. the author even says this was changed because or version 2, etc. 
-- use of disqus? 
-- use of analytics?
+- https://talk.hyvor.com/blog/disqus-alternatives/
 
-## blogging and social media
-- make once, share link, image and abstract (or subtititle) everywhere else
-- traffic to point back to your website 
-
-## Website builders 
-- you might need to buy a plugin that does exactly what you want to do (perhaps comes with a theme
-- sometimes a company e.g. WPKraken will want you to pay money for a customisation
-- sometimes the WP community or the GitHub Pages/Jekyll community can help
-- you have to decide what exactly you want, how much money you want to pay for it (per year) and how much control you want to have - linked to how much of your own time you want (can) to invest in it - 
-
-## buying themes
-- some free some paid (some come with plugins)
-
-## static site generator vs CMS/dynamic sites e.g. Wordpress
-- a static site generator pre-created the webpages e.g. the markdown files are made into HTML files (instead of creating the page when someone visits a Wordpress site)
-- the data with the static site generator is stored in the website files with the CMS the user data e.g. blog article, images, etc are stored in the database
-- a static site loads much faster as the files are pre-created (and no database is used)
-- due to the pages being pre-created the site is more secure as malicious code while loading the pages can not be injected (or is more difficult to do)
-- a good comparison: https://youtu.be/_NZJW7IoGR4
-- main advantages of static site generator: fast, more secure
-- main disadvantages: you need some coding experience and 
-
-## add CMS to you static site
-- https://jamstack.org/
-- https://youtu.be/4wD00RT6d-g
 - https://www.codementor.io/
-
-
-
