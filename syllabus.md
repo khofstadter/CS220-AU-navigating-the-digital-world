@@ -88,6 +88,21 @@ I will create screencasts for this software and how it can be used on the Lab PC
 - if your GitHub account name is not your student number, [could you please amend it](https://youtu.be/5GQEf_5PSUs)?
 - you don't need to fork the 'CS220-AU-navigating-the-digital-world' repo (it might confuse things)
 - please change the settings of your 'notes' repository to private if you haven't yet
+- did anyone check my VSC video? Is anyone planning to use it? Do you need more info?
+
+### websites
+With the [websites.md] I will outline 
+- why it is a good idea to have a website
+- two main website builder types (static site generators and web content manamgement systems)
+- the difference between textual and visual programming
+- some free web content management systems
+- WordPress and shortly demonstrate its dashboard
+- what custom domains are
+- how my website has changed over the years
+- GitHub Pages
+
+### experiment with GitHub Pages
+
 
 ### troubleshooting (screencast by end of this week)
 - ideas you should consider when troubleshooting 
