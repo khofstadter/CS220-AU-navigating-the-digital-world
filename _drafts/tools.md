@@ -48,6 +48,9 @@ known issue: it does not work well when using the GitHub Repositories extension,
 - if you have to many ways to keep your notes, it might be an extra few steps to keep them organised
 
 ## Audio-visual
+
+- Creative Commons, Public Domain vs Licences (DIY vs pay for it)
+
 <!-- #todo 
 - meet Rae of Student Union discuss Creative Studios and how students could contribute to the SU website
 - fine tune what equipment students can borrow

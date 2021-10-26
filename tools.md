@@ -46,6 +46,6 @@ opportunities:
 -->
 
 ### some shortcuts in the editor
-- CTRL+b makes the hightlighted words **bold**
+- CTRL+b makes the highlighted words **bold**
 - CTRL+i makes the highlighted words _italic_
 - if you have many files, hit the letter 't' and search for the file you want to edit

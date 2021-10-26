@@ -2,3 +2,5 @@
 - follow APM
 - learn to fail, don't make it too personal i.e. distance your emotions from it perhaps by not being too attached to expected outcomes
 - if you don't know what you want, start with what you don't want e.g. by making a list
+- write content that is easy to change e.g. use raw text
+- organise data chronologically, with EU data format and by using taxonomy e.g. categories i.e. groups/themes/types and tags - you could consider them as keywords as well 

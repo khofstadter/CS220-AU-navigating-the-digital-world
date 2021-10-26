@@ -120,6 +120,7 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 <br>
 
 ## log
+- 2021-10-23 while trying to make screencasts on how to use VSC on the Lab PCs, two issues were encountered: 1. the SpellRight extension does not work; 2. the GitHub Desktop app didn't want to sycronise with the GitHub account using a browser. Being logged in with the browser first seemed promosing, but it didn't actually work either. 
 - 2021-10-22 week 3 recap video sent to students. New (expiring) Facebook Group link sent via email to students (not compulsary). 
 - 2021-10-19 week 3 syllabus simplified e.g. no VSC in class. Minor changes e.g. references in di-identity.md beautified. 
 - 2021-10-16 GitHub sign up tested. 
@@ -140,14 +141,13 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 This is Krisztian's todo list:
 
 ### by week 4
-- delete temp Git account
-- screencast on VSC
-- screencast for GitHub vs Wordpress
+- prep outline for GitHub vs Wordpress
 - student examples for project idea
     - can we connect Yanxi's freecycle project to the module for someone's website?
     - what projects could you pull in from your other modules?
     - brainstorm about other projects (performance in Hex?)
     - send email to Tom (SU media) when can you come to intro your work? perhaps week 7 presentations
+    - cleaner uni idea
 - add 4th V&R map video: https://youtu.be/5EyH-JZWtoI    
 - review: https://www.essex.ac.uk/staff/working-with-information-and-data
 

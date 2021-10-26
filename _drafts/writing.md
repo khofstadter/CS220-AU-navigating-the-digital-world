@@ -92,3 +92,6 @@ do:
     - what will you provide i.e. how are your helping e.g. new information, summary of different information (relat info to other info), give a feeling (motivation)
     - every sentence and paragraphs needs to help the flow
     - write withouth fear, this is the best you can do now, and later of course this will change, as your knowledge will grow
+
+## revision
+- https://www.autodidacts.io/revision-checklist-for-essays-and-short-stories/

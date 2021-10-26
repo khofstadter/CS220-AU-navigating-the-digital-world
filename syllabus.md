@@ -52,7 +52,6 @@ In essence the module can help you
 <br><br><br>
 
 ## w3 GitHub and Visual Code Studio
-(ready by week 3)
 ### discuss progress / clarifications
 - would you like to present your progress to your class?
 - has anyone joined the Facebook group?
@@ -83,32 +82,21 @@ I will create screencasts for this software and how it can be used on the Lab PC
 
 ## w4 websites and troubleshooting
 (ready by week 4)
-### discuss progress
-- would you like to present your progress to your class?
+### discuss progress / clarifications
+- would you like to present your progress with your portfolio overview e.g. link + TODO lists?
 - do you have questions regarding your assignment?
-- if your GitHub account name is not your student number, could you please try amending it?
+- if your GitHub account name is not your student number, [could you please amend it](https://youtu.be/5GQEf_5PSUs)?
 - you don't need to fork the 'CS220-AU-navigating-the-digital-world' repo (it might confuse things)
-- put your notes repo in private
+- please change the settings of your 'notes' repository to private if you haven't yet
 
-### GitHub Pages vs Wordpress
-- some differences between WordPress and GitHub Pages and other website generators
-- demo of Wordpress (different versions, CMS, database, folder structures, templates, etc. )
-- turn index.md to GitHub Pages
-- amend index.md with markdown and added HTML/CSS
-
-### troubleshooting
+### troubleshooting (screencast by end of this week)
 - ideas you should consider when troubleshooting 
 
-### website ideas
-- outline your prof. identity (khofstadter.com, find others)
-- outline a project (Sonic Art examples)
-- what can you link to your website e.g. full CV, social media accounts, LinkedIn (recommendations), organisations, etc. 
-
 ### homework ideas
-- consider whether your website could benefit from audio-visual content
-- experiment with turning your repository into a website using GitHub Pages
-- understand the link between Markdown and HTML language
-- progress with your assignment
+- consider how your website could benefit from audio-visual content
+- experiment with adding content to your `index.md` file
+- compare [Markdown and HTML](https://codingnconcepts.com/markdown/markdown-vs-html/)
+- progress with your `di-identity` assignment
 
 <br><br><br>
 
