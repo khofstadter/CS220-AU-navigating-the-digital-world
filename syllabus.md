@@ -86,8 +86,6 @@ You can find a short screen cast where I introduce this software [here](https://
 <br><br><br>
 
 ## w4 websites and troubleshooting
-(ready by week 4)
-
 ### discuss progress / clarifications
 - would you like to present your progress with your portfolio overview e.g. link + TODO lists?
 - do you have questions regarding your assignment?
