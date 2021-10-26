@@ -29,7 +29,7 @@ The module aims to **help develop our digital identities** by introducing
 
 <br><br><br>
 
-![V&R map plain](assets/img/vr-map-plain.svg)<center><strong>Figure 1.</strong> Plain V&R map.
+![V&R map plain](assets/img/vr-map-plain.svg)<strong>Figure 1.</strong> Plain V&R map.
 
 <br><br><br>
 
@@ -120,6 +120,7 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 <br>
 
 ## log
+- 2021-10-26 preparing website.md file and updating syllabus.  Also added some info to other drafts. 
 - 2021-10-23 while trying to make screencasts on how to use VSC on the Lab PCs, two issues were encountered: 1. the SpellRight extension does not work; 2. the GitHub Desktop app didn't want to sycronise with the GitHub account using a browser. Being logged in with the browser first seemed promosing, but it didn't actually work either. 
 - 2021-10-22 week 3 recap video sent to students. New (expiring) Facebook Group link sent via email to students (not compulsary). 
 - 2021-10-19 week 3 syllabus simplified e.g. no VSC in class. Minor changes e.g. references in di-identity.md beautified. 
@@ -141,7 +142,6 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 This is Krisztian's todo list:
 
 ### by week 4
-- prep outline for GitHub vs Wordpress
 - student examples for project idea
     - can we connect Yanxi's freecycle project to the module for someone's website?
     - what projects could you pull in from your other modules?
