@@ -43,7 +43,6 @@ opportunities:
 <!-- #todo
 - how to embed/create graphs in the markdown files in the repository e.g. in the `readme.md` file?
 - we can give feedback on each work in GitHub in different ways e.g. by raising an 'Issue' or collaborating and suggesting changes <!-- #todo make screencast -->
--->
 
 ### some shortcuts in the editor
 - CTRL+b makes the highlighted words **bold**
