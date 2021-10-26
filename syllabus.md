@@ -56,7 +56,7 @@ In essence, the module can help you
 
 <br><br><br>
 
-## w3 GitHub and Visual Code Studio
+## w3 GitHub and Visual Studio Code
 
 ### discuss progress / clarifications
 - would you like to present your progress to your class?
