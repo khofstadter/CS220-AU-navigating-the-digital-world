@@ -141,18 +141,16 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 ## TODO
 This is Krisztian's todo list:
 
-### by week 4
-- student examples for project idea
-    - can we connect Yanxi's freecycle project to the module for someone's website?
-    - what projects could you pull in from your other modules?
-    - brainstorm about other projects (performance in Hex?)
-    - send email to Tom (SU media) when can you come to intro your work? perhaps week 7 presentations
-    - cleaner uni idea
-- add 4th V&R map video: https://youtu.be/5EyH-JZWtoI    
-- review: https://www.essex.ac.uk/staff/working-with-information-and-data
-
 ### by week 5
+- email SU/Tom to present in week 7
+- email Christian, can he give a short presentation on business and webdesign
+- email Yanxi - does your project need a website?
+- email sustainability - are there projects students could participate in and perhaps blog about? 
+- can you pull in project ideas from your other modules?
+- screencast for troubleshooting; 
 - screencast for audio-video and other production tools
+    - add krproxy; 
+- 4th V&R map video: https://youtu.be/5EyH-JZWtoI  (with comments)
 
 ### by week 6
 - write an article about sensemaking, use
@@ -162,14 +160,15 @@ This is Krisztian's todo list:
 ### by week 7
 - make own V&R map
 #### presentations
-- by Tom
-- by Yanxi?
+- tom
+- chris
+- ?
     
 #### did I address all of these:
-  - how are digital technologies transforming society?
-  - to what extent do digital technologies curb or enhance our rights and freedom?
-  - what digital skills are needed for the knowledge economy and a democratic society?
-  - how might we use digital technologies as creative and engaging forms of communication?
+- how are digital technologies transforming society?
+- to what extent do digital technologies curb or enhance our rights and freedom?
+- what digital skills are needed for the knowledge economy and a democratic society?
+- how might we use digital technologies as creative and engaging forms of communication?
 <br><br>
     
 ### anytime
