@@ -100,6 +100,7 @@ You can find a short screen cast where I introduce this software [here](https://
 ## w4 websites and troubleshooting
 
 ### discuss progress / clarifications
+- welcome Francesca and Maria - did you manage to catch up with the video I sent you?
 - would you like to present your progress with your portfolio overview e.g. link + TODO lists?
 - do you have questions regarding your assignment?
 - if your GitHub account name is not your student number, [could you please amend it](https://youtu.be/5GQEf_5PSUs)?
@@ -111,10 +112,10 @@ You can find a short screen cast where I introduce this software [here](https://
 
 ### websites
 The [websites.md](websites.md) outlines
-- the reasons to have a website
+- some reasons to have a website
 - two types of website builders: 
     1. static site generators (SSGs)
-    2. web content management systems (WCMs)
+    2. web content management systems (WCMCs)
 - the difference between textual and visual programming
 - free WCMSs, with attention to WordPress
 - custom domains
@@ -124,7 +125,7 @@ The [websites.md](websites.md) outlines
 <br>
 
 ### Your GitHub Pages website
-- turn your ‘CS220-AU-portfolio’ repository into a GitHub Pages website in the repository’s Settings/Pages 
+- turn your ‘CS220-AU-portfolio’ repository into a GitHub Pages website in the repository’s `Settings/Pages` 
 - add the website’s URL to the repository’s sidebar
 - make some changes to the `index.md` file and wait for these changes to happen (sometimes takes seconds, sometimes minutes - which is one disadvantage when working on a GitHub Pages website in the GitHub editor using an internet browser). 
 
@@ -142,22 +143,22 @@ Some examples of changes you could make:
 - what can you add to your website? Some ideas:
     - full CV / parts of your CV
     - project outlines, reports
-    - blog e.g. using audio-video or/and textual content
+    - blog e.g. using audio-video or/and textual content or just text e.g. your di-identity essay
     - links to social media profiles e.g LinkedIn
     - affiliations with organisations/institutions/clubs, etc. 
     - can you think of anything else?
 - how does a website help our professional identities?
 - what are efficient ways to use a website with social media accounts?
 - how do I decide whether an SSG or a WCMS is best for a website?
-- do I need new skills or do I have the money to pay someone to do the job for me? What are the advantages/disadvantages of these options?
+- do I need new skills or do I have the money to pay someone to do the job for me? What are the advantages/disadvantages of these two options?
 - why is it good to keep my information in raw text format i.e. as simple as possible?
-- what are the advantages of LinkedIn over other social platforms? Do you have a LinkedIn account yet?
+- what are the advantages of LinkedIn over other social platforms? 
 
 <br>
 
 ### troubleshooting
-(note screencast by end of week 4)
-- ideas you should consider when troubleshooting
+(note: screencast ready by the end of week 4)
+- some simple ideas you could consider when troubleshooting i.e. solving a problem
 
 <br>
 
