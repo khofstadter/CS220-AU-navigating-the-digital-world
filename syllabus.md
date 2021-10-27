@@ -35,7 +35,7 @@ I can go first:
 ### introduction and theory
 
 - quick intro to the syllabus
-- [module introduction](README.md)
+- module introduction with the [`README.md`](README.md) file
 - 10 min break? (who has a class after this?)
 - [digital identities](digital-identities.md)
 
@@ -111,7 +111,7 @@ You can find a short screen cast where I introduce this software [here](https://
 <br>
 
 ### websites
-The [websites.md](websites.md) outlines
+The [`websites.md`](websites.md) file outlines
 - some reasons to have a website
 - two types of website builders: 
     1. static site generators (SSGs)
