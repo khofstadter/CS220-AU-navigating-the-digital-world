@@ -33,3 +33,8 @@ https://youtu.be/dGW5J3EbOUY
 
 ## sensemaking with different terminology
 https://www.youtube.com/watch?v=JiVbrj3byJY
+
+## test
+- same video, different music
+- listen to sounds of news channels (and watch shapes, colours)
+- compare same news in different channels
