@@ -115,7 +115,7 @@ The [websites.md](websites.md) outlines
 - some reasons to have a website
 - two types of website builders: 
     1. static site generators (SSGs)
-    2. web content management systems (WCMCs)
+    2. web content management systems (WCMSs)
 - the difference between textual and visual programming
 - free WCMSs, with attention to WordPress
 - custom domains
@@ -147,7 +147,6 @@ Some examples of changes you could make:
     - links to social media profiles e.g LinkedIn
     - affiliations with organisations/institutions/clubs, etc. 
     - can you think of anything else?
-- how does a website help our professional identities?
 - what are efficient ways to use a website with social media accounts?
 - how do I decide whether an SSG or a WCMS is best for a website?
 - do I need new skills or do I have the money to pay someone to do the job for me? What are the advantages/disadvantages of these two options?
