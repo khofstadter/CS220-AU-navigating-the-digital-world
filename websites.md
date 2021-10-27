@@ -8,7 +8,7 @@ You
 
 - can have full control over its functions and design
 
-- can disseminate a URL to a specific page in different corners of the Web e.g. on social media platforms, forums, emails, etc.
+- can disseminate a URL to a specific page in different corners of the Web e.g. on social media platforms, forums, emails, business cards, etc.
 
 - can give people an overview of your past and current work and provide an outlook e.g. to help seek collaborators
 
@@ -16,7 +16,7 @@ You
 
 - can add website skills to your CV e.g. web design, web hosting and programming
 
-- ,with these new skills, can build websites for others
+- ,with these new skills, can build websites for others (for money)
 
 <br>
 
@@ -32,7 +32,7 @@ There are two main types:
 
 - both types have free and paid themes e.g. [here](https://jekyllthemes.io/) and [here](https://duckduckgo.com/?q=wordpress+themes&t=brave&ia=web)
 
-- both types can use plugins to do a specific function. [SSG plugins e.g. [Jekyll plugins](http://www.jekyll-plugins.com/) are usually free, while plugins for WCMSs can vary e.g. while many of them are free, some can be expensive
+- both types can use plugins to do a specific function. SSG plugins e.g. [Jekyll plugins](http://www.jekyll-plugins.com/) are usually free, while plugins for WCMSs can vary e.g. while many of them are free, some can be expensive
 
 - there are many more plugins for WCMSs than for SSGs (because more people use WCMSs than SSGs)
 
@@ -70,11 +70,11 @@ WordPress frontend (WCMS):
 
 ### Wordpress.com vs WordPress.org
 
-- WordPress is an open-source WCMS available at WordPress.org
+- WordPress is an open-source WCMS available at [WordPress.org](WordPress.org)
 
-- the website WordPress.com is owned by a hosting company called Automattic, where you can set up the WordPress WCMS (not too technical)
+- the website [WordPress.com](wordpress.com) is owned by a hosting company called Automattic, where you can set up the WordPress WCMS (not too technical)
 
-- you can set up this WCMS with different hosting providers as well e.g. [TSOHOST](https://www.tsohost.com/) (which can be more technical, but maybe more economic e.g. if you own many websites)
+- you can set up this WCMS with different hosting providers as well e.g. [TSOHost](https://www.tsohost.com/) (which can be more technical, but maybe more economic e.g. if you own many websites). You could [compare them](https://duckduckgo.com/?q=best+hosting+providers&t=brave&ia=web). 
 
 - more info [here](https://wordpress.org/support/article/wordpress-vs-wordpress-com/)
 
@@ -90,7 +90,7 @@ WordPress frontend (WCMS):
 
 - if you want to have your own ‘custom domain’, register it with a domain registrar (which costs around £10/year)
 
-  - https://github.com/krisztian-hofstadter-tedor/khofstadter.com is linked to the custom domain [https://khofstadter.com/](https://khofstadter.com) which I registered with [NameCheap](https://www.namecheap.com/) - this is a GitHub Pages website using Markdown, HTML, Jekyll and some other programming languages (costs around £10/year to run)
+  - the https://github.com/krisztian-hofstadter-tedor/khofstadter.com repository is linked to the custom domain [https://khofstadter.com/](https://khofstadter.com) which I registered with [NameCheap](https://www.namecheap.com/). GitHub's GitHub Pages fuction turnes my Markdown, HTML and CSS files in this repository into a static website that costs around £10/year to run.
 
 - I built the website [https://storylabresearch.com/](https://storylabresearch.com/) using WordPress, and are  hosing it with TSOHost, where its custom domain is registered as well (costs around £400/year to run; this cost includes a faster VPN server and an additinal extra security packages)
 
@@ -99,6 +99,8 @@ WordPress frontend (WCMS):
 <br>
 
 ### my tedor.info to khofstadter.com
+
+Using the Wayback Machine on [archive.org](https://archive.org/):
 
 - [2013](https://web.archive.org/web/20130624224549/http://tedor.info/) with [Indexhibit](https://indexhibit.org/)
 
@@ -126,7 +128,7 @@ WordPress frontend (WCMS):
 
 - a static site generator pre-creates the webpages e.g. the Markdown files are converted into HTML files (instead of creating the page when someone visits a WordPress site)
 
-- the data with the static site is stored in the website files with the WCMS the user data e.g. blog article, images, etc. are stored in a separate database file
+- the data with the static site is stored in the website files with the WCMS the user data e.g. blog article, images, etc. are stored in a separate database file. It looks like [this](https://duckduckgo.com/?q=wordpress+data+base+file&t=brave&iax=images&ia=images).
 
 - a static site loads much faster as the files are pre-created (and no database is used)
 
@@ -138,7 +140,7 @@ WordPress frontend (WCMS):
 
 - main disadvantages: you need some coding experience
 
-- you can add CMS to some static sites e.g. with [https://jamstack.org/](https://jamstack.org/) as demonstrated in [https://youtu.be/4wD00RT6d-g](https://youtu.be/4wD00RT6d-g)
+- you can add CMS (a more visual environment i.e. a graphical user interface (GUI) to some static sites e.g. with [https://jamstack.org/](https://jamstack.org/) as demonstrated in [https://youtu.be/4wD00RT6d-g](https://youtu.be/4wD00RT6d-g)
 
 <br>
 
