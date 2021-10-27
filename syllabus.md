@@ -166,6 +166,7 @@ Some examples of changes you could make:
 - experiment with adding content to your `index.md` file
 - compare [Markdown and HTML](https://codingnconcepts.com/markdown/markdown-vs-html/)
 - progress with your `di-identity` assignment
+- set up your LinkedIn account
 
 <br><br><br>
 
@@ -173,12 +174,16 @@ Some examples of changes you could make:
 (ready by week 5)
 
 ### discuss progress
-- would you like to present your progress to your class?
+- would you like to present [your progress](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio/network/members) to the class?
 - do you have any questions regarding your assignment?
+- what are the main issues you struggle with?
 
 This week I will introduce
 - some software for audio-visual content production including creating screencasts
-- questions to consider when developing a podcast idea
+- questions to consider when developing 
+    - a podcast project
+    - a video project
+    - a blog focusing on writing articles
 - how you could book equipment in the university and where you could use advanced software/hardware for content production (TBC)
 
 ### homework
