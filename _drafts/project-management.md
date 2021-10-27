@@ -8,3 +8,6 @@
 ## blogging and social media
 - make once, share link, image and abstract (or subtitle) everywhere else
 - traffic to point back to your website 
+
+## 5-10 years plan
+- check a software that can make you older,and than use this to prepare you personal development plan
