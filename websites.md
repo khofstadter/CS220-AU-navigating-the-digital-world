@@ -6,7 +6,7 @@ You
 
 - own the content
 
-- can have full control over designing it 
+- can have full control over its functions and design
 
 - can disseminate a URL to a specific page in different corners of the Web e.g. on social media platforms, forums, emails, etc.
 
