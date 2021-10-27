@@ -80,7 +80,7 @@ We will
 - examine your new public repository, your own copy of the [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio)
 - experiment with basic Markdown syntax in the GitHub editor e.g. headings, lists, bold, italics, hyperlinks
 - start adding entries/ideas to the ‘log’ and the ‘TODO’ headings in your portfolios
-Please go to [tools/github](tools.md/#GitHub) - I will walk you through the setup.
+Please open the [github-and-markdown](github-and-markdown.md) file. I will walk you through the setup.
 
 <br>
 
