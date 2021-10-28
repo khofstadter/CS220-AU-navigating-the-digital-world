@@ -142,6 +142,7 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 This is Krisztian's todo list:
 
 ### by week 5
+- feedback on Sam's essay
 - rename file e.g. jpg
 - email SU/Tom to present in week 7
 - email Christian, can he give a short presentation on business and webdesign
