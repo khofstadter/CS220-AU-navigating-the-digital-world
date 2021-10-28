@@ -36,7 +36,7 @@ There are two main types:
 
 - there are many more plugins for WCMSs than for SSGs (because more people use WCMSs than SSGs)
 
-- SSGs, in general, need more textual programming skills while DSBs, in general, are more visual and therefore need less textual programming skills
+- SSGs, in general, need more textual programming skills while WCMSs, in general, are more visual and therefore need less textual programming skills
 
 <br>
 
