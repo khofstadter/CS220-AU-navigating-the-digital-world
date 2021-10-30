@@ -1,4 +1,4 @@
-# Password managment
+# Password management
 Some [suggestions](https://duckduckgo.com/?q=password+best+practices+2021&t=brave&ia=web), from the Net:
 
 **don't** use 
