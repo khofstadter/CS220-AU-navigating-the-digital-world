@@ -48,7 +48,6 @@ known issue: it does not work well when using the GitHub Repositories extension,
 - if you have to many ways to keep your notes, it might be an extra few steps to keep them organised
 
 ## Audio-visual
-
 - Creative Commons, Public Domain vs Licences (DIY vs pay for it)
 
 <!-- #todo 
@@ -153,3 +152,6 @@ https://duckduckgo.com/?q=UK+Social+Media+Demographics+2020&t=brave&ia=web
 - does it have a good community for support e.g an estabished forum
 - are there examples that I can take apart
 - are there examples of work similar to what I want to do?
+
+## Graphics
+- https://thegimptutorials.com/gimp-vs-inkscape/ (pixels vs vectors)

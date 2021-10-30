@@ -174,9 +174,14 @@ Some examples of changes you could make:
 (ready by week 5)
 
 ### discuss progress
+<<<<<<< Updated upstream
 - would you like to present [your progress](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio/network/members) to the class?
 - do you have any questions regarding your assignment?
 - what are the main issues you struggle with?
+=======
+- do you have any questions regarding your assignment?
+- let's check progress on GitHub
+>>>>>>> Stashed changes
 
 This week I will introduce
 - some software for audio-visual content production including creating screencasts
@@ -185,6 +190,18 @@ This week I will introduce
     - a video project
     - a blog focusing on writing articles
 - how you could book equipment in the university and where you could use advanced software/hardware for content production (TBC)
+
+As there are many options for tools available
+- this was tricky to prepare, especially because of the hybrid class teaching (audio feedback)
+- quick demo of production on my computer
+- quick demo of production on windows PC
+
+Main take aways
+- paid vs free software
+- do it all or delegate
+- less is more (e.g. simple transitions)
+- keep raw files
+- keep assets for one project together, organised (have a convention for naming and organising your files)
 
 ### homework
 - explore a variety of software for audio-video production

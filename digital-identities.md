@@ -154,3 +154,4 @@ https://youtu.be/1X0g2OvSdWc
 - https://youtu.be/fifVuhgvQQ8
 - https://monitor.firefox.com/
 - https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/what-makes-asia-pacifics-generation-z-different
+- https://www.essex.ac.uk/staff/working-with-information-and-data

@@ -9,5 +9,18 @@
 - make once, share link, image and abstract (or subtitle) everywhere else
 - traffic to point back to your website 
 
+<<<<<<< Updated upstream
 ## 5-10 years plan
 - check a software that can make you older,and than use this to prepare you personal development plan
+=======
+## working with music
+- don't listen to music with lyrics
+- fit the tempo to your work
+- if you are writing, try something minimal (fast or slow, but without many changes - make it gradually change not instantly)
+- you could watch tutorial videos and listen to the narration and listen to your music in the background with lower volume (e.g. two youtube videos open, one music, one lecture)
+
+## paid vs free
+- paid often works 'better' - more user friendly, less bugs
+- free you can often customise in more debth
+- paid has trial versions (some with watermark) - 
+>>>>>>> Stashed changes

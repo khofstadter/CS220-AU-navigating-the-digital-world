@@ -151,8 +151,18 @@ This is Krisztian's todo list:
 - can you pull in project ideas from your other modules?
 - screencast for troubleshooting; 
 - screencast for audio-video and other production tools
+<<<<<<< Updated upstream
     - add krproxy; 
 - 4th V&R map video: https://youtu.be/5EyH-JZWtoI  (with comments)
+=======
+- discuss project ideas
+  - email to Tom
+  - email to Yanxi
+  - COP26 event series documentation
+  - projects from your modules
+  - student examples for project idea (ARU and last year)
+- add 4th V&R map video: https://youtu.be/5EyH-JZWtoI    
+>>>>>>> Stashed changes
 
 ### by week 6
 - write an article about sensemaking, use
