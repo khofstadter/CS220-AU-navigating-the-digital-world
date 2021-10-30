@@ -8,7 +8,6 @@ Thu 11-1 pm Lab M
 ASH: Wed 1-2 pm Lab G
 
 <br>
-
     
 The information in this repository expands on the [module description](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world/blob/main/assets/doc/CS220-4-and-CS220-5-AU%20-%20Krisztian%20Hofstadter-Mod%20Des%20FINAL%20(1).pdf).
 
@@ -142,27 +141,15 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 This is Krisztian's todo list:
 
 ### by week 5
-- feedback on Sam's essay
-- rename file e.g. jpg
 - email SU/Tom to present in week 7
-- email Christian, can he give a short presentation on business and webdesign
+- email Christian, can he give a short presentation on business and web design
 - email Yanxi - does your project need a website?
 - email sustainability - are there projects students could participate in and perhaps blog about? 
 - can you pull in project ideas from your other modules?
 - screencast for troubleshooting; 
 - screencast for audio-video and other production tools
-<<<<<<< Updated upstream
     - add krproxy; 
 - 4th V&R map video: https://youtu.be/5EyH-JZWtoI  (with comments)
-=======
-- discuss project ideas
-  - email to Tom
-  - email to Yanxi
-  - COP26 event series documentation
-  - projects from your modules
-  - student examples for project idea (ARU and last year)
-- add 4th V&R map video: https://youtu.be/5EyH-JZWtoI    
->>>>>>> Stashed changes
 
 ### by week 6
 - write an article about sensemaking, use

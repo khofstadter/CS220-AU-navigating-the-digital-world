@@ -36,14 +36,10 @@ use
 - Essex: gooing2Uni IZgreatfunNtwenty21[+]xe
 
 ### idea 2 (four random dictionary names)
-
 correcthorsebatterystaple
 
 - Facebook: correcthorsebatterystaple[+]kf
 - Essex: correcthorsebatterystaple[+]xe
-
-
-
 
 ### Test Passwords
 - https://howsecureismypassword.net/ - review this site [here](https://duckduckgo.com/?q=howsecureismypassword+spam&t=brave&ia=web)

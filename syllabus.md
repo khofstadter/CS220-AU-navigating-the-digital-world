@@ -174,14 +174,9 @@ Some examples of changes you could make:
 (ready by week 5)
 
 ### discuss progress
-<<<<<<< Updated upstream
 - would you like to present [your progress](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio/network/members) to the class?
 - do you have any questions regarding your assignment?
 - what are the main issues you struggle with?
-=======
-- do you have any questions regarding your assignment?
-- let's check progress on GitHub
->>>>>>> Stashed changes
 
 This week I will introduce
 - some software for audio-visual content production including creating screencasts
