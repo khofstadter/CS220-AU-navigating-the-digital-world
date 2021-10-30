@@ -178,18 +178,19 @@ Some examples of changes you could make:
 - do you have any questions regarding your assignment?
 - what are the main issues you struggle with?
 
-This week I will introduce
-- some software for audio-visual content production including creating screencasts
-- questions to consider when developing 
-    - a podcast project
-    - a video project
-    - a blog focusing on writing articles
-- how you could book equipment in the university and where you could use advanced software/hardware for content production (TBC)
+This week, in class I will introduce
+- software for audio-visual content production, writing and project managment
+- questions to consider when developing content featuring
+    - written work e.g. articles
+    - photography and graphic design e.g photoreportage or logo design
+    - audio work e.g. a podcast project
+    - audio-video work e.g. screencasts or short films
 
-As there are many options for tools available
-- this was tricky to prepare, especially because of the hybrid class teaching (audio feedback)
-- quick demo of production on my computer
-- quick demo of production on windows PC
+In screencasts, I
+- demonstrate a simple workflow using the lab PCs
+- demonstrate a simple workflo using my mac
+
+Remember, better equipment can be found in the SU studios and the Media Centre. 
 
 Main take aways
 - paid vs free software
