@@ -15,7 +15,7 @@ e.g. poetry, prose and computer code. <!-- Note, computer code can generate stil
 1. make i.e. DIY
 2. take (paid or free)  
 
-The paid and free materials can have different requirments regarding
+The paid and free materials can have different requirements regarding
 - attribution e.g. regarding private/commercial use or whether you need to credit the creator or not
 - repurposing e.g. whether you can amend the source material or not
 
@@ -34,7 +34,7 @@ e.g. photography and graphics
 - https://duckduckgo.com/?q=pixel+vs+vector
 - main advantages:
   - pixels e.g. photos can provide more depth/detail
-  - vector graphics e.g. logos are easily scaleable
+  - vector graphics e.g. logos are easily scalable
 
 #### hardware/software for making
 ##### pixels
@@ -56,7 +56,7 @@ e.g. photography and graphics
 <br><br>
 
 ## 2. audio
-e.g. sound effect, music, podcast
+e.g. sound effects, music, podcasts
 
 ### types of podcasts
 1. simple interview or presentation recordings
@@ -64,7 +64,7 @@ e.g. sound effect, music, podcast
    - example:
      - https://rebelwisdom.podbean.com/
      - https://podcast.app/eckhart-tolle-essential-teachings-p687019/
-  - sometimes its the audio only version of the original video format
+  - sometimes it's the audio-only version of the original video format
 
 2. storytelling with mixed material e.g. interviews, sound design and music and narration
    - more artistic
@@ -99,7 +99,7 @@ production stages:
 
 #### types:
 
-(in essence, its the same as podcast types above)
+(in essence, it's the same as podcast types above)
 1. simple interview or presentation recordings. Example:
    - https://www.youtube.com/user/johnvervaeke/videos
 2. storytelling with mixed material e.g. interviews, sound design, music and narration. Example:
