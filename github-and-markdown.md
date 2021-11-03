@@ -48,3 +48,18 @@ opportunities:
 - CTRL+b makes the highlighted words **bold**
 - CTRL+i makes the highlighted words _italic_
 - if you have many files, hit the letter 't' and search for the file you want to edit
+
+## Visual Code Studio
+You can find a short screen cast where I introduce how VSC [here](https://youtu.be/taFSpPeHs0o) can be used with GitHub repositories.
+  
+You can edit your files in both, your GitHub account via a browser or in VSC on your computer. The main advantages of using VSC on your computer are that
+ - you can use VSC's extensions e.g. [Foam](https://foambubble.github.io/foam/) to help organise your thoughts in a more creative, systematic way (see more info about Foam below) [1]
+ - VSC's editor itself provides further clarity e.g. with colour syntax an other tools e.g. search and replace for repetitive amendments
+ - generate a table of contents from headings with the 'Markdown All in One' extension
+ - export in PDF with a customisable CSS stylesheet
+ - once you have more notes you can use Jekyll (a static website generator) to create a novel website from your thoughts, writings and assets (e.g. images, links)
+
+
+## resources
+- https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages
+- https://www.markdownguide.org/getting-started/

@@ -119,6 +119,7 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 <br>
 
 ## log
+- 2021-10-29 started preparing week 5's outlines.  This included the use of available software on lab PCs.
 - 2021-10-26 preparing website.md file and updating syllabus.  Also added some info to other drafts. 
 - 2021-10-23 while trying to make screencasts on how to use VSC on the Lab PCs, two issues were encountered: 1. the SpellRight extension does not work; 2. the GitHub Desktop app didn't want to sycronise with the GitHub account using a browser. Being logged in with the browser first seemed promosing, but it didn't actually work either. 
 - 2021-10-22 week 3 recap video sent to students. New (expiring) Facebook Group link sent via email to students (not compulsary). 
@@ -140,15 +141,7 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 ## TODO
 This is Krisztian's todo list:
 
-### by week 5
-- email SU/Tom to present in week 7
-- email Christian, can he give a short presentation on business and web design
-- email Yanxi - does your project need a website?
-- email sustainability - are there projects students could participate in and perhaps blog about? 
-- can you pull in project ideas from your other modules?
-- screencast for troubleshooting; 
-- screencast for audio-video and other production tools
-    - add krproxy; 
+### by week 
 - 4th V&R map video: https://youtu.be/5EyH-JZWtoI  (with comments)
 
 ### by week 6
@@ -158,10 +151,12 @@ This is Krisztian's todo list:
 
 ### by week 7
 - make own V&R map
+
 #### presentations
-- tom
-- chris
-- ?
+- can you pull in project ideas from your other modules?
+- Krystian Bucko from Innovation Centre Studio X
+- Tom Morgan's SU presentation
+- email from Rebecca Moss 
     
 #### did I address all of these:
 - how are digital technologies transforming society?

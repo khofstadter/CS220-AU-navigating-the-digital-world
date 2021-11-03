@@ -1,4 +1,11 @@
 # writing
+## software
+## tips
+- while writing it's OK to listen to repetitive, minimal music without lyrics
+- probably the most difficult to focus on out of all the content production modes
+
+*What software and methods do you use?*
+
 do: 
 - https://medium.com/@znck/grammarly-in-code-b62dd1a4c76e
 - https://hackernoon.com/customizing-visual-studio-code-for-writing-2e6e621e069e

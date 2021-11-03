@@ -1,6 +1,6 @@
 # syllabus
 
-w1 [welcome week](#w1-welcome-week)  
+w1 welcome week   
 w2 [module introduction and digital identities](#w2-module-introduction-and-digital-identities)  
 w3 [GitHub and Visual Studio Code](#w3-github-and-visual-studio-code)  
 w4 [websites and troubleshooting](#w4-websites-and-troubleshooting)  
@@ -171,33 +171,36 @@ Some examples of changes you could make:
 <br><br><br>
 
 ## w5 audio-visual and other productivity tools
-(ready by week 5)
-
 ### discuss progress
-- would you like to present [your progress](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio/network/members) to the class?
+- would you like to present [your progress](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio/network/members)?
 - do you have any questions regarding your assignment?
 - what are the main issues you struggle with?
+- have you considered how your website could benefit from audio-visual content?
+- did you consider setting up your [LinkedIn](https://www.linkedin.com/) accounts?
 
-This week, in class I will introduce
-- software for audio-visual content production, writing and project managment
-- questions to consider when developing content featuring
-    - written work e.g. articles
-    - photography and graphic design e.g photoreportage or logo design
-    - audio work e.g. a podcast project
-    - audio-video work e.g. screencasts or short films
+<br>
 
-In screencasts, I
-- demonstrate a simple workflow using the lab PCs
-- demonstrate a simple workflo using my mac
+### website clarification
+examples: 
+#### project website
+1. short/simple project
+   - https://khofstadter.com/sonic-art (submission examples)
+2. complex/longer project
+   - e.g. https://bcmi.khofstadter.com/
+3. portfolio website
+   - can feature multiple projects/themes
+   - e.g. https://khofstadter.com/ and https://storylabresearch.com/
 
-Remember, better equipment can be found in the SU studios and the Media Centre. 
+*Do you plan to link your website to your real name or your 'non real name' e.g. artist name, avatar?*
 
-Main take aways
-- paid vs free software
-- do it all or delegate
-- less is more (e.g. simple transitions)
-- keep raw files
-- keep assets for one project together, organised (have a convention for naming and organising your files)
+<br>
+
+## content production
+- [project-management.md](project-managment.md)
+- [audio-visual-tools.md](audio-visual-tools.md)
+- [writing.md](writing.md)
+
+<br>
 
 ### homework
 - explore a variety of software for audio-video production
