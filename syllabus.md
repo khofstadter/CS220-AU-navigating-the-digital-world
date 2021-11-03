@@ -152,7 +152,7 @@ Some examples of changes you could make:
 - _how do I decide whether an SSG or a WCMS is best for a website?_
 - _do I need new skills or do I have the money to pay someone to do the job for me? What are the advantages/disadvantages of these two options?_
 - _why is it good to keep my information in raw text format i.e. as simple as possible?_
-- _what are the advantages of LinkedIn over other social platforms? _
+- _what are the advantages of LinkedIn over other social platforms?_
 
 <br>
 
