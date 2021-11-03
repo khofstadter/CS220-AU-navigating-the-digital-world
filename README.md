@@ -141,13 +141,12 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 ## TODO
 This is Krisztian's todo list:
 
-### by week 
-- 4th V&R map video: https://youtu.be/5EyH-JZWtoI  (with comments)
-
 ### by week 6
+- add troubleshooting video to toubelshooting file
 - write an article about sensemaking, use
   - notes in this repo
   - notes in bcmi/sensemaking draft (find RW pdf to fine tune notes in external HDD)
+- 4th V&R map video: https://youtu.be/5EyH-JZWtoI  (with comments)
 
 ### by week 7
 - make own V&R map
