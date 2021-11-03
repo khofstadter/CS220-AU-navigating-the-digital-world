@@ -6,28 +6,29 @@
 ![](assets/img/apm-def.png)
 <br><br>
 
-Consider managing your assignment with APM. Here an outline of its five stages:
+Consider managing your assignment with APM. 
+
+Here an outline of its five stages:
 
 ### 1. goals stage
 - identify a problem and potential solutions
 - use initial literature review and discussions to define the problem and the potential solutions
-- in academic terms, this stage is linked to writing the research question (the problem) and the objectives (ways/methods to answer the research question, the objectives are the potential solutions)
-- this stage is based on your own idea/problem **and your research on how others have thought about the idea/problem** e.g. by using or developing a specific tool/method(ology)
+- in academic terms, this stage is linked to writing the research question (the problem) and the objectives (the objectives are ways/methods that you think can answer the research question, provide solutions)
+- this stage is based on your own idea/problem **and your research on how others have thought about the idea/problem before you** e.g. by using or developing a specific tool/method(ology)
 
-*What are your goals in the CS220 assignment e.g. what problems are you trying to solve with (1) your di-assignment essay and (2) your website?*
+*What are your goals in the CS220 assignment i.e. what problems are you trying to solve with (1) your di-reflection and (2) your website?*
 
 <br><br>
 ![](assets/img/apm.svg)
 <br><br>
 
 ### 2. design stage
-- further development of objectives (the potential solutions) with 
-  - a (somewhat) detailed breakdown on how you will use and/or develop methods/tools to answer your research question i.e. solve the problem/progress towards your goal
-    - useful tools: 
-      1. a thorough TODO list
-      2. a timeline with deadlines using a [Guntt chart](https://www.gantt.com/) e.g. https://bcmi.khofstadter.com/start-of-the-research/ 
+- further development of objectives (the potential solutions) with a (somewhat) detailed breakdown on how you will use or develop tools to answer your research question
+  - useful tools: 
+    - a thorough TODO list
+    - a timeline with deadlines using a [Guntt chart](https://www.gantt.com/) e.g. https://bcmi.khofstadter.com/start-of-the-research/ 
 
-*What tools can you use that can help design the narrative of your di-identity essay?* <!-- V&R map, my di-identity template -->
+*What tools can you use to design the narrative of your di-identity essay?* <!-- V&R map, my di-identity template -->
 
 *What tools can you use to design the layout of your website?* <!-- drawing on a simple notebook and simple markdown language -->
 
@@ -42,7 +43,7 @@ Consider managing your assignment with APM. Here an outline of its five stages:
   - producing audio e.g. a podcast series, sound design and music, interviews, etc. 
   - producing video e.g. a vlog with screencasts, short film documentaries, art films, music videos 
 
-*Do we sometimes have to readdress previous stages, the goals and the design stages?* <!-- yes, this is why it's called agile -->
+*Can we readdress previous stages, the goals and the design stages?* <!-- yes, this is why it's called agile -->
 
 *How important is it to have clear goals and a detailed design?* <!-- the clearer the better to streamline production -->
 
@@ -61,9 +62,9 @@ Consider managing your assignment with APM. Here an outline of its five stages:
 <br><br>
 
 ### 5. deployment stage
-- here we publish i.e. distribute, disseminate, share, advertise our work 
+- here we publish i.e. distribute, disseminate, share and advertise our work 
 - important to contextualise for different channels (synchronise your work with your target audience's thinking e.g. by using context specific vocabulary)
-- your portfolio website can have the full project or a brief outline with an external hyperlink
+- your portfolio website can have the full project or a brief outline with an external hyperlink e.g. as seen on https://khofstadter.com/
 
 <!--
 - no need to know everything before you start/ship
@@ -93,7 +94,7 @@ My preferred tool is a the following combo:
 ### GitHub, MarkDown and Visual Studio Code (VSC)
 The [github-and-markdown.md](github-and-markdown.md) file outlines this tool. 
 
-If you want to use the [Zettlekasten method](https://youtu.be/rOSZOCoqOo8) to organise your notes, you can use [Foam](https://foambubble.github.io/foam/) for free with GitHub, MarkDown and VSC. 
+If you want to use the [Zettlekasten method](https://youtu.be/rOSZOCoqOo8) to organise your notes, you can use a VSC extension called [Foam](https://foambubble.github.io/foam/) for free with GitHub, Markdown and VSC. 
   
 ### alternatives
 - [Trello](https://trello.com/)
