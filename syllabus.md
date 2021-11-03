@@ -65,9 +65,9 @@ In essence, the module can help you
 ## w3 GitHub and Visual Studio Code
 
 ### discuss progress / clarifications
-- would you like to present your progress to your class?
-- has anyone joined the Facebook group?
-- do you need clarification on the `di-identity` assignment?
+- _would you like to present your progress to your class?_
+- _has anyone joined the Facebook group?_
+- _do you need clarification on the `di-identity` assignment?_
 - you should only use the Zoom webinars if your [request to study remotely](https://www.essex.ac.uk/student/covid-19/remote-study) was granted
 - there is no official reading list, but there are many links and references in the files on this repository that I would encourage you to check
 - if you need help with your English language, please visit [this page](https://www.essex.ac.uk/departments/language-and-linguistics/english-classes-for-dependants)
@@ -101,12 +101,12 @@ You can find a short screen cast where I introduce this software [here](https://
 
 ### discuss progress / clarifications
 - welcome Francesca and Maria - did you manage to catch up with the video I sent you?
-- would you like to present your progress with your portfolio overview e.g. link + TODO lists?
-- do you have questions regarding your assignment?
+- _would you like to present your progress with your portfolio overview e.g. link + TODO lists?_
+- _do you have questions regarding your assignment?_
 - if your GitHub account name is not your student number, [could you please amend it](https://youtu.be/5GQEf_5PSUs)?
 - you don’t need to fork the ‘CS220-AU-navigating-the-digital-world’ repo (it might confuse things)
 - please change the settings of your ‘notes’ repository to private if you haven’t yet
-- did anyone check my [VSC](https://youtu.be/taFSpPeHs0o) video? Is anyone planning to use it? Do you need more info?
+- _did anyone check my [VSC](https://youtu.be/taFSpPeHs0o) video_? _Is anyone planning to use it? Do you need more info?_
 
 <br>
 
@@ -138,20 +138,21 @@ Some examples of changes you could make:
 <br>
 
 ### discuss
-- why is it good to have a website?
-- how can it support your professional/institutional identity?
-- what can you add to your website? Some ideas:
-    - full CV / parts of your CV
-    - project outlines, reports
-    - blog e.g. using audio-video or/and textual content or just text e.g. your di-identity essay
-    - links to social media profiles e.g LinkedIn
-    - affiliations with organisations/institutions/clubs, etc. 
-    - can you think of anything else?
-- what are efficient ways to use a website with social media accounts?
-- how do I decide whether an SSG or a WCMS is best for a website?
-- do I need new skills or do I have the money to pay someone to do the job for me? What are the advantages/disadvantages of these two options?
-- why is it good to keep my information in raw text format i.e. as simple as possible?
-- what are the advantages of LinkedIn over other social platforms? 
+- _why is it good to have a website?_
+- _how can it support your professional/institutional identity?_
+- _what can you add to your website?_ 
+    - Some ideas:
+        - full CV / parts of your CV
+        - project outlines, reports
+        - blog e.g. using audio-video or/and textual content or just text e.g. your di-identity essay
+        - links to social media profiles e.g LinkedIn
+        - affiliations with organisations/institutions/clubs, etc. 
+        - can you think of anything else?
+- _what are efficient ways to use a website with social media accounts?_
+- _how do I decide whether an SSG or a WCMS is best for a website?_
+- _do I need new skills or do I have the money to pay someone to do the job for me? What are the advantages/disadvantages of these two options?_
+- _why is it good to keep my information in raw text format i.e. as simple as possible?_
+- _what are the advantages of LinkedIn over other social platforms? _
 
 <br>
 
@@ -172,26 +173,24 @@ Some examples of changes you could make:
 
 ## w5 audio-visual and other productivity tools
 ### discuss progress
-- would you like to present [your progress](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio/network/members)?
-- do you have any questions regarding your assignment?
-- what are the main issues you struggle with?
-- have you considered how your website could benefit from audio-visual content?
-- did you consider setting up your [LinkedIn](https://www.linkedin.com/) accounts?
+- _do you have any questions about the assignment?_
+- _what are the main tasks you are working on?_
+- _have you considered how your website could benefit from audio-visual content?_
+- _did you set up a [LinkedIn](https://www.linkedin.com/) account?_
+- [your progress](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio/network/members)
 
 <br>
 
-### website clarification
-examples: 
-#### project website
-1. short/simple project
-   - https://khofstadter.com/sonic-art (submission examples)
-2. complex/longer project
+### website clarification with examples
+1. short/simple project website
+   - https://khofstadter.com/sonic-art (find submission examples)
+2. complex/longer project website
    - e.g. https://bcmi.khofstadter.com/
 3. portfolio website
    - can feature multiple projects/themes
    - e.g. https://khofstadter.com/ and https://storylabresearch.com/
 
-*Do you plan to link your website to your real name or your 'non real name' e.g. artist name, avatar?*
+*Do you plan to link your website to your real name or your 'non-real name' e.g. artist name, avatar?*
 
 <br>
 
@@ -211,8 +210,8 @@ examples:
 (ready by week 6)
 
 ### discuss progress
-- would you like to present your progress to your class?
-- do you have any questions regarding your assignment?
+- _would you like to present your progress to your class?_
+- _do you have any questions regarding your assignment?_
 
 This week I will introduce
 
