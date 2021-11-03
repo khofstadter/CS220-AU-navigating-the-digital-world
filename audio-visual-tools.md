@@ -3,22 +3,27 @@
 ### 1. still image 
 e.g. photography and graphics
 ### 2. audio 
-e.g. sound effect, music, podcast
+e.g. sound effects, music, podcasts
 ### 3. moving image 
-e.g. short film, screencast, interview
+e.g. short films, screencasts, interviews
 ### 4. text 
 e.g. poetry, prose and computer code. <!-- Note, computer code can generate still and moving images as well as audio or even poetry.-->
 
+<br>
+
 ## source material for content
 1. make i.e. DIY
-2. take (paid or free)
-They differ in 
-- attribution requirements
-- how much you can alter the source material
-### check
+2. take (paid or free)  
+
+The paid and free materials can have different requirments regarding
+- attribution e.g. regarding private/commercial use or whether you need to credit the creator or not
+- repurposing e.g. whether you can amend the source material or not
+
+### more info
 - https://creativecommons.org/
 - http://www.differencebetween.net/business/difference-between-creative-commons-and-public-domain/
 
+<br><br>
 
 ## content types in more detail
 
@@ -35,8 +40,8 @@ e.g. photography and graphics
 ##### pixels
 > "The best camera is the one you have." 
 - [is it?](https://www.lightstalking.com/best-camera-one-with-you/)
-- consider light composition first (more tips [here](https://www.lightstalking.com/best-camera-one-with-you/))
-- if you can, shoot in RAW format to allow room for editing if needed
+- consider light and composition first (more tips [here](https://www.lightstalking.com/best-camera-one-with-you/))
+- if you can, shoot in RAW format to allow room for editing
 - try a few software, consider pricing and features. Search for 
   - 'Photoshop vs Gimp'
   - 'Photoshop alternatives'
@@ -46,7 +51,7 @@ e.g. photography and graphics
 - https://www.vecteezy.com/free-vector/vector
 - more? Search for 'free photography', 'free images' or 'free vector images', 'photo stock library' etc.
 - you can also ask people on Flickr, Behance whether you could use their images
-- remember to check the required attributions
+- remember to check the required attributions and how you can use (repurpose) the image
 
 <br><br>
 
@@ -64,9 +69,9 @@ e.g. sound effect, music, podcast
 2. storytelling with mixed material e.g. interviews, sound design and music and narration
    - more artistic
    - examples:
-    - [Trickster The Many Lives of Carlos Castaneda](https://tricksterpodcast.com/)
-    - [Good In Theory](https://goodintheorypod.com/)
-    - [Song Exploder](https://songexploder.net/)
+      - [Trickster The Many Lives of Carlos Castaneda](https://tricksterpodcast.com/)
+      - [Good In Theory](https://goodintheorypod.com/)
+      - [Song Exploder](https://songexploder.net/)
 
 ### microphones
 - for quality recordings, use a condenser mic ([not a dynamic mic](https://duckduckgo.com/?q=condenser+vs+dynamic+mic))
@@ -91,11 +96,13 @@ production stages:
 <br><br>
 
 ### 3. moving image
-#### types of moving image
-(same as podcast types above)
+
+#### types:
+
+(in essence, its the same as podcast types above)
 1. simple interview or presentation recordings. Example:
    - https://www.youtube.com/user/johnvervaeke/videos
-2. storytelling with mixed material e.g. interviews, sound design and music and narration. Example:
+2. storytelling with mixed material e.g. interviews, sound design, music and narration. Example:
     - https://www.youtube.com/c/theschooloflifetv/videos
 4. screencast e.g. demonstrating the use of a specific software. Example: 
     - https://www.youtube.com/c/theschooloflifetv/videos
@@ -148,4 +155,5 @@ examples:
 - do it all or delegate
 - less is more (e.g. simple transitions in video editing)
 - record raw files and archive them for later
-- keep assets for one project together, organised (have a convention for naming and organising your files)
+- keep assets for one project together
+- have a convention for naming and organising your files
