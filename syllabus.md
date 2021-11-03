@@ -157,8 +157,7 @@ Some examples of changes you could make:
 <br>
 
 ### troubleshooting
-(note: screencast ready by the end of week 4)
-- some simple ideas you could consider when troubleshooting i.e. solving a problem
+- [troubleshooting.md](troubleshooting.md)
 
 <br>
 
