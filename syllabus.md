@@ -194,7 +194,7 @@ Some examples of changes you could make:
 <br>
 
 ## content production
-- [project-management.md](project-managment.md)
+- [project-management.md](project-management.md)
 - [audio-visual-tools.md](audio-visual-tools.md)
 
 <br>
