@@ -198,7 +198,6 @@ examples:
 ## content production
 - [project-management.md](project-managment.md)
 - [audio-visual-tools.md](audio-visual-tools.md)
-- [writing.md](writing.md)
 
 <br>
 
