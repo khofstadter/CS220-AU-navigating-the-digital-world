@@ -184,10 +184,10 @@ Some examples of changes you could make:
 1. short/simple project website
    - https://khofstadter.com/sonic-art (find submission examples)
 2. complex/longer project website
-   - e.g. https://bcmi.khofstadter.com/
+   - https://bcmi.khofstadter.com/
 3. portfolio website
    - can feature multiple projects/themes
-   - e.g. https://khofstadter.com/ and https://storylabresearch.com/
+   - https://khofstadter.com/ and https://storylabresearch.com/
 
 *Do you plan to link your website to your real name or your 'non-real name' e.g. artist name, avatar?*
 
