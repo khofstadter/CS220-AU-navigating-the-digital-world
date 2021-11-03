@@ -117,8 +117,8 @@ production stages:
 ##### screencast makers
 - can be used for demonstrations, even to give feedback on someone's work
 examples:
-- [Screencast-O-Matic]
-(https://screencast-o-matic.com/) 
+
+- [Screencast-O-Matic](https://screencast-o-matic.com/) 
   - [tutorial](https://www.youtube.com/watch?v=LAg4_eFITNc)
   - can't edit with the free version nor record computer audio but offers screen+webcam even without making an account
   - limited to 15 minutes
