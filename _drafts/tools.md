@@ -9,7 +9,6 @@ VSC extension to colourise: https://marketplace.visualstudio.com/items?itemName=
 - does Google keep my search history? Is this OK with me?
 
 ### Online Learning
-
 ## Statistics
 https://www.statista.com/
 https://duckduckgo.com/?q=UK+Social+Media+Demographics+2020&t=brave&ia=web
@@ -66,7 +65,6 @@ https://duckduckgo.com/?q=UK+Social+Media+Demographics+2020&t=brave&ia=web
 
 ## Graphics
 - https://thegimptutorials.com/gimp-vs-inkscape/ (pixels vs vectors)
-
 
 ## paid vs free
 - paid often works 'better' - more user friendly, less bugs

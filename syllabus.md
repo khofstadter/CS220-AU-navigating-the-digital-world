@@ -4,7 +4,7 @@ w1 welcome week
 w2 [module introduction and digital identities](#w2-module-introduction-and-digital-identities)  
 w3 [GitHub and Visual Studio Code](#w3-github-and-visual-studio-code)  
 w4 [websites and troubleshooting](#w4-websites-and-troubleshooting)  
-w5 [audio-visual and other productivity tools](#w5-audio-visual-and-other-productivity-tools)  
+w5 [project management](#w5-project-management)  
 w6 [sensemaking](#w6-sensemaking)  
 w7 [presentations](#w7-presentations)  
 w8 [reading week](#w8-reading-week)  
@@ -170,7 +170,7 @@ Some examples of changes you could make:
 
 <br><br><br>
 
-## w5 audio-visual and other productivity tools
+## w5 project management
 ### discuss progress
 - _do you have any questions about the assignment?_
 - _what are the main tasks you are working on?_
@@ -193,9 +193,8 @@ Some examples of changes you could make:
 
 <br>
 
-## content production
+### project management
 - [project-management.md](project-management.md)
-- [audio-visual-tools.md](audio-visual-tools.md)
 
 <br>
 
@@ -205,21 +204,18 @@ Some examples of changes you could make:
 
 <br><br><br>
 
-## w6 sensemaking
+## w6 audio-visual tools
 (ready by week 6)
 
 ### discuss progress
-- _did you partner up with someone to do your peer-assessment with?_
-- _would you like to present your progress to your class?_
+- _do you have a partner for the peer-assessment?_
 - _do you have any questions regarding your assignment?_
+- [your progress](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio/network/members)
 
-This week I will introduce
+<br>
 
-- ideas to consider regarding making sense of the world i.e. sensemaking including secular meditation techniques with a focus on auditory entrainment
-
-### homework
-- explore how objective your sensemaking is
-- progress with your assignment
+### audio-visual tools
+- [audio-visual-tools.md](audio-visual-tools.md)
 
 <br><br><br>
 

@@ -1,23 +1,49 @@
 # content production tools
-## content types
-### 1. still image 
-e.g. photography and graphics
-### 2. audio 
-e.g. sound effects, music, podcasts
-### 3. moving image 
-e.g. short films, screencasts, interviews
-### 4. text 
-e.g. poetry, prose and computer code. <!-- Note, computer code can generate still and moving images as well as audio or even poetry.-->
+## source materials
+
+![source-materials](assets/img/oxana-melis-EvtlbRUm66A-unsplash.jpg) photo by <a href="https://unsplash.com/@oksdesign?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Oxana Melis</a> on <a href="https://unsplash.com/@oksdesign?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 <br>
 
-## source material for content
+When creating content for your website, you could consider using the following materials: 
+
+
+1. still image e.g. 
+   - [photography](https://unsplash.com/)
+   - [computer graphics](https://www.freepik.com/vectors/graphics)
+2. audio e.g. 
+   - [sound recordings](https://freesound.org/)
+   - [sound effects](https://mixkit.co/free-sound-effects/)
+   - [music](https://www.silvermansound.com/free-music)
+3. moving image e.g. 
+   - [films](https://www.pexels.com/search/videos/construction/) (movies) made with video camera
+   - [computer generated animations](https://www.videvo.net/free-motion-graphics/)
+4. text e.g. 
+   - [poetry](https://ttc.tasuki.org/)
+   - [prose](https://loremipsum.io/generator/)
+   - computer code e.g. 
+
+```
+if ( students.happiness == true ) {
+    kris = kris.happy
+}
+else {
+    kris = kris.unhappy
+}
+```
+
+<br><br>
+
+## make it or take it
 1. make i.e. DIY
 2. take (paid or free)  
 
 The paid and free materials can have different requirements regarding
 - attribution e.g. regarding private/commercial use or whether you need to credit the creator or not
 - repurposing e.g. whether you can amend the source material or not
+
+Examples: 
+- 
 
 ### more info
 - https://creativecommons.org/
@@ -27,8 +53,17 @@ The paid and free materials can have different requirements regarding
 
 ## content types in more detail
 
-### 1. still image 
-e.g. photography and graphics
+### 1. still image
+source material
+  - photography
+  - computer graphics
+
+
+![photo](assets/img/alif-ngoylung-jg-6ARMiaPM-unsplash.jpg)
+
+<br>
+
+![graphics](assets/img/birger-strahl-MKnjJDUvy2Y-unsplash.jpg)
 
 #### pixels vs vectors
 - https://duckduckgo.com/?q=pixel+vs+vector
@@ -56,7 +91,10 @@ e.g. photography and graphics
 <br><br>
 
 ## 2. audio
-e.g. sound effects, music, podcasts
+source mate
+- sound recordings
+- sound effects
+- music
 
 ### types of podcasts
 1. simple interview or presentation recordings
@@ -96,10 +134,13 @@ production stages:
 <br><br>
 
 ### 3. moving image
+source material:
+- films (movies)
+- computer generated animations
 
-#### types:
+###  
 
-(in essence, it's the same as podcast types above)
+### document type
 1. simple interview or presentation recordings. Example:
    - https://www.youtube.com/user/johnvervaeke/videos
 2. storytelling with mixed material e.g. interviews, sound design, music and narration. Example:
