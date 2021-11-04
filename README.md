@@ -119,6 +119,8 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 <br>
 
 ## log
+- 2021-11-04 thinking about how to move audio-visual tools to week 6 and perhaps not do the sensemaking class - but maybe that is very useful. 
+- 2021-11-03 finalised week week 5's outlines e.g. syllabus, project managment and audio-visual tools. 
 - 2021-10-29 started preparing week 5's outlines.  This included the use of available software on lab PCs.
 - 2021-10-26 preparing website.md file and updating syllabus.  Also added some info to other drafts. 
 - 2021-10-23 while trying to make screencasts on how to use VSC on the Lab PCs, two issues were encountered: 1. the SpellRight extension does not work; 2. the GitHub Desktop app didn't want to sycronise with the GitHub account using a browser. Being logged in with the browser first seemed promosing, but it didn't actually work either. 
@@ -142,6 +144,7 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 This is Krisztian's todo list:
 
 ### by week 6
+- move audio-video tools here (edit: add some visual representations)
 - add troubleshooting video to toubelshooting file
 - write an article about sensemaking, use
   - notes in this repo
