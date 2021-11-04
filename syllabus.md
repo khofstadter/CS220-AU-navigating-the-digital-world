@@ -209,6 +209,7 @@ Some examples of changes you could make:
 (ready by week 6)
 
 ### discuss progress
+- _did you partner up with someone to do your peer-assessment with?_
 - _would you like to present your progress to your class?_
 - _do you have any questions regarding your assignment?_
 
