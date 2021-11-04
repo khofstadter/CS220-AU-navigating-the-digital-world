@@ -1,31 +1,3 @@
-
-### Video editing
-#### Da-Vinci
-#### Premier 
-- need to ask for key from Media Services
-#### iMovie and Final Cut Pro
-- mac only (iMovie is free and easy to use)
-
-<!-- some examples of my screencasts on youtube might be good to demonstrate, some unlisted for clients as well -->
-
-### Audio-music making/editing
-#### Reaper
-#### Audacity
-#### Faders
-#### Logic
-#### Max, SuperCollider
-#### Isotope RX
-TODO: install on mac
-
-### Hardware
-- audio cable adapters
-- portable mics e.g. Zoom H1
-- headphones 
-
-## Thoughts
-- free vs paid
-- start with good assets (hi-def)
-
 ## Web
 ### CSS
 VSC extension to colourise: https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize
