@@ -5,7 +5,7 @@ w2 [module introduction and digital identities](#w2-module-introduction-and-digi
 w3 [GitHub and Visual Studio Code](#w3-github-and-visual-studio-code)  
 w4 [websites and troubleshooting](#w4-websites-and-troubleshooting)  
 w5 [project management](#w5-project-management)  
-w6 [sensemaking](#w6-sensemaking)  
+w6 [content production](#w6-content-production)  
 w7 [presentations](#w7-presentations)  
 w8 [reading week](#w8-reading-week)  
 w9-10-11 [workshops](#w9-10-11-workshops)  
@@ -204,22 +204,50 @@ Some examples of changes you could make:
 
 <br><br><br>
 
-## w6 audio-visual tools
+## w6 content production
 (ready by week 6)
 
 ### discuss progress
-- _do you have a partner for the peer-assessment?_
+- _do you have a partner for peer-assessment?_
 - _do you have any questions regarding your assignment?_
 - [your progress](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio/network/members)
+- presentations next week (see below)
 
 <br>
 
-### audio-visual tools
-- [audio-visual-tools.md](audio-visual-tools.md)
+### project in need of a website
+#### Freestore Project
+> Freestore is your one-stop shop that allows you to drop off stuff you don’t want anymore and pick up things you do want for FREE.
+The project needs a website that
+- record the progress of the project
+- promotes the project
+- interacts with students e.g. with request/donate feature
+- perhaps embeds a Twitter Feed or Facebook Group with a hashtag e.g. #EssexFreestore for people to tweet pictures parting with their pre-loved things, great finds...
+- next meeting at end of Nov, date TBC
+
+<br>
+
+### content production tools
+- last week we discussed 
+  - [types of websites](websites.md)
+  - methods for [project management](project-management.md)
+- this week we discuss ideas on
+  - [content-production](content-production.md)
+for your website
+
+<br>
+
+### homework
+- please find a partner for your peer-assessment
+- carry on working on your assignments
+- send me questions if you have any
 
 <br><br><br>
 
 ## w7 presentations
+1. Eszter Bányai / Communications Office
+2. Krystian Bucko / Studio X
+3. Tom Morgan / Student Union REBEL
 
 <br>
 

@@ -3,6 +3,8 @@
 - find the CMT 'ask nice questions file'
 -->
 
+A quick video introducing the ideas in this document is [here](https://youtu.be/sgFp3OH0h0s).
+
 Where, when and how to ask for help e.g. in person, in an email or on an online forum?
 
 1. try your best with the information provided in the help files/FAQ

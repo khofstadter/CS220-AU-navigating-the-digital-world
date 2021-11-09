@@ -102,3 +102,10 @@ do:
 
 ## revision
 - https://www.autodidacts.io/revision-checklist-for-essays-and-short-stories/
+
+
+## resources
+- https://link.medium.com/lUMBJsiINkb
+- https://link.medium.com/S2J8BKrUMkb
+- https://link.medium.com/JdduXcPTMkb
+- 

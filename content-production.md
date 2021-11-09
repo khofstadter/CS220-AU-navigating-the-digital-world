@@ -1,23 +1,63 @@
-# content production tools
-## source materials
+# content production 
+Content producers can be in charge of all stages of the [APM](project-management.md):
+1. defining the goals
+2. designing a suitable workflow 
+3. developing the content e.g. by creating a podcast, designing a logo, writing text, finding or taking photographs, etc.  
+4. asking for feedback from professionals on the drafts (works in progress)
+5. publishing and disseminating the finished content (don't forget to contextualise)
+
+<br>
+
+## 1. content types
+On a website you can publish content focusing on
+- still images e.g. a [photo-reportage](https://bcmi.khofstadter.com/firstsite-clip-sound-demo/) 
+- audio e.g. a [podcasts](https://songexploder.net/) or [music](https://khofstadter.com/secret-place-and-remixes/)
+- video e.g. a [short film](http://www.simonrpayne.co.uk/pages/videos/may.php)
+- text e.g. an [article](https://consilienceproject.org/education-crisis/) or [programming code](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+Your content (e.g. a web page) could [mix up](https://khofstadter.com/secret-place-hci/) these modalities in different ratios - whatever you think best suits your 'storytelling'.
+
+>A picture is worth a thousand words.
+
+> The sound and music are 50% of the entertainment in a movie. ~G. Lucas
+
+> There are things in the book you could never do in a movie. ~ Noah Hathaway
+
+<br><br>
+
+## 2. materials
 
 ![source-materials](assets/img/oxana-melis-EvtlbRUm66A-unsplash.jpg) photo by <a href="https://unsplash.com/@oksdesign?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Oxana Melis</a> on <a href="https://unsplash.com/@oksdesign?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 <br>
 
-When creating content for your website, you could consider using the following materials: 
+When creating content for your website, you could consider the following materials
 
-
-1. still image e.g. 
+1. still images e.g. 
    - [photography](https://unsplash.com/)
    - [computer graphics](https://www.freepik.com/vectors/graphics)
+   - diagrams
+   - could be used e.g. for making 
+     - logos and [favicons](https://favicon.io/)
+     - feature/header images on the top of a page
+     - figures to embed between text
+     - in a videos
+
 2. audio e.g. 
    - [sound recordings](https://freesound.org/)
    - [sound effects](https://mixkit.co/free-sound-effects/)
    - [music](https://www.silvermansound.com/free-music)
-3. moving image e.g. 
+   - could be used e.g. 
+     - podcasts
+     - videos
+     - web design with sound e.g. [rwatgg](https://rwatgg.com/) more [here](https://line25.com/inspiration/websites-background-music-sounds)
+
+3. moving images e.g. 
    - [films](https://www.pexels.com/search/videos/construction/) (movies) made with video camera
    - [computer generated animations](https://www.videvo.net/free-motion-graphics/)
+    - dynamic content e.g. [made with computer code](https://cs.nyu.edu/~kapp/cs101/processing_on_the_web/)
+
+
 4. text e.g. 
    - [poetry](https://ttc.tasuki.org/)
    - [prose](https://loremipsum.io/generator/)
@@ -32,44 +72,70 @@ else {
 }
 ```
 
-<br><br>
+<br><br><br>
 
-## make it or take it
-1. make i.e. DIY
-2. take (paid or free)  
+![take-buy-make](assets/img/take-buy-make.png) photos by <a href="https://unsplash.com/@nate_dumlao?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nathan Dumlao</a> and <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kelly Sikkema</a> on <a href="https://unsplash.com/s/photos/buying?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a><br>
 
-The paid and free materials can have different requirements regarding
-- attribution e.g. regarding private/commercial use or whether you need to credit the creator or not
-- repurposing e.g. whether you can amend the source material or not
+## take it or make it
+Where to get these source materials from?
 
-Examples: 
-- 
-
-### more info
-- https://creativecommons.org/
-- http://www.differencebetween.net/business/difference-between-creative-commons-and-public-domain/
-
-<br><br>
-
-## content types in more detail
-
-### 1. still image
-source material
-  - photography
-  - computer graphics
-
-
-![photo](assets/img/alif-ngoylung-jg-6ARMiaPM-unsplash.jpg)
+1. take it (free or paid)
+2. make it i.e. DIY  
 
 <br>
 
-![graphics](assets/img/birger-strahl-MKnjJDUvy2Y-unsplash.jpg)
+### 1. take it
+Free and paid materials can have different requirements regarding
+- attribution e.g. regarding private/commercial use or whether you need to credit the creator or not
+- repurposing e.g. whether you can amend the source material or not
+- stock libraries can list 
+  - free and paid materials e.g. [Unsplash](https://unsplash.com/images)
+  - only paid materials e.g. [Envato](https://studio.envato.com/)
+  - only free materials e.g. [Freesound Project](https://freesound.org/)
 
-#### pixels vs vectors
+<br>
+
+Examples of free images can be used: 
+- the images above on this file were all taken for free from Unsplash (and although it wasn't required, I gave credit to the photographers)
+   - the first image is used in its original form
+   - the second image is a collage of three photos (modification allowed by [Unplash license](https://unsplash.com/license))
+
+more info on using free materials:
+- https://creativecommons.org/
+- http://www.differencebetween.net/business/difference-between-creative-commons-and-public-domain/
+
+<br>
+
+### 2. make it
+To make your own material you can 
+1. repurpose/reuse/amend free materials (check licence) e.g. [poster](https://khofstadter.com/c/) e.g. [swimming music](https://khofstadter.com/swimming/)
+2. start from scratch e.g.artwork and sound synthesis of [flow](https://khofstadter.com/flow-in-metamorphosis/)
+
+<br><br>
+
+## materials and content in more detail
+
+### 1. still image
+source material
+  - computer graphics
+  - photography
+
+
+<br>![graphics](assets/img/birger-strahl-MKnjJDUvy2Y-unsplash.jpg)<br>
+
+<br>![photo](assets/img/alif-ngoylung-jg-6ARMiaPM-unsplash.jpg)
+
+<br>
+
+#### vectors vs pixels
+
+<br>![pixels vs vectors](https://zwartopwit.s3.amazonaws.com/playground/images/tips/vectorpixel.png)<br>
 - https://duckduckgo.com/?q=pixel+vs+vector
 - main advantages:
   - pixels e.g. photos can provide more depth/detail
   - vector graphics e.g. logos are easily scalable
+
+<br>
 
 #### hardware/software for making
 ##### pixels
@@ -91,7 +157,7 @@ source material
 <br><br>
 
 ## 2. audio
-source mate
+source materials
 - sound recordings
 - sound effects
 - music
@@ -174,6 +240,7 @@ examples:
 - Window Movie Maker
 - Adobe Premier
 - iMovie and Final Cut Studio
+- Da Vinci (https://uk.pcmag.com/video-editing/134729/davinci-resolve)
 
 #### thoughts
 - record in high definition

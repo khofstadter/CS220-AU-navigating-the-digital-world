@@ -144,15 +144,13 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 This is Krisztian's todo list:
 
 ### by week 6
-- move audio-video tools here (edit: add some visual representations)
-- add troubleshooting video to toubelshooting file
-- write an article about sensemaking, use
-  - notes in this repo
-  - notes in bcmi/sensemaking draft (find RW pdf to fine tune notes in external HDD)
-- 4th V&R map video: https://youtu.be/5EyH-JZWtoI  (with comments)
+- finish seminar notes on content production
 
-### by week 7
-- make own V&R map
+#### add resources
+- 4th V&R map video: https://youtu.be/5EyH-JZWtoI  (with comments)
+#### sensemaking 
+  - notes in bcmi/sensemaking draft (find RW pdf to fine tune notes in external HDD)
+  - this could be for Medium linking CS220 AU to BCMI
 
 #### presentations
 - can you pull in project ideas from your other modules?

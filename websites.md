@@ -11,6 +11,24 @@ You
 
 <br>
 
+### types of websites
+1. project website  
+   - 1.1 short/simple project website e.g. 
+  https://khofstadter.com/sonic-art  
+  https://endaksi1.github.io/sonicart/
+
+   - 1.2 complex/longer project website e.g  
+  https://bcmi.khofstadter.com/
+
+  <br>
+  
+2. portfolio website
+   - can feature multiple projects/themes
+   - a bit like a CV e.g.  
+  https://khofstadter.com/ and https://storylabresearch.com/
+
+<br>
+
 ## website builders
 There are two main types:
 1. [static site generators](https://staticsitegenerators.net/) (SSG) e.g. [Jekyll](https://jekyllrb.com/) which is used with GitHub Pages when turning Markdown files into a website
@@ -113,3 +131,4 @@ Using the Wayback Machine on [archive.org](https://archive.org/):
 - https://www.leadfeeder.com/blog/google-analytics-alternatives/
 - https://talk.hyvor.com/blog/disqus-alternatives/
 - https://www.codementor.io/
+- https://www.vandelaydesign.com/beautiful-minimalist-websites/
