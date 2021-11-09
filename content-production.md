@@ -1,3 +1,10 @@
+<!--
+- add outline for the page (TOC)
+- add more feature images for sections towards the end
+- add more info to writing (or refer to the draft)
+- check grammar
+-->
+
 # content production 
 Content producers can be in charge of all stages of the [APM](project-management.md):
 1. defining the goals
@@ -163,19 +170,19 @@ To make your own material you can
 
 <br><br>
 
-## 2. audio
-### materials
+### 2. audio
+materials:
 - sound recordings
 - sound effects
 - music
 
-### content
+content:
 - podcasts
 - music
 
 <br>
 
-### types of podcasts
+#### types of podcasts
 1. interview or presentation recordings
    - attention is paid on people talking
    - organic narrative
@@ -194,25 +201,26 @@ To make your own material you can
 
 <br>
 
-### microphones/speakers/headphones
+#### microphones/speakers/headphones
 - for quality recordings, use a condenser mic ([not a dynamic mic](https://duckduckgo.com/?q=condenser+vs+dynamic+mic))
 - isolate noises when recording as much as possible (unless they are part of your soundscape e.g. your storytelling)
 - record in high sample rate 
 - use quality headphones/speaker (called monitors) when editing audio
 
-### software
+#### software
 production stages:
-  1. recording/sound design/composition
+  1. recording/sound design/music composition
   2. editing
   3. mixing
   4. mastering
 - big productions have different people for each of these stages, but can be done by one person as well
 - stages can be done in one software e.g. Digital Audio Workstation e.g. like [Reaper](https://www.reaper.fm/), [Pro Tools](https://www.avid.com/pro-tools), [Logic Pro](https://apps.apple.com/gb/app/logic-pro/id634148309?mt=12)
 - however, sometimes specific software/hardware is used for specific stages e.g. recording can be done with [portable recorders on SSD cards](https://www.zoom.co.jp/products/handy-recorder/h1-handy-recorder) or straight on the computer's HDD. Another examples is that mastering can be done with the software used for editing/mixing but often the final mix is sent to a mastering engineer using special hardware to make the audio more dynamic or compressed (more in the music and film industry).
+- consider panning (mono vs stereo)
 
 <br>
 
-#### sources for taking
+#### sources for taking audio
   - https://freesound.org/
   - more? search for 'audio stock libraries', 'free audio samples', 'free music', 'public domain music', etc. 
 
@@ -222,60 +230,74 @@ production stages:
 
 <br><br>
 
-### 3. moving images
+## 3. moving images
 source material:
 - films (movie clips made with a camera)
 - computer generated animation clips
-  - renderred e.g. as an .mp4 file
-  - generated on the website from code
+- computer screen recordings
+- still images
+- audio 
 
 <br>
-
-// here
 
 ### moving image type
 1. simple interview or presentation recordings e.g. [a lecture's archive](https://www.youtube.com/user/johnvervaeke/videos) - similar to podcast type 1
 2. storytelling with mixed material e.g. [sound design, music and narration, graphic design](https://www.youtube.com/c/theschooloflifetv/videos) - similar to podcast type 2
 3. screencast e.g. [demonstrating the use of a specific software](https://www.youtube.com/watch?v=yrQSf8GSCXA&list=PLRr9g36OjY6-xnDwUx4itRlh-xrlsszNZ)
-4. short film 
+4. short film/animation (documentary or artistic/dramatised)
 
-#### hardware
-- smartphones, camcorders, video cameras, webcams (choose according to your project)
+<br>
+
+#### production stages
+- similar to the audio production above
+1. film recordings i.e. shootings / graphics rendering
+2. editing e.g. arrangment of clips, linking audio and visuals
+3. mixing and mastering (fine tuning audio and sound e.g. colour tuning, noise reduction, surround spatialisation)
+
+<br>
+
+#### hardware/software
+to record films:
+- smartphones, camcorders, video cameras, webcams (choose according to your project's needs)
+
+to create animations:
+- search for 'compare animation software' 
+
+to record audio:
 - inbuilt or external microphones (for better quality use external, condenser microphones)
 
-#### software
-- paid vs free
+to edit videos: 
+- [Premier](https://www.adobe.com/uk/products/premiere.html), [iMovie](https://www.apple.com/uk/imovie/), [Final Cut Pro](https://www.apple.com/uk/final-cut-pro/), [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - available on lab PCs,  ... search for 'video editing software'
 
-##### screencast makers
-- can be used for demonstrations, even to give feedback on someone's work
-examples:
+to edit audio:
+- most video editing software provide you with good audio editing functions
+- but, you can export the audio from the final video and edit/mix/master in a software specialised for audio work
 
-- [Screencast-O-Matic](https://screencast-o-matic.com/) 
+to make screenrecordings:  
+
+- [Screencast-O-Matic](https://screencast-o-matic.com/) (available on lab PCs)
   - [tutorial](https://www.youtube.com/watch?v=LAg4_eFITNc)
   - can't edit with the free version nor record computer audio but offers screen+webcam even without making an account
   - limited to 15 minutes
   
-- [Open Broadcaster Software](https://obsproject.com/)
+- [Open Broadcaster Software](https://obsproject.com/)  (available on lab PCs)
   - [tutorial](https://youtu.be/QKmrDUJFRkM)
   - does not seem to be a good editing tool, but it's free and you can mix desktop + webcam and export in a variety of formats
 
 - more? search for 'screencast software comparison'
 
-##### video editing software
-- Window Movie Maker
-- Adobe Premier
-- iMovie and Final Cut Studio
-- Da Vinci (https://uk.pcmag.com/video-editing/134729/davinci-resolve)
 
 #### thoughts
-- record in high definition
+- record in high definition if you have space 
+- before you start working with a software, read many articles comparing alternatives
+- as with photography, consider light and composition first
 
 <br><br><br>
 
 ### 4. text
 - e.g. blog post, journal paper, book etc. 
 #### software
-- Word, MarkDown, etc. 
+- Word, Markdown, etc. 
 #### referencing
 - experiment with referencing apps e.g [JabRef](https://www.jabref.org/)
 #### grammar
@@ -283,10 +305,13 @@ examples:
 
 <br><br><br>
 
-## Main take aways
-- paid vs free software
-- do it all or delegate
-- less is more (e.g. simple transitions in video editing)
+## summery
+- use a project manamement for your project
+- take it or make it
+- use paid vs free software
+- do it all or delegate tasks (if you can)
+- less is more (e.g. simple transitions in video editing), especially if your raw materials are good
+- try start with good raw materials instead of trying to sort out issues later with software
 - record raw files and archive them for later
-- keep assets for one project together
+- keep assets e.g. audio/video/text files for one project together i.e. organised in one folder
 - have a convention for naming and organising your files
