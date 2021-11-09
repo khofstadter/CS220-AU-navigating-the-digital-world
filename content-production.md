@@ -111,23 +111,17 @@ To make your own material you can
 1. repurpose/reuse/amend free materials (check licence) e.g. [poster](https://khofstadter.com/c/) e.g. [swimming music](https://khofstadter.com/swimming/)
 2. start from scratch e.g.artwork and sound synthesis of [flow](https://khofstadter.com/flow-in-metamorphosis/)
 
-<br><br>
+<br><br><br>
 
 ## materials and content in more detail
 
-### 1. still image
-source material
-  - computer graphics
-  - photography
-
+### 1. still images
+  - computer graphics (vectors or pixels)
+  - photography (pixels)
 
 <br>![graphics](assets/img/birger-strahl-MKnjJDUvy2Y-unsplash.jpg)<br>
 
-<br>![photo](assets/img/alif-ngoylung-jg-6ARMiaPM-unsplash.jpg)
-
-<br>
-
-#### vectors vs pixels
+<br>![photo](assets/img/alif-ngoylung-jg-6ARMiaPM-unsplash.jpg)<br>
 
 <br>![pixels vs vectors](https://zwartopwit.s3.amazonaws.com/playground/images/tips/vectorpixel.png)<br>
 - https://duckduckgo.com/?q=pixel+vs+vector
@@ -137,50 +131,74 @@ source material
 
 <br>
 
-#### hardware/software for making
-##### pixels
-> "The best camera is the one you have." 
-- [is it?](https://www.lightstalking.com/best-camera-one-with-you/)
-- consider light and composition first (more tips [here](https://www.lightstalking.com/best-camera-one-with-you/))
-- if you can, shoot in RAW format to allow room for editing
-- try a few software, consider pricing and features. Search for 
-  - 'Photoshop vs Gimp'
-  - 'Photoshop alternatives'
-
 #### sources for taking
 - https://unsplash.com/images/stock
 - https://www.vecteezy.com/free-vector/vector
 - more? Search for 'free photography', 'free images' or 'free vector images', 'photo stock library' etc.
-- you can also ask people on Flickr, Behance whether you could use their images
+- you can also ask people on [Flickr](https://khofstadter.com/if-only/), [Behance](https://khofstadter.com/deeper/) whether you could use their images
 - remember to check the required attributions and how you can use (repurpose) the image
+
+<br>
+
+#### hardware/software for making
+1. pixel work
+  
+> "The best camera is the one you have." 
+- but [is it?](https://www.lightstalking.com/best-camera-one-with-you/)
+- consider light and composition first (more tips [here](https://www.lightstalking.com/best-camera-one-with-you/))
+- if you can, shoot in RAW format to allow room for editing
+- you can do serious work with [Gimp](https://www.gimp.org/) (a free [Photoshop](https://www.adobe.com/uk/products/photoshop.html) alternative)
+- search for 'Photoshop alternatives'
+
+<br>
+
+2. vector work 
+- you can do serious work with [Inkscape](https://inkscape.org/) (a free [Illustrator](https://www.adobe.com/uk/products/illustrator.html) alternative)
+- search for 'Illustrator alternatives'
+
+<br>
+
+*When would you use still images on your web page?*
+
 
 <br><br>
 
 ## 2. audio
-source materials
+### materials
 - sound recordings
 - sound effects
 - music
 
+### content
+- podcasts
+- music
+
+<br>
+
 ### types of podcasts
-1. simple interview or presentation recordings
-   - more factual
+1. interview or presentation recordings
+   - attention is paid on people talking
+   - organic narrative
    - example:
      - https://rebelwisdom.podbean.com/
      - https://podcast.app/eckhart-tolle-essential-teachings-p687019/
   - sometimes it's the audio-only version of the original video format
 
-2. storytelling with mixed material e.g. interviews, sound design and music and narration
+2. storytelling with mixed material e.g. sound design and music, narration, interview clips
    - more artistic
+   - edited narrative
    - examples:
       - [Trickster The Many Lives of Carlos Castaneda](https://tricksterpodcast.com/)
       - [Good In Theory](https://goodintheorypod.com/)
       - [Song Exploder](https://songexploder.net/)
 
-### microphones
+<br>
+
+### microphones/speakers/headphones
 - for quality recordings, use a condenser mic ([not a dynamic mic](https://duckduckgo.com/?q=condenser+vs+dynamic+mic))
-- isolate noises as much as possible (unless they are part of your soundscape e.g. your storytelling)
+- isolate noises when recording as much as possible (unless they are part of your soundscape e.g. your storytelling)
 - record in high sample rate 
+- use quality headphones/speaker (called monitors) when editing audio
 
 ### software
 production stages:
@@ -188,31 +206,38 @@ production stages:
   2. editing
   3. mixing
   4. mastering
-- big productions have different people for each of these stages, but can be done by one person as well of course
-- stages can be done in one software e.g. Digital Audio Workstation e.g. like [Reaper](https://www.reaper.fm/), [Pro Tools](https://www.avid.com/pro-tools), [Logic Pro](https://apps.apple.com/gb/app/logic-pro/id634148309?mt=12), but sometimes its all mixed up e.g. recording can be done with portable recorders on SSD cards e.g. a [Zoom H1](https://www.zoom.co.jp/products/handy-recorder/h1-handy-recorder) or straight on the computer's HDD and mastering often uses specialist hardware tools as well
+- big productions have different people for each of these stages, but can be done by one person as well
+- stages can be done in one software e.g. Digital Audio Workstation e.g. like [Reaper](https://www.reaper.fm/), [Pro Tools](https://www.avid.com/pro-tools), [Logic Pro](https://apps.apple.com/gb/app/logic-pro/id634148309?mt=12)
+- however, sometimes specific software/hardware is used for specific stages e.g. recording can be done with [portable recorders on SSD cards](https://www.zoom.co.jp/products/handy-recorder/h1-handy-recorder) or straight on the computer's HDD. Another examples is that mastering can be done with the software used for editing/mixing but often the final mix is sent to a mastering engineer using special hardware to make the audio more dynamic or compressed (more in the music and film industry).
 
-#### taking vs making
-- pros. and cons.
-- sources for taking: 
+<br>
+
+#### sources for taking
   - https://freesound.org/
   - more? search for 'audio stock libraries', 'free audio samples', 'free music', 'public domain music', etc. 
-   
+
+<br>
+
+*What are the pros and cons of taking or making linked to audio materials?*    
+
 <br><br>
 
-### 3. moving image
+### 3. moving images
 source material:
-- films (movies)
-- computer generated animations
+- films (movie clips made with a camera)
+- computer generated animation clips
+  - renderred e.g. as an .mp4 file
+  - generated on the website from code
 
-###  
+<br>
 
-### document type
-1. simple interview or presentation recordings. Example:
-   - https://www.youtube.com/user/johnvervaeke/videos
-2. storytelling with mixed material e.g. interviews, sound design, music and narration. Example:
-    - https://www.youtube.com/c/theschooloflifetv/videos
-4. screencast e.g. demonstrating the use of a specific software. Example: 
-    - https://www.youtube.com/c/theschooloflifetv/videos
+// here
+
+### moving image type
+1. simple interview or presentation recordings e.g. [a lecture's archive](https://www.youtube.com/user/johnvervaeke/videos) - similar to podcast type 1
+2. storytelling with mixed material e.g. [sound design, music and narration, graphic design](https://www.youtube.com/c/theschooloflifetv/videos) - similar to podcast type 2
+3. screencast e.g. [demonstrating the use of a specific software](https://www.youtube.com/watch?v=yrQSf8GSCXA&list=PLRr9g36OjY6-xnDwUx4itRlh-xrlsszNZ)
+4. short film 
 
 #### hardware
 - smartphones, camcorders, video cameras, webcams (choose according to your project)
