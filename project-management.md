@@ -109,3 +109,15 @@ If you want to use the [Zettlekasten method](https://youtu.be/rOSZOCoqOo8) to or
 ### Foam issue on GitHub
 - Foam's known issue: it does not work well when using the GitHub Repositories extension, because the one the essential extensions used for Foam, Markdown All in One does not work with virtual workspaces. So, the current idea is to use Foam with GitHub Desktop. To monitor issue: https://github.com/yzhang-gh/vscode-markdown/issues/996
   -->
+
+<br>
+
+## note taking ideas
+### listening to podcasts
+- when listening to a podcast, you can walk or lay down and keep you eyes shut, perhaps do the washing up or something very manual/repetetive
+- to take notes, you could pause your podcast player and instead of taking notes in writing (on an app or in a physical notebook) - you could use an audio recorded app 
+- this could help you summerise what you've learnt in your own words, which note can later . This can help you in your essay when you need to paraphrase something. 
+
+## timekeeping ideas
+- set some time aside for your work and only concentrate on your work e.g. switch of notifications on your devices, don't check Facebook Messages or emails, don't listen to distracting music, etc. 
+- track your time e.g. work for 1 hour and make sure you understand that your brain needs to warm up (to create some kind of momentum) and also leave time for putting things in your log and your TODO list

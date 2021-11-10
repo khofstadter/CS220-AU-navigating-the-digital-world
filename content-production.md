@@ -13,16 +13,31 @@ Content producers can be in charge of all stages of the [APM](project-management
 4. asking for feedback from professionals on the drafts (works in progress)
 5. publishing and disseminating the finished content (don't forget to contextualise)
 
-<br>
+*Who is the content producer for your website?*
+
+<br><br>
+![](assets/img/apm.svg)
+<br><br>
+
+This page outlines 
+1. types of contents
+2. types of materials 
+3. take or make materials?
+4. materials and content in some more detail
+5. summary
+
+<br><br>
 
 ## 1. content types
-On a website you can publish content focusing on
+On a website, you can publish content focusing on
 - still images e.g. a [photo-reportage](https://bcmi.khofstadter.com/firstsite-clip-sound-demo/) 
 - audio e.g. a [podcasts](https://songexploder.net/) or [music](https://khofstadter.com/secret-place-and-remixes/)
 - video e.g. a [short film](http://www.simonrpayne.co.uk/pages/videos/may.php)
 - text e.g. an [article](https://consilienceproject.org/education-crisis/) or [programming code](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 Your content (e.g. a web page) could [mix up](https://khofstadter.com/secret-place-hci/) these modalities in different ratios - whatever you think best suits your 'storytelling'.
+
+*What do the following quotes mean, how could you rephrase them?*
 
 >A picture is worth a thousand words.
 
@@ -44,10 +59,10 @@ When creating content for your website, you could consider the following materia
    - [photography](https://unsplash.com/)
    - [computer graphics](https://www.freepik.com/vectors/graphics)
    - diagrams
-   - could be used e.g. for making 
-     - logos and [favicons](https://favicon.io/)
-     - feature/header images on the top of a page
-     - figures to embed between text
+   - could be used e.g. for  
+     - making logos and [favicons](https://favicon.io/)
+     - embedding feature/header images on the top of a page
+     - embedding between text
      - in a videos
 
 2. audio e.g. 
@@ -60,7 +75,7 @@ When creating content for your website, you could consider the following materia
      - web design with sound e.g. [rwatgg](https://rwatgg.com/) more [here](https://line25.com/inspiration/websites-background-music-sounds)
 
 3. moving images e.g. 
-   - [films](https://www.pexels.com/search/videos/construction/) (movies) made with video camera
+   - [films](https://www.pexels.com/search/videos/construction/) (movies) made with cameras
    - [computer generated animations](https://www.videvo.net/free-motion-graphics/)
     - dynamic content e.g. [made with computer code](https://cs.nyu.edu/~kapp/cs101/processing_on_the_web/)
 
@@ -68,6 +83,7 @@ When creating content for your website, you could consider the following materia
 4. text e.g. 
    - [poetry](https://ttc.tasuki.org/)
    - [prose](https://loremipsum.io/generator/)
+   - [quotes](https://www.entrepreneur.com/article/247213/)
    - computer code e.g. 
 
 ```
@@ -83,7 +99,7 @@ else {
 
 ![take-buy-make](assets/img/take-buy-make.png) photos by <a href="https://unsplash.com/@nate_dumlao?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nathan Dumlao</a> and <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kelly Sikkema</a> on <a href="https://unsplash.com/s/photos/buying?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a><br>
 
-## take it or make it
+## 3. take or make materials
 Where to get these source materials from?
 
 1. take it (free or paid)
@@ -102,10 +118,11 @@ Free and paid materials can have different requirements regarding
 
 <br>
 
-Examples of free images can be used: 
-- the images above on this file were all taken for free from Unsplash (and although it wasn't required, I gave credit to the photographers)
+Examples of free images in use:
+- the images above on this file were all taken for free from Unsplash
    - the first image is used in its original form
    - the second image is a collage of three photos (modification allowed by [Unplash license](https://unsplash.com/license))
+   - although it wasn't required, I gave credit to the photographers, maybe because I like when [my photos are credited](http://www.ludions.com/projects/lichens/) as well
 
 more info on using free materials:
 - https://creativecommons.org/
@@ -115,7 +132,7 @@ more info on using free materials:
 
 ### 2. make it
 To make your own material you can 
-1. repurpose/reuse/amend free materials (check licence) e.g. [poster](https://khofstadter.com/c/) e.g. [swimming music](https://khofstadter.com/swimming/)
+1. repurpose/reuse/amend free material (check licence) e.g. [poster](https://khofstadter.com/c/) e.g. [swimming music](https://khofstadter.com/swimming/)
 2. start from scratch e.g.artwork and sound synthesis of [flow](https://khofstadter.com/flow-in-metamorphosis/)
 
 <br><br><br>
@@ -151,7 +168,7 @@ To make your own material you can
 1. pixel work
   
 > "The best camera is the one you have." 
-- but [is it?](https://www.lightstalking.com/best-camera-one-with-you/)
+- [*is it?*](https://www.lightstalking.com/best-camera-one-with-you/)
 - consider light and composition first (more tips [here](https://www.lightstalking.com/best-camera-one-with-you/))
 - if you can, shoot in RAW format to allow room for editing
 - you can do serious work with [Gimp](https://www.gimp.org/) (a free [Photoshop](https://www.adobe.com/uk/products/photoshop.html) alternative)
@@ -165,8 +182,7 @@ To make your own material you can
 
 <br>
 
-*When would you use still images on your web page?*
-
+*How could your website benefit from still images?*
 
 <br><br>
 
@@ -204,8 +220,11 @@ content:
 #### microphones/speakers/headphones
 - for quality recordings, use a condenser mic ([not a dynamic mic](https://duckduckgo.com/?q=condenser+vs+dynamic+mic))
 - isolate noises when recording as much as possible (unless they are part of your soundscape e.g. your storytelling)
-- record in high sample rate 
-- use quality headphones/speaker (called monitors) when editing audio
+- record in high sample rate
+- use quality headphones/speakers (called monitors) when editing audio
+- show Zoom H1, binaural mic, gooseneck, windshield, jack cable 
+
+<br>
 
 #### software
 production stages:
@@ -215,7 +234,7 @@ production stages:
   4. mastering
 - big productions have different people for each of these stages, but can be done by one person as well
 - stages can be done in one software e.g. Digital Audio Workstation e.g. like [Reaper](https://www.reaper.fm/), [Pro Tools](https://www.avid.com/pro-tools), [Logic Pro](https://apps.apple.com/gb/app/logic-pro/id634148309?mt=12)
-- however, sometimes specific software/hardware is used for specific stages e.g. recording can be done with [portable recorders on SSD cards](https://www.zoom.co.jp/products/handy-recorder/h1-handy-recorder) or straight on the computer's HDD. Another examples is that mastering can be done with the software used for editing/mixing but often the final mix is sent to a mastering engineer using special hardware to make the audio more dynamic or compressed (more in the music and film industry).
+- however, sometimes specific software/hardware is used for specific stages e.g. recording can be done with [portable recorders on SSD cards](https://www.zoom.co.jp/products/handy-recorder/h1-handy-recorder) or straight on the computer's HDD in a studio
 - consider panning (mono vs stereo)
 
 <br>
@@ -225,16 +244,16 @@ production stages:
   - more? search for 'audio stock libraries', 'free audio samples', 'free music', 'public domain music', etc. 
 
 <br>
-
-*What are the pros and cons of taking or making linked to audio materials?*    
+    
+*How could your website benefit from audio materials/content?*
 
 <br><br>
 
 ## 3. moving images
 source material:
 - films (movie clips made with a camera)
-- computer generated animation clips
-- computer screen recordings
+- computer-generated animation clips
+- computer screen recordings (screencasts)
 - still images
 - audio 
 
@@ -249,19 +268,19 @@ source material:
 <br>
 
 #### production stages
-- similar to the audio production above
+- similar to the audio production stages above
 1. film recordings i.e. shootings / graphics rendering
-2. editing e.g. arrangment of clips, linking audio and visuals
+2. editing e.g. arrangement of clips, linking audio and visuals
 3. mixing and mastering (fine tuning audio and sound e.g. colour tuning, noise reduction, surround spatialisation)
 
 <br>
 
 #### hardware/software
 to record films:
-- smartphones, camcorders, video cameras, webcams (choose according to your project's needs)
+- smartphones, camcorders, video cameras, webcams (chosen according to project's needs)
 
 to create animations:
-- search for 'compare animation software' 
+- search for '[compare animation software](https://duckduckgo.com/?q=compare+animation+software&t=brave&ia=web)' 
 
 to record audio:
 - inbuilt or external microphones (for better quality use external, condenser microphones)
@@ -273,7 +292,7 @@ to edit audio:
 - most video editing software provide you with good audio editing functions
 - but, you can export the audio from the final video and edit/mix/master in a software specialised for audio work
 
-to make screenrecordings:  
+to make screenrecordings/screencasts:  
 
 - [Screencast-O-Matic](https://screencast-o-matic.com/) (available on lab PCs)
   - [tutorial](https://www.youtube.com/watch?v=LAg4_eFITNc)
@@ -291,6 +310,11 @@ to make screenrecordings:
 - record in high definition if you have space 
 - before you start working with a software, read many articles comparing alternatives
 - as with photography, consider light and composition first
+- I can demonstrate the use of software available on the lab PCs if needed (perhaps at the end of this seminar)
+
+<br><br><br>
+
+*What are the pros and cons of taking or making linked to visual and audio materials?*
 
 <br><br><br>
 
@@ -303,10 +327,20 @@ to make screenrecordings:
 #### grammar
 - before asking for feedback, check with Grammarly, ProWriting Aid, etc. 
 
+#### my flow
+1. write in VSC
+2. check with SpellRight extension
+3. copy/paste to Grammarly
+4. copy/paste to ProWriting
+5. copy/paste to Hemingway (maybe)
+6. copy/paste to Word (maybe)
+7. can someone give me feedback (a native speaker or someone whose English is really good?)
+8. submit/publish
+
 <br><br><br>
 
 ## summery
-- use a project manamement for your project
+- use a project management method for your project
 - take it or make it
 - use paid vs free software
 - do it all or delegate tasks (if you can)

@@ -205,13 +205,13 @@ Some examples of changes you could make:
 <br><br><br>
 
 ## w6 content production
-(ready by week 6)
-
 ### discuss progress
 - _do you have a partner for peer-assessment?_
 - _do you have any questions regarding your assignment?_
 - [your progress](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio/network/members)
 - presentations next week (see below)
+- *are you planning to do a presentation?*
+- added some note taking and time keeping ideas to the end of the [project-management](project-management.md) file
 
 <br>
 
