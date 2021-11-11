@@ -205,7 +205,7 @@ content:
    - example:
      - https://rebelwisdom.podbean.com/
      - https://podcast.app/eckhart-tolle-essential-teachings-p687019/
-  - sometimes it's the audio-only version of the original video format
+   - sometimes it's the audio-only version of the original video format
 
 2. storytelling with mixed material e.g. sound design and music, narration, interview clips
    - more artistic
@@ -339,7 +339,7 @@ to make screenrecordings/screencasts:
 
 <br><br><br>
 
-## summery
+## summary
 - use a project management method for your project
 - take it or make it
 - use paid vs free software
