@@ -232,7 +232,7 @@ The project needs a website that
   - [types of websites](websites.md)
   - methods for [project management](project-management.md)
 - this week we discuss ideas on
-  - [content-production](content-production.md)
+  - [content production](content-production.md)
 for your website
 
 <br>
