@@ -5,25 +5,25 @@ Department: Interdisciplinary Studies
 School of Philosophy and Arts History  
 Wed 11-1 pm Lab G  
 Thu 11-1 pm Lab M  
-ASH: Wed 1-2 pm Lab G
-
-<br>
-    
-The information in this repository expands on the [module description](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world/blob/main/assets/doc/CS220-4-and-CS220-5-AU%20-%20Krisztian%20Hofstadter-Mod%20Des%20FINAL%20(1).pdf).
-
-## quick links
-
-The **weekly outline** of the seminars/workshops is in the [syllabus](syllabus.md).
-
-The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio) explains what you need to submit and how in detail. 
+ASH: Wed 1-2 pm Lab G  
+Any questions? Please email: k.hofstadter[at]essex[dot]ac[dot]uk
 
 <br>
 
-## further clarification
-The module aims to **help develop our digital identities** by introducing
+## links
 
-1. White et al.'s [Visitor & Resident (V&R) method](digital-identities.md/#visitors-and-residents) (see Figure 1. below)
-2. tools for project management, web design and hosting as well as audio-visual production
+- [syllabus](syllabus.md) - weekly outline of seminars/workshops
+- [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/CS220-AU-portfolio) - framework for submissions
+- [module description](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world/blob/main/assets/doc/CS220-4-and-CS220-5-AU%20-%20Krisztian%20Hofstadter-Mod%20Des%20FINAL%20(1).pdf) - the university's guide
+
+<br>
+
+## overview
+
+The information in this repository expands on the module description linked above. In essence, the module aims to **help develop our digital identities** by introducing
+
+1. White et al.'s [Visitor & Resident (V&R) method](digital-identities.md/#visitors-and-residents) (see figure 1. below)
+2. tools for project management, web design and hosting as well as content production
 3. additional methods for sensemaking
 
 <br><br><br>
@@ -37,7 +37,7 @@ While this module primarily focuses on providing practical skills, it also opens
 - how are we currently engaging with the Web, and how can we improve this?
 - how can we develop and use our online identities e.g. with our own websites for 'better' engagement?
 - what does 'better' engagement actually mean and how can we relate it to problem-solving?
-- how can we use software tools to create assets e.g. audio-video content, to help disseminate information via our online identities more effectively?
+- how can we use software tools to produce content e.g. audio-video materials, to help disseminate information via our online identities more effectively?
 - how can we apply critical thinking regarding the information we consume and produce?
 - why should we produce information and whom should we address with this information i.e. who is our target audience?
 - what is the change we would like to see in the world and how can we use our resident identities on the Web to support this change?
@@ -51,6 +51,7 @@ _If you are not a first-year student, have you used the Student Union or the Med
 _What software/hardware do you have experience with for creating or editing content with e.g. Photoshop, iMovie, microphones, video cameras, your phone with apps?_
 
 _How many of you plan to use the PCs in these labs for coursework?_
+
 <br>
 
 ## students
@@ -75,7 +76,7 @@ Students enrolled in this module come from different courses/departments e.g.
     
 - some are 1st and some 2nd-year students
 - some only do AU, some only SP, some both
-- most of you will be here in the class, Kevin on Zoom
+- most of you will be here in the class
   
 <br>
     
@@ -85,7 +86,7 @@ _What are the advantages of having such a wide range of disciplines mixed in one
 
 ## summary of module aims
 To help 
-- critically assess our current digital identities (with the V&R map and some additional theory)
+- critically assess our current use of our digital identities (with the V&R map and some additional resources)
 - further develop our institutional (professional) digital identities by introducing tools/methods for
   - project management
   - logging
@@ -96,15 +97,15 @@ To help
 <br>
 
 ## assignment
-In essence, the digital portfolio to submit has 4 parts: 
+In essence, the digital portfolio to submit has four parts: 
     
 1. di-reflection (weighed as 40% of your overall mark)
-    - reflection on how you can develop your digital identities
+    - reflection on how you can develop your digital identity/identities
     - a short essay (words: between 750 - 1000 words)
 2. website (40%)
     - a basic website for your professional identity or project
 3. self-and peer-assessment (10%)
-    - assessing your and someone else's progress with the marking rubric
+    - assessing your and someone else's progress with the module's marking rubric
 4. portfolio overview (10%)
     - a submission with a clear/logical structure 
 
@@ -119,11 +120,13 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 <br>
 
 ## log
+- 2021-11-12 further refinements and organisation of files
+- 2021-11-09 fine tuned w6 outline
 - 2021-11-04 thinking about how to move audio-visual tools to week 6 and perhaps not do the sensemaking class - but maybe that is very useful. 
-- 2021-11-03 finalised week week 5's outlines e.g. syllabus, project managment and audio-visual tools. 
+- 2021-11-03 finalised week week 5's outlines e.g. syllabus, project management and audio-visual tools. 
 - 2021-10-29 started preparing week 5's outlines.  This included the use of available software on lab PCs.
 - 2021-10-26 preparing website.md file and updating syllabus.  Also added some info to other drafts. 
-- 2021-10-23 while trying to make screencasts on how to use VSC on the Lab PCs, two issues were encountered: 1. the SpellRight extension does not work; 2. the GitHub Desktop app didn't want to sycronise with the GitHub account using a browser. Being logged in with the browser first seemed promosing, but it didn't actually work either. 
+- 2021-10-23 while trying to make screencasts on how to use VSC on the Lab PCs, two issues were encountered: 1. the SpellRight extension does not work; 2. the GitHub Desktop app didn't want to synchronise with the GitHub account using a browser. Being logged in with the browser first seemed promising, but it didn't actually work either. 
 - 2021-10-22 week 3 recap video sent to students. New (expiring) Facebook Group link sent via email to students (not compulsary). 
 - 2021-10-19 week 3 syllabus simplified e.g. no VSC in class. Minor changes e.g. references in di-identity.md beautified. 
 - 2021-10-16 GitHub sign up tested. 
@@ -143,29 +146,30 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 ## TODO
 This is Krisztian's todo list:
 
-### by week 6
-- finish seminar notes on content production
+### w7 presentations
+- create schedule and send email reminder to presenters
 
-#### add resources
-- 4th V&R map video: https://youtu.be/5EyH-JZWtoI  (with comments)
-#### sensemaking 
-  - notes in bcmi/sensemaking draft (find RW pdf to fine tune notes in external HDD)
-  - this could be for Medium linking CS220 AU to BCMI
-
-#### presentations
-- can you pull in project ideas from your other modules?
-- Krystian Bucko from Innovation Centre Studio X
-- Tom Morgan's SU presentation
-- email from Rebecca Moss 
-    
-#### did I address all of these:
+### w8 reading week
+did I address all of these:
 - how are digital technologies transforming society?
 - to what extent do digital technologies curb or enhance our rights and freedom?
 - what digital skills are needed for the knowledge economy and a democratic society?
 - how might we use digital technologies as creative and engaging forms of communication?
-<br><br>
     
 ### anytime
 - (if possible) try to add the .svg file so it's centred
+- add 4th V&R map video: https://youtu.be/5EyH-JZWtoI  (with comments)
+- sensemaking 
+  - notes in bcmi/sensemaking draft (find RW pdf to fine tune notes in external HDD)
+  - this could be for Medium linking CS220 AU to BCMI
+
+### next year
+- try VSC online
+- create GitHub in week 1
+- try to use Foam
+- introduce one content production app with a project
+- make sure students understand where the website is in the VR map
+
+<br>
 
 > Practice what you preach. (Plautus)

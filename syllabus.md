@@ -19,12 +19,15 @@ This outline is subject to change based on our progress.
 - intro by Paula / AU clarification
 - see DAVE and your PC
 
-_Everyone logged in to Moodle? Did you find the link to this GitHub repository?_
+_Everyone logged in to Moodle?_
+
+_Did you find the link to this GitHub repository?_
 
 - you are free to leave the room anytime you feel you need some fresh air/the toilet, etc.
 - we will try to have a 10 min break in the middle
 
 _Have you received my email last week? Who wants to introduce him/herself?_
+<!-- make sure they are not under pressure, as there might not by much they have been working on -->
 
 I can go first:
 
@@ -57,7 +60,6 @@ In essence, the module can help you
 - start making your first V&R map on paper or in software (you can use the .svg file in the assets folder) - check the examples on White’s [website](http://daveowhite.com/vandr/vr-mapping/)
 - explore links in the [digital identities](digital-identities.md) file
 - explore the [di-identities](https://krisztian-hofstadter-tedor.github.io/CS220-AU-portfolio/di-reflection.html) file in the CS220 portfolio template repository. It could give you ideas for your writing. (We will check this repository together next week.)
-- consider joining the [CS220 Facebook group](https://www.facebook.com/groups/400596074925260) - ask me to reset the invitation.
 - consider creating an online group for yourself where you can discuss module related questions without me/university monitoring it
 
 <br><br><br>
