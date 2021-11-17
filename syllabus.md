@@ -247,9 +247,12 @@ for your website
 <br><br><br>
 
 ## w7 presentations
-1. Eszter Bányai / Communications Office
-2. Krystian Bucko / Studio X
-3. Tom Morgan / Student Union REBEL
+
+
+- 11:00 - Krisztian: setup and outline of seminar
+- 11:15 - Eszter (blogging while being a student)
+- 11:45 - Thomas (content production for Essex REBEL)
+- 12:15 - Krystian (Studio X and helping set up start-ups)
 
 <br>
 
