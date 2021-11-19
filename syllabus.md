@@ -254,6 +254,39 @@ for your website
 - 11:45 - Thomas (content production for Essex REBEL)
 - 12:15 - Krystian (Studio X and helping set up start-ups)
 
+<!-- 
+### Eszter Q/A
+- is there anything similar to Frontrunners here at Essex?
+- you did History - do you think other departments have blogs like yours as well?
+- paid/unpaid work - you got paid - how can we balance or choose well?
+- what was feedback from students?
+- was there any way you could connect your articles/content with your assignment e.g. by referencing yourself?
+- was it Wordpress you used? Have you used other website builders?
+- writing email to lecturers - don't worry about asking questions, right?
+- presentation skill - good idea to practice in class?
+- could Marketing/the Essex student blog consider essays / shorter
+
+### Thomas
+- FrontRunner vs REBEL support: not paid, but access to cool equipment, introduction to a more rigorous workflow, constant feedback from team members, working with other students (not staff)
+- good to be introduced to the complexity of content production e.g. what ethical issues need to check before publishing, ...
+- feedback on each other's work
+- need individual social people - are these influencers?
+- are the accessible versions audio podcasts?
+- what's the alternative to Grammarly in WordPress?
+- contextualising 
+  - writing style is tailored to the audience. 
+  - learn how to talk to different people e.g. status, type of work
+- the radio we hear in the shop is broadcast from your studios? 
+- essay handed in as an article
+
+### Krystian Q/A
+- would they need training for using the technical equipment?
+- do you help with presentation skills?
+- how often do you award people i.e. how much money is there available per year?
+- what ongoing student project do your support? Are there any that link back to their degrees the disciplines they study?
+
+-->
+
 <br>
 
 ## w8 reading week

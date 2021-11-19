@@ -120,6 +120,7 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 <br>
 
 ## log
+- 2021-11-19 guest presentations done
 - 2021-11-12 further refinements and organisation of files
 - 2021-11-09 fine tuned w6 outline
 - 2021-11-04 thinking about how to move audio-visual tools to week 6 and perhaps not do the sensemaking class - but maybe that is very useful. 
@@ -146,10 +147,8 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 ## TODO
 This is Krisztian's todo list:
 
-### w7 presentations
-- create schedule and send email reminder to presenters
-
 ### w8 reading week
+- send info of guest presenters to students
 did I address all of these:
 - how are digital technologies transforming society?
 - to what extent do digital technologies curb or enhance our rights and freedom?
