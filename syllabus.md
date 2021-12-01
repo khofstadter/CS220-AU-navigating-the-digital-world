@@ -251,8 +251,22 @@ for your website
 
 - 11:00 - Krisztian: setup and outline of seminar
 - 11:15 - Eszter (blogging while being a student)
+
+![](assets/img/CS220-w7-eszter-essex-frontrunners.jpg)
+
+<br>
+
 - 11:45 - Thomas (content production for Essex REBEL)
+
+![](assets/img/CS220-w7-tom-essex-rebel.jpg)
+
+<br>
+
 - 12:15 - Krystian (Studio X and helping set up start-ups)
+
+![](assets/img/CS220-w7-krystian-startup-studio-x.jpg)
+
+<br>
 
 <!-- 
 ### Eszter Q/A
@@ -294,5 +308,9 @@ for your website
 <br>
 
 ## w9-10-11 workshops
+
+### w9 Wed
+- Christian's presentation
+- Tom 12:30 REBEL presentation
 
 <br>

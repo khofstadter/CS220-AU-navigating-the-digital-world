@@ -147,13 +147,10 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 ## TODO
 This is Krisztian's todo list:
 
-### w8 reading week
-- send info of guest presenters to students
-did I address all of these:
-- how are digital technologies transforming society?
-- to what extent do digital technologies curb or enhance our rights and freedom?
-- what digital skills are needed for the knowledge economy and a democratic society?
-- how might we use digital technologies as creative and engaging forms of communication?
+### w9-10-11
+- test push/pull with dummy account
+- simple Jekyll theme installed on GitHub
+- add simple CSS to portfolio 
     
 ### anytime
 - (if possible) try to add the .svg file so it's centred

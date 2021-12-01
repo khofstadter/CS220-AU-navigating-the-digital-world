@@ -63,3 +63,5 @@ You can edit your files in both, your GitHub account via a browser or in VSC on 
 ## resources
 - https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages
 - https://www.markdownguide.org/getting-started/
+- https://grantwinney.com/cool-markdown-tricks-for-github/
+- http://www.landofcode.com/css-tutorials/css-stylesheets.php
