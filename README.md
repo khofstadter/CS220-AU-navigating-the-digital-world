@@ -150,7 +150,10 @@ This is Krisztian's todo list:
 ### w9-10-11
 - test push/pull with dummy account
 - simple Jekyll theme installed on GitHub
-- add simple CSS to portfolio 
+- add simple CSS to portfolio if possible (or is that only possible with html sites)
+- can we work with VSC online?
+- is Jekyll working on the student PCs?
+- you can reference website related decisions in the essay as well - perhaps you already thought of adding the website in your 2nd map
     
 ### anytime
 - (if possible) try to add the .svg file so it's centred
