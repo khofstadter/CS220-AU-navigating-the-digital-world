@@ -180,6 +180,9 @@ To make your own material you can
 - you can do serious work with [Inkscape](https://inkscape.org/) (a free [Illustrator](https://www.adobe.com/uk/products/illustrator.html) alternative)
 - search for 'Illustrator alternatives'
 
+#### further resources
+- https://logosbynick.com/graphic-design-computer-requirements-2021/
+
 <br>
 
 *How could your website benefit from still images?*
