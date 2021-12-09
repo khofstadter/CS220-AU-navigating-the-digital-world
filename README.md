@@ -120,6 +120,7 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 <br>
 
 ## log
+- 2021-12-09 two weeks of workshops completed, pull requests tested, basic GitHub themes introduced, more advanced themes introduced as well
 - 2021-11-19 guest presentations done
 - 2021-11-12 further refinements and organisation of files
 - 2021-11-09 fine tuned w6 outline
@@ -147,13 +148,8 @@ The [digital portfolio template](https://github.com/krisztian-hofstadter-tedor/C
 ## TODO
 This is Krisztian's todo list:
 
-### w9-10-11
-- test push/pull with dummy account
-- simple Jekyll theme installed on GitHub
-- add simple CSS to portfolio if possible (or is that only possible with html sites)
-- can we work with VSC online?
-- is Jekyll working on the student PCs?
-- you can reference website related decisions in the essay as well - perhaps you already thought of adding the website in your 2nd map
+### w11 
+- fine tune submission
     
 ### anytime
 - (if possible) try to add the .svg file so it's centred
