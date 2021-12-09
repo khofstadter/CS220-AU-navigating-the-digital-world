@@ -313,4 +313,18 @@ for your website
 - Christian's presentation
 - Tom 12:30 REBEL presentation
 
+### w10 progress
+- reviewing student's progress
+- experiment with default themes (delete .yml file later)
+- it's tricky to add CSS to the default GitHub themes (check templates in Settings)
+- more info on https://docs.github.com/en/pages
+- CSS basics: https://jgthms.com/web-design-in-4-minutes/
+- let's find other themes 
+  - to fork
+  - to upload
+
+### help with essays, etc. 
+- https://www.essex.ac.uk/student/academic-skills
+- https://www.essex.ac.uk/student/careers
+
 <br>
